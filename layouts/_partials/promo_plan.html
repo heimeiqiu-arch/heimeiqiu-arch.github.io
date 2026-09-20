@@ -1,0 +1,38 @@
+{{- /* 计算三个广告位的落点，供 single.html（正文内嵌）和
+       extend_post_content.html（文末）共用，保证两边判断一致。
+       返回 dict：inline = [{i, name}...]（i 为第几段之前插入），end = [name...] */ -}}
+
+{{- $ctx := .ctx -}}
+{{- $content := .content -}}
+{{- $p := hugo.Data.promo -}}
+{{- $inline := slice -}}
+{{- $end := slice -}}
+
+{{- if and $p $p.enable (not $ctx.Params.hidePromo) -}}
+  {{- $pl := $p.placement | default dict -}}
+  {{- /* 按 <h2 切段：段 0 是引言，段 1 起是各小节 */ -}}
+  {{- $n := len (split (string $content) "<h2") -}}
+  {{- $mid := int (math.Floor (div $n 2)) -}}
+
+  {{- range $name := (slice "card" "energy" "contact") -}}
+    {{- if index $p $name -}}
+      {{- $mode := (index $pl $name) | default "end" -}}
+      {{- $skip := eq $mode "off" -}}
+      {{- $idx := 0 -}}
+      {{- if eq $mode "after-intro" -}}{{- $idx = 1 -}}{{- end -}}
+      {{- if eq $mode "middle" -}}{{- $idx = $mid -}}{{- end -}}
+      {{- /* middle 落到 1 会和 after-intro 撞在一起，退回文末 */ -}}
+      {{- if and (eq $mode "middle") (lt $mid 2) -}}{{- $idx = 0 -}}{{- end -}}
+
+      {{- if not $skip -}}
+        {{- if and (ge $idx 1) (lt $idx $n) -}}
+          {{- $inline = $inline | append (dict "i" $idx "name" $name) -}}
+        {{- else -}}
+          {{- $end = $end | append $name -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return (dict "inline" $inline "end" $end) -}}

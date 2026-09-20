@@ -1,0 +1,7 @@
+{{- /* 覆盖 PaperMod 的同名 partial：渲染落点为「文末」的广告位。
+       正文内嵌的那些由 layouts/single.html → promo_inject.html 处理。
+       单篇文章想全部关掉，在 front matter 里加：hidePromo: true */ -}}
+{{- $plan := partial "promo_plan.html" (dict "ctx" . "content" .Content) -}}
+{{- range $name := $plan.end -}}
+{{- partial "promo.html" (dict "ctx" $ "only" $name) -}}
+{{- end -}}

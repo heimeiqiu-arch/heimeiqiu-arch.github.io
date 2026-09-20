@@ -1,0 +1,76 @@
+{{- /* 推广位。内容来自 data/<语言>/promo.yaml（zh / en）；样式在 assets/css/extended/promo.css。
+       用法：{{ partial "promo.html" (dict "ctx" . ) }}
+             {{ partial "promo.html" (dict "ctx" . "only" "energy") }}  仅渲染某一块 */ -}}
+{{- $p := hugo.Data.promo -}}
+{{- $only := .only | default "" -}}
+{{- if and $p $p.enable -}}
+<aside class="promo" aria-label="{{ i18n "promoLabel" }}">
+
+  {{- if or (eq $only "") (eq $only "card") }}
+  {{- with $p.card }}
+  <section class="promo-box promo-box--accent">
+    {{- with $p.badge }}<span class="promo-badge">{{ . }}</span>{{ end }}
+    <h3 class="promo-title">{{ .title }}</h3>
+    <p class="promo-text">{{ .body }}</p>
+    {{- with .cta }}
+    {{- if not (strings.Contains .url "YOUR_") }}
+    <div class="promo-actions">
+      <a class="promo-btn promo-btn--primary" href="{{ .url }}"
+         target="_blank" rel="nofollow noopener sponsored">{{ .label }}</a>
+    </div>
+    {{- end }}
+    {{- end }}
+  </section>
+  {{- end }}
+  {{- end }}
+
+  {{- if or (eq $only "") (eq $only "contact") }}
+  {{- with $p.contact }}
+  <section class="promo-box">
+    <h3 class="promo-title">{{ .title }}</h3>
+    <p class="promo-text">{{ .body }}</p>
+    {{- with .links }}
+    {{- $ready := slice }}
+    {{- range . }}{{ if not (strings.Contains .url "YOUR_") }}{{ $ready = $ready | append . }}{{ end }}{{ end }}
+    {{- with $ready }}
+    <div class="promo-actions">
+      {{- range . }}
+      <a class="promo-btn{{ if .primary }} promo-btn--primary{{ end }}"
+         href="{{ .url }}" target="_blank" rel="nofollow noopener sponsored">
+        {{- with .icon }}<span class="promo-btn__icon" aria-hidden="true">{{ . }}</span>{{ end }}
+        <span>{{ .label }}</span>
+      </a>
+      {{- end }}
+    </div>
+    {{- end }}
+    {{- end }}
+  </section>
+  {{- end }}
+  {{- end }}
+
+  {{- if or (eq $only "") (eq $only "energy") }}
+  {{- with $p.energy }}
+  <section class="promo-box">
+    <h3 class="promo-title">
+      {{- with .icon }}<span class="promo-title__icon" aria-hidden="true">{{ . }}</span>{{ end }}
+      {{ .title }}
+    </h3>
+    {{- with .points }}
+    <ul class="promo-list">
+      {{- range . }}<li>{{ . | safeHTML }}</li>{{ end }}
+    </ul>
+    {{- end }}
+    {{- with .cta }}
+    {{- if not (strings.Contains .url "YOUR_") }}
+    <div class="promo-actions">
+      <a class="promo-btn promo-btn--primary" href="{{ .url }}"
+         target="_blank" rel="nofollow noopener sponsored">{{ .label }}</a>
+    </div>
+    {{- end }}
+    {{- end }}
+  </section>
+  {{- end }}
+  {{- end }}
+
+</aside>
+{{- end -}}

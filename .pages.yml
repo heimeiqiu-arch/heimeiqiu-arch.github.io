@@ -1,0 +1,60 @@
+# Pages CMS 配置 —— https://pagescms.org/docs/configuration/
+# 后台地址：https://app.pagescms.org
+#
+# 单语言站点（简体中文）。文章位于 content/posts，
+# 对应网址 https://heimeiqiu-arch.github.io/posts/<英文别名>/
+
+media:
+  input: static/images    # 图片实际存放位置（仓库内）
+  output: /images         # 写进文章里的图片 URL 前缀
+
+content:
+  - name: posts
+    label: 文章
+    type: collection
+    path: content/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown

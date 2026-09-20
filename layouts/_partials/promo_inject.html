@@ -1,0 +1,25 @@
+{{- /* 把广告位按 promo_plan 的落点嵌进正文。
+       入参：ctx = 页面，content = 已渲染的正文 HTML
+
+       注意：不能直接输出裸的 "<h2"（半个标签），html/template 会因为
+       分支结束时 HTML 解析状态不一致而报错。所以把标签拼回字符串后整体输出。 */ -}}
+
+{{- $ctx := .ctx -}}
+{{- $content := .content -}}
+{{- $plan := partial "promo_plan.html" (dict "ctx" $ctx "content" $content) -}}
+
+{{- if not $plan.inline -}}
+  {{- $content | safeHTML -}}
+{{- else -}}
+  {{- $parts := split (string $content) "<h2" -}}
+  {{- range $i, $seg := $parts -}}
+    {{- range $t := $plan.inline -}}
+      {{- if eq $t.i $i -}}
+        {{- partial "promo.html" (dict "ctx" $ctx "only" $t.name) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $chunk := $seg -}}
+    {{- if gt $i 0 -}}{{- $chunk = printf "<h2%s" $seg -}}{{- end -}}
+    {{- $chunk | safeHTML -}}
+  {{- end -}}
+{{- end -}}

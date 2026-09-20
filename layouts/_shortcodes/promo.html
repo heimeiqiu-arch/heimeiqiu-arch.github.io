@@ -1,0 +1,6 @@
+{{- /* 正文中间手动插入推广位：
+         {{< promo >}}           全部三块
+         {{< promo "card" >}}    仅开卡
+         {{< promo "contact" >}} 仅联系方式
+         {{< promo "energy" >}}  仅租能量                                */ -}}
+{{- partial "promo.html" (dict "ctx" .Page "only" (.Get 0 | default "")) -}}

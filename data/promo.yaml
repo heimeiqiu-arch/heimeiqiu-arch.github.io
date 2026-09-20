@@ -1,0 +1,43 @@
+# 文章页推广位内容。改这个文件即可，不用动 HTML/CSS。
+# enable: false 可一键关掉全站推广位。
+enable: true
+
+# ── 广告位的投放位置 ────────────────────────
+#   after-intro = 第一个小标题之前（开头，曝光最高）
+#   middle      = 文章中部（读者已读进去）
+#   end         = 文章末尾（读完，转化意图最强）
+#   off         = 关闭该位
+# 小标题不够多时，inline 位会自动退回文末，不会挤在一起。
+#
+# 说明：本站暂无 Telegram / WhatsApp 等联系渠道，因此没有「联系方式」板块。
+# 以后有了客服账号，照 card 的格式加一个 contact: 板块，
+# 并在 placement 里给它指定位置即可（模板已支持）。
+placement:
+  card: after-intro
+  energy: end
+
+# 右上角小标签，留空字符串 "" 则不显示
+badge: "推广"
+
+# ── 板块一：开卡 ──────────────────────────────
+card:
+  title: "Cbpayments 虚拟卡 · USDT 直接开卡消费"
+  body: "0 开卡费、0 充值费，免 KYC 注册。VISA、Mastercard、Discover 三种卡组织可选，USDT-TRC20 充值即时到账，开卡后立刻可用——投广告、订阅 AI 服务、付云服务账单、海外电商采购都能走。"
+  cta:
+    label: "立即开卡 →"
+    url: "https://cbpayments.cc"
+
+# ── 板块二：批量开卡（面向广告投放与企业）──────
+# 复用模板里的 energy 位（模板中该位支持 icon + 要点列表 + CTA），
+# 内容换成批量开卡，不是能量租赁。
+energy:
+  icon: "⚡"
+  title: "投放团队、企业用户：按项目分卡，费用自动归口"
+  points:
+    - "<b>秒级批量开卡</b>——按部门、项目或投放账户分别建卡，不用一张张手动申请。"
+    - "每张卡<b>额度独立</b>，流水天然分开，月底不用再从一堆账单里倒推是谁花的。"
+    - "适合 Meta、Google、TikTok 广告投放，以及 Amazon、eBay、Shopify 电商采购。"
+    - "账单、手续费明细、授权状态<b>均可导出</b>，对账不用人工拼。"
+  cta:
+    label: "去开卡平台 →"
+    url: "https://cbpayments.cc"

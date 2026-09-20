@@ -1,0 +1,119 @@
+baseURL = 'https://heimeiqiu-arch.github.io/'
+locale = 'zh-CN'
+defaultContentLanguage = 'zh'
+title = 'Cbpayments'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']   # JSON 供站内搜索使用
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[params]
+  env = 'production'
+  title = 'Cbpayments'
+  description = 'Cbpayments —— 全球虚拟卡支付平台，USDT 充值，免 KYC 注册，支持 VISA/Mastercard/Discover'
+  keywords = ['虚拟卡', '虚拟信用卡', 'USDT开卡', '免KYC', 'Cbpayments', '广告投放卡']
+  DateFormat = '2006-01-02'
+  defaultTheme = 'auto'      # auto / light / dark
+  disableThemeToggle = false
+  disableLangToggle = true   # 单语言，隐藏语言切换
+
+  ShowReadingTime = true
+  ShowWordCount = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  TocOpen = false
+  hidemeta = false
+  hideSummary = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = 'Cbpayments · 全球虚拟卡，USDT 直接开卡消费'
+    Content = '''
+链上的 USDT 想花到链下——投 Meta、Google、TikTok 广告，订阅 ChatGPT、Claude、Midjourney，付 AWS、Cloudflare、域名续费，或者在 Amazon、eBay、Shopify 上采购——中间缺的就是一张能用的卡。
+
+- **免 KYC 注册** —— 不用提交身份材料，注册后直接开卡。
+- **0 开卡费、0 充值费** —— 开卡不收费，往卡里充值也不收费。
+- **VISA / Mastercard / Discover** —— 三种卡组织可选，按收款方的接受度挑。
+- **秒级批量开卡** —— 按部门、项目或投放账户分别建卡，额度独立，费用天然分开，月底不用再从流水里倒推。
+- **USDT-TRC20 充值** —— 随时充值与提现，账单、手续费明细、授权状态都可导出。
+
+注册 → 充值 USDT → 开卡并分配额度 → 直接消费，四步走完。
+
+[前往 cbpayments.cc](https://cbpayments.cc)
+'''
+
+  [[params.socialIcons]]
+    name = 'link'
+    url = 'https://cbpayments.cc'
+
+  [[params.socialIcons]]
+    name = 'rss'
+    url = 'index.xml'
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ['title', 'permalink', 'summary', 'content']
+
+[[menu.main]]
+  identifier = 'posts'
+  name = '文章'
+  url = '/posts/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'archives'
+  name = '归档'
+  url = '/archives/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'categories'
+  name = '分类'
+  url = '/categories/'
+  weight = 30
+
+[[menu.main]]
+  identifier = 'tags'
+  name = '标签'
+  url = '/tags/'
+  weight = 40
+
+[[menu.main]]
+  identifier = 'search'
+  name = '搜索'
+  url = '/search/'
+  weight = 50
+
+[markup.highlight]
+  noClasses = false
+  codeFences = true
+  guessSyntax = true
+  lineNos = false
+  style = 'monokai'
