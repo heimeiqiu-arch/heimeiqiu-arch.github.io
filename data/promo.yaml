@@ -22,7 +22,7 @@ badge: "推广"
 # ── 板块一：开卡 ──────────────────────────────
 card:
   title: "Cbpayments 虚拟卡 · USDT 直接开卡消费"
-  body: "0 开卡费、0 充值费，免 KYC 注册。VISA、Mastercard、Discover 三种卡组织可选，USDT-TRC20 充值即时到账，开卡后立刻可用——投广告、订阅 AI 服务、付云服务账单、海外电商采购都能走。"
+  body: "支持虚拟卡支付，可用于符合条件的线上消费和数字服务。有VISA、Mastercard、Discover 三种卡组织可选，USDT-TRC20 充值即时到账，开卡后立刻可用——投广告、订阅 AI 服务、付云服务账单、海外电商采购都能走。"
   cta:
     label: "立即开卡 →"
     url: "https://cbpayments.cc"
