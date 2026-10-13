@@ -2,6 +2,9 @@ name: Verify published article URLs
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/check-published-pages.yml"
   schedule:
     # Daily at 02:00 UTC (11:00 Japan time)
     - cron: "0 2 * * *"
