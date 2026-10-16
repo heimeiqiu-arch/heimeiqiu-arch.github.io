@@ -22,7 +22,7 @@
       {{- end }}
       {{- with .secondary_cta }}
       {{- if not (strings.Contains .url "YOUR_") }}
-      <a class="promo-btn" href="{{ .url }}"
+      <a class="promo-btn promo-btn--primary" href="{{ .url }}"
          target="_blank" rel="nofollow noopener sponsored">{{ .label }}</a>
       {{- end }}
       {{- end }}
