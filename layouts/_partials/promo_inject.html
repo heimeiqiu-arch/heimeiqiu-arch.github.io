@@ -1,6 +1,33 @@
-{{- /* Temporarily bypass promo injection.
-     The promo module caused Hugo build failures.
-     Keep article rendering stable first; promo can be restored later. */ -}}
-
-{{- $content := .content -}}
-{{- $content | safeHTML -}}
+{{- /*
+Restore the article promo injection without using promo_plan.html.
+The previous planner caused Hugo build failures. Keep this implementation
+simple: show the card promo after the first paragraph and the energy promo
+at the end. Both are controlled by data/promo.yaml.
+*/ -}}
+{{- $ctx := .ctx -}}
+{{- $content := string .content -}}
+{{- $promo := site.Data.promo -}}
+{{- if and $promo $promo.enable -}}
+  {{- if and $promo.placement (ne $promo.placement.card "off") -}}
+    {{- $parts := split $content "</p>" -}}
+    {{- if gt (len $parts) 1 -}}
+      {{- range $i, $part := $parts -}}
+        {{- if gt $i 0 -}}</p>{{- end -}}
+        {{- $part | safeHTML -}}
+        {{- if eq $i 0 -}}
+          {{- partial "promo.html" (dict "ctx" $ctx "only" "card") -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $content | safeHTML -}}
+      {{- partial "promo.html" (dict "ctx" $ctx "only" "card") -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $content | safeHTML -}}
+  {{- end -}}
+  {{- if and $promo.placement (eq $promo.placement.energy "end") -}}
+    {{- partial "promo.html" (dict "ctx" $ctx "only" "energy") -}}
+  {{- end -}}
+{{- else -}}
+  {{- $content | safeHTML -}}
+{{- end -}}
