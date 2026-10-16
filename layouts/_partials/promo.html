@@ -1,7 +1,7 @@
 {{- /* 推广位。内容来自 data/<语言>/promo.yaml（zh / en）；样式在 assets/css/extended/promo.css。
        用法：{{ partial "promo.html" (dict "ctx" . ) }}
              {{ partial "promo.html" (dict "ctx" . "only" "energy") }}  仅渲染某一块 */ -}}
-{{- $p := hugo.Data.promo -}}
+{{- $p := site.Data.promo -}}
 {{- $only := .only | default "" -}}
 {{- if and $p $p.enable -}}
 <aside class="promo" aria-label="{{ i18n "promoLabel" }}">
