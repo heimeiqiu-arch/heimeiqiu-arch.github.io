@@ -26,6 +26,9 @@ card:
   cta:
     label: "立即开卡 →"
     url: "https://cbpayments.cc"
+  secondary_cta:
+    label: "Telegram联系我们"
+    url: "https://t.me/CBPaymentsHelp2"
 
 # ── 板块二：批量开卡（面向广告投放与企业）──────
 # 复用模板里的 energy 位（模板中该位支持 icon + 要点列表 + CTA），

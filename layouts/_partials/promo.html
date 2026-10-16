@@ -12,13 +12,21 @@
     {{- with $p.badge }}<span class="promo-badge">{{ . }}</span>{{ end }}
     <h3 class="promo-title">{{ .title }}</h3>
     <p class="promo-text">{{ .body }}</p>
-    {{- with .cta }}
-    {{- if not (strings.Contains .url "YOUR_") }}
+    {{- if or .cta .secondary_cta }}
     <div class="promo-actions">
+      {{- with .cta }}
+      {{- if not (strings.Contains .url "YOUR_") }}
       <a class="promo-btn promo-btn--primary" href="{{ .url }}"
          target="_blank" rel="nofollow noopener sponsored">{{ .label }}</a>
+      {{- end }}
+      {{- end }}
+      {{- with .secondary_cta }}
+      {{- if not (strings.Contains .url "YOUR_") }}
+      <a class="promo-btn" href="{{ .url }}"
+         target="_blank" rel="nofollow noopener sponsored">{{ .label }}</a>
+      {{- end }}
+      {{- end }}
     </div>
-    {{- end }}
     {{- end }}
   </section>
   {{- end }}
