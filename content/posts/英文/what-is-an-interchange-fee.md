@@ -1,128 +1,175 @@
 ---
-title: "What Is an Interchange Fee? A Guide to Card Payment Costs"
-date: 2026-10-18
+title: "What Is an Interchange Fee? A Guide for Merchants and Cardholders"
+date: 2026-10-19
 slug: "what-is-an-interchange-fee"
-description: "Understand interchange fees, who pays them, what affects their cost, and how interchange differs from other card payment processing fees."
-tags: ["interchange fee", "card processing fees", "payment processing", "merchant fees"]
+description: "Understand what an interchange fee is, who pays it, how it differs from payment-processing fees, and why it can affect the cost of accepting card payments."
+tags:
+  - interchange fee
+  - card processing fees
+  - merchant costs
+  - payment processing
 draft: false
 ---
 
-# What Is an Interchange Fee? A Guide to Card Payment Costs
+# What Is an Interchange Fee? A Guide for Merchants and Cardholders
 
-When a customer pays by credit or debit card, the merchant may pay several fees to process the transaction. One important component is the interchange fee.
+When a business accepts a card payment, the amount it receives may be lower than the customer's purchase total. One reason is that card payments can involve several types of fees.
 
-Understanding interchange fees helps merchants evaluate payment processing costs, compare providers, and make better decisions about accepting card payments. It also helps consumers understand why card payments involve multiple financial institutions.
+An interchange fee is one component of the economics of many card transactions. It is particularly relevant to merchants comparing payment providers, because it can affect the overall cost of accepting cards.
+
+Understanding interchange fees also helps explain why the processing rate advertised by a payment provider may not tell the whole story.
 
 ## What Is an Interchange Fee?
 
-An interchange fee is a fee associated with a card transaction that the merchant's acquiring bank typically pays to the cardholder's issuing bank.
+An interchange fee is a fee associated with a card transaction that is generally paid by the merchant's acquiring side to the card issuer under the applicable payment-network arrangements.
 
-The fee helps support the card payment ecosystem, including card issuance, transaction processing, fraud management, and payment-related services. The exact arrangements vary by card network, region, card type, and transaction category.
+The issuer is the institution that provides the card to the cardholder. The acquirer, or acquiring institution, enables the merchant to accept card payments under the relevant arrangement.
 
-Interchange is generally one component of the total cost a merchant pays to accept card payments. It is not necessarily the entire processing fee shown on a merchant statement.
+The exact rules and fee structure depend on the card network, transaction type, market, applicable regulation, and other factors.
 
-## How Does an Interchange Fee Work?
+Interchange is not necessarily the same as the full fee a merchant sees on a payment-provider invoice. The merchant may pay a combined processing rate that includes interchange, network-related costs, processor charges, and other elements.
 
-A typical card payment involves several participants:
+## Who Pays the Interchange Fee?
 
-- **Cardholder:** The person making the purchase.
-- **Merchant:** The business accepting the payment.
-- **Issuing bank:** The institution that issued the customer's card.
-- **Acquiring bank or payment processor:** The provider supporting the merchant's card acceptance.
-- **Card network:** The network that facilitates communication and applies network rules.
+In a typical card transaction, the merchant pays fees under its agreement with its payment provider or acquiring institution. Interchange is generally part of the costs associated with processing that transaction.
 
-When a customer makes a purchase, the payment is submitted for authorization. If approved, the transaction can proceed toward clearing and settlement. Interchange fees are calculated according to the applicable card-network rules and transaction characteristics.
+The fee is commonly passed through the acquiring side to the card issuer under the network's applicable arrangements.
 
-The merchant generally pays a broader merchant service charge, from which the relevant parties and services are compensated according to their agreements.
+Cardholders do not usually pay an interchange fee as a separate line item when making an ordinary purchase. However, the broader costs of accepting and using payment methods can influence business pricing, card benefits, and payment-provider commercial models.
+
+The exact allocation of costs varies by market and contract.
+
+## Why Do Interchange Fees Exist?
+
+Interchange is part of the commercial structure used by many card-payment systems. It helps define how transaction-related revenue and costs are allocated between participants.
+
+Card issuers may incur costs associated with issuing cards, maintaining cardholder accounts, managing fraud risk, providing customer service, and operating card programs. Interchange arrangements are one part of the wider system that supports these activities.
+
+However, interchange is not a simple reimbursement for one specific expense. It operates within a broader payment-network model, and its role differs across markets and card products.
 
 ## What Determines the Interchange Fee?
 
-There is no single interchange rate for every card transaction. Factors can include:
+There is no single interchange rate that applies to every card transaction.
 
-### Card type
+Depending on the network and market, the rate or fee may be influenced by factors such as:
 
-Credit, debit, commercial, premium, and other card categories may have different interchange schedules. The distinction depends on the relevant network rules and market.
+### 1. Card Product
 
-### Transaction type
+Different card products may have different interchange classifications. Consumer cards, commercial cards, and other eligible card types may be treated differently under the relevant rules.
 
-Card-present transactions and online card-not-present transactions may fall under different categories. The risk profile and processing requirements can affect the applicable fee.
+### 2. Transaction Type
 
-### Merchant category
+A card-present purchase may be classified differently from an online transaction. The payment environment and the information provided with the transaction can affect the applicable category.
 
-The merchant's business category can influence how a transaction is classified. Certain industries and transaction types may have specific rates.
+### 3. Merchant Category
 
-### Region and card network
+The merchant's assigned category may be relevant to the applicable interchange classification. The treatment depends on the network's rules and the specific transaction.
 
-Interchange rules vary across countries and regions. Cross-border payments may be treated differently from domestic transactions, depending on the applicable rules.
+### 4. Country and Currency
 
-### Transaction data and qualification
+Interchange arrangements can differ across domestic and cross-border transactions and between markets. Currency and the location of the relevant participants may affect which rules apply.
 
-Some fee schedules depend on transaction details, processing practices, or whether required data is submitted correctly. Merchants should consult their provider's documentation rather than assume every transaction qualifies for the same rate.
+### 5. Transaction Data and Qualification Requirements
 
-## Interchange Fees vs. Other Processing Fees
+Some interchange programs have qualification criteria involving transaction data, processing method, or other conditions. If a transaction does not meet the applicable requirements, it may qualify for a different rate category.
 
-Interchange is only one part of the total cost of accepting cards.
+The detailed rules are network- and market-specific, so merchants should consult their acquirer or payment provider for the classifications that apply to their business.
 
-Other costs may include:
+## Interchange Fee vs. Payment Processing Fee
 
-- **Card network assessments:** Charges associated with the card network and its services.
-- **Processor or acquirer markup:** The amount charged by a payment provider for processing and related services.
-- **Gateway or platform fees:** Charges for payment technology, integrations, or account services.
-- **Additional transaction fees:** Depending on the agreement, these may include cross-border, currency conversion, or other service charges.
+These terms are related, but they are not interchangeable.
 
-The precise structure depends on the merchant's provider and contract.
+**Interchange fee:** A transaction-related fee generally paid by the acquiring side to the card issuer under the applicable card-network arrangements.
 
-## How Do Interchange-Plus and Flat-Rate Pricing Differ?
+**Payment processing fee:** A broader term for the fees a merchant pays to accept and process payments. Depending on the pricing model, it may include interchange, network-related costs, processor charges, and other service fees.
 
-Two common pricing approaches are interchange-plus pricing and flat-rate pricing.
+For example, a payment provider might quote a blended percentage plus a fixed amount for each successful transaction. Under that model, the merchant may not see interchange presented as a separate line item.
 
-**Interchange-plus pricing** separates interchange and other applicable costs from the provider's markup. This can make individual cost components easier to examine, although statements may still require careful interpretation.
+Another provider might use interchange-plus pricing, showing interchange and additional charges separately. The precise terminology and treatment depend on the contract.
 
-**Flat-rate pricing** charges a set percentage and sometimes a fixed amount per transaction. It can be simpler to understand and forecast, but the merchant may have less visibility into the underlying cost components.
+## What Are the Main Merchant Pricing Models?
 
-Neither model is automatically cheaper for every business. Merchants should compare total costs using their actual transaction volume, average order value, card mix, refund patterns, and cross-border activity.
+Merchants may encounter different ways of presenting card-processing costs.
 
-## How Can Merchants Manage Card Payment Costs?
+### Blended Pricing
 
-Merchants cannot freely change card-network interchange schedules, but they can improve their understanding of total payment costs.
+Under blended pricing, the provider charges a combined rate for a defined class of transactions. The merchant may find the model easier to understand, but it can be harder to identify the cost components behind the quoted rate.
 
-1. Review processing statements regularly and identify each fee category.
-2. Compare provider pricing using real transaction data rather than headline rates alone.
-3. Submit accurate transaction information and follow the provider's processing requirements.
-4. Evaluate whether international transactions and currency conversion are creating additional costs.
-5. Monitor authorization rates, fraud, refunds, and disputes alongside processing expenses.
-6. Ask providers to explain unclear charges before changing payment arrangements.
+### Interchange-Plus Pricing
 
-Cost reduction should not come at the expense of security, customer experience, or compliance.
+Under interchange-plus pricing, the merchant's bill separates interchange from a provider markup and, depending on the agreement, network-related charges or other fees.
 
-## How Do Interchange Fees Affect International Payments?
+This can offer more visibility into the components of payment costs, although interpreting the statement may require more work.
 
-International transactions may involve additional costs or different fee treatment depending on the card, merchant location, issuing country, currency, and network rules.
+### Tiered or Categorized Pricing
 
-Businesses paying overseas suppliers or using international payment services should distinguish interchange from foreign-exchange costs and other cross-border charges.
+Some pricing arrangements group transactions into categories with different rates. The categories and qualification rules depend on the provider and contract.
 
-If you are comparing payment options for international purchases, subscriptions, or business expenses, review the applicable fees and supported transaction types before paying. You can also explore the available card options at [CBPayments](https://www.cbpayments.cc/).
+A merchant should not assume that one pricing model is always cheaper. Actual cost depends on the business's transaction mix, card types, average order value, sales channels, and contract terms.
+
+## How Can Merchants Estimate the Cost of Interchange?
+
+A useful starting point is to review actual payment statements rather than relying only on a headline rate.
+
+Merchants can:
+
+1. Gather statements covering a representative period.
+2. Identify the total transaction volume and number of transactions.
+3. Review interchange and other fee categories where itemized.
+4. Compare costs across domestic, cross-border, online, and other relevant transaction types.
+5. Check for additional fees, minimums, refund charges, and dispute-related charges.
+6. Ask the provider to explain unfamiliar classifications or unexpected changes.
+
+A simple average fee can be useful for budgeting, but it does not reveal every factor behind the cost. A business with many small purchases may experience a different effective rate from a business with fewer, higher-value transactions.
+
+## Can Merchants Control Interchange Costs?
+
+Merchants generally cannot freely choose or negotiate every underlying interchange category. Network rules, market arrangements, and transaction characteristics determine the applicable treatment.
+
+However, businesses can improve their understanding of total acceptance costs.
+
+They can compare provider pricing, confirm that transactions are submitted with accurate data, review whether the payment setup supports their actual sales channels, and monitor changes in the transaction mix.
+
+Merchants should not misrepresent transaction information in an attempt to obtain a lower rate. Incorrect data can create compliance, reconciliation, or processing problems.
+
+The appropriate approach is to work with the payment provider to understand which rules apply and whether the current setup is suitable.
+
+## Do Interchange Fees Affect Cardholders?
+
+Cardholders generally do not see interchange as a separate fee on an everyday purchase. Its effect on an individual consumer is indirect and depends on the market and the commercial decisions of issuers and merchants.
+
+For example, card-program economics can influence the benefits an issuer offers. Merchant acceptance costs may also be one factor a business considers when setting prices or choosing which payment methods to support.
+
+It would be misleading to assume that every interchange change produces the same effect on retail prices or card rewards. Those outcomes depend on competition, regulation, business decisions, and other costs.
+
+## Does Using a Virtual Card Change Interchange?
+
+The fact that a card is virtual does not, by itself, determine the interchange category.
+
+The applicable treatment can depend on the underlying card program, transaction type, merchant category, market, and network rules. Virtual and physical cards may be treated similarly in some circumstances and differently in others.
+
+If you are choosing a card for business expenses, online services, or international purchases, review the card's terms and the provider's fee information. [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical card options; check the specific product details before deciding which one fits your needs.
 
 ## Frequently Asked Questions
 
-### Is an interchange fee charged directly to the cardholder?
+### Is interchange the same as a card-network fee?
 
-Interchange is generally part of the merchant's card acceptance cost rather than a separate fee charged directly to the cardholder. Other fees may apply to a cardholder's account under the card issuer's terms.
+No. Interchange is generally associated with a fee paid to the issuer under the applicable arrangements. Network-related fees are separate components, although a merchant's provider may group or present charges differently.
 
-### Do all cards have the same interchange fee?
+### Do customers pay interchange directly?
 
-No. The applicable fee can depend on the card category, transaction type, region, merchant category, and network rules.
+Usually, consumers do not pay interchange as a separate line item at checkout. The fee is generally part of the merchant-side payment cost structure.
 
-### Is interchange the same as a payment processing fee?
+### Is interchange the same for Visa and Mastercard?
 
-No. Interchange is one component of the overall cost of card acceptance. A merchant's total processing cost can include other network, provider, and service charges.
+Not necessarily. Each network has its own rules and fee schedules, and rates can also vary by market and transaction classification. The relevant network and acquirer documentation determines the applicable treatment.
 
-### Can a merchant negotiate interchange rates?
+### Why is my merchant's effective processing rate higher than the advertised rate?
 
-Merchants generally cannot negotiate individual network interchange schedules directly. However, they may be able to negotiate their provider's markup or other contractual fees.
+The advertised rate may not include every cost that applies to your transactions. Review the agreement and statement for other fee components, transaction types, minimums, and additional charges.
 
-## Conclusion
+## Final Thoughts
 
-Interchange fees are an important part of the economics of card payments. Knowing how they work helps businesses interpret processing statements, compare providers, and understand the cost of domestic and international transactions.
+Interchange fees are one part of the cost structure behind many card payments. They are generally paid by the acquiring side to the card issuer, while merchants usually pay a broader set of fees under their payment-processing agreements.
 
-The best approach is to evaluate the full payment cost—not just one fee—and choose a solution that balances transparency, reliability, security, and customer convenience.
+For a business, the most useful comparison is not simply the interchange rate or the headline processing percentage. Review the complete pricing model, actual transaction mix, contract terms, and reporting detail to understand the real cost of accepting cards.
