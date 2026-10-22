@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card on Steam? Payment Rules Explained"
+title: "Can You Use a Virtual Card on Steam? Payment Rules Explained | CBPayments"
 slug: "can-you-use-a-virtual-card-on-steam"
 date: 2026-10-15
 draft: false
@@ -12,7 +12,7 @@ tags:
   - Card Declines
 ---
 
-# Can You Use a Virtual Card on Steam? Payment Rules Explained
+# Can You Use a Virtual Card on Steam? Payment Rules Explained | CBPayments
 
 A virtual card may work for a Steam purchase if the card, issuer, and payment method meet Steam's requirements. However, a successful game purchase and verification for the Steam Community Market are two different things. Steam's official help documentation says its self-service credit-card verification process does not currently support virtual online credit cards.
 

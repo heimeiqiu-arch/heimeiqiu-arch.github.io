@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card for Apple App Store Purchases?"
+title: "Can You Use a Virtual Card for Apple App Store Purchases? | CBPayments"
 slug: "can-you-use-a-virtual-card-for-apple-app-store-purchases"
 date: 2026-10-15
 draft: false
@@ -13,7 +13,7 @@ tags:
   - Payment Declines
 ---
 
-# Can You Use a Virtual Card for Apple App Store Purchases?
+# Can You Use a Virtual Card for Apple App Store Purchases? | CBPayments
 
 If you want to pay for an app, renew an Apple subscription, or purchase digital content with a virtual card, the first thing to check is whether Apple accepts that payment method in your Apple Account's country or region.
 

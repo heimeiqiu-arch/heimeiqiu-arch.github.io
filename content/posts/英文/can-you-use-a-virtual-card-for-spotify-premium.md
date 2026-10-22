@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card for Spotify Premium?"
+title: "Can You Use a Virtual Card for Spotify Premium? | CBPayments"
 slug: "can-you-use-a-virtual-card-for-spotify-premium"
 date: 2026-10-15
 draft: false
@@ -13,7 +13,7 @@ tags:
   - Payment Declines
 ---
 
-# Can You Use a Virtual Card for Spotify Premium?
+# Can You Use a Virtual Card for Spotify Premium? | CBPayments
 
 A virtual card may work for Spotify Premium if Spotify offers card payments for your account and your card provider approves the transaction. However, not every virtual card supports recurring subscription charges, and payment options can vary by country or region.
 
