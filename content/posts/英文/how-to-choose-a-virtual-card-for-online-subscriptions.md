@@ -1,5 +1,5 @@
 ---
-title: How to Choose a Virtual Card for Online Subscriptions
+title: "How to Choose a Virtual Card for Online Subscriptions | CBPayments"
 slug: how-to-choose-a-virtual-card-for-online-subscriptions
 date: 2026-10-06
 draft: false
@@ -13,7 +13,7 @@ tags:
   - SaaS subscriptions
   - recurring payments
 ---
-# How to Choose a Virtual Card for Online Subscriptions
+# How to Choose a Virtual Card for Online Subscriptions | CBPayments
 
 Online subscriptions have become part of everyday digital life. People use recurring payments for AI tools, streaming platforms, software, cloud services, productivity apps, and many other digital products.
 
