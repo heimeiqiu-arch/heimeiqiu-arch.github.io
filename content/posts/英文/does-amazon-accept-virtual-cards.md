@@ -1,5 +1,5 @@
 ---
-title: "Does Amazon Accept Virtual Cards? What to Check Before Paying"
+title: "Does Amazon Accept Virtual Cards? What to Check Before Paying | CBPayments"
 slug: "does-amazon-accept-virtual-cards"
 date: 2026-10-15
 draft: false
@@ -12,7 +12,7 @@ tags:
   - Card Payments
 ---
 
-# Does Amazon Accept Virtual Cards? What to Check Before Paying
+# Does Amazon Accept Virtual Cards? What to Check Before Paying | CBPayments
 
 A virtual card may work for an Amazon purchase, but acceptance is not guaranteed for every card, account, marketplace, or transaction. The important details include the type of card you have, the payment methods supported by your local Amazon website, and whether the transaction passes the required checks.
 
