@@ -1,5 +1,5 @@
 ---
-title: バーチャルカードで海外サイトの支払いはできる？利用方法と注意点を解説
+title: "バーチャルカードは海外サイトで使える？利用方法と注意点｜CBPayments"
 slug: can-you-use-a-virtual-card-on-overseas-websites
 date: 2026-10-07
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "AI議事録作成サービスの料金をカードで支払う方法"
+title: "AI議事録作成サービスの料金をカードで支払う方法｜CBPayments"
 date: 2026-10-21
 draft: false
 ---

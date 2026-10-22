@@ -1,5 +1,5 @@
 ---
-title: バーチャルカードで会計ソフトを支払える？クラウド会計サービスの決済と注意点
+title: "バーチャルカードで会計ソフトを支払える？決済方法と注意点｜CBPayments"
 slug: virtual-card-accounting-software-payment-guide
 date: 2026-10-08
 draft: false
