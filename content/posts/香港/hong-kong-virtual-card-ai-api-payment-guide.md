@@ -1,5 +1,5 @@
 ---
-title: 香港虛擬卡可以支付海外 AI API 費用嗎？OpenAI、雲端模型及開發者付款指南
+title: 海外 AI API 付款指南：評估虛擬卡前要了解甚麼｜CBPayments
 slug: hong-kong-virtual-card-ai-api-payment-guide
 date: 2026-10-09
 draft: false
@@ -14,8 +14,7 @@ tags:
   - 外幣付款
   - 虛擬卡付款限制
 ---
-# 香港虛擬卡可以支付海外 AI API 費用嗎？OpenAI、雲端模型及開發者付款指南
-
+# 海外 AI API 付款指南：評估虛擬卡前要了解甚麼｜CBPayments
 如果你正在開發 AI 應用程式、建立自動化工作流程，或者使用大型語言模型處理文字、圖片及程式碼，除了訂閱一般 AI 工具之外，還可能需要支付 AI API 的使用費。
 
 對香港用戶而言，部分海外 AI 服務及開發者平台接受信用卡或扣帳卡付款，因此符合要求的虛擬卡可能可以用來支付 API 費用。不過，不同平台對帳戶地區、付款卡種類、帳單資料及使用資格的要求可能不同，不能單憑 Visa 或 Mastercard 標誌就判定一定可以付款。
