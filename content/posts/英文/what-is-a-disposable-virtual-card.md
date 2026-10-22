@@ -1,5 +1,5 @@
 ---
-title: What Is a Disposable Virtual Card and How Does It Work?
+title: "What Is a Disposable Virtual Card and How Does It Work? | CBPayments"
 slug: what-is-a-disposable-virtual-card
 date: 2026-09-23
 draft: false
@@ -13,7 +13,7 @@ tags:
   - online payment
   - digital payment
 ---
-# What Is a Disposable Virtual Card and How Does It Work?
+# What Is a Disposable Virtual Card and How Does It Work? | CBPayments
 
 As online payments continue to grow, payment security has become an important concern for many users.
 

@@ -1,5 +1,5 @@
 ---
-title: What Is a Crypto Virtual Card and How Does It Work?
+title: "What Is a Crypto Virtual Card and How Does It Work? | CBPayments"
 slug: what-is-a-crypto-virtual-card
 date: 2026-09-22
 draft: false
@@ -13,7 +13,7 @@ tags:
   - cryptocurrency payment
   - online payment
 ---
-# What Is a Crypto Virtual Card and How Does It Work?
+# What Is a Crypto Virtual Card and How Does It Work? | CBPayments
 
 The growth of cryptocurrency has changed the way people think about digital payments.
 

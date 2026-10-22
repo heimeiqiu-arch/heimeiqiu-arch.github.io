@@ -1,5 +1,5 @@
 ---
-title: Can You Link a Virtual Card to PayPal? What You Need to Know
+title: "Can You Link a Virtual Card to PayPal? What You Need to Know | CBPayments"
 slug: can-you-link-a-virtual-card-to-paypal
 date: 2026-10-06
 draft: false
@@ -16,7 +16,7 @@ tags:
   - payment methods
   - virtual card payments
 ---
-# Can You Link a Virtual Card to PayPal? What You Need to Know
+# Can You Link a Virtual Card to PayPal? What You Need to Know | CBPayments
 
 PayPal is widely used for online payments, transfers, and purchases, so it is natural to ask whether a virtual card can be added as a payment method.
 

@@ -1,5 +1,5 @@
 ---
-title: "Why Does My Card Work Online but Fail for Subscriptions?"
+title: "Why Does My Card Work Online but Fail for Subscriptions? | CBPayments"
 date: 2026-10-19
 slug: "card-works-online-but-fails-for-subscriptions"
 description: "Learn why a card can work for online purchases but fail for subscriptions, recurring billing, or free-trial conversions, and how to troubleshoot the payment."
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-# Why Does My Card Work Online but Fail for Subscriptions?
+# Why Does My Card Work Online but Fail for Subscriptions? | CBPayments
 
 A card can work perfectly for an online purchase and still be declined when you try to pay for a subscription. You might successfully buy a product, book a service, or complete a one-time checkout, only to discover that a streaming service, software platform, or AI tool will not accept the same card.
 
