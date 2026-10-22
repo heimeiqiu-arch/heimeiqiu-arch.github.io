@@ -1,5 +1,5 @@
 ---
-title: What Is a Virtual Visa Card and How Does It Work?
+title: "What Is a Virtual Visa Card and How Does It Work? | CBPayments"
 slug: what-is-a-virtual-visa-card
 date: 2026-09-22
 draft: false
@@ -13,7 +13,7 @@ tags:
   - digital payment
   - visa payment
 ---
-# What Is a Virtual Visa Card and How Does It Work?
+# What Is a Virtual Visa Card and How Does It Work? | CBPayments
 
 Visa cards are one of the most widely used payment methods around the world. As online shopping, digital services, and international platforms continue to grow, more users are looking for flexible ways to make payments online.
 

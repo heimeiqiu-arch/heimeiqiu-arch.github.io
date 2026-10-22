@@ -1,5 +1,5 @@
 ---
-title: "Virtual Cards for Software and SaaS Payments: What to Know"
+title: "Virtual Cards for Software and SaaS Payments: What to Know | CBPayments"
 slug: virtual-cards-for-software-and-saas-payments
 date: 2026-10-06
 draft: false
@@ -14,7 +14,7 @@ tags:
   - recurring payments
   - business payments
 ---
-# Virtual Cards for Software and SaaS Payments: What to Know
+# Virtual Cards for Software and SaaS Payments: What to Know | CBPayments
 
 Software and SaaS services increasingly use online subscription billing. From project management platforms and design software to cloud services and AI tools, many digital products require users to keep a valid payment method on file.
 

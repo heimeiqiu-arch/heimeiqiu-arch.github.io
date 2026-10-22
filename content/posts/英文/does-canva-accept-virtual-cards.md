@@ -1,5 +1,5 @@
 ---
-title: "Does Canva Accept Virtual Cards? Pro Subscription Payment Guide"
+title: "Does Canva Accept Virtual Cards? Pro Subscription Payment Guide | CBPayments"
 slug: "does-canva-accept-virtual-cards"
 date: 2026-10-16
 draft: false
@@ -13,7 +13,7 @@ tags:
 description: "Find out whether a virtual card may work for Canva Pro, how to troubleshoot declined subscription payments, and what to check before renewal."
 ---
 
-# Does Canva Accept Virtual Cards?
+# Does Canva Accept Virtual Cards? Pro Subscription Payment Guide | CBPayments
 
 If you use Canva to create presentations, social media graphics, marketing materials, or other designs, you may be wondering whether a virtual card can pay for Canva Pro or another paid plan.
 
