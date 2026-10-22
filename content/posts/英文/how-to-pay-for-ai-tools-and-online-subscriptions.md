@@ -1,5 +1,5 @@
 ---
-title: "How to Pay for AI Tools and Online Subscriptions: A Complete Guide"
+title: "How to Pay for AI Tools and Online Subscriptions | CBPayments"
 slug: how-to-pay-for-ai-tools-and-online-subscriptions
 date: 2026-09-22
 draft: false
@@ -13,7 +13,7 @@ tags:
   - online payment
   - payment method
 ---
-# How to Pay for AI Tools and Online Subscriptions: A Complete Guide
+# How to Pay for AI Tools and Online Subscriptions | CBPayments
 
 Artificial intelligence tools and online software services have become an important part of modern digital work.
 

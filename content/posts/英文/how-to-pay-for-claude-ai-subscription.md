@@ -1,5 +1,5 @@
 ---
-title: How to Pay for Claude AI Subscription Online  中文别名
+title: "How to Pay for a Claude AI Subscription Online | CBPayments"
 slug: how-to-pay-for-claude-ai-subscription
 date: 2026-09-24
 draft: false
@@ -13,7 +13,7 @@ tags:
   - AI subscription
   - Claude payment
 ---
-# How to Pay for Claude AI Subscription Online
+# How to Pay for a Claude AI Subscription Online | CBPayments
 
 Claude is widely used for writing, coding, research, analysis, and other AI-related tasks. For users who want access to paid Claude features, one of the first questions is how to complete the subscription payment successfully.
 
