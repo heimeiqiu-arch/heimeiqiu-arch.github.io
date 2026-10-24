@@ -4,7 +4,7 @@ date: 2026-10-24
 slug: "hong-kong-online-shopping-foreign-currency-conversion"
 description: "香港用戶在網店以日圓、美元或其他外幣付款，為何港幣帳單金額與預期不同？了解商戶換匯、動態貨幣轉換及信用卡費用的分別。"
 categories: ["香港"]
-tags: ["香港網購", "外幣付款", "匯率", "動態貨幣轉換"]
+tags: ["香港網購", "外幣交易", "匯率", "動態貨幣轉換"]
 ---
 
 # 香港網購外幣結帳金額與港幣帳單不同？匯率與貨幣轉換指南
