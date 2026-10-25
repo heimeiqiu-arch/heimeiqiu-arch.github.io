@@ -64,7 +64,7 @@ Về phương thức thanh toán:
 - Đảm bảo tên và địa chỉ thanh toán được nhập đúng theo yêu cầu.
 - Chuẩn bị khả năng hoàn tất bước xác minh bảo mật nếu được yêu cầu.
 
-Logo Visa hoặc Mastercard trên trang thanh toán không có nghĩa tất cả các thẻ thuộc mạng lưới đó đều được chấp nhận. Một số nền tảng hạn chế thẻ trả trước, thẻ ảo hoặc thẻ phát hành tại một số khu vực. Nếu bạn đang tìm hiểu các giải pháp thanh toán trực tuyến, [CBPayments](https://www.cbpayments.cc/) cung cấp thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa và Mastercard. Trước khi sử dụng, hãy kiểm tra điều kiện thẻ và xác nhận website bán vé chấp nhận loại phương thức đó.
+Logo Visa hoặc Mastercard trên trang thanh toán không có nghĩa tất cả các thẻ thuộc mạng lưới đó đều được chấp nhận. Một số nền tảng hạn chế thẻ trả trước, thẻ ảo hoặc thẻ phát hành tại một số khu vực. Nếu bạn đang tìm hiểu các giải pháp thanh toán trực tuyến, CBPayments cung cấp thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa và Mastercard. Trước khi sử dụng, hãy kiểm tra điều kiện thẻ và xác nhận website bán vé chấp nhận loại phương thức đó.
 
 ## 5. Vì sao thanh toán vé có thể thất bại?
 

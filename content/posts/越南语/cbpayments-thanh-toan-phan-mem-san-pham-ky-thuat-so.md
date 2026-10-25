@@ -44,7 +44,7 @@ Không phải mọi website đều chấp nhận mọi loại thẻ. Một số 
 
 Trước khi thử thanh toán, hãy đọc phần phương thức thanh toán trong trang trợ giúp hoặc trang checkout. Nếu website yêu cầu thẻ tín dụng hoặc thẻ ghi nợ đủ điều kiện, đừng mặc định rằng bất kỳ thẻ nào có logo tương ứng đều sẽ được chấp nhận. Hãy xác nhận với nhà cung cấp thẻ về loại giao dịch được hỗ trợ và các giới hạn áp dụng.
 
-Nếu cần tìm hiểu thêm về các phương án phục vụ chi tiêu trực tuyến, [CBPayments](https://www.cbpayments.cc/) cung cấp thông tin về giải pháp thẻ ảo và thẻ vật lý hỗ trợ Visa và Mastercard. Khả năng sử dụng thực tế vẫn phụ thuộc vào điều kiện của sản phẩm thẻ, website người bán, khu vực và quy trình xác minh của từng giao dịch.
+Nếu cần tìm hiểu thêm về các phương án phục vụ chi tiêu trực tuyến, CBPayments cung cấp thông tin về giải pháp thẻ ảo và thẻ vật lý hỗ trợ Visa và Mastercard. Khả năng sử dụng thực tế vẫn phụ thuộc vào điều kiện của sản phẩm thẻ, website người bán, khu vực và quy trình xác minh của từng giao dịch.
 
 ## 4. Kiểm tra tổng chi phí trước khi bấm thanh toán
 

@@ -71,7 +71,7 @@ Trước khi thử:
 - Xác nhận thẻ có hỗ trợ thanh toán định kỳ nếu bạn bật tự động gia hạn.
 - Kiểm tra thông báo xác minh trong ứng dụng của đơn vị phát hành.
 
-Không phải mọi thẻ mang logo Visa hoặc Mastercard đều được mọi nhà cung cấp chấp nhận. Website có thể áp dụng hạn chế riêng với một số loại thẻ hoặc quốc gia phát hành. Nếu bạn đang so sánh các giải pháp thanh toán trực tuyến, [CBPayments](https://www.cbpayments.cc/) có thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa và Mastercard; hãy xem kỹ điều kiện sử dụng trước khi lựa chọn và xác nhận với nhà cung cấp dịch vụ rằng phương thức đó được chấp nhận.
+Không phải mọi thẻ mang logo Visa hoặc Mastercard đều được mọi nhà cung cấp chấp nhận. Website có thể áp dụng hạn chế riêng với một số loại thẻ hoặc quốc gia phát hành. Nếu bạn đang so sánh các giải pháp thanh toán trực tuyến, CBPayments có thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa và Mastercard; hãy xem kỹ điều kiện sử dụng trước khi lựa chọn và xác nhận với nhà cung cấp dịch vụ rằng phương thức đó được chấp nhận.
 
 ## 6. Xử lý khi thanh toán gia hạn bị từ chối
 
