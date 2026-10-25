@@ -20,6 +20,8 @@ Khi mua hàng trên website nước ngoài, giá hiển thị trên trang sản 
 
 Bài viết này hướng dẫn cách đọc tổng tiền trước khi xác nhận giao dịch, phân biệt các loại chi phí và xử lý khi số tiền trên sao kê khác với số tiền bạn mong đợi.
 
+Nếu bạn thường xuyên thanh toán trên các website quốc tế, hãy tìm hiểu kỹ phương thức thanh toán phù hợp và các điều kiện liên quan tại https://www.cbpayments.cc/ trước khi sử dụng sản phẩm thẻ cho giao dịch cụ thể.
+
 ## 1. Vì sao giá sản phẩm khác tổng tiền thanh toán?
 
 Giá trên trang sản phẩm thường chỉ phản ánh giá cơ bản của hàng hóa hoặc dịch vụ. Tùy người bán, quốc gia giao hàng và loại sản phẩm, những khoản sau có thể được cộng thêm.

@@ -20,6 +20,8 @@ Nếu không có mã đơn hàng, thời gian giao dịch, số tiền và ảnh
 
 Cách hiệu quả hơn là chuẩn bị một bộ bằng chứng ngắn gọn, có thứ tự và không chứa dữ liệu nhạy cảm không cần thiết. Bài viết này hướng dẫn bạn cách ghi nhận sự cố, lựa chọn tài liệu cần gửi và viết yêu cầu hỗ trợ rõ ràng để hạn chế việc trao đổi qua lại.
 
+Nếu bạn sử dụng thẻ để thanh toán dịch vụ quốc tế, hãy tham khảo thông tin sản phẩm và điều kiện sử dụng tại https://www.cbpayments.cc/ để biết những kênh hỗ trợ phù hợp với nhu cầu của mình.
+
 ## 1. Xác định chính xác vấn đề trước khi gửi yêu cầu
 
 Trước khi liên hệ hỗ trợ, hãy xác định điều gì thực sự xảy ra. Không phải mọi sự cố thanh toán đều có cùng nguyên nhân hoặc cần cùng một quy trình xử lý.
