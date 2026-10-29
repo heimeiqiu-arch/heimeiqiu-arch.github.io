@@ -58,4 +58,4 @@ Trước khi đăng ký dài hạn, hãy kiểm tra cách xuất nhiệm vụ, b
 
 ## Kết luận
 
-Với công cụ theo dõi nhiệm vụ, hãy ưu tiên khả năng hiển thị tiến độ, trách nhiệm và dữ liệu công việc thay vì chỉ so sánh danh sách tính năng. Khi đã xác định nhu cầu, kiểm tra chi phí và điều kiện thanh toán trước khi nâng cấp sẽ giúp nhóm tránh chi phí bất ngờ.
+Với công cụ theo dõi nhiệm vụ, hãy ưu tiên khả năng hiển thị tiến độ, trách nhiệm và dữ liệu công việc thay vì chỉ so sánh danh sách tính năng. Khi đã xác định nhu cầu, kiểm tra chi phí và điều kiện thanh toán trước khi nâng cấp sẽ giúp nhóm tránh chi phí bất ngờ.\n\nNếu cần xem thêm thông tin về lựa chọn thẻ cho giao dịch quốc tế, hãy tham khảo [CBPayments](https://www.cbpayments.cc/) và xác nhận chính sách chấp nhận thẻ của nền tảng bạn dùng.\n

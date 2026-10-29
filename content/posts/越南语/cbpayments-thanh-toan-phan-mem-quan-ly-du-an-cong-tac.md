@@ -67,4 +67,4 @@ Trước khi hạ cấp hoặc hủy dịch vụ, kiểm tra dữ liệu nào s�
 
 ## Kết luận
 
-Với phần mềm cộng tác từ xa, bài toán quan trọng là cân bằng chi phí, quyền truy cập và sự linh hoạt khi nhóm thay đổi. Xác minh cách tính phí khách mời, quản lý chỗ ngồi và bảo vệ tài liệu trước khi thanh toán sẽ giúp dự án xuyên biên giới vận hành ổn định hơn.
+Với phần mềm cộng tác từ xa, bài toán quan trọng là cân bằng chi phí, quyền truy cập và sự linh hoạt khi nhóm thay đổi. Xác minh cách tính phí khách mời, quản lý chỗ ngồi và bảo vệ tài liệu trước khi thanh toán sẽ giúp dự án xuyên biên giới vận hành ổn định hơn.\n\nBạn có thể xem thêm thông tin về điều kiện sử dụng thẻ tại [CBPayments](https://www.cbpayments.cc/) trước khi xác nhận thanh toán cho phần mềm cộng tác.\n
