@@ -60,4 +60,6 @@ Trước khi thay đổi gói, đọc điều khoản về dữ liệu và quy�
 
 ## Kết luận
 
-Chọn phần mềm quản lý dự án không nên chỉ dựa vào giá niêm yết. Hãy so sánh mô hình tính phí, quy mô nhóm, chu kỳ thanh toán và điều kiện hủy trước khi xác nhận. Khi đã chọn được gói phù hợp, kiểm tra phương thức thanh toán và lưu chứng từ sẽ giúp kiểm soát ngân sách dài hạn.\n\nTrước khi thanh toán thực tế, hãy đối chiếu điều kiện mới nhất của nhà cung cấp và lựa chọn thẻ phù hợp tại [CBPayments](https://www.cbpayments.cc/).\n
+Chọn phần mềm quản lý dự án không nên chỉ dựa vào giá niêm yết. Hãy so sánh mô hình tính phí, quy mô nhóm, chu kỳ thanh toán và điều kiện hủy trước khi xác nhận. Khi đã chọn được gói phù hợp, kiểm tra phương thức thanh toán và lưu chứng từ sẽ giúp kiểm soát ngân sách dài hạn.
+
+Trước khi thanh toán thực tế, hãy đối chiếu điều kiện mới nhất của nhà cung cấp và lựa chọn thẻ phù hợp tại [CBPayments](https://www.cbpayments.cc/).
