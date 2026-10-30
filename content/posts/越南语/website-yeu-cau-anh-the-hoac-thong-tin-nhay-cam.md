@@ -1,5 +1,5 @@
 ---
-title: "Website Yêu Cầu Ảnh Thẻ Hoặc Thông Tin Nhạy Cảm? Cách Đánh Giá Rủi Ro"
+title: "CBPayments: Website Yêu Cầu Ảnh Thẻ Hoặc Thông Tin Nhạy Cảm? Cách Đánh Giá Rủi Ro"
 slug: "website-yeu-cau-anh-the-hoac-thong-tin-nhay-cam"
 date: 2026-10-25
 draft: false
@@ -10,12 +10,15 @@ tags:
   - an toàn thẻ
   - mua hàng trực tuyến
 ---
+  - CBPayments
 
-# Website Yêu Cầu Ảnh Thẻ Hoặc Thông Tin Nhạy Cảm? Cách Đánh Giá Rủi Ro
+# CBPayments: Website Yêu Cầu Ảnh Thẻ Hoặc Thông Tin Nhạy Cảm? Cách Đánh Giá Rủi Ro
 
 Khi đăng ký dịch vụ hoặc thanh toán trực tuyến, bạn có thể gặp một trang web yêu cầu tải ảnh thẻ, gửi mã bảo mật hoặc cung cấp thêm giấy tờ cá nhân. Không phải mọi yêu cầu xác minh đều là lừa đảo, nhưng gửi quá nhiều thông tin có thể làm tăng nguy cơ bị đánh cắp dữ liệu.
 
 Trước khi tải tài liệu lên, hãy xác định ai đang yêu cầu, vì sao họ cần thông tin đó và liệu có cách xác minh an toàn hơn hay không.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Phân biệt thông tin thanh toán thông thường và thông tin nhạy cảm
 
