@@ -9,9 +9,8 @@ tags:
   - khiếu nại giao dịch thẻ
   - tranh chấp thanh toán
   - bảo vệ chủ thẻ
----
   - CBPayments
-
+---
 # CBPayments: Cách Khiếu Nại Giao Dịch Thẻ: Hồ Sơ Cần Có Và Các Bước Thực Hiện
 
 Khi một giao dịch thẻ có vấn đề, nhiều người thường nghĩ rằng chỉ cần gọi ngân hàng là tiền sẽ được hoàn lại. Trên thực tế, bạn cần xác định đúng loại vấn đề, báo cáo đúng bên và chuẩn bị bằng chứng phù hợp. **Yêu cầu hoàn tiền với cửa hàng**, **tranh chấp giao dịch qua đơn vị phát hành thẻ** và **báo cáo giao dịch không được phép** là những quy trình khác nhau.
