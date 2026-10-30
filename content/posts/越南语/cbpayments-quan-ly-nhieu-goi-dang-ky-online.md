@@ -13,6 +13,8 @@ Các dịch vụ xem phim, nghe nhạc, lưu trữ đám mây, công cụ AI, ph
 
 Giải pháp không phải là ngừng dùng mọi dịch vụ đăng ký. Điều quan trọng là biết mình đang trả tiền cho những gì, ngày nào sẽ bị tính phí, phương thức thanh toán nào được sử dụng và cách hủy đúng quy trình. Bài viết này hướng dẫn một hệ thống quản lý đơn giản có thể duy trì lâu dài.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Bắt đầu bằng danh sách đăng ký đầy đủ
 
 Đừng chỉ dựa vào trí nhớ hoặc lịch sử giao dịch gần đây. Hãy lập một bảng tập trung và ghi lại tất cả dịch vụ đang có, kể cả những gói chỉ dùng thỉnh thoảng. Có thể dùng bảng tính, ứng dụng ghi chú hoặc lịch cá nhân; công cụ không quan trọng bằng việc thông tin được cập nhật thường xuyên.
