@@ -173,3 +173,9 @@ Trước khi hoàn tất đơn hàng, hãy kiểm tra:
 Mua khóa học trực tuyến từ nước ngoài sẽ dễ kiểm soát hơn khi bạn đánh giá chất lượng nội dung, xác minh nhà cung cấp và hiểu rõ toàn bộ chi phí trước khi thanh toán. Nếu giao dịch gặp lỗi, hãy kiểm tra trạng thái đơn hàng và giao dịch trước khi thử lại; nếu cần hoàn tiền, hãy lưu chứng từ và làm việc qua kênh hỗ trợ chính thức.
 
 Tìm hiểu phương thức thanh toán phù hợp là một phần của quá trình chuẩn bị. Dù chọn loại thẻ nào, hãy luôn kiểm tra điều kiện của đơn vị phát hành và chính sách thanh toán của nền tảng giáo dục trước khi xác nhận đơn hàng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về nền tảng học trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-nen-tang-hoc-truc-tuyen-khoa-hoc/)
+- [Tìm hiểu thêm về dịch vụ đăng ký học trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-nen-tang-hoc-truc-tuyen/)
+- [Tìm hiểu thêm về lệ phí thi chứng chỉ quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-le-phi-thi-chung-chi-quoc-te/)
