@@ -19,6 +19,8 @@ Các công cụ dịch thuật trực tuyến ngày càng được sử dụng r
 
 Để tránh những vấn đề này, điều quan trọng là hiểu rõ gói dịch vụ mình cần, kiểm tra điều kiện thanh toán và biết cách xử lý khi giao dịch không diễn ra như mong đợi.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định công cụ dịch thuật phù hợp với nhu cầu
 
 Trước khi mua thuê bao, hãy xác định bạn sử dụng công cụ để làm gì. Nhu cầu dịch một vài câu giao tiếp khác với việc dịch tài liệu kỹ thuật, nội dung website, tài liệu kinh doanh hoặc khối lượng văn bản lớn mỗi ngày.
