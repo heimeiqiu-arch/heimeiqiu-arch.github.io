@@ -98,3 +98,8 @@ Trước khi thanh toán cho dự án mới, hãy kiểm tra ngân sách, mốc 
 ## Kết luận
 
 Thanh toán dịch vụ dịch thuật và bản địa hóa an toàn bắt đầu từ phạm vi công việc rõ ràng, nhà cung cấp đáng tin cậy và tiêu chí nghiệm thu cụ thể. Hãy kiểm tra báo giá, xác minh người nhận tiền, lưu chứng từ và bảo vệ tài liệu nhạy cảm để giảm tranh chấp cũng như kiểm soát ngân sách.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ dịch thuật trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-dich-thuat-truc-tuyen-quoc-te/)
+- [Tìm hiểu thêm về tài nguyên số từ nhà cung cấp quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-tai-nguyen-thiet-ke-nuoc-ngoai/)
