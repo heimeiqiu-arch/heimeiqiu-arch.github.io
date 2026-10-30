@@ -1,5 +1,5 @@
 ---
-title: "Vì Sao Website Không Chấp Nhận Thẻ Ảo? Cách Kiểm Tra Trước Khi Thanh Toán"
+title: "CBPayments: Vì Sao Website Không Chấp Nhận Thẻ Ảo? Cách Kiểm Tra Trước Khi Thanh Toán"
 slug: "website-khong-chap-nhan-the-ao"
 date: 2026-10-25
 draft: false
@@ -10,12 +10,15 @@ tags:
   - thanh toán online
   - giao dịch thẻ bị từ chối
 ---
+  - CBPayments
 
-# Vì Sao Website Không Chấp Nhận Thẻ Ảo? Cách Kiểm Tra Trước Khi Thanh Toán
+# CBPayments: Vì Sao Website Không Chấp Nhận Thẻ Ảo? Cách Kiểm Tra Trước Khi Thanh Toán
 
 Bạn có thẻ ảo Visa hoặc Mastercard, thẻ vẫn còn hiệu lực và có đủ số dư, nhưng website báo “Card not supported”, “Payment method unavailable” hoặc từ chối thanh toán? Điều này không nhất thiết có nghĩa là thẻ bị lỗi.
 
 Một số nhà bán hàng giới hạn loại thẻ được chấp nhận theo chính sách rủi ro, quốc gia phát hành, loại giao dịch hoặc khả năng xác minh. Website có thể chấp nhận thẻ cho một lần mua hàng nhưng không hỗ trợ thẻ đó cho đăng ký định kỳ, tiền đặt cọc hoặc một số dịch vụ đặc biệt.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Xác định website từ chối loại thẻ hay từ chối giao dịch
 
