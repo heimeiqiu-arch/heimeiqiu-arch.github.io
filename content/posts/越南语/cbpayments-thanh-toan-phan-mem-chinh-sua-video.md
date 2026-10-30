@@ -119,3 +119,8 @@ Trước khi thay đổi gói hoặc hủy thuê bao, hãy kiểm tra những t�
 Để thanh toán phần mềm chỉnh sửa video quốc tế hiệu quả, hãy xác định tính năng cần dùng, so sánh tổng chi phí của các chu kỳ đăng ký và kiểm tra chính sách gia hạn trước khi mua. Khi giao dịch bị từ chối, hãy xác minh trạng thái thanh toán trước khi thử lại và liên hệ đúng đơn vị hỗ trợ.
 
 Nếu muốn tìm hiểu các lựa chọn thẻ Visa hoặc Mastercard cho thanh toán phần mềm, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) rồi xác nhận điều kiện chấp nhận thẻ với nhà cung cấp. Việc quản lý hóa đơn, quyền truy cập và ngày gia hạn sẽ giúp bạn hạn chế chi phí ngoài dự kiến.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ chỉnh sửa video](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-chinh-sua-video/)
+- [Tìm hiểu thêm về thư viện tài nguyên sáng tạo](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-kho-anh-giay-phep-tai-nguyen-sang-tao/)
