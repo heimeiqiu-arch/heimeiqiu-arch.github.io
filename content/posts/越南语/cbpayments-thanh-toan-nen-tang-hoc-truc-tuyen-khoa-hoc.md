@@ -13,6 +13,8 @@ Các nền tảng học trực tuyến giúp người học tiếp cận khóa h
 
 Cách xử lý tốt nhất không phải là thử thanh toán liên tục bằng nhiều thẻ. Trước tiên, hãy kiểm tra loại phí, điều kiện thanh toán và khả năng hỗ trợ thẻ của nền tảng. Bài viết này hướng dẫn từng bước để bạn thanh toán khóa học quốc tế an toàn và dễ quản lý hơn.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định cách tính phí trước khi mua
 
 Không phải khóa học trực tuyến nào cũng thu tiền theo cùng một cách. Trước khi nhập thông tin thanh toán, hãy xác định mô hình thu phí:
