@@ -13,6 +13,8 @@ Các công cụ đặt lịch trực tuyến giúp freelancer, chuyên gia tư v
 
 Tuy nhiên, khi đăng ký nền tảng quốc tế, một số người gặp khó khăn ở bước thanh toán: giao dịch bị từ chối, phương thức không được hỗ trợ hoặc khoản phí gia hạn không thành công. Hiểu rõ nguyên nhân giúp bạn chọn phương thức phù hợp và tránh thanh toán nhiều lần không cần thiết.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Vì sao công cụ đặt lịch yêu cầu thanh toán?
 
 Nhiều nền tảng có gói miễn phí cho các tính năng cơ bản. Khi cần nhiều lịch hẹn hơn, tích hợp ứng dụng hoặc quản lý nhóm, người dùng có thể phải nâng cấp. Các tính năng trả phí thường gồm đồng bộ nhiều lịch, email nhắc hẹn tự động, trang đặt lịch theo thương hiệu, phân quyền cho nhân viên và kết nối với hệ thống quản lý khách hàng.
