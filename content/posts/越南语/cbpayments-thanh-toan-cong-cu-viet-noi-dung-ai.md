@@ -2,7 +2,7 @@
 title: "CBPayments: Cách Thanh Toán Công Cụ Viết Nội Dung AI Quốc Tế"
 slug: "cbpayments-thanh-toan-cong-cu-viet-noi-dung-ai"
 date: 2026-10-30
-draft: false
+draft: true
 categories: ["Thanh toán quốc tế"]
 tags: ["công cụ viết nội dung AI", "AI writing assistant", "thanh toán SaaS", "CBPayments"]
 ---
