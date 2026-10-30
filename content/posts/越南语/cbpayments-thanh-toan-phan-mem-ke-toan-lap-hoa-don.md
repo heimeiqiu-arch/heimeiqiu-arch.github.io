@@ -13,6 +13,8 @@ Phần mềm kế toán và lập hóa đơn trực tuyến giúp cá nhân kinh
 
 Trước khi đăng ký, bạn nên xác định nhu cầu thực tế, kiểm tra tổng chi phí và hiểu cách thanh toán được xử lý. Việc chuẩn bị trước cũng giúp hạn chế tình trạng thuê bao bị gián đoạn hoặc phát sinh khoản phí ngoài dự kiến.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Chọn phần mềm phù hợp với quy trình kế toán
 
 Không phải công cụ nào cũng đáp ứng cùng một nhu cầu. Một số nền tảng tập trung vào lập hóa đơn và theo dõi thanh toán; những nền tảng khác còn có quản lý chi phí, đối chiếu ngân hàng, báo cáo tài chính và hỗ trợ nhiều loại tiền tệ.
