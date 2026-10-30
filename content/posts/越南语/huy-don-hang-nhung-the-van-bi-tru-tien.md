@@ -9,9 +9,8 @@ tags:
   - hủy đơn hàng
   - giao dịch thẻ
   - hoàn tiền
----
   - CBPayments
-
+---
 # CBPayments: Đã Hủy Đơn Hàng Nhưng Thẻ Vẫn Bị Trừ Tiền? Cách Xử Lý
 
 Bạn đã hủy đơn hàng nhưng ứng dụng ngân hàng vẫn hiển thị khoản tiền bị trừ? Điều này không nhất thiết có nghĩa là cửa hàng đã thu tiền cuối cùng hoặc yêu cầu hoàn tiền của bạn bị bỏ qua. Trước tiên, hãy xác định giao dịch đang ở trạng thái **chờ xử lý (pending)**, đã **hạch toán hoàn tất (posted/settled)** hay cửa hàng đã xác nhận hoàn tiền. Mỗi trạng thái cần một cách xử lý khác nhau.
