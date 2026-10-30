@@ -13,6 +13,8 @@ Phần mềm thiết kế đồ họa và chỉnh sửa ảnh được sử dụ
 
 Bài viết này hướng dẫn cách chọn gói, kiểm tra phương thức thanh toán và tránh những khoản phí không mong muốn. Nếu đang tìm hiểu phương thức thanh toán quốc tế cho phần mềm, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi kiểm tra điều kiện của nhà cung cấp.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Chọn công cụ dựa trên công việc thực tế
 
 Trước khi mua gói, hãy xác định công việc chính của bạn là thiết kế giao diện, chỉnh sửa ảnh, dựng nội dung mạng xã hội, minh họa hay làm việc theo nhóm. Mỗi công cụ có thế mạnh và cách tính phí khác nhau.
