@@ -64,3 +64,8 @@ Trước khi triển khai công khai, hãy thử biểu mẫu trên máy tính v
 ## Kết luận
 
 Để chọn công cụ tạo biểu mẫu trực tuyến phù hợp, hãy cân nhắc loại biểu mẫu, số phản hồi, logic điều kiện và cách quản lý dữ liệu. Kiểm tra giới hạn cùng điều khoản gia hạn trước khi thanh toán. Nếu cần tìm hiểu lựa chọn thẻ quốc tế, tham khảo [CBPayments](https://www.cbpayments.cc/) và xác nhận khả năng chấp nhận với nhà cung cấp cụ thể.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ khảo sát và thu thập phản hồi](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-bieu-mau-khao-sat-truc-tuyen/)
+- [Tìm hiểu thêm về công cụ tự động hóa quy trình](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-tu-dong-hoa-quy-trinh/)
