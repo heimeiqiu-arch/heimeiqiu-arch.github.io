@@ -13,6 +13,8 @@ Dịch vụ hosting và máy chủ đám mây là hạ tầng quan trọng đố
 
 Bài viết này giải thích các mô hình hosting phổ biến, những điểm cần kiểm tra trước khi thanh toán và cách xử lý các vấn đề thường gặp.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Chọn đúng loại dịch vụ trước khi thanh toán
 
 Tên gọi của các gói hosting có thể khác nhau giữa các nhà cung cấp. Hãy xác định nhu cầu kỹ thuật trước khi quyết định mua:
