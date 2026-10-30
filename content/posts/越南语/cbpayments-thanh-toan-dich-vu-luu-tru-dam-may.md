@@ -62,3 +62,9 @@ Bật xác thực đa yếu tố và chỉ chia sẻ tệp với những ngườ
 ## Kết luận
 
 Khi thanh toán dịch vụ lưu trữ đám mây, hãy chọn dung lượng dựa trên mức sử dụng thực tế, kiểm tra giá gia hạn và hiểu chính sách khi gói hết hạn. Sau khi nâng cấp, xác nhận dung lượng mới, bảo vệ quyền truy cập và giữ bản sao lưu độc lập. Nếu cần tìm hiểu phương thức thẻ cho dịch vụ quốc tế, tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra điều kiện của nhà cung cấp cụ thể.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về gói lưu trữ đám mây](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-luu-tru-dam-may/)
+- [Tìm hiểu thêm về sao lưu và khôi phục dữ liệu](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-luu-tru-dam-may-sao-luu-du-lieu/)
+- [Tìm hiểu thêm về dịch vụ cơ sở dữ liệu đám mây](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-co-so-du-lieu-dam-may/)
