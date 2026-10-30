@@ -9,9 +9,8 @@ tags:
   - đặt cọc khách sạn
   - tiền giữ trên thẻ
   - hoàn tiền thẻ
----
   - CBPayments
-
+---
 # CBPayments: Tiền Đặt Cọc Khách Sạn Chưa Được Hoàn Lại Vào Thẻ? Cách Kiểm Tra
 
 Sau khi trả phòng, khách sạn nói đã giải phóng tiền đặt cọc nhưng số dư khả dụng trên thẻ vẫn chưa trở lại bình thường? Trước tiên, hãy xác định khoản tiền đó là **ủy quyền tạm thời** hay **giao dịch đã thu hoàn tất**. Hai trường hợp này có cách xử lý khác nhau: khoản ủy quyền có thể được giải phóng, còn khoản đã hạch toán có thể cần một giao dịch hoàn tiền riêng.
