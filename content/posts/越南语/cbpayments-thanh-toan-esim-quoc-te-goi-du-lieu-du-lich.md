@@ -141,3 +141,8 @@ Cuối cùng, hãy lưu thông tin gói và ngày hết hạn. Việc kiểm tra
 Mua eSIM quốc tế sẽ thuận lợi hơn khi bạn kiểm tra tính tương thích của thiết bị, chọn đúng phạm vi sử dụng, hiểu thời hạn kích hoạt và xác nhận tổng chi phí trước khi trả tiền. Nếu giao dịch gặp lỗi, hãy kiểm tra trạng thái đơn hàng trước khi thử lại.
 
 Một phương thức thanh toán phù hợp cần đáp ứng yêu cầu của nhà cung cấp và điều kiện sử dụng của thẻ. Bạn có thể tìm hiểu thêm về các lựa chọn thanh toán quốc tế tại [CBPayments](https://www.cbpayments.cc/) và xác nhận chính sách của sản phẩm cụ thể trước khi thanh toán.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về thẻ thanh toán khi du lịch nước ngoài](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-the-khi-du-lich-nuoc-ngoai/)
+- [Tìm hiểu thêm về dịch vụ VPN và bảo mật mạng](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-vpn-cong-cu-bao-mat-mang/)
