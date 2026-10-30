@@ -100,3 +100,8 @@ Hai khoản tiền giống nhau trên ứng dụng thẻ có thể là giao dị
 Nếu xác nhận đã bị tính phí hai lần, hãy lưu bằng chứng, liên hệ người bán và yêu cầu đơn vị phát hành kiểm tra khi cần. Không thanh toán lại hoặc chia sẻ dữ liệu thẻ nhạy cảm khi chưa xác định rõ tình trạng giao dịch.
 
 Tìm hiểu thêm về các lựa chọn thanh toán tại [CBPayments](https://www.cbpayments.cc/) và luôn kiểm tra lịch sử giao dịch sau khi hoàn tất thanh toán.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về hủy đơn hàng nhưng thẻ vẫn bị trừ tiền](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/huy-don-hang-nhung-the-van-bi-tru-tien/)
+- [Tìm hiểu thêm về xử lý giao dịch lạ trên thẻ](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/phat-hien-giao-dich-la-tren-the-cac-buoc-can-lam/)
