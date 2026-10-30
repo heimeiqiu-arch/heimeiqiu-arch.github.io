@@ -13,6 +13,8 @@ Mua vé concert, lễ hội âm nhạc, trận đấu thể thao, triển lãm h
 
 Để tránh mất tiền hoặc mua nhầm, hãy chuẩn bị tài khoản và phương thức thanh toán trước, xác minh nhà bán vé, đọc kỹ điều kiện và chỉ thử thanh toán lại sau khi kiểm tra trạng thái giao dịch cũ. Bài viết này trình bày cách tiếp cận từng bước. Nếu cần tìm hiểu thêm về các phương án thẻ dùng cho giao dịch trực tuyến, bạn có thể xem thông tin tại [CBPayments](https://www.cbpayments.cc/) và xác nhận điều kiện áp dụng với website bán vé cụ thể.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Tìm đúng website bán vé chính thức
 
 Rủi ro đầu tiên không phải lúc nào cũng nằm ở thanh toán; đôi khi người mua đang ở nhầm website. Hãy bắt đầu từ website chính thức của nghệ sĩ, ban tổ chức, địa điểm tổ chức hoặc giải đấu để tìm liên kết bán vé được công bố. Nếu sự kiện sử dụng nền tảng bán vé đối tác, hãy kiểm tra xem nền tảng đó có được ban tổ chức xác nhận hay không.
