@@ -84,3 +84,8 @@ Không nên mua tài nguyên từ website không rõ nguồn gốc chỉ vì gi�
 Hãy phân biệt giữa quyền truy cập tài nguyên, quyền sử dụng tài nguyên và quyền sở hữu trí tuệ. Nếu dự án có quy mô lớn hoặc liên quan đến quảng cáo thương mại, hãy kiểm tra kỹ giấy phép và lưu chứng từ trước khi xuất bản.
 
 Nếu cần tìm hiểu phương thức thanh toán cho các thư viện sáng tạo quốc tế, bạn có thể tham khảo thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa/Mastercard tại https://www.cbpayments.cc/. Trước khi mua, hãy xác minh điều khoản cấp phép, chi phí thực tế và cách lưu bằng chứng quyền sử dụng để bảo vệ dự án của mình.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về tài nguyên thiết kế từ nhà cung cấp nước ngoài](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-tai-nguyen-thiet-ke-nuoc-ngoai/)
+- [Tìm hiểu thêm về phần mềm thiết kế đồ họa](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-thiet-ke-do-hoa/)
