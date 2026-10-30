@@ -13,6 +13,8 @@ Phần mềm kế toán và lập hóa đơn trực tuyến giúp freelancer, c�
 
 Trước khi đăng ký, bạn nên xác định nhu cầu sử dụng, kiểm tra tổng chi phí và tìm hiểu các phương thức thanh toán được nhà cung cấp hỗ trợ. Điều này giúp hạn chế lỗi giao dịch và tránh phát sinh chi phí không cần thiết.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Những tính năng nào đáng trả phí?
 
 Không phải doanh nghiệp nào cũng cần gói phần mềm cao cấp. Nếu chỉ cần lập một số hóa đơn đơn giản, gói miễn phí hoặc gói cơ bản có thể đã đủ.
