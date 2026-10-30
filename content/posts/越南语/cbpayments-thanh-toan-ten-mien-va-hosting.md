@@ -13,6 +13,8 @@ tags: ["CBPayments", "tên miền", "web hosting", "thanh toán hosting"]
 
 Nếu đang tìm hiểu lựa chọn thanh toán quốc tế cho các dịch vụ web, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi xác nhận điều kiện của nhà đăng ký tên miền hoặc nhà cung cấp hosting.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt tên miền và hosting
 
 Tên miền và hosting là hai dịch vụ khác nhau, dù nhiều nhà cung cấp bán chúng trong cùng một gói.
