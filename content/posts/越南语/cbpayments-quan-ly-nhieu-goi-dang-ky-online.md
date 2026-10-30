@@ -109,3 +109,8 @@ Trước khi kết thúc mỗi tháng, hãy chắc chắn rằng bạn có thể
 - Tôi có đủ số dư hoặc hạn mức cho các khoản quan trọng.
 
 Quản lý tốt các gói đăng ký là sự kết hợp giữa lịch nhắc, bảng theo dõi và thói quen xem lại giá trị sử dụng. Khi cần chọn phương thức thanh toán, hãy kiểm tra điều kiện thực tế của dịch vụ và thẻ thay vì chỉ dựa vào quảng cáo hoặc kinh nghiệm từ một giao dịch trước đó. Bạn có thể tham khảo thông tin về các lựa chọn thanh toán tại [CBPayments](https://www.cbpayments.cc/) và tự đối chiếu với nhu cầu, phí cũng như điều kiện sử dụng của mình.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về khoản phí phát sinh sau khi hết thời gian dùng thử](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/het-thoi-gian-dung-thu-mien-phi-bi-tru-tien/)
+- [Tìm hiểu thêm về lỗi gia hạn thanh toán định kỳ](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-dinh-ky-bi-loi-khi-gia-han-dich-vu/)
