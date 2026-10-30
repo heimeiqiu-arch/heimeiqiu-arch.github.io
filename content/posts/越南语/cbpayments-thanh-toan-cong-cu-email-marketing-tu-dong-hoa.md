@@ -4,7 +4,7 @@ slug: "cbpayments-thanh-toan-cong-cu-email-marketing-tu-dong-hoa"
 date: 2026-10-29
 draft: false
 categories: ["Thanh toán quốc tế"]
-tags: ["tự động hóa email", "email marketing automation", "thanh toán SaaS"]
+tags: ["tự động hóa email", "email marketing automation", "thanh toán SaaS", "CBPayments"]
 ---
 
 # CBPayments: Cách Thanh Toán Công Cụ Email Marketing Và Tự Động Hóa Email Quốc Tế
@@ -12,6 +12,8 @@ tags: ["tự động hóa email", "email marketing automation", "thanh toán Saa
 Công cụ tự động hóa email cho phép doanh nghiệp gửi chuỗi thư dựa trên hành động của người dùng, chẳng hạn đăng ký nhận bản tin, bỏ giỏ hàng hoặc hoàn thành một bước trong quy trình. Khác với công cụ gửi bản tin đơn giản, chi phí của nền tảng automation có thể phụ thuộc vào số liên hệ, lượng sự kiện, số bước tự động hóa hoặc tính năng phân nhánh.
 
 Bài viết này tập trung vào cách đánh giá chi phí của workflow email và tránh trả tiền cho những luồng tự động không thực sự cần thiết.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Xác định workflow cần tự động hóa
 
