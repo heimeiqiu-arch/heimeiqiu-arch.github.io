@@ -10,12 +10,15 @@ tags:
   - số dư khả dụng
   - lỗi thanh toán thẻ
 ---
+  - CBPayments
 
 # CBPayments: Vì Sao Thẻ Còn Đủ Tiền Nhưng Thanh Toán Online Vẫn Bị Từ Chối?
 
 Bạn kiểm tra ứng dụng và thấy thẻ vẫn còn tiền, nhưng khi mua hàng hoặc thanh toán một dịch vụ trực tuyến, website lại báo giao dịch thất bại. Nếu chỉ nhìn vào số dư, bạn có thể nghĩ hệ thống đang gặp lỗi. Trên thực tế, **có đủ tiền không đồng nghĩa với việc mọi giao dịch đều được chấp nhận**.
 
 Nguyên nhân có thể nằm ở số dư khả dụng, hạn mức, loại giao dịch, chính sách của người bán hoặc bước xác thực. Bài viết này hướng dẫn cách xác định nguyên nhân theo thứ tự, tránh thử đi thử lại và vô tình tạo thêm giao dịch đang chờ xử lý.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Kiểm tra số dư khả dụng thay vì chỉ nhìn số dư tổng
 
