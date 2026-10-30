@@ -13,6 +13,8 @@ Phần mềm quản lý ticket và hỗ trợ khách hàng giúp doanh nghiệp 
 
 Hướng dẫn dưới đây giúp bạn đánh giá gói dịch vụ, chuẩn bị thanh toán và xử lý các vấn đề thường gặp mà không làm gián đoạn hoạt động hỗ trợ.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định nhu cầu trước khi chọn gói
 
 Các nền tảng help desk có thể khác nhau đáng kể về tính năng. Trước khi đăng ký, hãy lập danh sách những gì đội ngũ thực sự cần:
