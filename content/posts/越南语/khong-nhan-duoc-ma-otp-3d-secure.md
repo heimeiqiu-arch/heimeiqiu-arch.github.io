@@ -77,3 +77,7 @@ Khi liên hệ, hãy chuẩn bị thời điểm giao dịch, tên người bán
 Không nhận được mã OTP 3D Secure có thể xuất phát từ thông tin liên hệ, bộ lọc tin nhắn, kết nối mạng hoặc sự cố xác minh tạm thời. Hãy kiểm tra từng nguyên nhân, sử dụng đúng kênh xác minh chính thức và tránh thử lại quá nhiều lần.
 
 Nếu thường xuyên thanh toán trực tuyến, việc hiểu rõ tính năng bảo mật và điều kiện sử dụng thẻ sẽ giúp bạn chủ động hơn khi gặp lỗi. Tìm hiểu thêm về các lựa chọn thanh toán tại [CBPayments](https://www.cbpayments.cc/) trước khi quyết định phương thức phù hợp với nhu cầu của mình.
+## Bài viết liên quan
+
+- [Vì sao thẻ bị từ chối khi thanh toán quốc tế?](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te/)
+- [Website không chấp nhận thẻ ảo: nguyên nhân và cách kiểm tra](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/website-khong-chap-nhan-the-ao/)
