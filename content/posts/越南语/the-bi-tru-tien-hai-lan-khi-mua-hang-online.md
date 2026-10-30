@@ -9,9 +9,8 @@ tags:
   - trừ tiền hai lần
   - giao dịch trùng lặp
   - thanh toán thẻ
----
   - CBPayments
-
+---
 # CBPayments: Thẻ Bị Trừ Tiền Hai Lần Khi Mua Hàng Online? Cách Xử Lý
 
 Bạn đặt hàng trực tuyến và thấy hai khoản tiền giống nhau trên ứng dụng thẻ? Trước khi lo lắng hoặc thanh toán thêm, hãy kiểm tra xem đó thực sự là hai giao dịch đã hoàn tất hay chỉ là một giao dịch cùng một khoản tạm giữ.
