@@ -9,9 +9,8 @@ tags:
   - hoàn tiền
   - refund
   - giao dịch thẻ
----
   - CBPayments
-
+---
 # CBPayments: Hoàn Tiền Thanh Toán Online Chậm Về? Cách Kiểm Tra Và Xử Lý
 
 Bạn đã hủy đơn hàng hoặc được người bán xác nhận hoàn tiền nhưng số dư thẻ vẫn chưa thay đổi? Đây là tình huống khá khó chịu, đặc biệt khi bạn cần sử dụng lại số tiền đó cho một giao dịch khác.
