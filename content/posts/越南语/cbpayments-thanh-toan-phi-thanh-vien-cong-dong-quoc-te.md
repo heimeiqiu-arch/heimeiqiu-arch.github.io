@@ -21,6 +21,8 @@ Nhiều cộng đồng chuyên môn và nền tảng thành viên quốc tế cu
 
 Bài viết này giải thích cách đánh giá gói thành viên, chuẩn bị phương thức thanh toán quốc tế và quản lý các khoản phí định kỳ một cách có tổ chức.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt các loại phí thành viên
 
 Trước khi đăng ký, hãy xác định nền tảng đang thu loại phí nào. Không phải mọi khoản thanh toán mang tên “membership” đều có cùng điều kiện.
