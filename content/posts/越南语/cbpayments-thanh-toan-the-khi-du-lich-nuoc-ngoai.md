@@ -126,3 +126,8 @@ Trước khi khởi hành, hãy hoàn thành danh sách sau:
 Thanh toán bằng thẻ ở nước ngoài không chỉ là vấn đề có đủ tiền hay không. Bạn cần hiểu tỷ giá, các loại phí, điều kiện của người bán và cách xử lý khoản đặt cọc hoặc giao dịch bị từ chối.
 
 Chuẩn bị trước sẽ giúp bạn kiểm soát chi phí tốt hơn và giảm nguy cơ gặp sự cố trong chuyến đi. Nếu đang so sánh phương thức thanh toán quốc tế, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra kỹ các điều kiện áp dụng trước khi lựa chọn.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về eSIM quốc tế và gói dữ liệu du lịch](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-esim-quoc-te-goi-du-lieu-du-lich/)
+- [Tìm hiểu thêm về cách tính tổng chi phí thanh toán quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-kiem-tra-tong-chi-phi-mua-hang-quoc-te/)
