@@ -9,9 +9,8 @@ tags:
   - thanh toán bằng thẻ
   - đơn hàng online
   - giao hàng
----
   - CBPayments
-
+---
 # CBPayments: Đã Thanh Toán Bằng Thẻ Nhưng Chưa Nhận Được Hàng? Hướng Dẫn Xử Lý
 
 Bạn đã thanh toán bằng thẻ nhưng đơn hàng vẫn chưa được giao, mã vận đơn không cập nhật hoặc dịch vụ kỹ thuật số chưa được kích hoạt? Đừng vội kết luận rằng giao dịch đã thất bại hay lập tức thanh toán lần thứ hai. Trước tiên, hãy xác định **tiền đã được ghi nhận hay chỉ đang chờ xử lý**, sau đó kiểm tra trạng thái đơn hàng với nhà bán hàng.
