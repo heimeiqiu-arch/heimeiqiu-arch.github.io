@@ -13,6 +13,8 @@ Khi mua hàng trên website nước ngoài hoặc thanh toán tại cửa hàng 
 
 Lựa chọn này có thể ảnh hưởng đến số tiền cuối cùng bị ghi nợ. Tuy nhiên, không phải lúc nào chọn nội tệ cũng rẻ hơn, và cũng không phải mọi giao dịch đều có cùng cơ chế chuyển đổi. Bạn cần hiểu ai đang thực hiện việc quy đổi, tỷ giá nào được áp dụng và khoản phí nào có thể phát sinh.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Nội tệ và ngoại tệ trong thanh toán là gì?
 
 Trong bài viết này, “nội tệ” được hiểu là đồng tiền quen thuộc hoặc đồng tiền của quốc gia nơi bạn sinh sống, còn “ngoại tệ” là đồng tiền mà người bán đang niêm yết hoặc thu tiền. Cách gọi này mang tính giải thích; trong một giao dịch cụ thể, nội tệ có thể khác nhau tùy nơi bạn đang ở và loại tài khoản thanh toán.
