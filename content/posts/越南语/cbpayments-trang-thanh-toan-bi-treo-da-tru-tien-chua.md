@@ -132,3 +132,9 @@ Nếu trang thường xuyên lỗi trên một trình duyệt, bạn có thể t
 Khi trang thanh toán bị treo, điều quan trọng nhất là không vội gửi lại yêu cầu thanh toán. Hãy kiểm tra riêng trạng thái đơn hàng và giao dịch, lưu thông tin cần thiết, rồi liên hệ đúng bên hỗ trợ nếu kết quả chưa rõ ràng. Cách làm này giúp giảm nguy cơ tạo đơn hàng hoặc giao dịch trùng lặp.
 
 Nếu đang tìm hiểu các lựa chọn thẻ phục vụ thanh toán online, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra kỹ tính năng, phí cũng như điều kiện hỗ trợ. Với mọi giao dịch đang gặp sự cố, hãy dựa vào trạng thái thực tế của người bán và đơn vị phát hành thay vì suy đoán từ màn hình bị treo.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về giao dịch thẻ ở trạng thái pending quá lâu](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/giao-dich-the-pending-qua-lau/)
+- [Tìm hiểu thêm về đơn hàng chưa được xác nhận sau thanh toán](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-thanh-cong-nhung-don-hang-chua-xac-nhan/)
+- [Tìm hiểu thêm về hoàn tiền thanh toán trực tuyến chậm](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/hoan-tien-thanh-toan-online-cham-ve/)
