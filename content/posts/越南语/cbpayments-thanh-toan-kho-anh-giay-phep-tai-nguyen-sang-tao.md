@@ -19,6 +19,8 @@ Nhà thiết kế, người làm video, chủ website và đội ngũ marketing 
 
 Khi mua tài nguyên trực tuyến, việc thanh toán thành công chỉ là một phần của quy trình. Người mua còn cần hiểu rõ giấy phép sử dụng, giới hạn tải xuống, điều kiện gia hạn và cách lưu chứng từ để chứng minh quyền sử dụng khi cần.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt tải tài nguyên và mua quyền sử dụng
 
 Không phải tài nguyên nào tải được cũng có thể sử dụng tùy ý. Một hình ảnh có thể cho phép sử dụng cá nhân nhưng không cho phép dùng trong quảng cáo. Một bản nhạc có thể được phép dùng trong video nhưng bị giới hạn trên một số nền tảng. Một phông chữ có thể được cấp phép cho máy tính cá nhân nhưng yêu cầu giấy phép riêng khi nhúng vào website hoặc ứng dụng.
