@@ -9,9 +9,8 @@ tags:
   - thanh toán bị từ chối
   - số dư khả dụng
   - lỗi thanh toán thẻ
----
   - CBPayments
-
+---
 # CBPayments: Vì Sao Thẻ Còn Đủ Tiền Nhưng Thanh Toán Online Vẫn Bị Từ Chối?
 
 Bạn kiểm tra ứng dụng và thấy thẻ vẫn còn tiền, nhưng khi mua hàng hoặc thanh toán một dịch vụ trực tuyến, website lại báo giao dịch thất bại. Nếu chỉ nhìn vào số dư, bạn có thể nghĩ hệ thống đang gặp lỗi. Trên thực tế, **có đủ tiền không đồng nghĩa với việc mọi giao dịch đều được chấp nhận**.
