@@ -140,3 +140,8 @@ Không nên làm vậy khi chưa hiểu nguyên nhân từ chối. Trước hế
 ## Kết luận
 
 Vượt hạn mức là một nguyên nhân có thể khiến thanh toán trực tuyến thất bại ngay cả khi thẻ còn tiền. Hãy phân biệt hạn mức mỗi giao dịch, hạn mức theo ngày và số dư khả dụng; sau đó kiểm tra cài đặt cùng trạng thái giao dịch trước khi thử lại. Hiểu rõ điều kiện của thẻ sẽ giúp bạn lập kế hoạch chi tiêu và giảm những lần thanh toán bị gián đoạn.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về trường hợp thẻ còn tiền nhưng vẫn bị từ chối](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-the-con-du-tien-thanh-toan-online-bi-tu-choi/)
+- [Tìm hiểu thêm về các nguyên nhân từ chối thanh toán quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te/)
