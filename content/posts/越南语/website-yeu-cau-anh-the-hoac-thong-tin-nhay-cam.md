@@ -81,3 +81,8 @@ Nếu bạn muốn tìm hiểu các lựa chọn thanh toán trực tuyến, hã
 Trước khi gửi ảnh thẻ hoặc giấy tờ, hãy xác minh tên miền, hiểu mục đích yêu cầu, biết tài liệu được gửi qua kênh nào và đọc chính sách xử lý dữ liệu. Nếu còn nghi ngờ, tạm dừng giao dịch và hỏi trực tiếp nhà cung cấp qua kênh độc lập.
 
 Bảo vệ dữ liệu cá nhân không chỉ là chọn phương thức thanh toán phù hợp mà còn là biết khi nào nên từ chối cung cấp thông tin. Hãy ưu tiên sự minh bạch và khả năng xác minh hơn những lời hứa hoặc lời thúc ép. Bạn có thể tham khảo thêm các giải pháp thanh toán tại [CBPayments](https://www.cbpayments.cc/) và tự kiểm tra xem chúng có đáp ứng nhu cầu bảo mật của mình không.
+## Bài viết liên quan
+
+- [Cách xử lý khi phát hiện giao dịch lạ trên thẻ](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/phat-hien-giao-dich-la-tren-the-cac-buoc-can-lam/)
+- [Vì sao thẻ bị từ chối khi thanh toán quốc tế?](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te/)
+- [Website không chấp nhận thẻ ảo: nguyên nhân thường gặp](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/website-khong-chap-nhan-the-ao/)
