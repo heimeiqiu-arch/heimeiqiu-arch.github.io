@@ -21,6 +21,8 @@ Tuy nhiên, nhiều dịch vụ API tính phí theo mức sử dụng, yêu cầ
 
 Bài viết này tập trung vào cách hiểu mô hình tính phí API, chuẩn bị phương thức thanh toán và quản lý chi phí sử dụng dịch vụ công nghệ quốc tế.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Hiểu cách nhà cung cấp tính phí API
 
 Trước khi thêm phương thức thanh toán, bạn cần xác định dịch vụ đang sử dụng mô hình tính phí nào. Các nhà cung cấp có thể áp dụng những cách tính khác nhau, và một tài khoản có thể kết hợp nhiều loại phí.
