@@ -2,7 +2,7 @@
 title: "CBPayments: Cách Thanh Toán Trợ Lý Lập Trình AI Quốc Tế"
 slug: "cbpayments-thanh-toan-tro-ly-lap-trinh-ai"
 date: 2026-10-30
-draft: false
+draft: true
 categories: ["Thanh toán quốc tế"]
 tags: ["trợ lý lập trình AI", "AI coding assistant", "phần mềm phát triển", "CBPayments"]
 ---
