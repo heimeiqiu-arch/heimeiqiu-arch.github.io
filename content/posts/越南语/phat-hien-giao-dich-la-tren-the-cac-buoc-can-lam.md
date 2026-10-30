@@ -1,5 +1,5 @@
 ---
-title: "Phát Hiện Giao Dịch Lạ Trên Thẻ? Các Bước Cần Làm Ngay"
+title: "CBPayments: Phát Hiện Giao Dịch Lạ Trên Thẻ? Các Bước Cần Làm Ngay"
 slug: "phat-hien-giao-dich-la-tren-the-cac-buoc-can-lam"
 date: 2026-10-25
 draft: false
@@ -10,12 +10,15 @@ tags:
   - bảo mật thẻ
   - thanh toán trực tuyến
 ---
+  - CBPayments
 
-# Phát Hiện Giao Dịch Lạ Trên Thẻ? Các Bước Cần Làm Ngay
+# CBPayments: Phát Hiện Giao Dịch Lạ Trên Thẻ? Các Bước Cần Làm Ngay
 
 Nếu bạn nhìn thấy một khoản thanh toán không nhận ra trong lịch sử thẻ, đừng vội kết luận đó chắc chắn là gian lận, nhưng cũng đừng bỏ qua. Tên đơn vị trên sao kê có thể khác tên thương hiệu, còn một số giao dịch có thể là khoản xác minh hoặc giao dịch đang chờ xử lý.
 
 Điều quan trọng là bảo vệ thẻ trước, sau đó xác minh giao dịch bằng các kênh chính thức.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Khóa hoặc tạm ngừng thẻ nếu có nguy cơ
 
