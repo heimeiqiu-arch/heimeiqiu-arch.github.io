@@ -9,9 +9,8 @@ tags:
   - hạn mức thẻ
   - thanh toán online
   - giao dịch bị từ chối
----
   - CBPayments
-
+---
 # CBPayments: Thanh Toán Online Vượt Hạn Mức Giao Dịch? Cách Kiểm Tra Và Xử Lý
 
 Bạn có đủ tiền trong thẻ nhưng vẫn không thanh toán được một đơn hàng trực tuyến? Một nguyên nhân có thể là giao dịch đã vượt hạn mức được áp dụng cho thẻ hoặc tài khoản thanh toán.
