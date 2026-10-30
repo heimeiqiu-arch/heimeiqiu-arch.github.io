@@ -22,6 +22,8 @@ Bài viết này hướng dẫn cách đọc tổng tiền trước khi xác nh�
 
 Nếu bạn thường xuyên thanh toán trên các website quốc tế, hãy tìm hiểu kỹ phương thức thanh toán phù hợp và các điều kiện liên quan tại https://www.cbpayments.cc/ trước khi sử dụng sản phẩm thẻ cho giao dịch cụ thể.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Vì sao giá sản phẩm khác tổng tiền thanh toán?
 
 Giá trên trang sản phẩm thường chỉ phản ánh giá cơ bản của hàng hóa hoặc dịch vụ. Tùy người bán, quốc gia giao hàng và loại sản phẩm, những khoản sau có thể được cộng thêm.
