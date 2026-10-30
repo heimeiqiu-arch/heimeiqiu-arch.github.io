@@ -65,3 +65,9 @@ Trước khi thay đổi gói, đọc điều khoản về dữ liệu và quy�
 Chọn phần mềm quản lý dự án không nên chỉ dựa vào giá niêm yết. Hãy so sánh mô hình tính phí, quy mô nhóm, chu kỳ thanh toán và điều kiện hủy trước khi xác nhận. Khi đã chọn được gói phù hợp, kiểm tra phương thức thanh toán và lưu chứng từ sẽ giúp kiểm soát ngân sách dài hạn.
 
 Trước khi thanh toán thực tế, hãy đối chiếu điều kiện mới nhất của nhà cung cấp và lựa chọn thẻ phù hợp tại [CBPayments](https://www.cbpayments.cc/).
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về quản lý dự án và công việc](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-quan-ly-du-an-cong-viec/)
+- [Tìm hiểu thêm về theo dõi tiến độ công việc](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-quan-ly-du-an-theo-doi-cong-viec/)
+- [Tìm hiểu thêm về cộng tác nhóm trong dự án](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-quan-ly-du-an-cong-tac/)
