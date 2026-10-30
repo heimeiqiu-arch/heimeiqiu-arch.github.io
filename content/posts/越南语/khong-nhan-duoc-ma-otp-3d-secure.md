@@ -9,9 +9,8 @@ tags:
   - 3D Secure
   - mã OTP
   - xác minh thẻ
----
   - CBPayments
-
+---
 # CBPayments: Không Nhận Được Mã OTP 3D Secure Khi Thanh Toán? Cách Xử Lý
 
 Khi thanh toán trực tuyến, bạn có thể được yêu cầu xác minh danh tính bằng 3D Secure. Tuy nhiên, đôi khi mã OTP không đến điện thoại hoặc email, khiến giao dịch bị gián đoạn. Tình trạng này không nhất thiết có nghĩa là thẻ bị khóa hoặc không thể sử dụng.
