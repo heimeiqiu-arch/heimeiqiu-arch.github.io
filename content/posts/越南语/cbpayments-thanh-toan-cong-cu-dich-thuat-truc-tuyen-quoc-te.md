@@ -86,3 +86,8 @@ Tài liệu đưa vào công cụ dịch có thể chứa hợp đồng, dữ li
 Trước khi đăng ký gói trả phí, hãy xác nhận đúng tài khoản, đúng gói và đúng chu kỳ thanh toán. Kiểm tra tổng tiền cuối cùng, thuế, hạn mức thẻ và bước xác minh bảo mật. Sau khi giao dịch thành công, lưu biên nhận và xác minh quyền sử dụng đã được kích hoạt.
 
 Nếu bạn đang tìm hiểu phương thức thanh toán cho các dịch vụ phần mềm quốc tế, có thể tham khảo thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa/Mastercard tại https://www.cbpayments.cc/. Quan trọng nhất vẫn là chọn đúng gói, đọc kỹ điều khoản gia hạn và bảo vệ dữ liệu trước khi sử dụng bất kỳ công cụ dịch thuật trực tuyến nào.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về dịch vụ dịch thuật và bản địa hóa](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-dich-thuat-ban-dia-hoa/)
+- [Tìm hiểu thêm về dịch vụ học ngôn ngữ với giáo viên quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-hoc-kem-ngon-ngu-giao-vien-quoc-te/)
