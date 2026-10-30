@@ -13,6 +13,8 @@ Học trực tuyến giúp người học tiếp cận các khóa học về l�
 
 Trước khi thanh toán, hãy xác định mục tiêu học tập, kiểm tra nội dung khóa học và đọc kỹ điều khoản mua hàng. Nếu bạn cần tìm hiểu thêm về các lựa chọn thanh toán quốc tế, có thể tham khảo [CBPayments](https://www.cbpayments.cc/) và đối chiếu điều kiện sử dụng với nền tảng học tập mà mình chọn.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Chọn hình thức mua khóa học phù hợp
 
 Các nền tảng học trực tuyến thường cung cấp nhiều mô hình thanh toán. Mỗi mô hình phù hợp với một nhu cầu khác nhau.
