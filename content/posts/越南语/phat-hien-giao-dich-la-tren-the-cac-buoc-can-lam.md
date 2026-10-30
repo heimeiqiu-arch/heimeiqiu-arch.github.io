@@ -9,9 +9,8 @@ tags:
   - giao dịch lạ
   - bảo mật thẻ
   - thanh toán trực tuyến
----
   - CBPayments
-
+---
 # CBPayments: Phát Hiện Giao Dịch Lạ Trên Thẻ? Các Bước Cần Làm Ngay
 
 Nếu bạn nhìn thấy một khoản thanh toán không nhận ra trong lịch sử thẻ, đừng vội kết luận đó chắc chắn là gian lận, nhưng cũng đừng bỏ qua. Tên đơn vị trên sao kê có thể khác tên thương hiệu, còn một số giao dịch có thể là khoản xác minh hoặc giao dịch đang chờ xử lý.
