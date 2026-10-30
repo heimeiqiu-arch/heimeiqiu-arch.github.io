@@ -92,3 +92,8 @@ CBPayments cung cấp thông tin về các lựa chọn thẻ ảo và thẻ v�
 Khi thanh toán định kỳ thất bại, hãy kiểm tra trạng thái đăng ký, lịch sử giao dịch, hạn mức và điều kiện của thẻ trước khi thử lại. Nếu chưa rõ giao dịch cũ đã hoàn tất hay chưa, đừng vội gửi thêm yêu cầu thanh toán.
 
 Để tìm hiểu các lựa chọn thanh toán trực tuyến, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/), đồng thời luôn đối chiếu yêu cầu thực tế của dịch vụ mà bạn đang đăng ký.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về quản lý các gói đăng ký đang hoạt động](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-quan-ly-nhieu-goi-dang-ky-online/)
+- [Tìm hiểu thêm về thẻ hết hạn làm gián đoạn đăng ký](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/the-het-han-khien-dang-ky-truc-tuyen-bi-gian-doan/)
