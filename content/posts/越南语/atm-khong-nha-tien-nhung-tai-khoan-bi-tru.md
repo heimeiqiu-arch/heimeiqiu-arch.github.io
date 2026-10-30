@@ -1,5 +1,5 @@
 ---
-title: "ATM Không Nhả Tiền Nhưng Tài Khoản Vẫn Bị Trừ? Cách Xử Lý"
+title: "CBPayments: ATM Không Nhả Tiền Nhưng Tài Khoản Vẫn Bị Trừ? Cách Xử Lý"
 slug: "atm-khong-nha-tien-nhung-tai-khoan-bi-tru"
 date: 2026-10-25
 draft: false
@@ -10,12 +10,15 @@ tags:
   - rút tiền bằng thẻ
   - tra soát giao dịch
 ---
+  - CBPayments
 
-# ATM Không Nhả Tiền Nhưng Tài Khoản Vẫn Bị Trừ? Cách Xử Lý
+# CBPayments: ATM Không Nhả Tiền Nhưng Tài Khoản Vẫn Bị Trừ? Cách Xử Lý
 
 Bạn vừa rút tiền tại ATM nhưng máy không nhả tiền, chỉ nhả một phần số tiền yêu cầu, hoặc màn hình báo lỗi trong khi ứng dụng thẻ vẫn hiển thị khoản bị trừ? Đừng vội thử rút lại nhiều lần. Hãy bảo đảm an toàn, ghi lại thông tin giao dịch và xác định khoản tiền đang chờ xử lý hay đã hạch toán.
 
 Sự cố có thể liên quan đến máy ATM, kết nối giữa các hệ thống hoặc việc giao dịch bị ghi nhận nhưng tiền mặt không được giao đầy đủ. Cách giải quyết phụ thuộc vào ngân hàng vận hành ATM, đơn vị phát hành thẻ và trạng thái giao dịch.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Việc cần làm ngay tại ATM
 
