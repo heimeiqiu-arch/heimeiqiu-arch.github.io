@@ -19,6 +19,8 @@ Máy chủ VPS hoặc cloud server thường được dùng để chạy website
 
 Bài viết này hướng dẫn cách chuẩn bị thanh toán, xử lý lỗi thường gặp và xây dựng quy trình gia hạn dễ kiểm soát hơn.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định chu kỳ thanh toán và thời điểm gia hạn
 
 Trước tiên, hãy đăng nhập bảng điều khiển của nhà cung cấp và kiểm tra ngày gia hạn, chu kỳ thanh toán, số tiền phải trả, loại tiền tệ và trạng thái máy chủ. Một số dịch vụ thu phí theo giờ hoặc theo mức sử dụng; số khác tính theo tháng, quý hoặc năm. Không nên mặc định mọi máy chủ đều có cùng ngày gia hạn.

@@ -19,6 +19,8 @@ Các công cụ dịch thuật trực tuyến ngày càng được sử dụng r
 
 Để tránh những vấn đề này, điều quan trọng là hiểu rõ gói dịch vụ mình cần, kiểm tra điều kiện thanh toán và biết cách xử lý khi giao dịch không diễn ra như mong đợi.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định công cụ dịch thuật phù hợp với nhu cầu
 
 Trước khi mua thuê bao, hãy xác định bạn sử dụng công cụ để làm gì. Nhu cầu dịch một vài câu giao tiếp khác với việc dịch tài liệu kỹ thuật, nội dung website, tài liệu kinh doanh hoặc khối lượng văn bản lớn mỗi ngày.
@@ -84,3 +86,8 @@ Tài liệu đưa vào công cụ dịch có thể chứa hợp đồng, dữ li
 Trước khi đăng ký gói trả phí, hãy xác nhận đúng tài khoản, đúng gói và đúng chu kỳ thanh toán. Kiểm tra tổng tiền cuối cùng, thuế, hạn mức thẻ và bước xác minh bảo mật. Sau khi giao dịch thành công, lưu biên nhận và xác minh quyền sử dụng đã được kích hoạt.
 
 Nếu bạn đang tìm hiểu phương thức thanh toán cho các dịch vụ phần mềm quốc tế, có thể tham khảo thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa/Mastercard tại https://www.cbpayments.cc/. Quan trọng nhất vẫn là chọn đúng gói, đọc kỹ điều khoản gia hạn và bảo vệ dữ liệu trước khi sử dụng bất kỳ công cụ dịch thuật trực tuyến nào.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về dịch vụ dịch thuật và bản địa hóa](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-dich-thuat-ban-dia-hoa/)
+- [Tìm hiểu thêm về dịch vụ học ngôn ngữ với giáo viên quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-hoc-kem-ngon-ngu-giao-vien-quoc-te/)

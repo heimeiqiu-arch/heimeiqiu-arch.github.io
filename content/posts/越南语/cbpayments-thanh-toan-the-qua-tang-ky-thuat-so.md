@@ -13,6 +13,8 @@ Thẻ quà tặng kỹ thuật số thường được sử dụng để nạp s
 
 Để giảm rủi ro, hãy xác minh người bán, kiểm tra khu vực áp dụng và đọc điều kiện sử dụng trước khi thanh toán. Đặc biệt, đừng cho rằng một mã quà tặng có thể sử dụng ở mọi quốc gia chỉ vì thương hiệu đó hoạt động trên toàn cầu. Nếu đang tìm hiểu các phương án thanh toán trực tuyến quốc tế, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra chính sách của website bán gift card trước khi đặt mua.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Thẻ quà tặng kỹ thuật số hoạt động như thế nào?
 
 Thẻ quà tặng kỹ thuật số thường là một mã hoặc mã điện tử có giá trị được xác định trước. Người mua có thể nhập mã vào tài khoản của nhà cung cấp để nạp số dư, đổi sản phẩm hoặc sử dụng cho dịch vụ đủ điều kiện.

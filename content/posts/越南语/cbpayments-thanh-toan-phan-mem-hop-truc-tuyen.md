@@ -13,6 +13,8 @@ Phần mềm họp trực tuyến được sử dụng để trao đổi với k
 
 Nếu đang tìm hiểu các lựa chọn thanh toán quốc tế, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi kiểm tra điều kiện của nhà cung cấp phần mềm họp trực tuyến.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định nhu cầu trước khi mua gói
 
 Không phải nhóm nào cũng cần gói doanh nghiệp. Trước tiên, hãy xác định cách bạn sử dụng phần mềm:

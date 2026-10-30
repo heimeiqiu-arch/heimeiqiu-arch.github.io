@@ -20,6 +20,8 @@ Một giao dịch trực tuyến an toàn không chỉ phụ thuộc vào việc
 
 Bài viết này giải thích những nguy cơ thường gặp khi thanh toán qua Wi-Fi công cộng, cách giảm thiểu rủi ro và những bước cần thực hiện nếu bạn nghi ngờ thông tin của mình đã bị lộ.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Wi-Fi công cộng có thực sự nguy hiểm không?
 
 Không phải tất cả mạng Wi-Fi công cộng đều không an toàn. Nhiều khách sạn, sân bay và doanh nghiệp sử dụng hệ thống mạng được quản lý tương đối tốt. Vấn đề nằm ở chỗ người dùng thường không biết chính xác ai đang vận hành mạng, cách mạng được cấu hình ra sao và liệu tên mạng mình kết nối có phải là mạng chính thức hay không.

@@ -9,8 +9,8 @@ tags:
   - thẻ trả trước
   - website không chấp nhận thẻ
   - thanh toán online
+  - CBPayments
 ---
-
 # CBPayments: Vì Sao Website Không Chấp Nhận Thẻ Trả Trước?
 
 Bạn nhập thông tin thẻ, kiểm tra số dư và làm theo hướng dẫn nhưng website vẫn báo phương thức thanh toán không được hỗ trợ. Một khả năng là người bán không chấp nhận loại thẻ bạn đang sử dụng.
@@ -18,6 +18,8 @@ Bạn nhập thông tin thẻ, kiểm tra số dư và làm theo hướng dẫn 
 Tuy nhiên, không nên kết luận ngay rằng mọi thẻ trả trước đều không dùng được trên website đó. Khả năng thanh toán còn phụ thuộc vào loại sản phẩm thẻ, cách người bán xử lý giao dịch, quốc gia phát hành và mục đích thanh toán.
 
 Bài viết này giải thích các khác biệt quan trọng và cách kiểm tra khả năng tương thích trước khi bạn thử lại.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Thẻ trả trước, thẻ ghi nợ, thẻ tín dụng và thẻ ảo khác nhau thế nào?
 

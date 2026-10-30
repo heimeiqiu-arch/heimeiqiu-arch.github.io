@@ -13,6 +13,8 @@ Các dịch vụ xem phim, nghe nhạc, lưu trữ đám mây, công cụ AI, ph
 
 Giải pháp không phải là ngừng dùng mọi dịch vụ đăng ký. Điều quan trọng là biết mình đang trả tiền cho những gì, ngày nào sẽ bị tính phí, phương thức thanh toán nào được sử dụng và cách hủy đúng quy trình. Bài viết này hướng dẫn một hệ thống quản lý đơn giản có thể duy trì lâu dài.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Bắt đầu bằng danh sách đăng ký đầy đủ
 
 Đừng chỉ dựa vào trí nhớ hoặc lịch sử giao dịch gần đây. Hãy lập một bảng tập trung và ghi lại tất cả dịch vụ đang có, kể cả những gói chỉ dùng thỉnh thoảng. Có thể dùng bảng tính, ứng dụng ghi chú hoặc lịch cá nhân; công cụ không quan trọng bằng việc thông tin được cập nhật thường xuyên.
@@ -107,3 +109,8 @@ Trước khi kết thúc mỗi tháng, hãy chắc chắn rằng bạn có thể
 - Tôi có đủ số dư hoặc hạn mức cho các khoản quan trọng.
 
 Quản lý tốt các gói đăng ký là sự kết hợp giữa lịch nhắc, bảng theo dõi và thói quen xem lại giá trị sử dụng. Khi cần chọn phương thức thanh toán, hãy kiểm tra điều kiện thực tế của dịch vụ và thẻ thay vì chỉ dựa vào quảng cáo hoặc kinh nghiệm từ một giao dịch trước đó. Bạn có thể tham khảo thông tin về các lựa chọn thanh toán tại [CBPayments](https://www.cbpayments.cc/) và tự đối chiếu với nhu cầu, phí cũng như điều kiện sử dụng của mình.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về khoản phí phát sinh sau khi hết thời gian dùng thử](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/het-thoi-gian-dung-thu-mien-phi-bi-tru-tien/)
+- [Tìm hiểu thêm về lỗi gia hạn thanh toán định kỳ](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-dinh-ky-bi-loi-khi-gia-han-dich-vu/)

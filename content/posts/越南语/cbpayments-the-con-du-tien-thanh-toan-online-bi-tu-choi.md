@@ -9,13 +9,15 @@ tags:
   - thanh toán bị từ chối
   - số dư khả dụng
   - lỗi thanh toán thẻ
+  - CBPayments
 ---
-
 # CBPayments: Vì Sao Thẻ Còn Đủ Tiền Nhưng Thanh Toán Online Vẫn Bị Từ Chối?
 
 Bạn kiểm tra ứng dụng và thấy thẻ vẫn còn tiền, nhưng khi mua hàng hoặc thanh toán một dịch vụ trực tuyến, website lại báo giao dịch thất bại. Nếu chỉ nhìn vào số dư, bạn có thể nghĩ hệ thống đang gặp lỗi. Trên thực tế, **có đủ tiền không đồng nghĩa với việc mọi giao dịch đều được chấp nhận**.
 
 Nguyên nhân có thể nằm ở số dư khả dụng, hạn mức, loại giao dịch, chính sách của người bán hoặc bước xác thực. Bài viết này hướng dẫn cách xác định nguyên nhân theo thứ tự, tránh thử đi thử lại và vô tình tạo thêm giao dịch đang chờ xử lý.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Kiểm tra số dư khả dụng thay vì chỉ nhìn số dư tổng
 
@@ -112,3 +114,9 @@ Bạn có thể tham khảo thông tin về các lựa chọn thẻ tại [CBPay
 Khi thẻ còn tiền nhưng thanh toán vẫn thất bại, hãy lần lượt kiểm tra số dư khả dụng, hạn mức, phí ngoại tệ, chính sách của người bán và trạng thái xác thực. Nếu giao dịch đang chờ xử lý, đừng vội thanh toán lại trước khi xác minh.
 
 Nếu bạn đang so sánh phương thức thanh toán cho các dịch vụ trực tuyến, hãy xem thông tin tại [CBPayments](https://www.cbpayments.cc/) và đối chiếu điều kiện của sản phẩm với yêu cầu cụ thể của người bán trước khi quyết định.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về nguyên nhân thẻ bị từ chối khi thanh toán quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te/)
+- [Tìm hiểu thêm về cách kiểm tra hạn mức giao dịch](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-online-vuot-han-muc-giao-dich/)
+- [Tìm hiểu thêm về lỗi địa chỉ thanh toán không khớp](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/dia-chi-thanh-toan-khong-khop/)

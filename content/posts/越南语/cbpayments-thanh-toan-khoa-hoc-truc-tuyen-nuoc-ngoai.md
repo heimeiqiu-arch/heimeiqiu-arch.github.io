@@ -13,6 +13,8 @@ Các khóa học trực tuyến từ nước ngoài giúp người học tiếp 
 
 Để tránh mất tiền hoặc mua nhầm chương trình, bạn nên kiểm tra cả nội dung khóa học lẫn điều kiện thanh toán trước khi đặt mua. Bài viết này hướng dẫn cách đánh giá nhà cung cấp, chuẩn bị phương thức thanh toán và xử lý các vấn đề thường gặp. Nếu bạn đang tìm hiểu những phương án thanh toán trực tuyến quốc tế, có thể tham khảo thông tin tại [CBPayments](https://www.cbpayments.cc/) rồi kiểm tra xem phương thức phù hợp có được nền tảng giáo dục mà bạn chọn chấp nhận hay không.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Kiểm tra chất lượng và nội dung khóa học
 
 Trước tiên, hãy xác định khóa học có thực sự phù hợp với mục tiêu của bạn. Đừng chỉ dựa vào quảng cáo, số lượng học viên hoặc lời hứa về kết quả nhanh chóng. Một khóa học tốt nên có mô tả rõ ràng về nội dung, trình độ đầu vào, thời lượng, phương pháp giảng dạy và kết quả học tập dự kiến.
@@ -171,3 +173,9 @@ Trước khi hoàn tất đơn hàng, hãy kiểm tra:
 Mua khóa học trực tuyến từ nước ngoài sẽ dễ kiểm soát hơn khi bạn đánh giá chất lượng nội dung, xác minh nhà cung cấp và hiểu rõ toàn bộ chi phí trước khi thanh toán. Nếu giao dịch gặp lỗi, hãy kiểm tra trạng thái đơn hàng và giao dịch trước khi thử lại; nếu cần hoàn tiền, hãy lưu chứng từ và làm việc qua kênh hỗ trợ chính thức.
 
 Tìm hiểu phương thức thanh toán phù hợp là một phần của quá trình chuẩn bị. Dù chọn loại thẻ nào, hãy luôn kiểm tra điều kiện của đơn vị phát hành và chính sách thanh toán của nền tảng giáo dục trước khi xác nhận đơn hàng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về nền tảng học trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-nen-tang-hoc-truc-tuyen-khoa-hoc/)
+- [Tìm hiểu thêm về dịch vụ đăng ký học trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-nen-tang-hoc-truc-tuyen/)
+- [Tìm hiểu thêm về lệ phí thi chứng chỉ quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-le-phi-thi-chung-chi-quoc-te/)

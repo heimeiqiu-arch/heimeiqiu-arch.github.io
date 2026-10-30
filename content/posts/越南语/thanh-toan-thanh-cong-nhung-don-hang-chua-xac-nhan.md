@@ -1,5 +1,5 @@
 ---
-title: "Đã Thanh Toán Nhưng Đơn Hàng Chưa Được Xác Nhận? Cách Xử Lý"
+title: "CBPayments: Đã Thanh Toán Nhưng Đơn Hàng Chưa Được Xác Nhận? Cách Xử Lý"
 description: "Tìm hiểu cần làm gì khi ngân hàng hiển thị giao dịch nhưng website chưa xác nhận đơn hàng, cách kiểm tra trạng thái và tránh thanh toán trùng."
 slug: "thanh-toan-thanh-cong-nhung-don-hang-chua-xac-nhan"
 date: 2026-10-24
@@ -7,11 +7,13 @@ categories: ["Thanh toán trực tuyến"]
 tags: ["đơn hàng trực tuyến", "trạng thái thanh toán", "giao dịch thẻ", "CBPayments"]
 ---
 
-# Đã Thanh Toán Nhưng Đơn Hàng Chưa Được Xác Nhận? Cách Xử Lý
+# CBPayments: Đã Thanh Toán Nhưng Đơn Hàng Chưa Được Xác Nhận? Cách Xử Lý
 
 Bạn vừa mua hàng trực tuyến, ứng dụng ngân hàng đã gửi thông báo giao dịch, nhưng website vẫn hiển thị “Đang xử lý” hoặc không có đơn hàng trong lịch sử mua sắm. Bạn có nên bấm thanh toán lần nữa không?
 
 Trong tình huống này, điều quan trọng nhất là **không vội thanh toán lại khi chưa xác định trạng thái giao dịch đầu tiên**. Thông báo từ ngân hàng và xác nhận đơn hàng từ người bán là hai thông tin khác nhau. Đôi khi hệ thống thanh toán đã tiếp nhận yêu cầu nhưng website chưa kịp cập nhật kết quả.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Vì sao ngân hàng hiển thị giao dịch nhưng đơn hàng chưa được xác nhận?
 
@@ -92,3 +94,8 @@ Bạn có thể tìm hiểu các lựa chọn thẻ ảo và thẻ vật lý t�
 Khi ngân hàng hiển thị giao dịch nhưng website chưa xác nhận đơn hàng, hãy kiểm tra cả hai phía trước khi thanh toán lại. Lưu thông tin giao dịch, liên hệ người bán và xác minh trạng thái với đơn vị phát hành nếu cần là cách xử lý an toàn hơn.
 
 Để tìm hiểu thêm về các lựa chọn thanh toán trực tuyến, bạn có thể truy cập [CBPayments](https://www.cbpayments.cc/) và xem điều kiện sử dụng cụ thể của từng sản phẩm.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về đã thanh toán nhưng chưa nhận được hàng](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/da-thanh-toan-nhung-chua-nhan-duoc-hang/)
+- [Tìm hiểu thêm về giao dịch pending kéo dài](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/giao-dich-the-pending-qua-lau/)

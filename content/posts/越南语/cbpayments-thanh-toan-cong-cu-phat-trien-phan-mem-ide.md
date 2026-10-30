@@ -19,6 +19,8 @@ Lập trình viên thường sử dụng nhiều công cụ quốc tế như IDE
 
 Dưới đây là quy trình thực tế để chọn gói và xử lý các lỗi thanh toán phổ biến.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt giấy phép cá nhân, nhóm và doanh nghiệp
 
 Trước khi mua, hãy xác định công cụ sẽ được dùng cho dự án cá nhân, công việc tự do hay một nhóm phát triển. Gói cá nhân thường gắn với một người dùng; gói nhóm có thể cho phép quản lý thành viên và chia sẻ thiết lập; gói doanh nghiệp có thể bổ sung kiểm soát bảo mật, quản trị giấy phép hoặc hỗ trợ chuyên biệt.

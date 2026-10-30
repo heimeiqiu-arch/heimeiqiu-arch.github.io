@@ -21,6 +21,8 @@ Nhiều chứng chỉ quốc tế trong lĩnh vực công nghệ, quản lý d�
 
 Bài viết này hướng dẫn cách chuẩn bị thông tin, kiểm tra phương thức thanh toán và xử lý những tình huống thường gặp khi đăng ký thi chứng chỉ quốc tế trực tuyến.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác minh thông tin kỳ thi trước khi thanh toán
 
 Trước khi nhập thông tin thẻ, hãy chắc chắn rằng bạn đang đăng ký đúng kỳ thi và đúng loại chứng chỉ.

@@ -19,6 +19,8 @@ Nhà thiết kế, người làm video, chủ website và đội ngũ marketing 
 
 Khi mua tài nguyên trực tuyến, việc thanh toán thành công chỉ là một phần của quy trình. Người mua còn cần hiểu rõ giấy phép sử dụng, giới hạn tải xuống, điều kiện gia hạn và cách lưu chứng từ để chứng minh quyền sử dụng khi cần.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt tải tài nguyên và mua quyền sử dụng
 
 Không phải tài nguyên nào tải được cũng có thể sử dụng tùy ý. Một hình ảnh có thể cho phép sử dụng cá nhân nhưng không cho phép dùng trong quảng cáo. Một bản nhạc có thể được phép dùng trong video nhưng bị giới hạn trên một số nền tảng. Một phông chữ có thể được cấp phép cho máy tính cá nhân nhưng yêu cầu giấy phép riêng khi nhúng vào website hoặc ứng dụng.
@@ -82,3 +84,8 @@ Không nên mua tài nguyên từ website không rõ nguồn gốc chỉ vì gi�
 Hãy phân biệt giữa quyền truy cập tài nguyên, quyền sử dụng tài nguyên và quyền sở hữu trí tuệ. Nếu dự án có quy mô lớn hoặc liên quan đến quảng cáo thương mại, hãy kiểm tra kỹ giấy phép và lưu chứng từ trước khi xuất bản.
 
 Nếu cần tìm hiểu phương thức thanh toán cho các thư viện sáng tạo quốc tế, bạn có thể tham khảo thông tin về thẻ ảo và thẻ vật lý hỗ trợ Visa/Mastercard tại https://www.cbpayments.cc/. Trước khi mua, hãy xác minh điều khoản cấp phép, chi phí thực tế và cách lưu bằng chứng quyền sử dụng để bảo vệ dự án của mình.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về tài nguyên thiết kế từ nhà cung cấp nước ngoài](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-tai-nguyen-thiet-ke-nuoc-ngoai/)
+- [Tìm hiểu thêm về phần mềm thiết kế đồ họa](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-thiet-ke-do-hoa/)

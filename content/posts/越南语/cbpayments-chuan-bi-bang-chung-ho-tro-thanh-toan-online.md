@@ -22,6 +22,8 @@ Cách hiệu quả hơn là chuẩn bị một bộ bằng chứng ngắn gọn,
 
 Nếu bạn sử dụng thẻ để thanh toán dịch vụ quốc tế, hãy tham khảo thông tin sản phẩm và điều kiện sử dụng tại https://www.cbpayments.cc/ để biết những kênh hỗ trợ phù hợp với nhu cầu của mình.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định chính xác vấn đề trước khi gửi yêu cầu
 
 Trước khi liên hệ hỗ trợ, hãy xác định điều gì thực sự xảy ra. Không phải mọi sự cố thanh toán đều có cùng nguyên nhân hoặc cần cùng một quy trình xử lý.

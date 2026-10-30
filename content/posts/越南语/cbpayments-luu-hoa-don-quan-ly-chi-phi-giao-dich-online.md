@@ -13,6 +13,8 @@ Khi mua phần mềm, trả phí công cụ AI, đăng ký dịch vụ đám mâ
 
 Vấn đề này đặc biệt phổ biến với người làm việc tự do, chủ cửa hàng trực tuyến, nhóm nhỏ và những người sử dụng nhiều dịch vụ trả phí. Cách giải quyết không nhất thiết phải là mua phần mềm kế toán phức tạp. Một quy trình lưu chứng từ đơn giản, có cấu trúc và được cập nhật đều đặn có thể giúp tiết kiệm thời gian, phát hiện khoản phí bất thường và giải thích giao dịch dễ dàng hơn.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Vì sao cần lưu hóa đơn và bằng chứng thanh toán?
 
 Hóa đơn và chứng từ thanh toán không chỉ dùng cho kế toán. Chúng còn giúp bạn xác định mình đã mua gì, thanh toán cho ai, vào thời điểm nào và theo điều kiện nào.

@@ -19,6 +19,8 @@ Phần mềm email marketing giúp doanh nghiệp gửi bản tin, thông báo s
 
 Đăng ký gói trả phí của một nền tảng quốc tế có thể mở rộng khả năng tiếp thị, nhưng cũng đi kèm những câu hỏi về cách tính phí, thanh toán định kỳ, giới hạn gửi và bảo vệ dữ liệu. Bài viết này giúp bạn kiểm tra những điểm quan trọng trước khi mua.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Hiểu cách nền tảng tính phí
 
 Mỗi dịch vụ email marketing có thể áp dụng mô hình giá khác nhau. Một số tính theo số lượng liên hệ trong danh sách, số email gửi mỗi tháng hoặc số người dùng quản trị. Những dịch vụ khác chia gói theo tính năng.
@@ -105,3 +107,8 @@ Khi ngừng sử dụng dịch vụ, hãy hủy thuê bao theo quy trình chính
 - Đã biết cách liên hệ hỗ trợ và hủy thuê bao.
 
 Chọn đúng gói email marketing giúp bạn kiểm soát chi phí và tránh gián đoạn các chiến dịch. Nếu cần tìm hiểu thêm về phương thức thẻ dành cho thanh toán quốc tế, hãy tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra điều khoản mới nhất trước khi sử dụng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ email marketing](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-email-marketing/)
+- [Tìm hiểu thêm về tự động hóa chiến dịch email](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-email-marketing-tu-dong-hoa/)

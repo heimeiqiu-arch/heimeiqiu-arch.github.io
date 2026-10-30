@@ -13,6 +13,8 @@ Dịch vụ VPN và các công cụ bảo mật mạng có thể giúp mã hóa 
 
 VPN không khiến người dùng hoàn toàn ẩn danh và cũng không thay thế các biện pháp bảo mật khác. Trước khi trả phí, hãy đánh giá nhu cầu, đọc điều khoản của nhà cung cấp và xác minh cách thanh toán được chấp nhận.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định bạn thực sự cần công cụ nào
 
 VPN, trình quản lý mật khẩu, phần mềm bảo vệ thiết bị và công cụ truy cập từ xa giải quyết những vấn đề khác nhau. Trước khi mua gói, hãy xác định mục đích sử dụng thay vì chỉ chọn dịch vụ có nhiều tính năng nhất.

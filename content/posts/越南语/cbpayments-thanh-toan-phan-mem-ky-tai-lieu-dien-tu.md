@@ -13,6 +13,8 @@ Phần mềm ký tài liệu điện tử giúp cá nhân và doanh nghiệp g�
 
 Trước khi mua, hãy xác định phần mềm có đáp ứng yêu cầu pháp lý và quy trình công việc của bạn không. Nếu cần tìm hiểu các lựa chọn thanh toán quốc tế, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi kiểm tra điều kiện của nhà cung cấp phần mềm.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt các loại chữ ký điện tử
 
 Không phải mọi công cụ ký tài liệu đều có cùng chức năng hoặc giá trị pháp lý. Tùy theo quốc gia, loại tài liệu và mục đích sử dụng, yêu cầu về nhận dạng người ký, xác minh danh tính và lưu trữ bằng chứng có thể khác nhau.

@@ -13,6 +13,8 @@ Khi sử dụng nhiều dịch vụ trực tuyến, việc ghi nhớ hàng chụ
 
 Nhiều dịch vụ quốc tế cung cấp gói trả phí cho cá nhân, gia đình hoặc nhóm làm việc. Khi đăng ký từ quốc gia khác, người dùng có thể gặp vấn đề về thẻ, tiền tệ hoặc gia hạn tự động. Kiểm tra trước giúp lựa chọn gói phù hợp và giảm rủi ro phát sinh chi phí.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Khi nào nên sử dụng gói trả phí?
 
 Gói miễn phí có thể phù hợp với người chỉ cần lưu một số thông tin đăng nhập cơ bản. Gói trả phí thường dành cho người cần đồng bộ nhiều thiết bị, chia sẻ an toàn, quản lý nhóm hoặc các tính năng bảo mật nâng cao.

@@ -1,5 +1,5 @@
 ---
-title: "Đã Thanh Toán Bằng Thẻ Nhưng Chưa Nhận Được Hàng? Hướng Dẫn Xử Lý"
+title: "CBPayments: Đã Thanh Toán Bằng Thẻ Nhưng Chưa Nhận Được Hàng? Hướng Dẫn Xử Lý"
 slug: "da-thanh-toan-nhung-chua-nhan-duoc-hang"
 date: 2026-10-25
 draft: false
@@ -9,13 +9,15 @@ tags:
   - thanh toán bằng thẻ
   - đơn hàng online
   - giao hàng
+  - CBPayments
 ---
-
-# Đã Thanh Toán Bằng Thẻ Nhưng Chưa Nhận Được Hàng? Hướng Dẫn Xử Lý
+# CBPayments: Đã Thanh Toán Bằng Thẻ Nhưng Chưa Nhận Được Hàng? Hướng Dẫn Xử Lý
 
 Bạn đã thanh toán bằng thẻ nhưng đơn hàng vẫn chưa được giao, mã vận đơn không cập nhật hoặc dịch vụ kỹ thuật số chưa được kích hoạt? Đừng vội kết luận rằng giao dịch đã thất bại hay lập tức thanh toán lần thứ hai. Trước tiên, hãy xác định **tiền đã được ghi nhận hay chỉ đang chờ xử lý**, sau đó kiểm tra trạng thái đơn hàng với nhà bán hàng.
 
 Cách xử lý sẽ khác nhau giữa hàng vật lý, sản phẩm số và dịch vụ đăng ký. Bài viết dưới đây giúp bạn đi theo đúng trình tự, chuẩn bị bằng chứng và biết khi nào nên yêu cầu hỗ trợ từ đơn vị phát hành thẻ.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Trước tiên, xác định vấn đề nằm ở đâu
 
@@ -128,3 +130,8 @@ Không có một thời hạn chung cho mọi cửa hàng, đơn vị vận chuy
 Khi thanh toán thành công nhưng chưa nhận được hàng, đừng vội trả tiền lần nữa. Hãy xác định trạng thái giao dịch, kiểm tra hệ thống đơn hàng, xử lý theo loại hàng hóa và lưu bằng chứng trao đổi. Nếu vấn đề không được giải quyết, liên hệ đơn vị phát hành thẻ sớm để hiểu rõ thời hạn và quy trình khiếu nại.
 
 Tìm hiểu thêm về các lựa chọn thẻ phục vụ thanh toán trực tuyến tại [CBPayments](https://www.cbpayments.cc/).
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về đơn hàng chưa được xác nhận dù thanh toán thành công](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-thanh-cong-nhung-don-hang-chua-xac-nhan/)
+- [Tìm hiểu thêm về cách kiểm tra khi trang thanh toán bị treo](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-trang-thanh-toan-bi-treo-da-tru-tien-chua/)

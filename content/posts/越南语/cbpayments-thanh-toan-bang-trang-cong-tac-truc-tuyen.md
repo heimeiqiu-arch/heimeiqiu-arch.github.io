@@ -19,6 +19,8 @@ Các công cụ bảng trắng trực tuyến giúp nhóm phân tán cùng lên 
 
 Bài viết này hướng dẫn cách chọn gói, chuẩn bị thanh toán và xử lý lỗi thường gặp một cách có hệ thống.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định nhu cầu trước khi mua gói trả phí
 
 Không phải nhóm nào cũng cần gói cao cấp. Trước khi nhập thông tin thanh toán, hãy xác định số người sử dụng, số bảng cần tạo và những tính năng thực sự cần thiết.
@@ -94,3 +96,8 @@ Nếu nhóm ngừng sử dụng dịch vụ, hãy hủy gói trước ngày gia 
 - Biết nơi tìm hóa đơn và liên hệ hỗ trợ nếu có sự cố.
 
 Thanh toán cho công cụ cộng tác trực tuyến sẽ dễ quản lý hơn khi bạn kiểm tra cả nhu cầu sử dụng lẫn điều kiện giao dịch trước khi mua. Để tìm hiểu thêm về các lựa chọn thẻ dành cho chi tiêu quốc tế, hãy xem thông tin tại [CBPayments](https://www.cbpayments.cc/) và xác minh các điều khoản mới nhất trước khi sử dụng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ bảng trắng trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-bang-trang-truc-tuyen/)
+- [Tìm hiểu thêm về phần mềm cộng tác nhóm](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-quan-ly-du-an-cong-tac/)

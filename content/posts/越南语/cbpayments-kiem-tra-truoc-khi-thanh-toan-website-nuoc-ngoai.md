@@ -13,6 +13,8 @@ Mua hàng hoặc đăng ký dịch vụ trên website nước ngoài giúp ngư�
 
 Một quy trình kiểm tra ngắn trước khi bấm nút thanh toán có thể giảm rủi ro, tránh các khoản phí không dự kiến và giúp xử lý nhanh hơn nếu có sự cố. Dưới đây là danh sách kiểm tra thực tế có thể dùng trước mỗi giao dịch quốc tế.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác minh website và người bán
 
 Trước hết, hãy xác định bạn đang thanh toán cho đúng nhà cung cấp. Kiểm tra tên miền, thông tin liên hệ, chính sách đổi trả, điều khoản dịch vụ và tên đơn vị thu tiền. Nếu đến website từ quảng cáo, tin nhắn hoặc liên kết được chia sẻ, đừng vội nhập thông tin thanh toán chỉ vì trang có giao diện chuyên nghiệp.

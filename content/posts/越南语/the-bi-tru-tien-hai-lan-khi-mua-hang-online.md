@@ -1,5 +1,5 @@
 ---
-title: "Thẻ Bị Trừ Tiền Hai Lần Khi Mua Hàng Online? Cách Xử Lý"
+title: "CBPayments: Thẻ Bị Trừ Tiền Hai Lần Khi Mua Hàng Online? Cách Xử Lý"
 slug: "the-bi-tru-tien-hai-lan-khi-mua-hang-online"
 date: 2026-10-25
 draft: false
@@ -9,13 +9,15 @@ tags:
   - trừ tiền hai lần
   - giao dịch trùng lặp
   - thanh toán thẻ
+  - CBPayments
 ---
-
-# Thẻ Bị Trừ Tiền Hai Lần Khi Mua Hàng Online? Cách Xử Lý
+# CBPayments: Thẻ Bị Trừ Tiền Hai Lần Khi Mua Hàng Online? Cách Xử Lý
 
 Bạn đặt hàng trực tuyến và thấy hai khoản tiền giống nhau trên ứng dụng thẻ? Trước khi lo lắng hoặc thanh toán thêm, hãy kiểm tra xem đó thực sự là hai giao dịch đã hoàn tất hay chỉ là một giao dịch cùng một khoản tạm giữ.
 
 Giao dịch trùng lặp có thể xuất phát từ việc người dùng bấm nút thanh toán nhiều lần, trang web gửi lại yêu cầu sau khi kết nối bị gián đoạn hoặc hệ thống hiển thị trạng thái giao dịch chưa đồng bộ. Tuy nhiên, hai dòng tiền giống nhau không phải lúc nào cũng đồng nghĩa với việc bạn đã bị tính phí hai lần.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Vì sao có hai khoản tiền giống nhau?
 
@@ -98,3 +100,8 @@ Hai khoản tiền giống nhau trên ứng dụng thẻ có thể là giao dị
 Nếu xác nhận đã bị tính phí hai lần, hãy lưu bằng chứng, liên hệ người bán và yêu cầu đơn vị phát hành kiểm tra khi cần. Không thanh toán lại hoặc chia sẻ dữ liệu thẻ nhạy cảm khi chưa xác định rõ tình trạng giao dịch.
 
 Tìm hiểu thêm về các lựa chọn thanh toán tại [CBPayments](https://www.cbpayments.cc/) và luôn kiểm tra lịch sử giao dịch sau khi hoàn tất thanh toán.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về hủy đơn hàng nhưng thẻ vẫn bị trừ tiền](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/huy-don-hang-nhung-the-van-bi-tru-tien/)
+- [Tìm hiểu thêm về xử lý giao dịch lạ trên thẻ](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/phat-hien-giao-dich-la-tren-the-cac-buoc-can-lam/)

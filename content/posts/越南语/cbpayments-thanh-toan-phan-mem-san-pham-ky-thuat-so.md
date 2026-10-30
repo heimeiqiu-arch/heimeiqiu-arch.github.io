@@ -13,6 +13,8 @@ Mua phần mềm, giấy phép sử dụng, mẫu thiết kế, tài nguyên sá
 
 Điểm quan trọng là không nên xử lý mọi lỗi theo cùng một cách. Trước tiên, hãy xác định bạn đang mua sản phẩm gì, thanh toán một lần hay đăng ký định kỳ, và giao dịch hiện ở trạng thái nào. Hướng dẫn dưới đây giúp bạn kiểm tra từng bước trước khi thử lại. Nếu đang tìm hiểu phương thức thanh toán quốc tế phù hợp cho các khoản mua phần mềm và dịch vụ trực tuyến, bạn có thể xem thông tin tại [CBPayments](https://www.cbpayments.cc/), rồi đối chiếu các điều kiện thực tế của website bán hàng.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định chính xác loại sản phẩm kỹ thuật số
 
 “Sản phẩm kỹ thuật số” là một nhóm rộng, nhưng mỗi loại có thể có điều kiện giao hàng và hoàn tiền khác nhau. Trước khi nhập thông tin thanh toán, hãy kiểm tra trang mô tả sản phẩm và những gì bạn sẽ nhận được sau khi trả tiền.

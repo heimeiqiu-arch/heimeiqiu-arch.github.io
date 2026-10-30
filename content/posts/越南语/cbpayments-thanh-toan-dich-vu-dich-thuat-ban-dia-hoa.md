@@ -13,6 +13,8 @@ Khi mở rộng website, ứng dụng hoặc hoạt động kinh doanh sang th�
 
 Trước khi đặt dịch vụ, hãy xác định rõ phạm vi công việc, tiêu chuẩn chất lượng và mốc nghiệm thu. Nếu cần tham khảo lựa chọn thanh toán quốc tế cho dịch vụ trực tuyến, bạn có thể xem [CBPayments](https://www.cbpayments.cc/) sau khi xác nhận phương thức thanh toán mà nhà cung cấp chấp nhận.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt dịch thuật và bản địa hóa
 
 Dịch thuật tập trung chuyển nội dung từ ngôn ngữ này sang ngôn ngữ khác, trong khi bản địa hóa còn điều chỉnh cách trình bày để phù hợp với thị trường mục tiêu. Công việc có thể bao gồm định dạng ngày tháng, đơn vị đo lường, tiền tệ, hình ảnh, thuật ngữ sản phẩm và nội dung giao diện.
@@ -96,3 +98,8 @@ Trước khi thanh toán cho dự án mới, hãy kiểm tra ngân sách, mốc 
 ## Kết luận
 
 Thanh toán dịch vụ dịch thuật và bản địa hóa an toàn bắt đầu từ phạm vi công việc rõ ràng, nhà cung cấp đáng tin cậy và tiêu chí nghiệm thu cụ thể. Hãy kiểm tra báo giá, xác minh người nhận tiền, lưu chứng từ và bảo vệ tài liệu nhạy cảm để giảm tranh chấp cũng như kiểm soát ngân sách.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ dịch thuật trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-dich-thuat-truc-tuyen-quoc-te/)
+- [Tìm hiểu thêm về tài nguyên số từ nhà cung cấp quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-tai-nguyen-thiet-ke-nuoc-ngoai/)

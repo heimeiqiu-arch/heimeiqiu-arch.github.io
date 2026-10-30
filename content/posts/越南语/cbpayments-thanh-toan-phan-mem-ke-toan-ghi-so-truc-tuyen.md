@@ -19,6 +19,8 @@ Phần mềm kế toán và ghi sổ trực tuyến giúp cá nhân kinh doanh, 
 
 Để tránh gián đoạn công việc tài chính, bạn nên đánh giá nhu cầu trước khi mua, hiểu rõ chi phí định kỳ và chuẩn bị cách xử lý khi giao dịch không được ghi nhận.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Chọn phần mềm theo quy mô và nghiệp vụ
 
 Không phải mọi doanh nghiệp đều cần một hệ thống kế toán phức tạp. Người làm tự do có thể chỉ cần theo dõi thu chi, gửi hóa đơn và phân loại chi phí. Doanh nghiệp nhỏ có thể cần quản lý nhiều tài khoản ngân hàng, đối chiếu giao dịch, hỗ trợ nhiều loại tiền tệ hoặc phân quyền cho nhân viên. Tổ chức lớn hơn có thể cần báo cáo nâng cao, tích hợp với hệ thống bán hàng và kiểm soát quy trình phê duyệt.

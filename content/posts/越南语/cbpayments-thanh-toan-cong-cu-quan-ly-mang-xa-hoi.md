@@ -13,6 +13,8 @@ Các công cụ quản lý mạng xã hội cho phép doanh nghiệp lên lịch
 
 Trước khi đăng ký, bạn cần biết công cụ có hỗ trợ đúng nền tảng mạng xã hội hay không, giá được tính như thế nào và phương thức thanh toán có đáp ứng yêu cầu của nhà cung cấp không. Bài viết này tập trung vào những điểm cần kiểm tra để tránh mua nhầm gói hoặc phát sinh chi phí không mong muốn.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định công cụ có phù hợp với các kênh của bạn không
 
 Không phải công cụ quản lý mạng xã hội nào cũng hỗ trợ mọi nền tảng hoặc mọi loại nội dung. Trước khi trả phí, hãy kiểm tra:

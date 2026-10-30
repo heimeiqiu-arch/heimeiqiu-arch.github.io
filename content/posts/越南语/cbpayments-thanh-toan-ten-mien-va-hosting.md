@@ -13,6 +13,8 @@ tags: ["CBPayments", "tên miền", "web hosting", "thanh toán hosting"]
 
 Nếu đang tìm hiểu lựa chọn thanh toán quốc tế cho các dịch vụ web, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi xác nhận điều kiện của nhà đăng ký tên miền hoặc nhà cung cấp hosting.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt tên miền và hosting
 
 Tên miền và hosting là hai dịch vụ khác nhau, dù nhiều nhà cung cấp bán chúng trong cùng một gói.
@@ -94,3 +96,9 @@ Nếu muốn tìm hiểu thêm về các lựa chọn thẻ cho giao dịch qu�
 ## Kết luận
 
 Khi mua tên miền và hosting quốc tế, hãy so sánh tổng chi phí qua nhiều kỳ, xác nhận quyền sở hữu và đọc kỹ chính sách gia hạn. Sau khi thanh toán, kiểm tra trạng thái dịch vụ, bảo vệ tài khoản quản lý và duy trì bản sao lưu để giảm rủi ro gián đoạn website.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về gia hạn tên miền và hosting](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-gia-han-ten-mien-hosting/)
+- [Tìm hiểu thêm về dịch vụ cloud hosting](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-may-chu-dam-may-hosting/)
+- [Tìm hiểu thêm về gia hạn VPS và cloud server](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-gia-han-vps-cloud-server-quoc-te/)

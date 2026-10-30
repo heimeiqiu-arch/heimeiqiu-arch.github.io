@@ -21,6 +21,8 @@ Tuy nhiên, khi thanh toán cho dịch vụ xuyên biên giới, người học 
 
 Bài viết này hướng dẫn cách kiểm tra dịch vụ, đặt lịch, thanh toán và xử lý các tình huống thường gặp để bạn chủ động hơn khi học với giáo viên quốc tế.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định cách nền tảng thu phí
 
 Trước khi nhập thông tin thẻ, hãy tìm hiểu cách nền tảng tính phí cho buổi học. Các dịch vụ có thể áp dụng những mô hình khác nhau.

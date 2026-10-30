@@ -13,6 +13,8 @@ Bạn nhấn nút thanh toán trên một website nước ngoài, màn hình qua
 
 Điều quan trọng nhất là không vội thanh toán lần thứ hai. Hãy xác định trạng thái của đơn hàng và giao dịch trước, sau đó mới quyết định có nên thử lại hay liên hệ hỗ trợ. Bài viết này hướng dẫn từng bước để xử lý khi trang thanh toán bị treo, trình duyệt mất kết nối hoặc website không hiển thị kết quả sau khi bạn đã xác nhận trả tiền.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Vì sao trang thanh toán có thể bị treo?
 
 Trang thanh toán là một phần của quy trình có thể liên quan đến nhiều hệ thống: website của người bán, cổng thanh toán, mạng lưới thẻ, đơn vị phát hành và đôi khi cả hệ thống xác thực bổ sung. Lỗi ở một bước không nhất thiết có nghĩa là toàn bộ giao dịch đã thất bại.
@@ -130,3 +132,9 @@ Nếu trang thường xuyên lỗi trên một trình duyệt, bạn có thể t
 Khi trang thanh toán bị treo, điều quan trọng nhất là không vội gửi lại yêu cầu thanh toán. Hãy kiểm tra riêng trạng thái đơn hàng và giao dịch, lưu thông tin cần thiết, rồi liên hệ đúng bên hỗ trợ nếu kết quả chưa rõ ràng. Cách làm này giúp giảm nguy cơ tạo đơn hàng hoặc giao dịch trùng lặp.
 
 Nếu đang tìm hiểu các lựa chọn thẻ phục vụ thanh toán online, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra kỹ tính năng, phí cũng như điều kiện hỗ trợ. Với mọi giao dịch đang gặp sự cố, hãy dựa vào trạng thái thực tế của người bán và đơn vị phát hành thay vì suy đoán từ màn hình bị treo.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về giao dịch thẻ ở trạng thái pending quá lâu](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/giao-dich-the-pending-qua-lau/)
+- [Tìm hiểu thêm về đơn hàng chưa được xác nhận sau thanh toán](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-thanh-cong-nhung-don-hang-chua-xac-nhan/)
+- [Tìm hiểu thêm về hoàn tiền thanh toán trực tuyến chậm](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/hoan-tien-thanh-toan-online-cham-ve/)

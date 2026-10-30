@@ -13,6 +13,8 @@ Các công cụ thiết kế đồ họa, chỉnh sửa ảnh và sáng tạo n�
 
 Trước khi đăng ký, hãy xác định nhu cầu công việc, so sánh mô hình giá và kiểm tra phương thức thanh toán được chấp nhận. Một vài bước chuẩn bị có thể giúp bạn tránh đăng ký nhầm gói hoặc phát sinh chi phí không cần thiết.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định loại công cụ và nhu cầu sử dụng
 
 Phần mềm sáng tạo có thể phục vụ nhiều mục đích khác nhau:
@@ -87,3 +89,8 @@ Bạn có thể tìm hiểu thêm về các lựa chọn thẻ cho giao dịch q
 ## Kết luận
 
 Thanh toán phần mềm thiết kế quốc tế sẽ dễ quản lý hơn khi bạn hiểu rõ quyền sử dụng, tổng chi phí và cách gia hạn. Hãy chọn gói dựa trên công việc thực tế, kiểm tra điều kiện thẻ trước khi xác nhận và lưu hóa đơn sau khi mua. Nếu gặp lỗi, hãy xác minh trạng thái giao dịch trước khi thử lại để tránh thanh toán trùng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về phần mềm thiết kế đồ họa](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-thiet-ke-do-hoa/)
+- [Tìm hiểu thêm về thư viện ảnh và tài nguyên sáng tạo](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-kho-anh-giay-phep-tai-nguyen-sang-tao/)
