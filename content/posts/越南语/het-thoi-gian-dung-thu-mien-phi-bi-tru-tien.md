@@ -123,3 +123,8 @@ Thông thường là không. Bạn cần hủy trong trang quản lý đăng ký
 ## Kết luận
 
 Bị trừ tiền sau khi dùng thử miễn phí có thể do tự động gia hạn, hủy chưa hoàn tất, nhầm tài khoản hoặc giao dịch xác minh. Hãy xác định đúng khoản phí, kiểm tra trạng thái đăng ký và liên hệ bên liên quan trước khi thực hiện các bước tiếp theo. Chủ động lưu bằng chứng và đặt lời nhắc gia hạn sẽ giúp bạn kiểm soát chi phí tốt hơn.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về quản lý nhiều gói đăng ký trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-quan-ly-nhieu-goi-dang-ky-online/)
+- [Tìm hiểu thêm về lỗi thanh toán định kỳ khi gia hạn](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-dinh-ky-bi-loi-khi-gia-han-dich-vu/)
