@@ -100,3 +100,9 @@ Khi liên hệ, hãy cung cấp bằng chứng giao dịch và xác nhận hoàn
 Hoàn tiền trực tuyến chậm có thể do yêu cầu chưa được xử lý, giao dịch đang chờ ghi nhận hoặc khoản tạm giữ chưa được giải phóng. Hãy xác nhận trạng thái với người bán trước, sau đó đối chiếu lịch sử thẻ và liên hệ đơn vị phát hành khi cần.
 
 Quan trọng nhất, hãy lưu lại mã tham chiếu và tránh tạo giao dịch thanh toán trùng khi tình trạng khoản tiền cũ chưa rõ ràng. Nếu cần tìm hiểu thêm các lựa chọn thanh toán trực tuyến, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra các điều khoản trước khi sử dụng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về tiền đặt cọc khách sạn chưa được hoàn lại](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/tien-dat-coc-khach-san-chua-duoc-hoan-lai/)
+- [Tìm hiểu thêm về giao dịch sau khi hủy đơn hàng](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/huy-don-hang-nhung-the-van-bi-tru-tien/)
+- [Tìm hiểu thêm về giao dịch bị trừ tiền hai lần](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/the-bi-tru-tien-hai-lan-khi-mua-hang-online/)
