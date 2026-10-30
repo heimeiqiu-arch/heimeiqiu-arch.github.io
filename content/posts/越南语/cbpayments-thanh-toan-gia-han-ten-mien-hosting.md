@@ -13,6 +13,8 @@ Tên miền và hosting là hai phần quan trọng để duy trì một website
 
 Cách xử lý tốt nhất là kiểm tra thời hạn, xác định chính xác dịch vụ cần gia hạn và xác nhận trạng thái thanh toán trước khi thử lại. Bài viết này hướng dẫn từng bước để hạn chế gián đoạn, tránh thanh toán nhầm và xử lý khi giao dịch quốc tế bị từ chối. Nếu cần tìm hiểu phương thức thẻ dùng cho thanh toán trực tuyến, bạn có thể tham khảo thông tin tại [CBPayments](https://www.cbpayments.cc/) và đối chiếu với yêu cầu cụ thể của nhà cung cấp tên miền hoặc hosting.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt tên miền, hosting và dịch vụ bổ sung
 
 Một hóa đơn từ nhà cung cấp website có thể bao gồm nhiều hạng mục khác nhau. Tên miền là địa chỉ mà người dùng nhập vào trình duyệt; hosting là dịch vụ lưu trữ nội dung và dữ liệu website. Ngoài ra, nhà cung cấp có thể bán chứng chỉ SSL, email doanh nghiệp, sao lưu, bảo vệ quyền riêng tư tên miền hoặc dịch vụ quản lý nâng cao.
