@@ -94,3 +94,8 @@ Bạn có thể tìm hiểu các lựa chọn thẻ ảo và thẻ vật lý t�
 Khi ngân hàng hiển thị giao dịch nhưng website chưa xác nhận đơn hàng, hãy kiểm tra cả hai phía trước khi thanh toán lại. Lưu thông tin giao dịch, liên hệ người bán và xác minh trạng thái với đơn vị phát hành nếu cần là cách xử lý an toàn hơn.
 
 Để tìm hiểu thêm về các lựa chọn thanh toán trực tuyến, bạn có thể truy cập [CBPayments](https://www.cbpayments.cc/) và xem điều kiện sử dụng cụ thể của từng sản phẩm.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về đã thanh toán nhưng chưa nhận được hàng](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/da-thanh-toan-nhung-chua-nhan-duoc-hang/)
+- [Tìm hiểu thêm về giao dịch pending kéo dài](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/giao-dich-the-pending-qua-lau/)
