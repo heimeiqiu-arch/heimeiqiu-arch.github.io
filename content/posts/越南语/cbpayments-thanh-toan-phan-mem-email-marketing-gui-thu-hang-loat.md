@@ -107,3 +107,8 @@ Khi ngừng sử dụng dịch vụ, hãy hủy thuê bao theo quy trình chính
 - Đã biết cách liên hệ hỗ trợ và hủy thuê bao.
 
 Chọn đúng gói email marketing giúp bạn kiểm soát chi phí và tránh gián đoạn các chiến dịch. Nếu cần tìm hiểu thêm về phương thức thẻ dành cho thanh toán quốc tế, hãy tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra điều khoản mới nhất trước khi sử dụng.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ email marketing](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-email-marketing/)
+- [Tìm hiểu thêm về tự động hóa chiến dịch email](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-email-marketing-tu-dong-hoa/)
