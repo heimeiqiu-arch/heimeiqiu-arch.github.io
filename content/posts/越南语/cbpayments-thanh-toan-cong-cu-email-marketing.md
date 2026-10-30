@@ -60,3 +60,9 @@ Danh sách email là dữ liệu kinh doanh quan trọng. Chỉ tải lên nhữ
 ## Kết luận
 
 Để thanh toán công cụ email marketing phù hợp, hãy bắt đầu từ quy mô danh sách, lượng gửi và tính năng cần thiết. Đọc kỹ mô hình tính phí, điều khoản gia hạn và chính sách dữ liệu trước khi mua. Nếu cần tìm hiểu lựa chọn thẻ cho giao dịch quốc tế, tham khảo [CBPayments](https://www.cbpayments.cc/) và kiểm tra khả năng chấp nhận với nhà cung cấp cụ thể.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về nền tảng email marketing](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-nen-tang-email-marketing/)
+- [Tìm hiểu thêm về tự động hóa email marketing](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-email-marketing-tu-dong-hoa/)
+- [Tìm hiểu thêm về phần mềm gửi email hàng loạt](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-email-marketing-gui-thu-hang-loat/)
