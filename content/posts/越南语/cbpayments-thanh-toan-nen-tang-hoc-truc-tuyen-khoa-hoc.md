@@ -83,3 +83,9 @@ Nếu cần tìm hiểu các lựa chọn thẻ cho giao dịch quốc tế, hã
 ## Kết luận
 
 Thanh toán khóa học quốc tế sẽ dễ kiểm soát hơn khi bạn xác định rõ mô hình thu phí, kiểm tra điều kiện thẻ, xác minh tổng tiền và lưu lại chứng từ. Nếu giao dịch gặp lỗi, hãy xác định trạng thái trước khi thử lại để tránh bị giữ tiền hoặc thanh toán trùng. Một quy trình kiểm tra ngắn trước khi mua có thể giúp bạn tiết kiệm thời gian và giữ ngân sách học tập trong tầm kiểm soát.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về khóa học trực tuyến quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-khoa-hoc-truc-tuyen-nuoc-ngoai/)
+- [Tìm hiểu thêm về nền tảng học trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-nen-tang-hoc-truc-tuyen/)
+- [Tìm hiểu thêm về học ngôn ngữ với giáo viên quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-hoc-kem-ngon-ngu-giao-vien-quoc-te/)
