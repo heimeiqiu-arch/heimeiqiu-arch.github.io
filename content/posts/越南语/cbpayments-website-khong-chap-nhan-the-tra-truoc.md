@@ -9,9 +9,8 @@ tags:
   - thẻ trả trước
   - website không chấp nhận thẻ
   - thanh toán online
----
   - CBPayments
-
+---
 # CBPayments: Vì Sao Website Không Chấp Nhận Thẻ Trả Trước?
 
 Bạn nhập thông tin thẻ, kiểm tra số dư và làm theo hướng dẫn nhưng website vẫn báo phương thức thanh toán không được hỗ trợ. Một khả năng là người bán không chấp nhận loại thẻ bạn đang sử dụng.
