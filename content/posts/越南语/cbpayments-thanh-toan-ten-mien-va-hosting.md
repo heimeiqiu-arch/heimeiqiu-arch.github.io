@@ -96,3 +96,9 @@ Nếu muốn tìm hiểu thêm về các lựa chọn thẻ cho giao dịch qu�
 ## Kết luận
 
 Khi mua tên miền và hosting quốc tế, hãy so sánh tổng chi phí qua nhiều kỳ, xác nhận quyền sở hữu và đọc kỹ chính sách gia hạn. Sau khi thanh toán, kiểm tra trạng thái dịch vụ, bảo vệ tài khoản quản lý và duy trì bản sao lưu để giảm rủi ro gián đoạn website.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về gia hạn tên miền và hosting](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-gia-han-ten-mien-hosting/)
+- [Tìm hiểu thêm về dịch vụ cloud hosting](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-may-chu-dam-may-hosting/)
+- [Tìm hiểu thêm về gia hạn VPS và cloud server](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-gia-han-vps-cloud-server-quoc-te/)
