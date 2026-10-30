@@ -9,9 +9,8 @@ tags:
   - ATM không nhả tiền
   - rút tiền bằng thẻ
   - tra soát giao dịch
----
   - CBPayments
-
+---
 # CBPayments: ATM Không Nhả Tiền Nhưng Tài Khoản Vẫn Bị Trừ? Cách Xử Lý
 
 Bạn vừa rút tiền tại ATM nhưng máy không nhả tiền, chỉ nhả một phần số tiền yêu cầu, hoặc màn hình báo lỗi trong khi ứng dụng thẻ vẫn hiển thị khoản bị trừ? Đừng vội thử rút lại nhiều lần. Hãy bảo đảm an toàn, ghi lại thông tin giao dịch và xác định khoản tiền đang chờ xử lý hay đã hạch toán.
