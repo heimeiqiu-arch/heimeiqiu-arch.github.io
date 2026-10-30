@@ -9,9 +9,8 @@ tags:
   - pending
   - giao dịch đang xử lý
   - trạng thái thanh toán
----
   - CBPayments
-
+---
 # CBPayments: Giao Dịch Thẻ Pending Quá Lâu? Cách Kiểm Tra Trạng Thái Thanh Toán
 
 Bạn thanh toán bằng thẻ nhưng giao dịch vẫn hiển thị *Pending* hoặc “Đang xử lý” trong nhiều giờ? Bạn có thể lo lắng rằng tiền đã bị trừ nhưng đơn hàng chưa hoàn tất.
