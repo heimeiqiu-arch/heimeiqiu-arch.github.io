@@ -9,9 +9,8 @@ tags:
   - thanh toán khi du lịch
   - phí chuyển đổi ngoại tệ
   - giao dịch quốc tế
----
   - CBPayments
-
+---
 # CBPayments: Cách Thanh Toán Bằng Thẻ Khi Du Lịch Nước Ngoài Và Tránh Phí Không Mong Muốn
 
 Bạn chuẩn bị đi du lịch nước ngoài và dự định dùng thẻ để đặt khách sạn, mua vé, thanh toán tại nhà hàng hoặc chi trả cho các dịch vụ trực tuyến. Nhưng khi giao dịch bằng ngoại tệ, số tiền cuối cùng có thể khác với giá bạn nhìn thấy ban đầu.
