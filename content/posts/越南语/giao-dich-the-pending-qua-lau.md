@@ -104,3 +104,8 @@ Trạng thái Pending không nhất thiết có nghĩa là giao dịch thất b�
 Nếu giao dịch kéo dài bất thường, hãy cung cấp mã tham chiếu cho người bán hoặc đơn vị phát hành để kiểm tra. Xử lý theo đúng trạng thái thực tế sẽ giúp hạn chế thanh toán trùng và tránh nhầm lẫn khi theo dõi số dư.
 
 Tìm hiểu thêm về các phương thức thanh toán tại [CBPayments](https://www.cbpayments.cc/) và luôn giữ lại thông tin giao dịch để tiện đối chiếu khi cần.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về trang thanh toán bị treo sau khi trừ tiền](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-trang-thanh-toan-bi-treo-da-tru-tien-chua/)
+- [Tìm hiểu thêm về thời gian hoàn tiền trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/hoan-tien-thanh-toan-online-cham-ve/)
