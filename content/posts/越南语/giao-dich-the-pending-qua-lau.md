@@ -1,5 +1,5 @@
 ---
-title: "Giao Dịch Thẻ Pending Quá Lâu? Cách Kiểm Tra Trạng Thái Thanh Toán"
+title: "CBPayments: Giao Dịch Thẻ Pending Quá Lâu? Cách Kiểm Tra Trạng Thái Thanh Toán"
 slug: "giao-dich-the-pending-qua-lau"
 date: 2026-10-25
 draft: false
@@ -10,14 +10,17 @@ tags:
   - giao dịch đang xử lý
   - trạng thái thanh toán
 ---
+  - CBPayments
 
-# Giao Dịch Thẻ Pending Quá Lâu? Cách Kiểm Tra Trạng Thái Thanh Toán
+# CBPayments: Giao Dịch Thẻ Pending Quá Lâu? Cách Kiểm Tra Trạng Thái Thanh Toán
 
 Bạn thanh toán bằng thẻ nhưng giao dịch vẫn hiển thị *Pending* hoặc “Đang xử lý” trong nhiều giờ? Bạn có thể lo lắng rằng tiền đã bị trừ nhưng đơn hàng chưa hoàn tất.
 
 Trạng thái Pending thường có nghĩa là giao dịch chưa được xử lý xong hoặc chưa được ghi nhận cuối cùng. Tuy nhiên, cách hiểu chính xác phụ thuộc vào ứng dụng thẻ, đơn vị phát hành và hệ thống thanh toán mà người bán sử dụng.
 
 Điều quan trọng là xác định giao dịch đang ở bước nào trước khi thử thanh toán lại.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Pending có nghĩa là gì?
 
