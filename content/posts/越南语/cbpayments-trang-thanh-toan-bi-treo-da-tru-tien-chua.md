@@ -13,6 +13,8 @@ Bạn nhấn nút thanh toán trên một website nước ngoài, màn hình qua
 
 Điều quan trọng nhất là không vội thanh toán lần thứ hai. Hãy xác định trạng thái của đơn hàng và giao dịch trước, sau đó mới quyết định có nên thử lại hay liên hệ hỗ trợ. Bài viết này hướng dẫn từng bước để xử lý khi trang thanh toán bị treo, trình duyệt mất kết nối hoặc website không hiển thị kết quả sau khi bạn đã xác nhận trả tiền.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Vì sao trang thanh toán có thể bị treo?
 
 Trang thanh toán là một phần của quy trình có thể liên quan đến nhiều hệ thống: website của người bán, cổng thanh toán, mạng lưới thẻ, đơn vị phát hành và đôi khi cả hệ thống xác thực bổ sung. Lỗi ở một bước không nhất thiết có nghĩa là toàn bộ giao dịch đã thất bại.
