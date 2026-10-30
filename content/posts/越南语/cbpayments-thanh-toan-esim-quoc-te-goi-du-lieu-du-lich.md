@@ -21,6 +21,8 @@ Tuy nhiên, mua eSIM từ nhà cung cấp quốc tế không phải lúc nào c�
 
 Bài viết này hướng dẫn cách chọn gói eSIM, chuẩn bị thanh toán và xử lý các vấn đề thường gặp trước khi khởi hành.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Kiểm tra điện thoại có hỗ trợ eSIM hay không
 
 Trước khi mua bất kỳ gói dữ liệu nào, hãy xác nhận thiết bị của bạn có hỗ trợ eSIM. Không phải mọi mẫu điện thoại đều có tính năng này, và khả năng hỗ trợ có thể khác nhau giữa các phiên bản thiết bị được bán tại những thị trường khác nhau.
