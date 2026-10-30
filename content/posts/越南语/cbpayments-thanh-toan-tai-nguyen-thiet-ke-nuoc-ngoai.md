@@ -21,6 +21,8 @@ Tuy nhiên, khi mua tài nguyên trên một website nước ngoài, người d�
 
 Bài viết này hướng dẫn cách chuẩn bị, lựa chọn phương thức thanh toán và xử lý các vấn đề thường gặp khi mua tài nguyên thiết kế kỹ thuật số từ nhà cung cấp quốc tế.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định chính xác loại tài nguyên cần mua
 
 Trước khi nhập thông tin thanh toán, hãy kiểm tra kỹ sản phẩm mà bạn đang chọn. Nhiều nền tảng có thể cung cấp cùng một tài nguyên dưới nhiều hình thức khác nhau, chẳng hạn như mua một lần, đăng ký thành viên hoặc trả phí để sử dụng trong một khoảng thời gian.
