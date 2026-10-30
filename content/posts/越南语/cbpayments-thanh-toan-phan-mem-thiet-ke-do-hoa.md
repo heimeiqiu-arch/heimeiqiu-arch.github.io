@@ -101,3 +101,8 @@ Nếu muốn tìm hiểu các lựa chọn thẻ phục vụ thanh toán quốc 
 ## Kết luận
 
 Khi thanh toán phần mềm thiết kế đồ họa và chỉnh sửa ảnh, hãy chọn gói theo công việc thực tế, kiểm tra tổng chi phí và xác nhận phương thức thanh toán được chấp nhận. Lưu hóa đơn, theo dõi ngày gia hạn và sao lưu tệp trước khi thay đổi gói sẽ giúp bạn tránh nhiều rắc rối. Đồng thời, hãy bảo vệ tài khoản và kiểm tra giấy phép tài nguyên để sử dụng phần mềm an toàn cho cả công việc cá nhân lẫn thương mại.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ thiết kế đồ họa](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-thiet-ke-do-hoa/)
+- [Tìm hiểu thêm về phần mềm chỉnh sửa ảnh](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-thiet-ke-do-hoa-chinh-sua-anh/)
