@@ -13,6 +13,8 @@ Khi mở rộng website, ứng dụng hoặc hoạt động kinh doanh sang th�
 
 Trước khi đặt dịch vụ, hãy xác định rõ phạm vi công việc, tiêu chuẩn chất lượng và mốc nghiệm thu. Nếu cần tham khảo lựa chọn thanh toán quốc tế cho dịch vụ trực tuyến, bạn có thể xem [CBPayments](https://www.cbpayments.cc/) sau khi xác nhận phương thức thanh toán mà nhà cung cấp chấp nhận.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Phân biệt dịch thuật và bản địa hóa
 
 Dịch thuật tập trung chuyển nội dung từ ngôn ngữ này sang ngôn ngữ khác, trong khi bản địa hóa còn điều chỉnh cách trình bày để phù hợp với thị trường mục tiêu. Công việc có thể bao gồm định dạng ngày tháng, đơn vị đo lường, tiền tệ, hình ảnh, thuật ngữ sản phẩm và nội dung giao diện.
