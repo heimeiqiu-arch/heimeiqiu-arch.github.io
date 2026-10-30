@@ -71,3 +71,9 @@ Nếu bạn đang cân nhắc phương thức thanh toán khác cho các dịch 
 5. Lưu mã hồ sơ và theo dõi phản hồi.
 
 Nếu giao dịch thực sự không được bạn cho phép, hãy ưu tiên liên hệ đơn vị phát hành thẻ ngay. Bạn cũng có thể xem thông tin về các giải pháp thanh toán trực tuyến của [CBPayments](https://www.cbpayments.cc/) và tự đánh giá xem chúng có phù hợp với nhu cầu của mình hay không.
+
+## Bài viết liên quan
+
+- [Cách xử lý khi thẻ bị từ chối trong thanh toán quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te/)
+- [Cách kiểm tra giao dịch thẻ Pending kéo dài](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/giao-dich-the-pending-qua-lau/)
+- [Đã hủy đơn hàng nhưng thẻ vẫn bị trừ tiền](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/huy-don-hang-nhung-the-van-bi-tru-tien/)
