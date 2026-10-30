@@ -1,5 +1,5 @@
 ---
-title: "Hoàn Tiền Thanh Toán Online Chậm Về? Cách Kiểm Tra Và Xử Lý"
+title: "CBPayments: Hoàn Tiền Thanh Toán Online Chậm Về? Cách Kiểm Tra Và Xử Lý"
 slug: "hoan-tien-thanh-toan-online-cham-ve"
 date: 2026-10-25
 draft: false
@@ -10,14 +10,17 @@ tags:
   - refund
   - giao dịch thẻ
 ---
+  - CBPayments
 
-# Hoàn Tiền Thanh Toán Online Chậm Về? Cách Kiểm Tra Và Xử Lý
+# CBPayments: Hoàn Tiền Thanh Toán Online Chậm Về? Cách Kiểm Tra Và Xử Lý
 
 Bạn đã hủy đơn hàng hoặc được người bán xác nhận hoàn tiền nhưng số dư thẻ vẫn chưa thay đổi? Đây là tình huống khá khó chịu, đặc biệt khi bạn cần sử dụng lại số tiền đó cho một giao dịch khác.
 
 Tuy nhiên, việc người bán xác nhận hoàn tiền không có nghĩa là tiền sẽ xuất hiện ngay lập tức trong tài khoản hoặc số dư khả dụng. Thời gian xử lý có thể phụ thuộc vào người bán, đơn vị xử lý thanh toán, mạng lưới thẻ và đơn vị phát hành thẻ.
 
 Bài viết này hướng dẫn cách kiểm tra tình trạng hoàn tiền và xác định nên liên hệ bên nào trước.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Vì sao tiền hoàn lại chưa xuất hiện?
 
