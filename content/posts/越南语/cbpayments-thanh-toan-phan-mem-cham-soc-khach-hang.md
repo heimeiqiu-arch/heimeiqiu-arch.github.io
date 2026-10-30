@@ -13,6 +13,8 @@ Phần mềm chăm sóc khách hàng giúp doanh nghiệp tiếp nhận yêu c�
 
 Trước khi mua gói trả phí, hãy xác định quy trình hỗ trợ hiện tại đang gặp vấn đề gì và tính năng nào thực sự giúp giải quyết vấn đề đó. Nếu cần tìm hiểu các lựa chọn thanh toán quốc tế cho phần mềm doanh nghiệp, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi kiểm tra điều kiện của nhà cung cấp.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Chọn phần mềm theo quy trình hỗ trợ
 
 Các nền tảng hỗ trợ khách hàng có thể khác nhau đáng kể về tính năng và cách tính phí. Hãy cân nhắc:
