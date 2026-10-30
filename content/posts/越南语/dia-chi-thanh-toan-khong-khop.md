@@ -1,5 +1,5 @@
 ---
-title: "Địa Chỉ Thanh Toán Không Khớp Khi Mua Hàng Online: Cách Sửa"
+title: "CBPayments: Địa Chỉ Thanh Toán Không Khớp Khi Mua Hàng Online: Cách Sửa"
 slug: "dia-chi-thanh-toan-khong-khop"
 date: 2026-10-25
 draft: false
@@ -10,12 +10,15 @@ tags:
   - billing address
   - thanh toán thẻ
 ---
+  - CBPayments
 
-# Địa Chỉ Thanh Toán Không Khớp Khi Mua Hàng Online: Cách Sửa
+# CBPayments: Địa Chỉ Thanh Toán Không Khớp Khi Mua Hàng Online: Cách Sửa
 
 Bạn đã nhập đúng số thẻ, ngày hết hạn và mã bảo mật nhưng website vẫn báo lỗi địa chỉ thanh toán không khớp? Đây là tình huống có thể xảy ra khi mua hàng trực tuyến, đăng ký dịch vụ số hoặc thanh toán trên website quốc tế.
 
 Nguyên nhân thường liên quan đến thông tin địa chỉ được nhập, dữ liệu mà đơn vị phát hành thẻ lưu trữ hoặc quy tắc xác minh của người bán. Tin tốt là bạn có thể kiểm tra nhiều yếu tố trước khi phải đổi phương thức thanh toán.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Địa chỉ thanh toán là gì?
 
