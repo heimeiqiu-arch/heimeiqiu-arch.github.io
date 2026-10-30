@@ -19,6 +19,8 @@ Các công cụ bảng trắng trực tuyến giúp nhóm phân tán cùng lên 
 
 Bài viết này hướng dẫn cách chọn gói, chuẩn bị thanh toán và xử lý lỗi thường gặp một cách có hệ thống.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định nhu cầu trước khi mua gói trả phí
 
 Không phải nhóm nào cũng cần gói cao cấp. Trước khi nhập thông tin thanh toán, hãy xác định số người sử dụng, số bảng cần tạo và những tính năng thực sự cần thiết.
