@@ -56,3 +56,9 @@ Lưu ngày gia hạn, hóa đơn và người phụ trách tài khoản. Trướ
 ## Kết luận
 
 Chọn gói lưu trữ đám mây nên bắt đầu từ loại dữ liệu, dung lượng dự kiến và khả năng khôi phục, sau đó mới so sánh giá. Kiểm tra kỹ giới hạn, điều kiện gia hạn và phương thức thanh toán giúp tránh chi phí bất ngờ. Nếu cần tìm hiểu lựa chọn thẻ, tham khảo [CBPayments](https://www.cbpayments.cc/) và xác minh điều kiện của nhà cung cấp trước khi mua.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về dịch vụ lưu trữ đám mây](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-luu-tru-dam-may/)
+- [Tìm hiểu thêm về sao lưu dữ liệu](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-luu-tru-dam-may-sao-luu-du-lieu/)
+- [Tìm hiểu thêm về tên miền và hosting](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-ten-mien-va-hosting/)
