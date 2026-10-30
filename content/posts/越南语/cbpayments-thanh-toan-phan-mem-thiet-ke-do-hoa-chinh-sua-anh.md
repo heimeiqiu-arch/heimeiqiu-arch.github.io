@@ -13,6 +13,8 @@ Các công cụ thiết kế đồ họa, chỉnh sửa ảnh và sáng tạo n�
 
 Trước khi đăng ký, hãy xác định nhu cầu công việc, so sánh mô hình giá và kiểm tra phương thức thanh toán được chấp nhận. Một vài bước chuẩn bị có thể giúp bạn tránh đăng ký nhầm gói hoặc phát sinh chi phí không cần thiết.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định loại công cụ và nhu cầu sử dụng
 
 Phần mềm sáng tạo có thể phục vụ nhiều mục đích khác nhau:
