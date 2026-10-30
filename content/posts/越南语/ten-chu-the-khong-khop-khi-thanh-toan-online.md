@@ -1,5 +1,5 @@
 ---
-title: "Tên Chủ Thẻ Không Khớp Khi Thanh Toán Online? Cách Kiểm Tra"
+title: "CBPayments: Tên Chủ Thẻ Không Khớp Khi Thanh Toán Online? Cách Kiểm Tra"
 slug: "ten-chu-the-khong-khop-khi-thanh-toan-online"
 date: 2026-10-25
 draft: false
@@ -10,12 +10,15 @@ tags:
   - thanh toán online
   - giao dịch bị từ chối
 ---
+  - CBPayments
 
-# Tên Chủ Thẻ Không Khớp Khi Thanh Toán Online? Cách Kiểm Tra
+# CBPayments: Tên Chủ Thẻ Không Khớp Khi Thanh Toán Online? Cách Kiểm Tra
 
 Bạn nhập thông tin thẻ đúng nhưng trang thanh toán vẫn báo tên chủ thẻ không khớp? Lỗi này có thể liên quan đến cách nhập tên, thứ tự họ và tên, ký tự đặc biệt hoặc quy tắc xác minh của người bán. Trong một số trường hợp, thông báo cũng có thể xuất phát từ một bước kiểm tra khác chứ không chỉ riêng tên chủ thẻ.
 
 Hãy kiểm tra lần lượt các mục dưới đây trước khi thử thanh toán nhiều lần.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Nhập tên theo thông tin của đơn vị phát hành thẻ
 
