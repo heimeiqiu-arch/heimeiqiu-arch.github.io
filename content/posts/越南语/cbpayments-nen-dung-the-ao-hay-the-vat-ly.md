@@ -13,6 +13,8 @@ Khi chọn phương thức thanh toán, nhiều người phân vân giữa thẻ
 
 Quyết định tốt nhất phụ thuộc vào nơi bạn mua sắm, cách nhà bán hàng xử lý thanh toán, loại giao dịch, ngân sách, yêu cầu xác minh và điều kiện của đơn vị phát hành thẻ. Bài viết này so sánh hai lựa chọn theo tình huống thực tế, đồng thời nêu những điểm cần kiểm tra trước khi đăng ký.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Thẻ ảo và thẻ vật lý khác nhau như thế nào?
 
 **Thẻ ảo** là thông tin thẻ được cung cấp và quản lý bằng phương thức điện tử, thường qua trang web hoặc ứng dụng của đơn vị phát hành. Tùy sản phẩm, thẻ có thể có số thẻ, ngày hết hạn và mã bảo mật để nhập khi thanh toán trực tuyến. Một số thẻ ảo có thể được thêm vào ví điện tử, nhưng tính năng này không mặc nhiên có sẵn ở mọi sản phẩm.
