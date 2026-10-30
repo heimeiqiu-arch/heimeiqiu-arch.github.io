@@ -70,3 +70,8 @@ Nếu quy trình của bạn chủ yếu là thu thập thông tin cơ bản, h�
 ## Kết luận
 
 Chọn công cụ khảo sát cần dựa trên cỡ mẫu, loại câu hỏi, khả năng phân tích và quyền quản lý dữ liệu. Hãy kiểm tra giới hạn phản hồi và chi phí gia hạn trước khi mua. Nếu cần tìm hiểu phương thức thẻ cho dịch vụ quốc tế, tham khảo [CBPayments](https://www.cbpayments.cc/) và xác nhận điều kiện với nhà cung cấp khảo sát.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về công cụ tạo biểu mẫu trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-tao-bieu-mau/)
+- [Tìm hiểu thêm về công cụ phân tích và báo cáo dữ liệu](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-phan-tich-du-lieu-bao-cao/)
