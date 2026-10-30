@@ -13,6 +13,8 @@ Công cụ thiết kế giao diện trực tuyến giúp nhà thiết kế, lậ
 
 Trước khi trả phí, hãy xác định công cụ có phù hợp với quy trình làm việc không, cách tính phí theo thành viên và quyền sở hữu tệp thiết kế. Nếu cần tìm hiểu phương thức thanh toán quốc tế cho phần mềm thiết kế, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/) sau khi xác nhận điều kiện của nhà cung cấp.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định tính năng thiết kế cần thiết
 
 Không phải mọi nhà thiết kế đều cần gói trả phí. Người làm dự án cá nhân có thể chỉ cần các tính năng cơ bản, trong khi nhóm sản phẩm cần thư viện thành phần, nguyên mẫu tương tác và công cụ cộng tác.
