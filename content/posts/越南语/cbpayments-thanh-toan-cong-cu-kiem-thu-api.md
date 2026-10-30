@@ -13,6 +13,8 @@ API là thành phần quan trọng trong nhiều ứng dụng web, ứng dụng 
 
 Một số công cụ cung cấp gói miễn phí, trong khi các tính năng dành cho nhóm, quản lý môi trường, tự động hóa hoặc cộng tác có thể yêu cầu thuê bao trả phí. Nếu đăng ký dịch vụ quốc tế, bạn cần kiểm tra phương thức thanh toán, giới hạn gói và điều kiện gia hạn để tránh gián đoạn công việc.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Khi nào cần nâng cấp công cụ kiểm thử API?
 
 Với nhu cầu học tập hoặc kiểm tra một số API cơ bản, phiên bản miễn phí có thể đã đáp ứng đủ. Gói trả phí thường phù hợp hơn khi đội ngũ cần chia sẻ bộ kiểm thử, quản lý quyền truy cập hoặc tự động hóa quy trình.
