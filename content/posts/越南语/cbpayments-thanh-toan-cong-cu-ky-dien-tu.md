@@ -69,3 +69,7 @@ Công cụ ký điện tử có thể lưu hợp đồng, thông tin khách hàn
 ## Kết luận
 
 Trước khi trả phí cho công cụ ký điện tử quốc tế, hãy kiểm tra giới hạn gói, chu kỳ gia hạn, điều kiện hoàn tiền và yêu cầu thanh toán. Nếu giao dịch thất bại, hãy xác định nguyên nhân thay vì thử đi thử lại. Bạn cũng có thể tìm hiểu thêm về các lựa chọn thẻ tại [CBPayments](https://www.cbpayments.cc/) rồi đối chiếu với chính sách của nhà cung cấp.
+## Bài viết liên quan
+
+- [Tìm hiểu dịch vụ ký điện tử cho hợp đồng](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-chu-ky-dien-tu-hop-dong/)
+- [Tìm hiểu phần mềm ký hợp đồng điện tử](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-chu-ky-dien-tu-hop-dong/)
