@@ -62,3 +62,8 @@ Khi cần trợ giúp, hãy cung cấp mã giao dịch, thời gian và nội du
 ## Kết luận
 
 Để thanh toán công cụ bảng trắng trực tuyến quốc tế thuận lợi, hãy chọn đúng gói, xác minh phương thức thanh toán được hỗ trợ và kiểm tra thông tin thẻ trước khi thử lại. Nếu cần một phương thức thẻ khác, hãy xem các lựa chọn và điều kiện sử dụng của [CBPayments](https://www.cbpayments.cc/) rồi đối chiếu với chính sách của dịch vụ bạn định đăng ký. Không có loại thẻ nào bảo đảm mọi giao dịch đều thành công; thông tin chính xác và tuân thủ yêu cầu của nhà cung cấp vẫn là yếu tố quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về bảng trắng cộng tác trực tuyến](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-bang-trang-cong-tac-truc-tuyen/)
+- [Tìm hiểu thêm về công cụ thiết kế giao diện](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-cong-cu-thiet-ke-giao-dien/)
