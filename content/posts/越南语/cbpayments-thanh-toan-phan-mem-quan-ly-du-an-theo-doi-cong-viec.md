@@ -65,3 +65,8 @@ Trước khi hạ cấp, tìm hiểu tính năng nào sẽ bị khóa, dữ li�
 Kiểm soát chi phí phần mềm quản lý công việc đòi hỏi theo dõi thường xuyên, không chỉ tìm mức giá thấp nhất lúc đăng ký. Khi hiểu cách tính phí, rà soát thành viên và lưu xác nhận gia hạn hoặc hủy, bạn có thể giảm các khoản chi ngoài dự kiến và tránh gián đoạn công việc.
 
 Khi lập kế hoạch cho kỳ gia hạn tiếp theo, hãy kiểm tra lại điều kiện sử dụng và phí hiện hành tại [CBPayments](https://www.cbpayments.cc/) nếu bạn đang cân nhắc phương thức thẻ này.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về phần mềm quản lý dự án](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-quan-ly-du-an/)
+- [Tìm hiểu thêm về quản lý nhiệm vụ hằng ngày](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-quan-ly-du-an-cong-viec/)
