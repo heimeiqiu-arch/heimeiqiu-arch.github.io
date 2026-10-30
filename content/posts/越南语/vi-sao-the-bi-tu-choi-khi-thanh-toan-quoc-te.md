@@ -1,5 +1,5 @@
 ---
-title: "Vì Sao Thẻ Bị Từ Chối Khi Thanh Toán Quốc Tế? Cách Khắc Phục"
+title: "CBPayments: Vì Sao Thẻ Bị Từ Chối Khi Thanh Toán Quốc Tế? Cách Khắc Phục"
 description: "Tìm hiểu những nguyên nhân phổ biến khiến thẻ bị từ chối khi thanh toán trên website quốc tế và cách kiểm tra hạn mức, cài đặt giao dịch, thông tin thẻ."
 slug: "vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te"
 date: 2026-10-24
@@ -7,11 +7,13 @@ categories: ["Thanh toán trực tuyến"]
 tags: ["thanh toán quốc tế", "thẻ thanh toán", "giao dịch trực tuyến", "CBPayments"]
 ---
 
-# Vì Sao Thẻ Bị Từ Chối Khi Thanh Toán Quốc Tế? Cách Khắc Phục
+# CBPayments: Vì Sao Thẻ Bị Từ Chối Khi Thanh Toán Quốc Tế? Cách Khắc Phục
 
 Bạn đang mua hàng trên một website nước ngoài, đăng ký phần mềm hoặc thanh toán dịch vụ trực tuyến thì bất ngờ nhận được thông báo “Payment declined” hoặc “Your card was declined”? Tình huống này không nhất thiết có nghĩa là thẻ của bạn đã hỏng. Nguyên nhân có thể nằm ở cài đặt giao dịch, hạn mức, thông tin thanh toán hoặc chính sách của đơn vị chấp nhận thẻ.
 
 Thay vì thử thanh toán liên tục, bạn nên xác định lỗi xuất phát từ đâu rồi xử lý theo từng bước. Cách này giúp tiết kiệm thời gian và hạn chế nguy cơ phát sinh nhiều giao dịch chờ xử lý.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Vì sao thẻ không thanh toán được trên website quốc tế?
 
