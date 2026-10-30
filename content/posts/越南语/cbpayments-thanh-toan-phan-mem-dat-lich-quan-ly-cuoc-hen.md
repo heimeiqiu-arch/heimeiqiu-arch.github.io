@@ -19,6 +19,8 @@ Phần mềm đặt lịch trực tuyến giúp doanh nghiệp, chuyên gia tư 
 
 Nếu định đăng ký một dịch vụ quốc tế, bạn nên kiểm tra tính năng, cách tính phí và điều kiện thanh toán trước khi nâng cấp. Việc chuẩn bị kỹ giúp tránh mua nhầm gói hoặc bị tính phí định kỳ ngoài dự kiến.
 
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
+
 ## 1. Xác định nhu cầu đặt lịch trước khi nâng cấp
 
 Không phải phần mềm nào cũng phù hợp với mọi loại hình kinh doanh. Trước khi trả tiền, hãy xác định cách khách hàng đặt lịch và quy trình bạn muốn tự động hóa.
