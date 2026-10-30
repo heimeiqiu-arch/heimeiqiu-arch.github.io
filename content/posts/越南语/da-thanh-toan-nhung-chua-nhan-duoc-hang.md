@@ -130,3 +130,8 @@ Không có một thời hạn chung cho mọi cửa hàng, đơn vị vận chuy
 Khi thanh toán thành công nhưng chưa nhận được hàng, đừng vội trả tiền lần nữa. Hãy xác định trạng thái giao dịch, kiểm tra hệ thống đơn hàng, xử lý theo loại hàng hóa và lưu bằng chứng trao đổi. Nếu vấn đề không được giải quyết, liên hệ đơn vị phát hành thẻ sớm để hiểu rõ thời hạn và quy trình khiếu nại.
 
 Tìm hiểu thêm về các lựa chọn thẻ phục vụ thanh toán trực tuyến tại [CBPayments](https://www.cbpayments.cc/).
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về đơn hàng chưa được xác nhận dù thanh toán thành công](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-thanh-cong-nhung-don-hang-chua-xac-nhan/)
+- [Tìm hiểu thêm về cách kiểm tra khi trang thanh toán bị treo](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-trang-thanh-toan-bi-treo-da-tru-tien-chua/)
