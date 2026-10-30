@@ -9,9 +9,8 @@ tags:
   - bảo mật thông tin
   - an toàn thẻ
   - mua hàng trực tuyến
----
   - CBPayments
-
+---
 # CBPayments: Website Yêu Cầu Ảnh Thẻ Hoặc Thông Tin Nhạy Cảm? Cách Đánh Giá Rủi Ro
 
 Khi đăng ký dịch vụ hoặc thanh toán trực tuyến, bạn có thể gặp một trang web yêu cầu tải ảnh thẻ, gửi mã bảo mật hoặc cung cấp thêm giấy tờ cá nhân. Không phải mọi yêu cầu xác minh đều là lừa đảo, nhưng gửi quá nhiều thông tin có thể làm tăng nguy cơ bị đánh cắp dữ liệu.
