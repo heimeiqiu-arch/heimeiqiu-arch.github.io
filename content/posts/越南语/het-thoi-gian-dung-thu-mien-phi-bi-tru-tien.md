@@ -9,9 +9,8 @@ tags:
   - dùng thử miễn phí
   - thanh toán định kỳ
   - giao dịch thẻ
----
   - CBPayments
-
+---
 # CBPayments: Hết Thời Gian Dùng Thử Miễn Phí Nhưng Bị Trừ Tiền? Cách Kiểm Tra
 
 Bạn đăng ký dùng thử một ứng dụng, nền tảng AI hoặc dịch vụ trực tuyến, nhưng sau vài ngày lại thấy thẻ bị trừ tiền? Đây là tình huống khá phổ biến, đặc biệt khi chương trình dùng thử tự động chuyển sang gói trả phí nếu người dùng không hủy trước thời hạn.
