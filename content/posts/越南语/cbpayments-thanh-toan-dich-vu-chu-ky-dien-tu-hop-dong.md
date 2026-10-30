@@ -70,3 +70,8 @@ Cần có quy trình nội bộ để xác nhận phiên bản hợp đồng, ng
 ## Kết luận
 
 Để thanh toán dịch vụ ký hợp đồng trực tuyến hiệu quả, hãy bắt đầu từ quy trình ký, giới hạn sử dụng và yêu cầu lưu hồ sơ. Xác minh điều khoản và phương thức thanh toán trước khi đăng ký sẽ giúp tránh chi phí bất ngờ và giảm gián đoạn. Với lựa chọn thẻ, hãy tham khảo [CBPayments](https://www.cbpayments.cc/) rồi đối chiếu chính sách của nền tảng mục tiêu.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về dịch vụ chữ ký điện tử](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-chu-ky-dien-tu/)
+- [Tìm hiểu thêm về phần mềm ký hợp đồng điện tử](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-chu-ky-dien-tu-hop-dong/)
