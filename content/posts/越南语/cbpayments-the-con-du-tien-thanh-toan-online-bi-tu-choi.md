@@ -114,3 +114,9 @@ Bạn có thể tham khảo thông tin về các lựa chọn thẻ tại [CBPay
 Khi thẻ còn tiền nhưng thanh toán vẫn thất bại, hãy lần lượt kiểm tra số dư khả dụng, hạn mức, phí ngoại tệ, chính sách của người bán và trạng thái xác thực. Nếu giao dịch đang chờ xử lý, đừng vội thanh toán lại trước khi xác minh.
 
 Nếu bạn đang so sánh phương thức thanh toán cho các dịch vụ trực tuyến, hãy xem thông tin tại [CBPayments](https://www.cbpayments.cc/) và đối chiếu điều kiện của sản phẩm với yêu cầu cụ thể của người bán trước khi quyết định.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về nguyên nhân thẻ bị từ chối khi thanh toán quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/vi-sao-the-bi-tu-choi-khi-thanh-toan-quoc-te/)
+- [Tìm hiểu thêm về cách kiểm tra hạn mức giao dịch](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/thanh-toan-online-vuot-han-muc-giao-dich/)
+- [Tìm hiểu thêm về lỗi địa chỉ thanh toán không khớp](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/dia-chi-thanh-toan-khong-khop/)
