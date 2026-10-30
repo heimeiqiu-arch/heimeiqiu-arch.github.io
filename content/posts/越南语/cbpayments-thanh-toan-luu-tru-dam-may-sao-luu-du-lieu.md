@@ -58,3 +58,8 @@ Không nên phụ thuộc vào một bản sao duy nhất. Với dữ liệu qua
 ## Kết luận
 
 Chọn dịch vụ sao lưu đám mây nên dựa trên khả năng khôi phục, thời gian lưu phiên bản và độ tin cậy của quy trình, không chỉ dung lượng. Kiểm tra điều khoản gia hạn và phương thức thanh toán trước khi mua, sau đó thử khôi phục dữ liệu định kỳ. Nếu cần tìm hiểu lựa chọn thẻ cho dịch vụ quốc tế, tham khảo [CBPayments](https://www.cbpayments.cc/) và xác minh điều kiện với nhà cung cấp sao lưu.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về lưu trữ đám mây thông thường](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-luu-tru-dam-may/)
+- [Tìm hiểu thêm về cơ sở dữ liệu đám mây](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-dich-vu-co-so-du-lieu-dam-may/)
