@@ -2,7 +2,7 @@
 title: "CBPayments: Cách Thanh Toán Nền Tảng Tạo Hình Ảnh AI Quốc Tế"
 slug: "cbpayments-thanh-toan-nen-tang-tao-hinh-anh-ai"
 date: 2026-10-30
-draft: false
+draft: true
 categories: ["Thanh toán quốc tế"]
 tags: ["tạo hình ảnh AI", "AI image generator", "công cụ sáng tạo", "CBPayments"]
 ---
