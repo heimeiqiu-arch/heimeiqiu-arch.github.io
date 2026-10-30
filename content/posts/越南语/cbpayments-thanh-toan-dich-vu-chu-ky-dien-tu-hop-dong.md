@@ -4,7 +4,7 @@ slug: "cbpayments-thanh-toan-dich-vu-chu-ky-dien-tu-hop-dong"
 date: 2026-10-26
 draft: false
 categories: ["Thanh toán quốc tế"]
-tags: ["ký hợp đồng trực tuyến", "chữ ký điện tử", "thanh toán SaaS"]
+tags: ["ký hợp đồng trực tuyến", "chữ ký điện tử", "thanh toán SaaS", "CBPayments"]
 ---
 
 # CBPayments: Cách Thanh Toán Dịch Vụ Chữ Ký Điện Tử Và Ký Hợp Đồng Trực Tuyến
@@ -12,6 +12,8 @@ tags: ["ký hợp đồng trực tuyến", "chữ ký điện tử", "thanh toá
 Dịch vụ ký hợp đồng trực tuyến giúp doanh nghiệp gửi hợp đồng, xác định thứ tự người ký, theo dõi trạng thái và lưu hồ sơ hoàn tất. Quy trình hợp đồng thường cần mẫu, nhiều người tham gia, nhắc ký và khả năng quản lý hồ sơ sau khi hoàn tất.
 
 Bài viết này tập trung vào cách chuẩn bị quy trình ký hợp đồng và chọn gói phù hợp với số lượng tài liệu thực tế.
+
+Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Xác định quy trình ký hợp đồng
 
