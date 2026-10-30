@@ -70,3 +70,8 @@ Ngoài thanh toán, hãy chú ý quyền sử dụng thương mại của nhạc
 ## Kết luận
 
 Thanh toán công cụ chỉnh sửa video trực tuyến sẽ dễ quản lý hơn khi bạn hiểu rõ tính năng cần dùng, tổng chi phí và điều kiện gia hạn. Nếu cân nhắc dùng thẻ Visa hoặc Mastercard qua CBPayments, hãy xem thông tin tại [CBPayments](https://www.cbpayments.cc/) và xác nhận dịch vụ mục tiêu chấp nhận phương thức đó. Luôn dùng thông tin thanh toán chính xác, kiểm tra giao dịch trước khi thử lại và lưu hóa đơn để quản lý chi phí lâu dài.
+
+## Bài viết liên quan
+
+- [Tìm hiểu thêm về phần mềm chỉnh sửa video](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-phan-mem-chinh-sua-video/)
+- [Tìm hiểu thêm về tài nguyên thiết kế quốc tế](https://heimeiqiu-arch.github.io/posts/%E8%B6%8A%E5%8D%97%E8%AF%AD/cbpayments-thanh-toan-tai-nguyen-thiet-ke-nuoc-ngoai/)
