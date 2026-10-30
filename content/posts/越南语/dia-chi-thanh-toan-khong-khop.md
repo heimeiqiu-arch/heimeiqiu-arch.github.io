@@ -9,9 +9,8 @@ tags:
   - địa chỉ thanh toán
   - billing address
   - thanh toán thẻ
----
   - CBPayments
-
+---
 # CBPayments: Địa Chỉ Thanh Toán Không Khớp Khi Mua Hàng Online: Cách Sửa
 
 Bạn đã nhập đúng số thẻ, ngày hết hạn và mã bảo mật nhưng website vẫn báo lỗi địa chỉ thanh toán không khớp? Đây là tình huống có thể xảy ra khi mua hàng trực tuyến, đăng ký dịch vụ số hoặc thanh toán trên website quốc tế.
