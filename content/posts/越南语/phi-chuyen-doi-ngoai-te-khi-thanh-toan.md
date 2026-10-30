@@ -9,9 +9,8 @@ tags:
   - phí chuyển đổi ngoại tệ
   - tỷ giá
   - thanh toán quốc tế
----
   - CBPayments
-
+---
 # CBPayments: Phí Chuyển Đổi Ngoại Tệ Khi Thanh Toán Online: Cách Tính Và Kiểm Tra
 
 Khi mua hàng trên website nước ngoài hoặc đăng ký một dịch vụ trực tuyến tính phí bằng ngoại tệ, số tiền cuối cùng trên sao kê có thể khác số tiền bạn nhìn thấy lúc thanh toán.
