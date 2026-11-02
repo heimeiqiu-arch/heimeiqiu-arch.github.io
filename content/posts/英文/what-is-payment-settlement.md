@@ -9,8 +9,9 @@ tags:
   - merchant payouts
   - online payments
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is Payment Settlement?
 
 A customer completes an online purchase, receives a confirmation message, and assumes the payment is finished. From the merchant's perspective, however, the transaction may still be moving through several financial processes before the funds become available.
