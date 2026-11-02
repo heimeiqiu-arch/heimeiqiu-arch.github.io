@@ -9,8 +9,9 @@ tags:
   - card payment failed
   - payment authorization
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Is My Card Declined Even When I Have Enough Balance?
 
 Seeing a card payment declined when you know there is enough money available can be frustrating. You may have checked the balance, confirmed that the card is active, and entered the details correctly, yet the merchant still refuses the transaction.

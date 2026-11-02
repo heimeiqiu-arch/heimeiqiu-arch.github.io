@@ -9,8 +9,9 @@ tags:
   - recurring payments
   - subscription billing
 draft: false
+categories:
+  - Online Payments
 ---
-
 # What Is a Merchant-Initiated Transaction (MIT)?
 
 A subscription renews automatically, a cloud service charges for usage, or a hotel processes a later payment using card details provided earlier. In these situations, the customer may not be actively entering card details at the moment the charge occurs.

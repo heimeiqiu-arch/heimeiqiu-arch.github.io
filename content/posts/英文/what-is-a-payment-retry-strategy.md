@@ -9,8 +9,9 @@ tags:
   - recurring payments
   - payment processing
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # What Is a Payment Retry Strategy? A Guide to Failed Payments
 
 A failed payment does not always mean that a customer has no money or that a card is permanently unusable. Transactions can fail because of temporary network issues, issuer decisions, expired card details, authentication requirements, or restrictions imposed by a merchant or payment provider.

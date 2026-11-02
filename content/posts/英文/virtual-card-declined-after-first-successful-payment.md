@@ -9,8 +9,9 @@ tags:
   - card authorization
   - online payments
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Is My Virtual Card Declined After the First Successful Payment?
 
 A virtual card can successfully complete an online payment and then be declined when the same merchant charges it again. This can happen with software subscriptions, AI services, digital memberships, cloud platforms, and other online products.

@@ -4,8 +4,9 @@ date: 2026-10-19
 draft: false
 description: "Learn how to review, freeze, replace, or close virtual cards when an employee or contractor leaves, while protecting business subscriptions and payment records."
 slug: "manage-virtual-cards-when-team-member-leaves"
+categories:
+  - Virtual Card
 ---
-
 # How to Manage Virtual Cards When a Team Member Leaves
 
 When an employee or contractor leaves a business, removing their access to company systems is only part of the offboarding process. If they were responsible for software subscriptions, advertising accounts, cloud services, or other online purchases, their payment methods also need attention.

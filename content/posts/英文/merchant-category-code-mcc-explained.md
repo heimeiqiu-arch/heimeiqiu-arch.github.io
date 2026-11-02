@@ -5,8 +5,9 @@ slug: "merchant-category-code-mcc-explained"
 description: "Learn what a merchant category code is, how MCCs classify card transactions, why a transaction may receive an unexpected category, and how to investigate classification issues."
 tags: ["Merchant Category Code", "Card Transactions", "Payment Processing"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Merchant Category Code (MCC)? How Card Transactions Are Classified
 
 When you review a card statement, you may see a transaction categorised as travel, retail, entertainment, or another type of spending. These categories can be useful for budgeting, expense reporting, rewards programmes, and payment controls.

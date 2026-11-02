@@ -5,8 +5,9 @@ slug: "what-is-a-payment-orchestration-platform"
 description: "Discover what a payment orchestration platform does, how it connects payment providers, and how businesses can use routing, reporting, and integrations to manage payments."
 tags: ["Payment Orchestration", "Payment Processing", "Online Payments"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Payment Orchestration Platform? A Practical Guide
 
 Businesses that accept online payments may work with several payment providers, card processors, alternative payment methods, and fraud-prevention services. Managing each integration separately can become complicated as transaction volume and geographic reach grow.

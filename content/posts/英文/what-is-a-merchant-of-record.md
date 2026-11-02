@@ -5,8 +5,9 @@ slug: "what-is-a-merchant-of-record"
 description: "Learn what a merchant of record does, how it differs from a payment processor, and what to evaluate before choosing an MoR provider."
 tags: ["Merchant of Record", "Online Payments", "Ecommerce"]
 draft: false
+categories:
+  - Online Payments
 ---
-
 # What Is a Merchant of Record? A Guide for Online Businesses
 
 Selling software, digital products, or subscriptions internationally involves more than accepting payments. Businesses may also need to manage refunds, payment disputes, taxes, customer enquiries, and local commercial requirements. A merchant of record can help centralise some of these responsibilities, depending on the provider and the agreement.

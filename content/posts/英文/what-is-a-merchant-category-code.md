@@ -9,8 +9,9 @@ tags:
   - card payments
   - payment processing
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Merchant Category Code (MCC)?
 
 Have you ever used a card successfully on one website but found that a similar purchase was declined elsewhere? The reason is not always your card balance or payment details. In some cases, the merchant's business category may affect how a transaction is handled.
