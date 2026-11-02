@@ -5,8 +5,9 @@ slug: "card-payment-reversal-explained"
 description: "Understand what a card payment reversal means, how it differs from a refund and a chargeback, and why reversed transactions may still appear in your account."
 tags: ["Payment Reversals", "Card Transactions", "Payment Processing"]
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # What Is a Card Payment Reversal? How Reversed Transactions Work
 
 A card payment reversal happens when a card transaction or authorisation is cancelled or undone through the relevant payment process. You might encounter a reversal after a failed checkout, a cancelled purchase, or a merchant deciding not to complete a transaction.

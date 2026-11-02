@@ -9,8 +9,9 @@ tags:
   - payment declines
   - payment processing
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Payment Authorization?
 
 When you pay online with a debit or credit card, the checkout may display an approval message within seconds. That response is an important step in the payment process, but it does not necessarily mean the merchant has received the money.

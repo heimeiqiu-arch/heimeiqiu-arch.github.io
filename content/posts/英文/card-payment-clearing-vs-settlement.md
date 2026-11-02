@@ -5,8 +5,9 @@ slug: "card-payment-clearing-vs-settlement"
 description: "Learn the difference between clearing and settlement in card payments, how transaction data and funds move through payment systems, and why settlement timing varies."
 tags: ["Payment Clearing", "Payment Settlement", "Card Payment Processing"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # Clearing vs. Settlement in Card Payments: What's the Difference?
 
 When you pay with a card, the transaction may appear approved within seconds. However, the payment process does not necessarily finish at that moment.

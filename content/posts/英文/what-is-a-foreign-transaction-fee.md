@@ -9,8 +9,9 @@ tags:
   - international card payments
   - overseas spending
 draft: false
+categories:
+  - International Payments
 ---
-
 # What Is a Foreign Transaction Fee? Currency Conversion Explained
 
 You buy something from an overseas website, subscribe to a service priced in another currency, or pay while traveling abroad. When the transaction appears on your card statement, the final amount may be higher than the price you saw at checkout.

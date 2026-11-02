@@ -9,8 +9,9 @@ tags:
   - merchant payouts
   - card transactions
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is Card Payment Settlement? From Authorization to Payout
 
 You pay for an online order, receive a payment confirmation, and assume the money has already reached the merchant. In reality, card payments often involve several stages before the transaction is fully processed and the merchant receives its payout.
