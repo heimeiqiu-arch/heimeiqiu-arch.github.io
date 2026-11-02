@@ -5,8 +5,9 @@ draft: false
 description: "Learn how recurring card payments work, why automatic card billing can fail, and how to manage subscriptions and recurring charges."
 slug: "recurring-card-payments-explained"
 tags: ["Recurring Payments", "Card Payments", "Online Subscriptions"]
+categories:
+  - Online Payments
 ---
-
 # What Are Recurring Card Payments? How Automatic Billing Works
 
 Recurring card payments allow a business to charge a payment card automatically at regular intervals. They are commonly used for streaming services, software subscriptions, cloud hosting, memberships, and other services that customers pay for monthly or annually.

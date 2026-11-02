@@ -5,8 +5,9 @@ slug: "how-contactless-card-payments-work"
 description: "Learn how contactless card payments work, why a tap may fail, when additional verification is required, and how to troubleshoot common contactless payment problems."
 tags: ["Contactless Payments", "Card Payments", "Payment Security"]
 draft: false
+categories:
+  - Card Payments
 ---
-
 # How Do Contactless Card Payments Work? A Practical Guide
 
 Contactless payments make it possible to pay by tapping a compatible card or device against a payment terminal. They are widely used for everyday purchases because they can be faster than inserting a card and entering a PIN.

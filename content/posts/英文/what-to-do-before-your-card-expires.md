@@ -8,8 +8,9 @@ tags:
   - card replacement
   - recurring payments
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What to Do Before Your Card Expires
 
 A card expiration date can look like a small detail, but it can affect online purchases, recurring subscriptions, and services that store your payment information.

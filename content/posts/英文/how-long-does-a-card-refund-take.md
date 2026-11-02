@@ -5,8 +5,9 @@ slug: "how-long-does-a-card-refund-take"
 description: "Find out how long card refunds usually take, why processing times vary, and what to do when a refund has not appeared in your account."
 tags: ["Card Refunds", "Payment Processing", "Card Payments"]
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # How Long Does a Card Refund Take? Processing Times Explained
 
 Waiting for a card refund can be frustrating, especially when a merchant has already confirmed that the money has been returned. The refund may not appear in your available balance immediately because several steps can take place between the merchant initiating the refund and your card issuer displaying it.

@@ -9,8 +9,9 @@ tags:
   - pending card transaction
   - card payments
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Card Pre-Authorization? How Card Holds Work
 
 Have you ever checked into a hotel and noticed a pending card transaction even though you have not paid the final bill? Or rented a car and found that the available balance on your card was temporarily reduced?

@@ -9,8 +9,9 @@ tags:
   - online payments
   - payment infrastructure
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # Payment Gateway vs. Payment Processor: What's the Difference?
 
 When a business starts accepting card payments online, it may encounter two terms that sound similar: payment gateway and payment processor.

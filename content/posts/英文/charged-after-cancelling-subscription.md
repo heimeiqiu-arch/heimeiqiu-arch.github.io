@@ -5,8 +5,9 @@ draft: false
 description: "Learn why a card may be charged after cancelling a subscription, how to check billing dates, and how to request a refund or dispute an incorrect charge."
 slug: "charged-after-cancelling-subscription"
 tags: ["Subscription Billing", "Card Charges", "Refunds"]
+categories:
+  - Payment Troubleshooting
 ---
-
 # Charged After Cancelling a Subscription? Common Reasons and What to Do
 
 Cancelling a subscription should stop future billing according to the service's cancellation terms. However, you may still notice a card charge after clicking cancel.

@@ -8,8 +8,9 @@ tags:
   - card payment security
   - online payment fraud
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # What to Do If You Receive an Unexpected Card Verification Code
 
 Receiving a card verification code when you are not making a payment can be unsettling. The message might be caused by a mistyped phone number, an attempted transaction, or someone trying to use your card or account details.

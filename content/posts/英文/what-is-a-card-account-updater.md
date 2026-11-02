@@ -8,8 +8,9 @@ tags:
   - stored card details
   - recurring card payments
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is a Card Account Updater?
 
 When a payment card expires or is replaced, a merchant may still have the old card details saved in its billing system. This can create problems for subscriptions and other recurring payments.

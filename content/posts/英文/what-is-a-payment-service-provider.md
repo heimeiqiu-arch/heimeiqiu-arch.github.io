@@ -9,8 +9,9 @@ tags:
   - online payments
   - payment processing
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Payment Service Provider (PSP)?
 
 Accepting online payments involves more than adding a checkout button to a website. Businesses need a way to collect payment details securely, communicate with financial institutions, handle transaction responses, and manage the money they receive.
