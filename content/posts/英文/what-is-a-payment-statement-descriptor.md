@@ -5,8 +5,9 @@ slug: "what-is-a-payment-statement-descriptor"
 description: "Learn what a payment statement descriptor is, how it appears on card statements, and how businesses can reduce customer confusion and payment disputes."
 tags: ["payment statement descriptor", "card statement", "payment disputes", "merchant payments"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Payment Statement Descriptor?
 
 Have you ever checked your bank statement and found a card transaction with a business name you did not immediately recognize? The purchase may be legitimate, but the name displayed on the statement can look different from the website or brand you remember.

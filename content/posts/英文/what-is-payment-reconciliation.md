@@ -5,8 +5,9 @@ slug: "what-is-payment-reconciliation"
 description: "Learn how payment reconciliation matches orders, processor reports, fees, refunds, and bank deposits—and how to investigate discrepancies."
 tags: ["Payment Reconciliation", "Accounting", "Payment Operations"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is Payment Reconciliation? A Guide for Businesses
 
 A business may record a sale in its order system, see a different amount in its payment provider's dashboard, and receive a bank deposit that differs from both figures. These differences do not always mean money is missing. Fees, refunds, settlement timing, currency conversion, and adjustments can all affect the final amount.

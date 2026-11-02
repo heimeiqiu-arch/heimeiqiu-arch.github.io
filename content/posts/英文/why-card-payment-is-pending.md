@@ -5,8 +5,9 @@ slug: "why-card-payment-is-pending"
 description: "Find out why card payments show as pending, how authorization holds affect your available balance, how long pending transactions may last, and what to do next."
 tags: ["Pending Card Payments", "Card Transactions", "Payment Troubleshooting"]
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Does a Card Payment Show as Pending?
 
 You check your card account after making a purchase and see a transaction marked "pending." The amount may already affect your available balance, yet the transaction does not appear to be fully completed.

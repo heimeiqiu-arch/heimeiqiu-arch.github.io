@@ -5,8 +5,9 @@ slug: "what-is-a-payment-authorization-code"
 description: "Learn what a payment authorization code means, when it is generated, how merchants use it, and why an approval code does not guarantee final settlement."
 tags: ["payment authorization code", "card authorization", "payment processing", "transaction records"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Payment Authorization Code?
 
 When a card payment is approved, the payment system may return an authorization code. This code helps identify the authorization decision associated with the transaction.

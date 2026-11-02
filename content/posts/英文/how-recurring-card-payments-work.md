@@ -5,8 +5,9 @@ slug: "how-recurring-card-payments-work"
 description: "Learn how recurring card payments work, how subscription renewals are processed, why recurring charges fail, and how to manage ongoing card payments."
 tags: ["Recurring Payments", "Subscription Billing", "Card Payments"]
 draft: false
+categories:
+  - Online Payments
 ---
-
 # How Do Recurring Card Payments Work? A Practical Guide
 
 Recurring card payments make it possible to pay for subscriptions, memberships, software, and other ongoing services without entering your card details every time.
