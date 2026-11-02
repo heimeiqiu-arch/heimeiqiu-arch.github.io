@@ -9,8 +9,9 @@ tags:
   - payment methods
   - checkout
 draft: false
+categories:
+  - Online Payments
 ---
-
 # What Is a Payment Link? A Complete Guide to Online Payments
 
 A payment link is a simple way for businesses to accept payments online without building a full e-commerce website or creating a dedicated checkout page. Customers open the link, enter the required payment details, and complete the transaction through the payment provider's checkout process.

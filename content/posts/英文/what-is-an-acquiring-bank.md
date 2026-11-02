@@ -5,8 +5,9 @@ slug: "what-is-an-acquiring-bank"
 description: "Learn what an acquiring bank does, how it differs from a card issuer, and how merchant acquiring supports card payments, settlements, and dispute handling."
 tags: ["Acquiring Bank", "Merchant Acquiring", "Card Payments"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is an Acquiring Bank? Understanding Merchant Acquiring
 
 When you pay for something with a credit or debit card, several organizations may be involved in processing the transaction. The merchant, card issuer, card network, and acquiring institution each have different responsibilities.

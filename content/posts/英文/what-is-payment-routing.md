@@ -5,8 +5,9 @@ slug: "what-is-payment-routing"
 description: "Discover how payment routing directs transactions to payment providers, which rules affect routing decisions, and what businesses should evaluate."
 tags: ["Payment Routing", "Payment Processing", "Online Payments"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is Payment Routing? How Online Transactions Reach Payment Providers
 
 When a customer pays online, the transaction may pass through several payment systems before it is approved or declined. For a business that works with multiple payment providers, deciding where to send each transaction can affect costs, reliability, and operational complexity.

@@ -5,8 +5,9 @@ slug: "why-was-my-card-charged-twice"
 description: "Learn why a card payment may appear twice, how to distinguish pending authorisations from duplicate charges, and how to resolve a genuine double payment."
 tags: ["Duplicate Charges", "Card Payments", "Payment Troubleshooting"]
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Was My Card Charged Twice? Duplicate Payment Causes and Fixes
 
 Seeing the same purchase appear twice on your card can be worrying. You may wonder whether you accidentally paid twice, whether a website retried your payment, or whether one of the entries is only a temporary authorisation.

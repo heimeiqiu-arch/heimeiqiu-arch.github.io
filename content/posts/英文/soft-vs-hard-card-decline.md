@@ -5,8 +5,9 @@ slug: "soft-vs-hard-card-decline"
 description: "Learn the difference between soft and hard card declines, why payments are rejected, when retrying may help, and how to handle failed online transactions."
 tags: ["Card Declines", "Online Payments", "Payment Troubleshooting"]
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # Soft Decline vs. Hard Decline: What Is the Difference?
 
 A card payment can fail even when the cardholder believes the card is valid and has enough money available. One reason is that payment declines can have different causes and may require different responses.

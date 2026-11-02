@@ -9,8 +9,9 @@ tags:
   - Mastercard
   - card payments
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is a Card Network? How Visa and Mastercard Work
 
 When you pay online or tap a card at a shop, the transaction may involve several organizations that work together behind the scenes. One important part of this system is the card network.

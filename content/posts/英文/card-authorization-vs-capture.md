@@ -5,8 +5,9 @@ slug: "card-authorization-vs-capture"
 description: "Understand the difference between card authorization and capture, why a payment can be approved before funds are collected, and how delayed or partial captures work."
 tags: ["Card Authorization", "Payment Processing", "Card Transactions"]
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # Card Authorization vs. Capture: What Is the Difference?
 
 When you pay by card online, the payment may be approved immediately, but the merchant might not collect the funds at that exact moment. This happens because card payments can involve two separate stages: **authorization** and **capture**.

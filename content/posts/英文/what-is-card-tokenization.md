@@ -9,8 +9,9 @@ tags:
   - digital wallets
   - online card payments
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is Card Tokenization? How Tokenized Payments Work
 
 When you save a bank card in a shopping app or add it to a digital wallet, you may not need to expose the original card number every time you pay. One technology that can make this possible is card tokenization.

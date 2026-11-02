@@ -9,8 +9,9 @@ tags:
   - merchant payments
   - payment services
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is a Payment Facilitator (PayFac)? How the Model Works
 
 A business that wants to accept card payments may need to work with a payment provider, complete onboarding checks, and arrange the services required to process transactions.

@@ -9,8 +9,9 @@ tags:
   - online card payments
   - payment security
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is a CVV? Understanding Card Security Codes
 
 When you pay online with a debit card, credit card, or eligible prepaid card, a checkout page may ask you to enter a three- or four-digit security code. This code is commonly called a CVV or card security code.
