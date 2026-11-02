@@ -9,8 +9,9 @@ tags:
   - merchant costs
   - payment processing
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # What Is an Interchange Fee? A Guide for Merchants and Cardholders
 
 When a business accepts a card payment, the amount it receives may be lower than the customer's purchase total. One reason is that card payments can involve several types of fees.
