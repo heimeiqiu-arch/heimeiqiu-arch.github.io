@@ -9,8 +9,9 @@ tags:
   - software subscriptions
   - recurring payments
 draft: false
+categories:
+  - SaaS Subscriptions
 ---
-
 # Why Do Software Platforms Require a Backup Payment Method?
 
 You sign up for a software platform, add your main card, and then see a request to provide a backup payment method. It can feel unnecessary, especially when your primary card is active and has enough money to cover the subscription.

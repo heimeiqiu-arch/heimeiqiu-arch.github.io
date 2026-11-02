@@ -9,8 +9,9 @@ tags:
   - recurring billing
   - virtual card management
 draft: false
+categories:
+  - SaaS Subscriptions
 ---
-
 # How to Prevent Subscription Lapses After Replacing a Virtual Card
 
 Replacing a virtual card can be necessary when a card expires, is compromised, reaches the end of its permitted use, or needs to be changed for account-management reasons. But if the card pays for several online subscriptions, replacement can create an additional task: making sure each service continues to bill correctly.
