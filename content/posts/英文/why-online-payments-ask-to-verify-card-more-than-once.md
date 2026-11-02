@@ -4,8 +4,9 @@ date: 2026-10-19
 draft: false
 description: "Find out why online payments may request card verification more than once, what triggers repeated checks, and how to complete verification safely."
 slug: "why-online-payments-ask-to-verify-card-more-than-once"
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Online Payments Ask You to Verify Your Card More Than Once
 
 You may have entered your card details, completed a verification code, and then been asked to verify the same card again. This can happen when shopping online, subscribing to a digital service, or adding a payment method to a new platform.

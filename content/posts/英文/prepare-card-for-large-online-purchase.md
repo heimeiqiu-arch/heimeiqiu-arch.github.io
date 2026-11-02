@@ -8,8 +8,9 @@ tags:
   - card payment limits
   - online payment tips
 draft: false
+categories:
+  - Payment Guides
 ---
-
 # How to Prepare a Card for a Large Online Purchase
 
 A large online purchase can fail for reasons that have little to do with whether you have enough money. Your card may have a transaction limit, the merchant may require additional verification, or the final amount may be higher than the price shown at checkout.

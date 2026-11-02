@@ -5,8 +5,9 @@ slug: "foreign-currency-card-payments-explained"
 description: "Understand how foreign currency card payments are converted, which exchange rates may apply, how dynamic currency conversion works, and how to check for additional fees."
 tags: ["Foreign Currency Payments", "Currency Conversion", "Card Fees"]
 draft: false
+categories:
+  - International Payments
 ---
-
 # How Do Foreign Currency Card Payments Work? Exchange Rates and Fees
 
 When you pay a merchant in another currency, the amount charged to your card account may differ from the amount shown at checkout. This can happen because the transaction must be converted into the currency used by your card account, and additional fees may apply.

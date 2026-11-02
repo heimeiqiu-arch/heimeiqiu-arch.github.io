@@ -8,8 +8,9 @@ tags:
   - payment card security
   - card disposal
 draft: false
+categories:
+  - Card Payments
 ---
-
 # How to Safely Dispose of an Expired Physical Card
 
 When a physical payment card expires, it can be tempting to throw it straight into the rubbish. However, the card may still display information that you should not leave exposed.

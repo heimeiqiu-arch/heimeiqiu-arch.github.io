@@ -9,8 +9,9 @@ tags:
   - card declined
   - online payments
 draft: false
+categories:
+  - SaaS Subscriptions
 ---
-
 # Why Does My Card Work Online but Fail for Subscriptions? | CBPayments
 
 A card can work perfectly for an online purchase and still be declined when you try to pay for a subscription. You might successfully buy a product, book a service, or complete a one-time checkout, only to discover that a streaming service, software platform, or AI tool will not accept the same card.

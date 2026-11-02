@@ -4,8 +4,9 @@ date: 2026-10-19
 draft: false
 description: "Learn why online merchants usually refund purchases to the original payment card, how card refunds work, and what to check if your card has expired or been replaced."
 slug: "why-online-merchants-refund-to-original-card"
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Online Merchants Refund to the Original Payment Card
 
 When you return an online purchase, cancel an order, or receive compensation for a billing error, the merchant will usually send the refund back to the original payment card. This can seem confusing if you want the money sent to a different card, especially when the original card has expired, been frozen, or been replaced.

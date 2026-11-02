@@ -8,8 +8,9 @@ tags:
   - protect card details
   - safe online shopping
 draft: false
+categories:
+  - Card Payments
 ---
-
 # How to Protect Card Details When Shopping Online
 
 Online shopping makes it easy to pay across websites and countries, but every checkout deserves a little attention. Fraudulent websites, phishing messages, compromised accounts, and careless handling of card information can expose payment details.

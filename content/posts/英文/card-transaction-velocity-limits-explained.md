@@ -5,8 +5,9 @@ draft: false
 description: "Understand card transaction velocity limits, why multiple payments in a short period may be declined, and what to do when repeated transactions fail."
 slug: "card-transaction-velocity-limits-explained"
 tags: ["Card Declines", "Payment Security", "Card Transactions"]
+categories:
+  - Payment Troubleshooting
 ---
-
 # What Is a Card Transaction Velocity Limit? Why Repeated Payments Get Declined
 
 Have you ever tried to make several card payments in a short period, only to find that a later transaction was declined? The card may have enough available funds, and the merchant may accept the card type, yet the payment still fails.

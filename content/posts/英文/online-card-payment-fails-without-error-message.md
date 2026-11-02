@@ -4,8 +4,9 @@ date: 2026-10-19
 draft: false
 description: "Learn how to troubleshoot an online card payment that fails without a clear error message, avoid duplicate charges, and identify when to contact the merchant or card provider."
 slug: "online-card-payment-fails-without-error-message"
+categories:
+  - Payment Troubleshooting
 ---
-
 # What to Do When an Online Card Payment Fails Without an Error Message
 
 An online card payment can fail even when the checkout page does not display a useful error. The page may stop loading, return to the shopping cart, show a spinning indicator indefinitely, or simply appear to do nothing after you click the payment button.

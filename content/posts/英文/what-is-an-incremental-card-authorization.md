@@ -4,8 +4,9 @@ date: 2026-10-19
 draft: false
 description: "Understand incremental card authorizations, why hotels and rental businesses may increase an approved amount, and how these changes can affect available balance."
 slug: "what-is-an-incremental-card-authorization"
+categories:
+  - Payment Guides
 ---
-
 # What Is an Incremental Authorization on a Card Payment?
 
 Have you ever booked a hotel room, rented a vehicle, or paid for a service where the final amount was not known at the beginning? In some situations, a merchant may request an initial card authorization and then ask for an additional authorization as the expected cost changes.
