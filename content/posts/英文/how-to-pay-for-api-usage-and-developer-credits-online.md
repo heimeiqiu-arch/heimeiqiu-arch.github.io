@@ -9,8 +9,9 @@ tags:
   - online developer tools
   - virtual card payments
 draft: false
+categories:
+  - SaaS Subscriptions
 ---
-
 # How to Pay for API Usage and Developer Credits Online
 
 Developers often need to pay for more than software subscriptions. API providers, cloud platforms, AI services, testing tools, and other developer products may charge for usage, sell prepaid credits, or bill accounts after a usage period.
