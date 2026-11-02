@@ -5,8 +5,9 @@ slug: "what-is-a-card-network-token"
 description: "Learn what a card network token is, how tokenized card payments work, how tokens improve payment security, and what they mean for online shoppers."
 tags: ["Card Network Tokens", "Payment Security", "Tokenized Payments"]
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is a Card Network Token? A Guide to Tokenized Payments
 
 When you save a payment card in an online store or subscription service, the merchant may not rely on the original card number for every future transaction. Instead, the payment system may use a token.

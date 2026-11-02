@@ -5,8 +5,9 @@ slug: "what-is-a-card-on-file-transaction"
 description: "Understand card-on-file transactions, how merchants store payment credentials, when saved cards can be charged, and how to manage or remove a stored payment method."
 tags: ["Card-on-File", "Saved Cards", "Online Payments"]
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is a Card-on-File Transaction? How Saved Card Payments Work
 
 Many online services let customers save a payment card for faster checkout. Once the card has been stored through a supported payment system, the customer may be able to make another purchase without entering the full card details again.

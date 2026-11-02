@@ -5,8 +5,9 @@ slug: "what-is-dynamic-currency-conversion-dcc"
 description: "Learn how dynamic currency conversion works, why overseas merchants offer to charge your card in your home currency, and how to compare the costs before paying."
 tags: ["Dynamic Currency Conversion", "Foreign Currency Payments", "International Card Payments"]
 draft: false
+categories:
+  - International Payments
 ---
-
 # What Is Dynamic Currency Conversion (DCC)? A Guide for Cardholders
 
 When you pay with a card while travelling abroad, a terminal or website may ask whether you want to pay in the local currency or your home currency.

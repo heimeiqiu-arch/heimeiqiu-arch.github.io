@@ -5,8 +5,9 @@ slug: "what-is-a-card-bin-iin"
 description: "Learn what a card BIN or IIN is, what the first digits of a payment card can indicate, and why BIN information matters for online payments and card acceptance."
 tags: ["Card BIN", "IIN", "Card Payments"]
 draft: false
+categories:
+  - Card Payments
 ---
-
 # What Is a Card BIN? Understanding the First Digits of a Card Number
 
 When you enter a payment card online, the merchant may use information from the beginning of the card number to help identify the payment card and route the transaction.

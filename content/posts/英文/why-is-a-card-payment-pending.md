@@ -9,8 +9,9 @@ tags:
   - transaction posting
   - payment processing
 draft: false
+categories:
+  - Payment Troubleshooting
 ---
-
 # Why Is a Card Payment Pending? Authorization vs. Final Posting
 
 You make an online purchase, check your banking app, and see the transaction marked as pending. The available balance has changed, but the transaction has not appeared as a completed charge.
