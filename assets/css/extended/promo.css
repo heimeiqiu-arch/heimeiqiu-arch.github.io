@@ -1,0 +1,153 @@
+/* 文章页推广位样式。结构见 layouts/_partials/promo.html，文案见 data/promo.yaml */
+
+:root {
+    --promo-accent: #2563eb;
+    --promo-accent-contrast: #ffffff;
+    --promo-accent-soft: rgba(37, 99, 235, 0.07);
+}
+
+.dark {
+    --promo-accent: #60a5fa;
+    --promo-accent-contrast: #10151f;
+    --promo-accent-soft: rgba(96, 165, 250, 0.10);
+}
+
+.promo {
+    margin: 2.2rem 0 0.5rem;
+}
+
+.promo-box {
+    position: relative;
+    margin: 0 0 0.85rem;
+    padding: 1.15rem 1.3rem;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--entry);
+}
+
+.promo-box:last-child {
+    margin-bottom: 0;
+}
+
+.promo-box--accent {
+    border-left: 3px solid var(--promo-accent);
+    background: var(--promo-accent-soft);
+}
+
+.promo-badge {
+    position: absolute;
+    top: 0.7rem;
+    right: 0.85rem;
+    padding: 0.1rem 0.45rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--theme);
+    color: var(--secondary);
+    font-size: 0.7rem;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.promo-title {
+    margin: 0 0 0.5rem;
+    padding-right: 3.2rem;
+    color: var(--primary);
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.promo-title__icon {
+    margin-right: 0.3rem;
+}
+
+.promo-text {
+    margin: 0;
+    color: var(--secondary);
+    font-size: 0.92rem;
+    line-height: 1.75;
+}
+
+.promo-list {
+    margin: 0.2rem 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.promo-list li {
+    position: relative;
+    margin: 0.42rem 0;
+    padding-left: 1.05rem;
+    color: var(--secondary);
+    font-size: 0.9rem;
+    line-height: 1.72;
+}
+
+.promo-list li::before {
+    content: "";
+    position: absolute;
+    top: 0.66em;
+    left: 0;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--promo-accent);
+}
+
+.promo-list b {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.promo-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    margin-top: 0.95rem;
+}
+
+.promo-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.42rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--theme);
+    color: var(--primary) !important;
+    font-size: 0.88rem;
+    line-height: 1.6;
+    text-decoration: none !important;
+    box-shadow: none !important;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.promo-btn:hover {
+    border-color: var(--promo-accent);
+    transform: translateY(-1px);
+}
+
+.promo-btn--primary {
+    border-color: var(--promo-accent);
+    background: var(--promo-accent);
+    color: var(--promo-accent-contrast) !important;
+}
+
+.promo-btn--primary:hover {
+    opacity: 0.9;
+}
+
+.promo-btn__icon {
+    font-size: 0.95em;
+}
+
+@media (max-width: 560px) {
+    .promo-box {
+        padding: 1rem 1.05rem;
+    }
+
+    .promo-btn {
+        flex: 1 1 auto;
+        justify-content: center;
+    }
+}
