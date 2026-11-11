@@ -33,7 +33,9 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        run: |
+          npm install --global sass
+          sass --version
 
       - name: Checkout
         uses: actions/checkout@v4
