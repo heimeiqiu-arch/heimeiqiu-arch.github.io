@@ -14,7 +14,7 @@ permissions:
 # Always deploy the newest version instead of building a queue of old commits
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 defaults:
   run:
