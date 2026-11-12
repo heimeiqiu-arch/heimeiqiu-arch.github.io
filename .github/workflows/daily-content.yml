@@ -1,0 +1,118 @@
+name: Generate and publish 50 Chinese articles daily
+
+on:
+  schedule:
+    # 08:00 Asia/Shanghai (GitHub Actions cron is UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      HUGO_VERSION: 0.146.0
+
+    steps:
+      - name: Check out site and theme
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Check whether OpenAI API is configured
+        id: credentials
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [[ -n "$OPENAI_API_KEY" ]]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Add OPENAI_API_KEY under repository Actions secrets to enable scheduled article generation."
+          fi
+
+      - name: Generate 50 researched articles
+        if: steps.credentials.outputs.enabled == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-6-luna
+          DAILY_ARTICLE_COUNT: "50"
+        run: python3 scripts/generate_articles.py
+
+      - name: Commit the new articles
+        if: steps.credentials.outputs.enabled == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/posts/中文
+          if git diff --cached --quiet; then
+            echo "::error::The generator produced no new articles."
+            exit 1
+          fi
+          git commit -m "Publish 50 researched Chinese articles $(date -u +%F)"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+
+      - name: Install Hugo
+        if: steps.credentials.outputs.enabled == 'true'
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - name: Install Dart Sass
+        if: steps.credentials.outputs.enabled == 'true'
+        run: |
+          npm install --global sass
+          sass --version
+
+      - name: Configure GitHub Pages
+        if: steps.credentials.outputs.enabled == 'true'
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Hugo site
+        if: steps.credentials.outputs.enabled == 'true'
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Verify site and SEO files
+        if: steps.credentials.outputs.enabled == 'true'
+        run: |
+          test -f public/index.html
+          test -f public/robots.txt
+          test -f public/sitemap.xml
+
+      - name: Upload GitHub Pages artifact
+        if: steps.credentials.outputs.enabled == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        if: steps.credentials.outputs.enabled == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
