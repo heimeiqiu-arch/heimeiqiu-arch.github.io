@@ -1,6 +1,6 @@
 ---
 title: "TikTok Ads 手动付款还是自动付款？计费差异与选择方法"
-date: 2026-11-12T18:50:00+08:00
+date: 2026-11-12T18:35:00+08:00
 slug: "tiktok-ads-manual-vs-automatic-payment"
 description: "TikTok Ads 手动付款先充值再投放，自动付款则按账单日或扣款门槛结算。本文解释两种方式的现金流、卡片要求、切换限制和失败排查。"
 tags:
