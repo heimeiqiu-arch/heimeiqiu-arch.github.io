@@ -11,7 +11,7 @@ permissions:
   pages: write
   id-token: write
 
-# Always deploy the newest version instead of building a queue of old commits
+# Serialize Pages deployments; do not cancel an active deployment.
 concurrency:
   group: "pages"
   cancel-in-progress: false
