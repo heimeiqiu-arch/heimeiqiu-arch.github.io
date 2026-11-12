@@ -173,7 +173,7 @@ def make_article(topic, existing, index):
     if any(similarity(topic["title"], item["title"]) >= 0.86 for item in existing):
         raise RuntimeError(f"Article title duplicates an existing page: {topic['title']}")
     date = dt.datetime.now(ZoneInfo("Asia/Shanghai")).replace(
-        hour=8, minute=min(59, index), second=0, microsecond=0
+        hour=0, minute=0, second=0, microsecond=0
     )
     quote = lambda value: json.dumps(str(value), ensure_ascii=False)
     front = [
