@@ -116,3 +116,21 @@ buildExpired = false
   guessSyntax = true
   lineNos = false
   style = 'monokai'
+
+
+# Keep the English editorial folders separate in PagesCMS while mounting
+# their articles back into the original Hugo path to preserve public URLs.
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+    excludeFiles = ['posts/英文/英文1/**', 'posts/英文/英文2/**', 'posts/英文/英文3/**']
+  [[module.mounts]]
+    source = 'content/posts/英文/英文1'
+    target = 'content/posts/英文'
+  [[module.mounts]]
+    source = 'content/posts/英文/英文2'
+    target = 'content/posts/英文'
+  [[module.mounts]]
+    source = 'content/posts/英文/英文3'
+    target = 'content/posts/英文'
