@@ -9,18 +9,16 @@ media:
 content:
 
   # =====================
-  # 英文文章
+  # 英文文章 1
   # =====================
-  - name: english
-    label: 英文
+  - name: english-1
+    label: 英文1
     type: collection
-    path: content/posts/英文
+    path: content/posts/英文/英文1
     format: yaml-frontmatter
     filename: "{fields.slug}.md"
-
     exclude:
       - _index.md
-
     view:
       fields: [title, date, draft, categories]
       primary: title
@@ -29,41 +27,33 @@ content:
       default:
         sort: date
         order: desc
-
     fields:
-
       - name: title
         label: 标题
         type: string
         required: true
-
       - name: slug
         label: 英文别名
         type: string
         required: true
         pattern:
           regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
-
       - name: date
         label: 发布时间
         type: date
         required: true
-
       - name: draft
         label: 草稿
         type: boolean
         default: false
-
       - name: categories
         label: 分类
         type: string
         list: true
-
       - name: tags
         label: 标签
         type: string
         list: true
-
       - name: body
         label: 正文
         type: rich-text
@@ -71,6 +61,110 @@ content:
           format: markdown
 
 
+  # =====================
+  # 英文文章 2
+  # =====================
+  - name: english-2
+    label: 英文2
+    type: collection
+    path: content/posts/英文/英文2
+    format: yaml-frontmatter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 草稿
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+
+  # =====================
+  # 英文文章 3
+  # =====================
+  - name: english-3
+    label: 英文3
+    type: collection
+    path: content/posts/英文/英文3
+    format: yaml-frontmatter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 草稿
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
 
   # =====================
   # 简体中文文章
