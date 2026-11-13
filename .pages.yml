@@ -16,6 +16,7 @@ content:
     type: collection
     path: content/posts/英文
     format: yaml-frontmatter
+    subfolders: true
     filename: "{fields.slug}.md"
 
     exclude:
@@ -63,6 +64,11 @@ content:
         label: 标签
         type: string
         list: true
+
+      - name: url
+        label: false
+        type: string
+        hidden: true
 
       - name: body
         label: 正文
