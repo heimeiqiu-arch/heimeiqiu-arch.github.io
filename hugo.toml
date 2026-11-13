@@ -1,7 +1,7 @@
 baseURL = 'https://heimeiqiu-arch.github.io/'
 locale = 'zh-CN'
 defaultContentLanguage = 'zh'
-title = 'Cbpayments'
+title = 'CBPayments｜虚拟卡与国际支付实用指南'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -27,9 +27,9 @@ buildExpired = false
 
 [params]
   env = 'production'
-  title = 'Cbpayments'
-  description = 'Cbpayments —— 全球虚拟卡支付平台，USDT 充值，免 KYC 注册，支持 VISA/Mastercard/Discover'
-  keywords = ['虚拟卡', '虚拟信用卡', 'USDT开卡', '免KYC', 'Cbpayments', '广告投放卡']
+  title = 'CBPayments｜虚拟卡与国际支付实用指南'
+  description = 'CBPayments —— 全球虚拟卡支付平台，USDT 充值，免 KYC 注册，支持 VISA/Mastercard/Discover'
+  keywords = ['虚拟卡', '虚拟信用卡', 'USDT开卡', '免KYC', 'CBPayments', '广告投放卡']
   DateFormat = '2006-01-02'
   defaultTheme = 'auto'      # auto / light / dark
   disableThemeToggle = false
@@ -49,7 +49,7 @@ buildExpired = false
   comments = false
 
   [params.homeInfoParams]
-    Title = 'Cbpayments · 全球虚拟卡，USDT 直接开卡消费'
+    Title = 'CBPayments｜虚拟卡与国际支付实用指南'
     Content = '''
 链上的 USDT 想花到链下——投 Meta、Google、TikTok 广告，订阅 ChatGPT、Claude、Midjourney，付 AWS、Cloudflare、域名续费，或者在 Amazon、eBay、Shopify 上采购——中间缺的就是一张能用的卡。
 
