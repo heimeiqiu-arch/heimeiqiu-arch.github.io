@@ -87,10 +87,13 @@ jobs:
               for field in ("title", "description", "slug", "tags"):
                   if not re.search(rf"(?m)^{field}:\s*\S", front):
                       errors.append(f"{path}: missing or empty {field}")
-              chinese_chars = len(re.findall(r"[\u3400-\u4DBF\u4E00-\u9FFF]", body))
-              print(f"{path}: {chinese_chars} Chinese characters")
-              if chinese_chars < 2000:
-                  errors.append(f"{path}: {chinese_chars} Chinese characters; minimum is 2000")
+              # English articles are written in English; keep metadata checks,
+              # but do not apply the Chinese character-count threshold to them.
+              if not path.startswith("content/posts/英文/"):
+                  chinese_chars = len(re.findall(r"[\u3400-\u4DBF\u4E00-\u9FFF]", body))
+                  print(f"{path}: {chinese_chars} Chinese characters")
+                  if chinese_chars < 2000:
+                      errors.append(f"{path}: {chinese_chars} Chinese characters; minimum is 2000")
 
           if errors:
               print("\nArticle publishing checks failed:")
