@@ -68,6 +68,7 @@ jobs:
               if path.startswith("content/posts/")
               and path.endswith(".md")
               and not path.endswith("/_index.md")
+              and os.path.isfile(path)
           ]
           if not posts:
               print("No article files changed.")
