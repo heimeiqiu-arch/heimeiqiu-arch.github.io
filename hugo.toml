@@ -28,8 +28,8 @@ buildExpired = false
 [params]
   env = 'production'
   title = 'CBPayments｜虚拟卡与国际支付实用指南'
-  description = 'CBPayments —— 全球虚拟卡支付平台，USDT 充值，免 KYC 注册，支持 VISA/Mastercard/Discover'
-  keywords = ['虚拟卡', '虚拟信用卡', 'USDT开卡', '免KYC', 'CBPayments', '广告投放卡']
+  description = '关于虚拟卡与 USDT 充值支付的实用指南；服务主体、费用与适用条件请先查看披露信息'
+  keywords = ['虚拟卡', '跨境支付', '国际支付', 'USDT 充值', 'CBPayments']
   DateFormat = '2006-01-02'
   defaultTheme = 'auto'      # auto / light / dark
   disableThemeToggle = false
@@ -51,16 +51,13 @@ buildExpired = false
   [params.homeInfoParams]
     Title = 'CBPayments｜虚拟卡与国际支付实用指南'
     Content = '''
-链上的 USDT 想花到链下——投 Meta、Google、TikTok 广告，订阅 ChatGPT、Claude、Midjourney，付 AWS、Cloudflare、域名续费，或者在 Amazon、eBay、Shopify 上采购——中间缺的就是一张能用的卡。
+本站为支付信息与实用指南网站，公开介绍的业务包括虚拟卡及 USDT 充值支付。当前页面托管于 GitHub Pages（heimeiqiu-arch.github.io），页面使用 CBPayments 品牌，并有外链指向 cbpayments.cc。
 
-- **免 KYC 注册** —— 不用提交身份材料，注册后直接开卡。
-- **VISA / Mastercard / Discover** —— 三种卡组织可选，按收款方的接受度挑。
-- **秒级批量开卡** —— 按部门、项目或投放账户分别建卡，额度独立，费用天然分开，月底不用再从流水里倒推。
-- **USDT-TRC20 充值** —— 随时充值与提现，账单、手续费明细、授权状态都可导出。
+本网站运营主体、实际服务提供方，以及本站与 cbpayments.cc 之间的关系尚未完成公开披露。本站不是 Google、Visa、Mastercard 或 Discover 的官方网站，也不表示获得其授权或背书。
 
-注册 → 充值 USDT → 开卡并分配额度 → 直接消费，四步走完。
+在主体及关系、经营地址、收费项目与金额、支持地区、身份验证要求、服务条款、退款/取消与投诉方式等信息核实并公开前，请勿通过本站注册或充值。本站不提供支付入口，也不要求用户在本站提交银行卡号、验证码、密码或身份证明。
 
-[前往 cbpayments.cc](https://cbpayments.cc)
+[查看服务与主体披露](/disclosures/)
 '''
 
   [[params.socialIcons]]
