@@ -78,6 +78,74 @@ content:
 
 
 
+  - name: english2
+    label: 英文 2
+    type: collection
+    path: content/posts/英文2
+    format: yaml-frontmatter
+    subfolders: true
+    filename: "{fields.slug}.md"
+
+    exclude:
+      - _index.md
+
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+
+    fields:
+
+      - name: title
+        label: 标题
+        type: string
+        required: true
+
+      - name: slug
+        label: 英文别名
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+
+      - name: draft
+        label: 草稿
+        type: boolean
+        default: false
+
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+
+      - name: url
+        label: false
+        type: string
+        hidden: true
+
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+
+
+
   # =====================
   # 简体中文文章
   # =====================
