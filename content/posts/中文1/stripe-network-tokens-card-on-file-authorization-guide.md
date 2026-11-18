@@ -10,7 +10,6 @@ keywords:
   - 卡片自动更新
   - Stripe 续费失败
 tags:
-  - Stripe
   - 卡片支付
   - 令牌化
   - 订阅

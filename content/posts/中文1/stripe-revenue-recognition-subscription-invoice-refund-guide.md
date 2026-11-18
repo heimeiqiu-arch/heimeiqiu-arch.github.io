@@ -3,7 +3,7 @@ title: "Stripe Revenue Recognition 收入确认：订阅、退款与发票期间
 date: 2026-11-14
 description: "介绍 Stripe Revenue Recognition 如何帮助查看交易收入分摊与会计报告，涵盖订阅期间、退款、发票修正和财务复核流程。"
 slug: "stripe-revenue-recognition-subscription-invoice-refund-guide"
-tags: ["Stripe", "Revenue Recognition", "收入确认", "财务对账"]
+tags: [ "Revenue Recognition", "收入确认", "财务对账"]
 keywords: ["Stripe Revenue Recognition", "Stripe 收入确认", "订阅收入确认", "Stripe 发票期间", "Stripe 会计报告"]
 ---
 

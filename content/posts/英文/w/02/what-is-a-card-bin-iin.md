@@ -97,8 +97,6 @@ Virtual cards also have card numbers and associated issuing information. Their B
 
 Before using a virtual card, check whether the merchant accepts the card type, issuing region, transaction currency, and required authentication method. A BIN lookup cannot confirm all these details.
 
-CBPayments offers virtual and physical card options, subject to the relevant product terms and availability. Visit [CBPayments](https://www.cbpayments.cc/) to review the available options for your payment needs.
-
 ## Frequently Asked Questions
 
 ### Is a BIN always six digits?

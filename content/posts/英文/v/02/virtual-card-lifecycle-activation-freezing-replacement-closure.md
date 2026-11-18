@@ -96,10 +96,6 @@ A refund may still be processed after a card has been frozen, replaced, or close
 
 Subscriptions are a separate concern. A merchant may continue trying to collect an agreed recurring payment even after you stop using a card. If you no longer want the service, cancel it through the merchant's official process and check the confirmation.
 
-## Managing Virtual Cards With CBPayments
-
-CBPayments offers virtual and physical card options for eligible online and payment needs. If you are considering a card, review the available options at https://www.cbpayments.cc/.
-
 Before creating or using a card, check the product's activation process, spending limits, recurring-payment support, freezing controls, replacement rules, and closure policy.
 
 The exact controls available depend on the card product and its terms. Confirm these details before linking a card to an important subscription.

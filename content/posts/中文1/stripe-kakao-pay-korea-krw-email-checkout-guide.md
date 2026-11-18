@@ -10,7 +10,6 @@ keywords:
   - Stripe Kakao Pay Checkout
   - Kakao Pay 邮箱要求
 tags:
-  - Stripe
   - Kakao Pay
   - 韩国支付
   - Checkout

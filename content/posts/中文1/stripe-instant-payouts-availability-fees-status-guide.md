@@ -3,7 +3,7 @@ title: "Stripe Instant Payouts 即时出款：适用条件、费用与状态跟�
 date: 2026-11-14
 description: "介绍 Stripe Instant Payouts 的适用目的地、余额要求、费用核对、API 请求、Webhook 状态和失败处理，帮助商家安全管理快速出款。"
 slug: "stripe-instant-payouts-availability-fees-status-guide"
-tags: ["Stripe", "Instant Payouts", "出款", "资金管理"]
+tags: [ "Instant Payouts", "出款", "资金管理"]
 keywords: ["Stripe Instant Payouts", "Stripe 即时出款", "Stripe instant payout 费用", "Instant Payout 状态", "Stripe 快速提现"]
 ---
 

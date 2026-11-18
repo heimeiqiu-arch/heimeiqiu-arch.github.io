@@ -1,5 +1,5 @@
 ---
-title: "Visa and Mastercard Virtual Cards: What Are the Differences? | CBPayments"
+title: "Visa and Mastercard Virtual Cards: What Are the Differences?"
 slug: visa-and-mastercard-virtual-cards-differences
 url: "/posts/英文/visa-and-mastercard-virtual-cards-differences/"
 date: 2026-09-22
@@ -14,8 +14,6 @@ tags:
   - card network
   - online payment
 ---
-# Visa and Mastercard Virtual Cards: What Are the Differences? | CBPayments
-
 When choosing a payment card for online transactions, many users focus on the card type, payment features, and supported merchants.
 
 Two of the most recognized payment networks worldwide are Visa and Mastercard.

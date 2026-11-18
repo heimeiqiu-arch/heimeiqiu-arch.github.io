@@ -3,7 +3,7 @@ title: "Stripe Checkout 配送地址与运费设置：实体商品结账流程�
 date: 2026-11-14
 description: "介绍 Stripe Checkout 收集配送地址、配置运费和限制配送范围的方法，涵盖订单履约、Webhook、税费核对与常见错误。"
 slug: "stripe-checkout-shipping-address-shipping-rates-fulfillment-guide"
-tags: ["Stripe", "Checkout", "配送地址", "电商支付"]
+tags: [ "Checkout", "配送地址", "电商支付"]
 keywords: ["Stripe Checkout 配送地址", "Stripe 运费设置", "Checkout shipping rates", "Stripe 实体商品收款", "Checkout 发货流程"]
 ---
 

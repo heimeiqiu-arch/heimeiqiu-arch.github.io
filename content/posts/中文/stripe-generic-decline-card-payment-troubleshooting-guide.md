@@ -3,7 +3,7 @@ title: "Stripe 出现 generic_decline 怎么办？通用拒付码与重试指南
 date: 2026-11-13T11:15:00+08:00
 slug: stripe-generic-decline-card-payment-troubleshooting-guide
 description: "Stripe 支付返回 generic_decline 时如何排查？本文解释通用拒付码的含义，教你查看 PaymentIntent、卡组织建议、CVC 与 AVS 结果，并制定安全的顾客沟通、有限重试和长期监控流程。"
-tags: ["Stripe", "支付失败", "信用卡拒付", "支付排查"]
+tags: [ "支付失败", "信用卡拒付", "支付排查"]
 categories: ["支付指南"]
 draft: false
 ---

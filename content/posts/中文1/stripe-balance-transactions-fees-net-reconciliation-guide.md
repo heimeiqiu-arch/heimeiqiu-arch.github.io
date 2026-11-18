@@ -3,7 +3,7 @@ title: "Stripe Balance Transaction 对账指南：手续费、净额与资金状
 date: 2026-11-14
 description: "介绍 Stripe Balance Transaction 的金额、费用、净额、pending 与 available 状态，说明如何将支付、退款、转账和 Payout 纳入财务对账。"
 slug: "stripe-balance-transactions-fees-net-reconciliation-guide"
-tags: ["Stripe", "Balance Transaction", "财务对账", "支付报表"]
+tags: [ "Balance Transaction", "财务对账", "支付报表"]
 keywords: ["Stripe Balance Transaction", "Stripe 余额交易", "Stripe 手续费对账", "Stripe 净额", "Stripe 财务报告"]
 ---
 

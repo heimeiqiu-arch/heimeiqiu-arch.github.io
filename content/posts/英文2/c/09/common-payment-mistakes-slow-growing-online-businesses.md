@@ -24,8 +24,6 @@ It may seem convenient to use a single payment method for every business expense
 
 A single payment method may also make it harder to separate spending by purpose. If advertising, software subscriptions, supplier purchases, and personal expenses all appear together, reviewing financial activity becomes more difficult.
 
-Choose payment methods based on acceptance, fees, currency support, transaction records, and available controls. For eligible online purchases, a dedicated virtual or physical card may help organize card-based business spending. CBPayments provides card options for supported online payment scenarios; review [CBPayments](https://www.cbpayments.cc/) before deciding whether they suit your requirements.
-
 ## Entering Incorrect Payment Details
 
 Incorrect recipient information can delay a transaction or send it to the wrong destination. Common mistakes include typing an incorrect account number, selecting the wrong currency, using outdated supplier information, entering an incorrect invoice reference, or paying an old invoice after an updated one has been issued.
@@ -71,5 +69,3 @@ Read the provider's explanation, verify billing information, and contact the mer
 ## Build Better Habits Before Problems Multiply
 
 A monthly review can identify duplicate charges, incorrect amounts, missing receipts, and subscriptions that are no longer needed. A consistent payment process also makes unexpected activity easier to investigate.
-
-For online card expenses, compare options based on supported regions, fees, controls, and terms. [CBPayments](https://www.cbpayments.cc/) is one service to review for supported virtual and physical card use cases. The key is to create a routine that keeps transactions accurate, documented, and easy to review.

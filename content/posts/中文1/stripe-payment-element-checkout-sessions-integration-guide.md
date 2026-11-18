@@ -3,7 +3,7 @@ title: "Stripe Payment Element 接入指南：嵌入式结账、动态支付方�
 date: 2026-11-14
 slug: stripe-payment-element-checkout-sessions-integration-guide
 description: "介绍 Stripe Payment Element 与 Checkout Sessions 的推荐集成方式，涵盖动态支付方式、地址组件、前后端流程、Webhook 和测试检查。"
-tags: ["Stripe", "Payment Element", "Checkout Sessions", "动态支付方式", "结账"]
+tags: [ "Payment Element", "Checkout Sessions", "动态支付方式", "结账"]
 categories: ["支付与账单"]
 draft: false
 ---

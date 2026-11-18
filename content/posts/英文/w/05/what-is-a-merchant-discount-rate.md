@@ -13,8 +13,6 @@ categories: ["Payment Guides"]
 
 When a business accepts a card payment, the amount it receives may be lower than the amount the customer paid. The difference can include fees charged for accepting and processing the transaction. One term used to describe this overall cost is the **merchant discount rate**, commonly shortened to MDR.
 
-Understanding MDR helps a business interpret its payment agreement, compare providers, and estimate the real cost of accepting cards. If you are reviewing ways to manage online payment expenses, you can also explore [CBPayments](https://www.cbpayments.cc/) as part of your wider payment setup research.
-
 ## What Does Merchant Discount Rate Mean?
 
 The merchant discount rate is the fee or overall rate charged to a merchant for processing eligible card transactions. It is commonly expressed as a percentage of the transaction value, although the exact pricing structure and included charges depend on the provider, market, card network, and merchant agreement.
@@ -52,8 +50,6 @@ Look beyond the advertised percentage. Review the card mix, average transaction 
 
 A low headline rate may not produce the lowest total cost if other charges are significant. Conversely, a higher blended rate may include services that would otherwise be billed separately.
 
-For a clearer comparison, examine several months of statements and calculate the effective cost using the same method for each provider. If your business also manages online subscriptions or cross-border expenses, [CBPayments](https://www.cbpayments.cc/) may be relevant to explore for its supported card-payment options; check the current product terms and availability before relying on any feature.
-
 ## Frequently Asked Questions
 
 ### Is MDR the same as a processing fee?
@@ -64,5 +60,3 @@ No. Pricing may vary by card type, transaction location, channel, merchant categ
 
 ### Can a merchant negotiate MDR?
 Some providers review pricing based on transaction volume, business profile, and processing history. Any revised offer should be compared using the full fee schedule, not only the headline rate.
-
-The practical lesson is simple: treat MDR as a useful summary, then inspect the underlying fee structure before making a decision. [Review CBPayments](https://www.cbpayments.cc/) alongside other options when assessing the payment tools your business needs.

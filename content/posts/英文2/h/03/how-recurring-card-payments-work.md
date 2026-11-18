@@ -144,8 +144,6 @@ Before using a virtual card for an ongoing subscription, check:
 
 A virtual card does not guarantee acceptance by every subscription service. Confirm compatibility before relying on it for an important renewal.
 
-You can review available virtual and physical card options at [CBPayments](https://www.cbpayments.cc/).
-
 ## Frequently Asked Questions
 
 ### Are recurring payments charged automatically?

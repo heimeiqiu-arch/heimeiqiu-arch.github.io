@@ -3,7 +3,7 @@ title: "Stripe 账单描述符是什么？客户不认识扣款时的核对与�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-statement-descriptor-unknown-card-charge-guide"
 description: "客户在银行卡账单上不认识 Stripe 扣款时，如何核对账单描述符、商户名称、订阅周期和交易记录，并检查 Stripe 的描述符前缀与后缀设置。"
-tags: ["Stripe", "账单描述符", "银行卡扣款", "交易识别", "拒付预防", "订阅"]
+tags: [ "账单描述符", "银行卡扣款", "交易识别", "拒付预防", "订阅"]
 categories: ["支付问题"]
 draft: false
 ---

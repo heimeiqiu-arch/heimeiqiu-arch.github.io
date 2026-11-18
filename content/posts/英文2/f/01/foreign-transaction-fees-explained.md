@@ -90,8 +90,6 @@ Some virtual card products may support particular currencies or have specific tr
 
 Before using a virtual card for an overseas website or recurring digital subscription, check the supported currencies, transaction restrictions, fee schedule, recurring-payment support, and how refunds are handled.
 
-CBPayments offers both virtual and physical card options. You can review the available products at https://www.cbpayments.cc/ and confirm the applicable fees and supported transaction types before making a payment.
-
 ## Ways to Reduce Unexpected International Payment Costs
 
 ### Compare the total cost, not just the advertised fee

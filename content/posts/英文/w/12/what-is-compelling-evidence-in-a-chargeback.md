@@ -96,5 +96,3 @@ They may be relevant when they establish order details, delivery, cancellation, 
 ### Is more evidence always better?
 
 No. A focused set of relevant records is often easier to evaluate than a large collection of unrelated files.
-
-Compelling evidence is not about collecting the most files. It is about presenting reliable information that directly addresses the disputed transaction. Visit [CBPayments](https://www.cbpayments.cc/) for details about available card products and payment services.

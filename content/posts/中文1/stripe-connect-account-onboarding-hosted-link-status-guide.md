@@ -3,7 +3,7 @@ title: "Stripe Connect 关联账户入驻：Hosted Onboarding、信息收集与�
 date: 2026-11-14
 description: "介绍 Stripe Connect 关联账户入驻流程，比较托管入驻与平台自建表单的职责，说明账户链接、资料收集、capability 和 Webhook 状态管理。"
 slug: "stripe-connect-account-onboarding-hosted-link-status-guide"
-tags: ["Stripe", "Stripe Connect", "关联账户", "平台开发"]
+tags: [ "Stripe Connect", "关联账户", "平台开发"]
 keywords: ["Stripe Connect 入驻", "Stripe Hosted Onboarding", "Connected Account onboarding", "账户验证", "Connect capability"]
 ---
 

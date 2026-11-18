@@ -122,13 +122,7 @@ When a payment fails, check the decline reason and the provider's supported use 
 
 Businesses and individuals who need to pay for overseas software or digital subscriptions should also confirm that their payment method supports the relevant merchant, currency, and recurring billing arrangement.
 
-## How CBPayments Fits Into Payment Planning
-
-CBPayments offers virtual and physical cards with Visa and Mastercard options. For eligible users, these cards may be one part of a broader payment setup for supported online purchases and international services.
-
 Before using any card for a particular service, review the card's available balance, transaction limits, fees, verification requirements, and merchant restrictions. Acceptance depends on the merchant, issuer, transaction type, and applicable rules; no card can guarantee approval everywhere.
-
-Visit [CBPayments](https://www.cbpayments.cc/) to review the available card options and determine whether they fit your payment needs.
 
 ## Frequently Asked Questions
 

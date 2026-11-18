@@ -80,8 +80,6 @@ Virtual cards are issued under different programs and may have different authori
 
 Before using a virtual card for an online purchase or subscription, check whether the card supports the type of merchant, whether category-based spending restrictions apply, whether online and international transactions are permitted, whether recurring payments are supported if needed, and whether the spending limit is sufficient.
 
-CBPayments provides virtual and physical card options. Review the available products at https://www.cbpayments.cc/ and check the specific card terms and restrictions before making a payment.
-
 Acceptance still depends on the merchant's payment setup and the card issuer's authorization decision.
 
 ## How to Troubleshoot a Possible MCC Decline

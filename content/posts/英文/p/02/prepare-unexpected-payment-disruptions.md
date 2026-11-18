@@ -42,8 +42,6 @@ For essential expenses, consider whether an alternative arrangement is available
 
 Do not wait until a payment fails to discover that a backup option is not accepted. Check merchant requirements in advance, including fees, processing times, currency limitations, and verification requirements.
 
-For eligible online purchases, some businesses keep a separate payment card available for supported transactions. CBPayments provides virtual and physical card options for certain online payment scenarios. Review [CBPayments](https://www.cbpayments.cc/) and check whether its supported features fit your requirements.
-
 A backup method should be selected carefully. It should not depend on bypassing merchant regional restrictions or violating provider terms.
 
 ## Keep Account and Contact Information Current
@@ -82,5 +80,3 @@ Use that information to improve the plan. You may need earlier reminders, cleare
 ## Make Payment Continuity Part of Business Planning
 
 Start by identifying critical payments, recording renewal dates, keeping account information current, and understanding alternatives. Review the plan as your business changes.
-
-For supported online card purchases, compare [CBPayments](https://www.cbpayments.cc/) with other available services. Preparation cannot eliminate every disruption, but it can help your business respond calmly, protect essential services, and avoid turning a temporary payment issue into a larger operational problem.

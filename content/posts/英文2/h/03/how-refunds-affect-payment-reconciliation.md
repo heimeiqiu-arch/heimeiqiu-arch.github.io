@@ -68,6 +68,4 @@ Check whether the processor deducts refunds from payouts, charges them separatel
 
 Avoid counting a refund as both a reduction in sales and a second independent bank debit unless the records support both entries. Also avoid subtracting the same refund from two payout batches.
 
-For businesses paying for online subscriptions or services with cards, keep refund confirmations and original transaction statements together. CBPayments provides card-based payment options, but the refund and accounting records should always come from the relevant merchant and payment provider.
-
 The most reliable refund reconciliation process preserves the original sale, records each refund event separately, and explains exactly how the refund affected settlement.

@@ -112,5 +112,3 @@ Yes, if its issuing arrangement and technology support both formats.
 The legal issuing relationship and ownership of programme responsibilities depend on the applicable structure. The programme manager is not automatically the issuing bank.
 
 Understanding the programme behind a card helps customers and businesses evaluate its actual capabilities rather than relying only on branding.
-
-You can learn more about the available card products and terms at [CBPayments](https://www.cbpayments.cc/).

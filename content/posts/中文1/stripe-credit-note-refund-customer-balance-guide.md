@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "详解 Stripe Credit Note 贷项通知单的用途、付款前后处理方式、退款与客户余额选项，以及与 Invoice、账务对账和 Webhook 的关系。"
 slug: stripe-credit-note-refund-customer-balance-guide
 tags:
-  - Stripe
   - Credit Note
   - Invoice
   - 退款

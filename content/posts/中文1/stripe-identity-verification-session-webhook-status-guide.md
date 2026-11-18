@@ -3,7 +3,7 @@ title: "Stripe Identity VerificationSession 集成：状态流转、重试与隐
 date: 2026-11-14
 description: "介绍 Stripe Identity VerificationSession 的创建、前端验证、requires_input 重试和 webhook 同步，说明 verified 状态边界、权限控制及个人数据保护。"
 slug: "stripe-identity-verification-session-webhook-status-guide"
-tags: ["Stripe", "Stripe Identity", "VerificationSession", "Webhook"]
+tags: [ "Stripe Identity", "VerificationSession", "Webhook"]
 keywords: ["Stripe Identity VerificationSession", "Stripe Identity verified 状态", "verification_session.requires_input", "Stripe 身份验证 webhook", "Stripe Identity 数据隐私"]
 ---
 

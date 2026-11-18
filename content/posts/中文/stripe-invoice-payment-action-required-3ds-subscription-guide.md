@@ -3,7 +3,7 @@ title: "Stripe 发票提示需要客户操作怎么办？3D Secure 与订阅付�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-invoice-payment-action-required-3ds-subscription-guide"
 description: "Stripe 发票或订阅付款提示需要客户进一步操作时，如何识别 3D Secure 验证、核对付款状态、引导客户安全完成付款并避免重复扣款。"
-tags: ["Stripe", "发票", "订阅", "3D Secure", "SCA", "PaymentIntent"]
+tags: [ "发票", "订阅", "3D Secure", "SCA", "PaymentIntent"]
 categories: ["支付问题"]
 draft: false
 ---

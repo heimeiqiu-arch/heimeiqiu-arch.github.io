@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Coupon 和 Promotion Code 使用指南：理解折扣持续时间、客户与兑换限制、Checkout/订阅应用方式，排查优惠码无效和金额不符。"
 slug: stripe-coupon-promotion-code-subscription-discount-guide
 tags:
-  - Stripe
   - Coupon
   - Promotion Code
   - 订阅折扣

@@ -3,7 +3,7 @@ title: "Stripe 订阅续费前如何预览账单：金额核对、试算边界�
 date: 2026-11-13
 slug: stripe-subscription-upcoming-invoice-preview-guide
 description: "讲清 Stripe 订阅账单预览能看到什么、何时调用、如何解释税费折扣和按比例计费，并给出上线核对与前端提示方案。"
-tags: ["Stripe", "订阅", "账单预览", "续费", "支付集成"]
+tags: [ "订阅", "账单预览", "续费", "支付集成"]
 categories: ["支付与账单"]
 draft: false
 ---

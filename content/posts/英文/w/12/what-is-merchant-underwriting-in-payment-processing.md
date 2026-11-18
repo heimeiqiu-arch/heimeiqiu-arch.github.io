@@ -58,5 +58,3 @@ A material change in products, sales markets, ownership, or processing volume ma
 **Does high volume guarantee rejection?** No. Volume is one factor. Providers assess whether it is consistent with the business model and fulfillment capacity.
 
 **Can a merchant challenge a decision?** Ask for the reason and whether the provider offers reconsideration. Provide accurate evidence addressing the stated concerns.
-
-For people who need cards for online software and subscription payments rather than merchant acquiring services, [CBPayments](https://www.cbpayments.cc/) offers card-related options subject to its current eligibility and usage terms.

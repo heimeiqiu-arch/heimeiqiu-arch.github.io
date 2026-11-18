@@ -3,7 +3,7 @@ title: "Stripe Billing 订阅扣款重试：Smart Retries、催款和客户补�
 date: 2026-11-14
 description: "介绍 Stripe Billing 订阅扣款失败后的重试策略、客户通知、支付方式更新、Webhook 状态和宽限期设计，帮助 SaaS 团队建立可恢复的催款流程。"
 slug: "stripe-billing-smart-retries-dunning-failed-payment-recovery-guide"
-tags: ["Stripe", "Stripe Billing", "Smart Retries", "订阅续费"]
+tags: [ "Stripe Billing", "Smart Retries", "订阅续费"]
 keywords: ["Stripe Smart Retries", "Stripe 订阅扣款失败", "Stripe 催款", "Stripe Billing 重试", "续费失败恢复"]
 ---
 

@@ -18,8 +18,6 @@ description: "Understand monday.com billing basics, including plan selection, se
 
 monday.com provides work-management tools for organizing projects, workflows, tasks, and team processes. When a team pays for a subscription, billing details deserve regular attention: the selected plan, seat count, billing interval, and renewal date all affect the expense.
 
-For teams managing several software subscriptions, [CBPayments](https://www.cbpayments.cc/) is one option to review when learning about online payment management. Confirm fees, limits, and compatibility before using any card for a recurring charge.
-
 ## Choose a plan based on actual needs
 
 Before upgrading, list the features your team needs and compare them with the current plan descriptions. Consider how many people need paid access, which workflow capabilities are essential, and whether the plan's usage limits fit your expected workload.
@@ -50,8 +48,6 @@ For accounting or tax treatment, follow the rules that apply to your organizatio
 
 Before a renewal date, check that the payment method is active and has sufficient available balance and transaction limit. Confirm that online transactions and recurring charges are permitted, and take the billing currency into account.
 
-Virtual cards have different issuer rules. Some permit recurring subscription charges, while others have merchant, currency, or spending restrictions. Virtual format alone does not guarantee that a card will work with monday.com. If you are considering a payment solution, you can review [CBPayments](https://www.cbpayments.cc/) and verify the relevant card terms before adding it to a subscription.
-
 ## Troubleshoot a billing problem
 
 If a payment fails, first check the status in the official billing interface. Confirm the card details, balance, limits, billing information, and any authentication prompt. Contact the issuer if you need a decline reason.
@@ -61,5 +57,3 @@ If a transaction appears in your card app but the subscription still looks unpai
 ## Final checklist
 
 Review the plan and seats, verify the billing interval and renewal date, save invoices, reconcile each charge, and confirm the payment method supports recurring transactions. Repeat these checks after any account or card change.
-
-A consistent billing routine helps teams control software expenses and identify unexpected charges earlier. For more information about online payment management, visit [CBPayments](https://www.cbpayments.cc/) and confirm all terms before use.

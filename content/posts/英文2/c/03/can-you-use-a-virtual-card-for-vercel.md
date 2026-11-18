@@ -74,8 +74,6 @@ Do not rely solely on the card balance as a usage-control system. Review Vercel'
 
 When comparing cards, look at issuance and transaction fees, funding methods, supported currencies, spending limits, recurring-payment support, and how quickly you can resolve a decline.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. If you are considering it for Vercel or other developer services, review the current terms and availability at [CBPayments](https://www.cbpayments.cc/). Vercel's acceptance of any particular card depends on its own billing rules and the issuer's authorization.
-
 ## Frequently asked questions
 
 ### Can I use a virtual card for a Vercel Pro subscription?

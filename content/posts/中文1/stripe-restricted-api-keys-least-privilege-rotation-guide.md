@@ -3,7 +3,7 @@ title: "Stripe 受限 API 密钥最小权限配置：按服务拆分、验证与
 date: 2026-11-15
 description: "说明如何为 Stripe 服务和第三方集成配置受限 API 密钥，划分读写权限、保护密钥、验证迁移并制定泄露后的轮换流程。"
 slug: "stripe-restricted-api-keys-least-privilege-rotation-guide"
-tags: ["Stripe", "API 安全", "受限密钥", "密钥轮换"]
+tags: [ "API 安全", "受限密钥", "密钥轮换"]
 keywords: ["Stripe 受限 API 密钥", "Stripe restricted API key", "Stripe API 密钥最小权限", "Stripe 密钥轮换", "Stripe 密钥泄露"]
 ---
 

@@ -133,8 +133,6 @@ A bank transfer or suitable payment provider may be used for contractor compensa
 
 Do not assume that a card product is designed to pay contractor invoices or transfer funds to individual bank accounts.
 
-For online spending, CBPayments offers card options subject to its supported transaction conditions. Businesses can review the platform at [CBPayments](https://www.cbpayments.cc/).
-
 Keep contractor payouts and card transactions in separate records.
 
 ## 10. Reconcile Contractor Payments Monthly

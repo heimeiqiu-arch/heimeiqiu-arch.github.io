@@ -3,7 +3,7 @@ title: "Stripe Alipay 支付接入与退款处理：币种、订单识别和对�
 date: 2026-11-15
 description: "介绍 Stripe Alipay 的商户资格、顾客授权流程、支持币种、退款时限和交易编号对账，帮助面向中国消费者的业务规划钱包支付。"
 slug: "stripe-alipay-payment-refund-currency-reconciliation-guide"
-tags: ["Stripe", "Alipay", "支付宝", "跨境支付"]
+tags: [ "Alipay", "支付宝", "跨境支付"]
 keywords: ["Stripe 支付宝接入", "Stripe Alipay 退款", "Alipay 交易编号对账", "Stripe Alipay 币种", "支付宝 Stripe 跨境收款"]
 ---
 

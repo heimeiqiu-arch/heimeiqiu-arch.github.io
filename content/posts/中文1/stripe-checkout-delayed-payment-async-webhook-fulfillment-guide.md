@@ -10,7 +10,6 @@ keywords:
   - Stripe 异步付款 webhook
   - Checkout 延迟确认履约
 tags:
-  - Stripe
   - Checkout
   - Webhook
   - 延迟付款

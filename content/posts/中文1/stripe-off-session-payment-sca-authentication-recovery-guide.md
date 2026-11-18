@@ -10,7 +10,6 @@ keywords:
   - PaymentIntent requires_action
   - Stripe 保存银行卡离线扣款
 tags:
-  - Stripe
   - PaymentIntent
   - SCA
   - 订阅扣款

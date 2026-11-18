@@ -10,7 +10,6 @@ keywords:
   - Amazon Pay dispute deadline
   - Stripe Amazon Pay transaction_id
 tags:
-  - Stripe
   - Amazon Pay
   - 钱包支付
 ---

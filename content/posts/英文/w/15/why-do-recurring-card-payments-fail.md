@@ -71,8 +71,6 @@ Some cards are restricted from certain cross-border transactions. A card may wor
 
 Keep sufficient available funds, check online and international payment settings, review card expiry dates, update details after receiving a replacement, check transaction limits, and contact the issuer about unexpected declines.
 
-If a subscription payment continues to fail, another supported payment method may be necessary. Customers using cards for international digital services should check supported transaction types and card controls. Review online card options at [CBPayments](https://www.cbpayments.cc/).
-
 ## Frequently Asked Questions
 
 **Will a recurring payment automatically retry?** It depends on the merchant's billing system and retry policy.

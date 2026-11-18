@@ -52,8 +52,6 @@ Identify who uses each tool and who can approve changes or cancellation. When em
 
 For eligible online purchases, a dedicated payment method for business subscriptions can make transaction review more straightforward. Before choosing a card or payment service, check merchant acceptance, supported countries, transaction fees, currency handling, spending controls, and terms.
 
-CBPayments offers virtual and physical card options for supported payment scenarios. Explore [CBPayments](https://www.cbpayments.cc/) if you are comparing card options for online business expenses. A dedicated card does not replace a recurring-payment register; it provides another way to organize eligible transactions.
-
 ## Check Renewals Before They Happen
 
 Do not wait until a subscription renews to decide whether it is still useful. Set reminders several days before important annual renewals. This gives the responsible person time to review the service, compare plans, and cancel or change it if necessary.
@@ -75,5 +73,3 @@ Update the next renewal date and actual amount when necessary. Mark cancelled se
 ## Keep the System Simple and Current
 
 Start with a spreadsheet and a monthly review. Add automation or specialized software only when the number of subscriptions makes manual tracking inefficient.
-
-For supported online card payments, compare [CBPayments](https://www.cbpayments.cc/) with other available providers. Choose tools based on merchant requirements, location, and actual spending needs. The goal is to ensure every recurring payment is understood, necessary, correctly recorded, and reviewed.

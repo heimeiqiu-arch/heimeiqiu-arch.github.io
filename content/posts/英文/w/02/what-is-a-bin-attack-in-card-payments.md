@@ -66,5 +66,3 @@ Virtual cards may help separate some online payment activity from a primary card
 ## Final thoughts
 
 A BIN attack is an automated attempt to discover valid payment card details by testing combinations associated with a known card range. Merchants should monitor transaction patterns, control automated requests and respond quickly to abnormal activity. Cardholders should enable alerts and report suspicious transactions.
-
-For online payment users, it is worth reviewing the controls available from a card provider. Explore [CBPayments](https://www.cbpayments.cc/) and check the applicable card terms and merchant acceptance requirements before use.

@@ -3,7 +3,7 @@ title: "Stripe Customer Portal 配置指南：让订阅用户自助管理账单�
 date: 2026-11-14
 description: "介绍 Stripe Billing Customer Portal 的配置、会话创建、订阅和支付方式管理、返回页面、安全校验与 Webhook 同步，帮助 SaaS 产品搭建自助账单中心。"
 slug: "stripe-customer-portal-subscription-billing-self-service-guide"
-tags: ["Stripe", "Stripe Billing", "Customer Portal", "订阅管理"]
+tags: [ "Stripe Billing", "Customer Portal", "订阅管理"]
 keywords: ["Stripe Customer Portal", "Stripe Billing Portal", "客户账单门户", "订阅自助管理", "Stripe 更新支付方式"]
 ---
 

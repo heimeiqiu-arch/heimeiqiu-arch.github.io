@@ -128,8 +128,6 @@ Possibly. Some virtual cards support eligible recurring payments, while others m
 
 Before using a virtual card for a subscription, check whether the card supports recurring transactions and whether the merchant accepts that card type. You should also understand what happens if the card is replaced, paused, or has insufficient available funds at renewal time.
 
-For users exploring cards for online services and overseas subscriptions, [CBPayments](https://www.cbpayments.cc/) provides information about available card solutions. Confirm the terms and recurring-payment support of the specific product before relying on it for ongoing billing.
-
 ## Final Thoughts
 
 Merchant-initiated transactions allow eligible merchants to process payments under an arrangement established with a customer, making subscription renewals and certain later charges possible.

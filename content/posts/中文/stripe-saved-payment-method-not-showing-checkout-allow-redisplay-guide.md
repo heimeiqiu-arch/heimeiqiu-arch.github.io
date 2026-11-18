@@ -3,7 +3,7 @@ title: "Stripe 已保存的银行卡不显示怎么办？Checkout 与 allow_redi
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-saved-payment-method-not-showing-checkout-allow-redisplay-guide"
 description: "客户在 Stripe Checkout 或 Payment Element 看不到已保存银行卡时，检查 Customer、PaymentMethod 关联、allow_redisplay、Checkout 模式和会话配置。"
-tags: ["Stripe", "已保存银行卡", "PaymentMethod", "Checkout", "allow_redisplay", "客户付款"]
+tags: [ "已保存银行卡", "PaymentMethod", "Checkout", "allow_redisplay", "客户付款"]
 categories: ["支付集成"]
 draft: false
 ---

@@ -82,5 +82,3 @@ Converting immediately may simplify reporting and reduce currency exposure, but 
 ## Final Thoughts
 
 Multi-currency payouts introduce variables beyond ordinary merchant funding. Understanding transaction currency, settlement currency, payout currency, conversion timing, and cross-border fees helps businesses estimate what they will receive.
-
-For separate outgoing online expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options for supported payment scenarios. Review available options based on your payment requirements.

@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Quotes 报价单实操指南：创建与最终确定报价、发送客户预览、接受后转成 Invoice/Subscription、处理到期和 Webhook 同步。"
 slug: stripe-quotes-accept-invoice-subscription-guide
 tags:
-  - Stripe
   - Quotes
   - 报价单
   - Invoice

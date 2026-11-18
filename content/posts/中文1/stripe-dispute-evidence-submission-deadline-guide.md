@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe 争议处理实操指南：如何按拒付原因准备订单、物流、服务和沟通证据，理解 Dispute API 的证据暂存与提交，并建立截止时间管理流程。"
 slug: stripe-dispute-evidence-submission-deadline-guide
 tags:
-  - Stripe
   - 拒付争议
   - Dispute
   - 支付风控

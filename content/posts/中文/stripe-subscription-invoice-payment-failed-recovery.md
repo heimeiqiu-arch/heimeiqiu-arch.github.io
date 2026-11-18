@@ -3,7 +3,7 @@ title: "Stripe 订阅续费扣款失败怎么办？商户账单恢复排查指�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-subscription-invoice-payment-failed-recovery"
 description: "Stripe Billing 订阅发票支付失败后，如何核对发票与订阅状态、理解自动重试、提醒客户更新付款方式并防止服务权限错乱。"
-tags: ["Stripe", "订阅支付", "续费失败", "发票", "自动重试", "账单恢复"]
+tags: [ "订阅支付", "续费失败", "发票", "自动重试", "账单恢复"]
 categories: ["支付指南"]
 draft: false
 ---

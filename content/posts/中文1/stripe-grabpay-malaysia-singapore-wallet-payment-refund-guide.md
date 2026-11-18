@@ -10,7 +10,6 @@ keywords:
   - Stripe 新加坡钱包支付
   - Stripe 马来西亚 GrabPay
 tags:
-  - Stripe
   - GrabPay
   - 东南亚支付
 ---

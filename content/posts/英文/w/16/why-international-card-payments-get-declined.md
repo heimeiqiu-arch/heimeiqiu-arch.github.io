@@ -52,5 +52,3 @@ Businesses can reduce avoidable declines by displaying accepted card types and r
 For important subscriptions or business purchases, maintain an approved alternative payment method. A backup should be compatible with the merchant and should comply with the company's payment policy. Do not switch to an unverified third party simply because the first payment failed.
 
 ## Final thoughts
-
-International declines can have several causes, and the correct fix depends on where the payment failed. Collect the error details, check the card and merchant requirements, then contact the issuer if needed. For international card options, review product terms carefully; CBPayments provides information about virtual and physical cards at https://www.cbpayments.cc/.

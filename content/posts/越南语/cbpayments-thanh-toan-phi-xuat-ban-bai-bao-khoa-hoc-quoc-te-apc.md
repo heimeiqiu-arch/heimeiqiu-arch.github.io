@@ -1,13 +1,11 @@
 ---
-title: "CBPayments: Cách thanh toán phí xuất bản bài báo khoa học quốc tế (APC)"
+title: "Cách thanh toán phí xuất bản bài báo khoa học quốc tế (APC)"
 slug: "cbpayments-thanh-toan-phi-xuat-ban-bai-bao-khoa-hoc-quoc-te-apc"
 date: 2026-11-02
 draft: false
 categories: ["Thanh toán quốc tế"]
-tags: ["CBPayments", "thanh toán quốc tế", "phí APC", "xuất bản khoa học", "thanh toán thẻ"]
+tags: [ "thanh toán quốc tế", "phí APC", "xuất bản khoa học", "thanh toán thẻ"]
 ---
-
-# CBPayments: Cách thanh toán phí xuất bản bài báo khoa học quốc tế (APC)
 
 Khi gửi bài nghiên cứu đến các tạp chí khoa học quốc tế, tác giả có thể phải thanh toán khoản phí Article Processing Charge (APC). Khoản phí này thường xuất hiện trong mô hình xuất bản truy cập mở (Open Access), cho phép độc giả đọc bài báo mà không cần trả phí đăng ký.
 
@@ -34,8 +32,6 @@ Nếu email yêu cầu chuyển tiền vào tài khoản cá nhân hoặc liên 
 
 Một số hệ thống xuất bản hỗ trợ Visa hoặc Mastercard. Trước khi sử dụng, hãy kiểm tra thẻ có bật giao dịch trực tuyến quốc tế hay không, hạn mức có đủ không, số dư có tính đến phí chuyển đổi ngoại tệ không và thẻ có hỗ trợ 3D Secure nếu trang yêu cầu không.
 
-Bạn cũng nên kiểm tra thông tin chủ thẻ và địa chỉ thanh toán. Nếu cần tìm hiểu phương thức thanh toán quốc tế, có thể tham khảo [CBPayments](https://www.cbpayments.cc/). Nền tảng cung cấp các lựa chọn thẻ Visa và Mastercard, gồm thẻ ảo và thẻ vật lý. Hãy kiểm tra loại thẻ, hạn mức và điều kiện sử dụng hiện hành trước khi thanh toán APC.
-
 ## 4. Quy trình thanh toán APC trực tuyến
 
 1. **Mở trang thanh toán chính thức:** Truy cập hệ thống xuất bản từ website hoặc tài khoản tác giả đã xác minh.
@@ -60,8 +56,6 @@ Bạn cũng nên kiểm tra thông tin chủ thẻ và địa chỉ thanh toán.
 
 Điều này phụ thuộc chính sách của trường đại học, tổ chức nghiên cứu và nhà xuất bản. Nếu chi phí được tài trợ bởi dự án, hãy xác nhận trước việc sử dụng thẻ cá nhân có được hoàn ứng hay không. Một số tổ chức yêu cầu hóa đơn ghi tên đơn vị hoặc có thông tin thuế cụ thể.
 
-Không gửi thông tin thẻ qua email hoặc tin nhắn. Chỉ nhập dữ liệu thanh toán trên website chính thức có kết nối bảo mật. Nếu cần một phương thức riêng cho giao dịch quốc tế, bạn có thể tìm hiểu [CBPayments](https://www.cbpayments.cc/) và đối chiếu điều kiện thẻ với yêu cầu của nhà xuất bản.
-
 ## 7. Quản lý hóa đơn và chứng từ
 
 Sau khi thanh toán, lưu hóa đơn, email xác nhận, mã giao dịch và thông tin bài báo. Nếu cần hoàn ứng, kiểm tra tên người mua, tên tổ chức, mã số thuế và loại tiền tệ có đáp ứng yêu cầu nội bộ không. Nếu hóa đơn có sai sót, liên hệ nhà xuất bản sớm để yêu cầu điều chỉnh.
@@ -79,5 +73,3 @@ Sau khi thanh toán, lưu hóa đơn, email xác nhận, mã giao dịch và th�
 **Có thể yêu cầu hoàn phí APC không?** Điều này tùy điều khoản của nhà xuất bản và tình trạng xử lý bài báo. Hãy đọc chính sách trước khi thanh toán.
 
 ## Kết luận
-
-Trước khi thanh toán APC, hãy xác minh nhà xuất bản, khoản phí, người nhận tiền và điều kiện xuất hóa đơn. Chuẩn bị phương thức thanh toán phù hợp và lưu chứng từ sẽ giúp hạn chế sai sót trong quá trình xuất bản. Bạn có thể tìm hiểu thêm các lựa chọn thẻ Visa và Mastercard tại [CBPayments](https://www.cbpayments.cc/), đồng thời xác nhận khả năng chấp nhận thẻ với nhà xuất bản trước khi giao dịch.

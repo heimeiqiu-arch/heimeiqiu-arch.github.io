@@ -106,8 +106,6 @@ Virtual cards can be useful for online purchases and subscriptions, but it is im
 
 Before making a purchase, review the provider's terms and learn whether refunds can be received after the card details change. Keep the original transaction record and avoid closing a card account unnecessarily while a refund is still pending, unless security concerns require immediate action.
 
-If you use a service such as [CBPayments](https://www.cbpayments.cc/), review the available card features and support procedures so you know how to manage your payment records and contact the provider when a refund needs investigation. Refund handling ultimately depends on the relevant merchant, card issuer, and payment arrangements.
-
 ## Final thoughts
 
 Online merchants usually refund the original payment card because the refund is tied to the initial transaction. This helps protect customers, reduce fraud, and keep accounting records consistent.

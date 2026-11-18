@@ -64,8 +64,6 @@ After an incident, investigate the entry point. Changing a password alone may no
 
 Depending on the provider, transaction notifications, spending limits, separate cards for different purposes, and temporary card locking may complement account security. Confirm which controls are actually available before building a policy around them.
 
-CBPayments offers virtual and physical card options for supported use cases. Businesses evaluating payment methods can review the available features and terms on the [CBPayments website](https://www.cbpayments.cc/). Do not assume every card product supports identical controls.
-
 ## Train employees
 
 Teach staff to recognize phishing messages, fake login pages, unexpected verification requests, and attempts to change payment details. Use examples based on your own workflows and remind employees never to disclose passwords or OTPs.

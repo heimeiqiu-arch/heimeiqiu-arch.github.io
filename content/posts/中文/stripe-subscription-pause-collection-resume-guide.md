@@ -3,7 +3,7 @@ title: "Stripe 暂停订阅收款怎么处理：pause_collection、账单行为�
 date: 2026-11-13
 slug: stripe-subscription-pause-collection-resume-guide
 description: "解释 Stripe 暂停订阅收款与暂停订阅状态的区别，比较发票保留、标记坏账和作废行为，并梳理恢复收款、账期和用户权益。"
-tags: ["Stripe", "订阅", "暂停收款", "发票", "账期"]
+tags: [ "订阅", "暂停收款", "发票", "账期"]
 categories: ["支付与账单"]
 draft: false
 ---

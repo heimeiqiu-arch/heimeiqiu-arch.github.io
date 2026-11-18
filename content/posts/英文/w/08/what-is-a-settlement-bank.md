@@ -55,8 +55,6 @@ When reviewing a payment provider, ask for the identity and role of the acquirin
 
 A provider may use several banking partners across regions. Do not assume that one description applies to every transaction or country.
 
-If your goal is to manage card payments for online services rather than operate a merchant acquiring system, [CBPayments](https://www.cbpayments.cc/) can be reviewed for its currently supported card options and terms.
-
 ## Frequently Asked Questions
 
 ### Is the settlement bank always the acquiring bank?

@@ -91,5 +91,3 @@ The outcome is not guaranteed in every case. The merchant should understand how 
 **Do network tokens eliminate declines?** No. Issuers can still decline transactions for many reasons.
 
 **Can a business use both?** Yes. Some architectures combine gateway token storage with network token services.
-
-The best tokenization strategy fits the merchant's infrastructure, customer experience, and migration plans. Businesses evaluating international card payment arrangements can review available options at [CBPayments](https://www.cbpayments.cc/).

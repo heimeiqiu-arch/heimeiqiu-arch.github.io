@@ -22,5 +22,3 @@ A small payment can fail despite sufficient funds if the merchant or category is
 
 ## Troubleshoot systematically
 Confirm amount and currency, check available funds, review the transaction cap, inspect daily and monthly totals, look for pending authorizations, and check merchant restrictions. Then review the decline message or contact the issuer. Avoid repeated retries without identifying the cause.
-
-Finance should verify that the purchase is legitimate and within the employee's authority before changing settings. If approved, consider a temporary adjustment and record the reason, approver, amount, and period. Businesses evaluating virtual or physical cards, including CBPayments, should review available controls, funding arrangements, merchant acceptance, and transaction policies.

@@ -10,7 +10,6 @@ keywords:
   - 欧盟银行卡网络选择
   - Stripe Payment Element 合规
 tags:
-  - Stripe
   - 卡片支付
   - 欧盟支付
   - Cartes Bancaires

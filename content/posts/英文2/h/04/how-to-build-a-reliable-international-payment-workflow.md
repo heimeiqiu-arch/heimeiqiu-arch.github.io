@@ -55,8 +55,6 @@ Monitor international spending by currency, fees, conversion costs, declined tra
 
 ## Where business cards fit
 
-Cards can support routine international expenses such as advertising, software, cloud infrastructure, travel, and online purchases. Virtual cards may suit certain online payment scenarios, while physical cards may be useful for in-person purchases, depending on product features and acceptance. Compare limits, supported merchants, fees, security controls, and regional availability before choosing a solution. CBPayments provides virtual and physical card options that can be reviewed as part of an international payment setup: https://www.cbpayments.cc/.
-
 ## Final checklist
 
 Confirm that every payment has an approved purpose, employees understand their limits, currency costs can be reviewed, receipts are collected, transactions are reconciled monthly, failed payments have an escalation path, backup methods exist, and unusual activity is investigated.

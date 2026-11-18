@@ -116,8 +116,6 @@ When evaluating a virtual card, it is useful to check the features that directly
 - Whether additional authentication may be required
 - What restrictions apply to the card and its payment credentials
 
-If you are comparing online payment options, review the available card features through [CBPayments](https://www.cbpayments.cc/) and confirm the relevant terms before use.
-
 ## Frequently Asked Questions
 
 ### Is a payment token the same as a card number?

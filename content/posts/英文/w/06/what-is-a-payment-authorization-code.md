@@ -109,8 +109,6 @@ When contacting support, provide the transaction reference, amount, currency, ti
 
 International card transactions can involve additional routing, currency conversion, risk checks, and regional processing rules. The authorization response and the references available to a merchant may differ by provider and transaction type.
 
-When choosing a payment method for overseas purchases or recurring online services, review how transaction statuses are displayed and how support teams can investigate failed or pending payments. You can explore international card payment options at [CBPayments](https://www.cbpayments.cc/), and check the applicable product terms before using a card.
-
 ## Frequently Asked Questions
 
 ### Is an authorization code proof that money was received?

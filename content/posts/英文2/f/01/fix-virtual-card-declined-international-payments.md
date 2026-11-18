@@ -93,8 +93,6 @@ Successful domestic use does not guarantee acceptance by every international mer
 
 For business users, separating software expenses from other purchases can also make payment records easier to review.
 
-If you are comparing payment options for international online purchases and subscriptions, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical card products. Review current terms, supported regions, card limits, and restrictions before selecting a card. No card provider can guarantee acceptance at every overseas merchant, so check compatibility for the service you intend to use.
-
 ## Frequently Asked Questions
 
 ### Why is my virtual card declined on an international website?
@@ -117,5 +115,3 @@ Ask the merchant to review the checkout or payment-processing error and confirm 
 A declined international payment can result from card restrictions, merchant rules, billing information, available balance, or authentication problems. Read the error, check transaction history, verify card settings, and contact the appropriate support team when needed.
 
 Before relying on a card for an important subscription or overseas purchase, confirm eligibility and keep an alternative available for critical payments.
-
-For information about card options for international online payments, visit [CBPayments](https://www.cbpayments.cc/) and review current product features and terms.

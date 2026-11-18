@@ -130,5 +130,3 @@ The available process depends on the payment system and transaction stage. A com
 ## Final Takeaway
 
 A payment reversal can release or correct a payment-related event, but it does not always mean that a completed charge has been refunded. Confirm exactly what the merchant has done, keep the transaction details, and ask your card provider to check the status if the expected change does not appear.
-
-If you use cards for online subscriptions or international payments, understanding the difference between authorisations, reversals, and refunds can make transaction records easier to interpret. Review the supported card features and terms at [CBPayments](https://www.cbpayments.cc/).

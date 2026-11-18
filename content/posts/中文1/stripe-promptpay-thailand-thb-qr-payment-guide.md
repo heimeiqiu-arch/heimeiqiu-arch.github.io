@@ -10,7 +10,6 @@ keywords:
   - PromptPay 二维码
   - Stripe 泰国支付方式
 tags:
-  - Stripe
   - PromptPay
   - 泰国支付
   - 二维码支付

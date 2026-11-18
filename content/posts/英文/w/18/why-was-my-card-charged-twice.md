@@ -123,5 +123,3 @@ Freezing a card may block certain future authorisations, depending on the provid
 ## Final Thoughts
 
 Two similar card entries do not always mean two completed payments. First check whether one is pending, then review your order records and ask the merchant to investigate any duplicate posted charges.
-
-Using a payment method with clear transaction history and accessible support can make online payment issues easier to investigate. Explore available card options at [CBPayments](https://www.cbpayments.cc/).

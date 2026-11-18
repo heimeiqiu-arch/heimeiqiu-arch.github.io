@@ -115,8 +115,6 @@ TikTok 帮助中心说明，部分切换是单向的：从手动付款切换到�
 
 开户和投放前，先核对账单国家或地区、币种、账户归属、当前计费方式和可用付款方式。切换前读清是否可以切回；付款失败后先查交易状态，避免重复扣款。TikTok 的规则和账户资格可能变化，本文用于一般操作参考，具体以 TikTok Ads Manager、Business Center 和官方帮助中心对你的账户显示的内容为准。
 
-如果企业还需要整理多种线上服务或广告费用，可以了解 [CBPayments](https://cbpayments.cc/) 的服务说明。具体付款工具能否用于某个 TikTok 账户，需先确认该账户所在地、计费方式和平台支持情况；不应把某类卡片视为保证通过审核或避免平台限制的办法。
-
 ## 官方资料
 
 - [TikTok Ads 可用账单方式](https://ads.tiktok.com/resources/help/article/tiktok-billing-options?lang=en.)

@@ -3,7 +3,7 @@ title: "PayPal eCheck 显示待处理，商家什么时候可以发货？"
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-echeck-payment-pending-seller-guide"
 description: "解释 PayPal eCheck 银行转账付款为什么显示待处理、预计清算日期在哪里查看，以及商户在款项完成前如何安排发货和客服沟通。"
-tags: ["PayPal", "eCheck", "付款待处理", "商家发货", "银行转账"]
+tags: [ "eCheck", "付款待处理", "商家发货", "银行转账"]
 categories: ["支付指南"]
 draft: false
 ---

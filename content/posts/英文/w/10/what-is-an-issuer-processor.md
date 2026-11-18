@@ -21,8 +21,6 @@ When someone uses a debit, credit, prepaid, or virtual card, the transaction nee
 
 An issuer processor is an important part of modern card infrastructure. It connects card programmes to payment networks and supports the systems responsible for card records and transaction processing.
 
-If you are researching how different card products work, you can also explore the currently supported card options at [CBPayments](https://www.cbpayments.cc/).
-
 ## What Is an Issuer Processor?
 
 An issuer processor is a technology provider that supports an organisation on the issuing side of a card-payment system.
@@ -110,5 +108,3 @@ It may operate or support the authorization system, but the decision follows the
 Virtual cards still require an issuing and processing arrangement. Their digital format does not remove the need for authorization, card records, and transaction management.
 
 Understanding issuer processing makes it easier to see how modern card products operate behind the scenes.
-
-You can review [CBPayments](https://www.cbpayments.cc/) for information about its available card products and current service terms.

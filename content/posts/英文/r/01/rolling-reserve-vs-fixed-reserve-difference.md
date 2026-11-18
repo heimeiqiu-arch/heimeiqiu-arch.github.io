@@ -60,5 +60,3 @@ If reserves affect material working capital, obtain the terms in writing rather 
 **Is a fixed reserve always better for cash flow?** No. It may be more predictable, but the required balance can tie up substantial funds.
 
 **Is a rolling reserve released automatically?** The agreement may define a schedule, but release can remain subject to outstanding liabilities and account status.
-
-Compare reserve policy alongside fees, payout timing, dispute costs, and support. Customer card options at [CBPayments](https://www.cbpayments.cc/) are governed by separate cardholder terms.

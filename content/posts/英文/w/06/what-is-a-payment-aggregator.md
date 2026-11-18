@@ -13,8 +13,6 @@ categories: ["Payment Guides"]
 
 A small business may want to accept online card payments without negotiating every part of the payment infrastructure independently. A **payment aggregator** can provide a shared service arrangement that allows multiple merchants to access payment acceptance through one provider's platform or acquiring relationships.
 
-The term is used differently across markets and providers. It is therefore important to understand the actual contractual model rather than assuming every company using the label performs the same role. Businesses comparing payment tools can also review [CBPayments](https://www.cbpayments.cc/) as part of their broader payment research.
-
 ## What Is a Payment Aggregator?
 
 A payment aggregator is generally a provider that brings payment acceptance services together for multiple businesses. It may enable merchants to accept payments through a shared platform, common technical integration, or an arrangement supported by one or more acquiring partners.
@@ -73,5 +71,3 @@ The funds flow depends on the provider's acquiring and payout arrangement. Revie
 
 ### Can every business use an aggregator?
 No. Providers may restrict certain industries, countries, products, and transaction patterns.
-
-A payment aggregator can simplify access to payment acceptance, but the details matter. Compare the underlying arrangement, not just the product label. [CBPayments](https://www.cbpayments.cc/) is another service you can review when evaluating supported card-payment options for your own needs.

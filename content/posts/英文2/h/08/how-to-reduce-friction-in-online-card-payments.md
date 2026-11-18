@@ -34,6 +34,3 @@ A decline can result from issuer restrictions, insufficient available funds, inc
 
 ## Measure the whole journey
 Track form completion, authentication completion, authorization success, failure categories, and time to complete checkout. Compare results by device, region, and payment method. If customers complete the form but authorization fails, changing the form design will not solve the main issue.
-
-## Final thoughts
-A good card-payment experience is clear, predictable, and secure. Simplify forms, explain charges, support required authentication, prevent duplicate attempts, and use transaction data to locate bottlenecks. Businesses can review supported virtual and physical card options through [CBPayments](https://www.cbpayments.cc/).

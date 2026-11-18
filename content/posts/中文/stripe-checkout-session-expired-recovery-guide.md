@@ -3,7 +3,7 @@ title: "Stripe Checkout Session 过期怎么办？恢复付款与订单处理指
 date: 2026-11-13T11:24:00+08:00
 slug: stripe-checkout-session-expired-recovery-guide
 description: "Stripe Checkout Session 到期、顾客打开旧链接或订单仍显示待付款时如何处理？本文解释 Session 过期事件、检查步骤、重新创建付款链接、库存锁定与 Webhook 幂等处理。"
-tags: ["Stripe", "Checkout", "支付链接", "订单管理"]
+tags: [ "Checkout", "支付链接", "订单管理"]
 categories: ["支付指南"]
 draft: false
 ---

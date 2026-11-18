@@ -3,7 +3,7 @@ title: "Stripe 3D Secure 认证集成：PaymentIntent 状态与用户体验处�
 date: 2026-11-14
 description: "介绍 Stripe 3D Secure 的触发场景、PaymentIntent 认证状态、前端处理、Webhook 同步和测试方法，帮助商家设计可靠的银行卡认证流程。"
 slug: "stripe-3d-secure-paymentintent-authentication-flow-guide"
-tags: ["Stripe", "3D Secure", "PaymentIntent", "银行卡认证"]
+tags: [ "3D Secure", "PaymentIntent", "银行卡认证"]
 keywords: ["Stripe 3D Secure", "Stripe 3DS", "PaymentIntent 认证", "银行卡验证", "Stripe SCA"]
 ---
 

@@ -3,7 +3,7 @@ title: "Stripe 动态支付方式配置：如何按市场和结账场景选择�
 date: 2026-11-14
 description: "介绍 Stripe 动态支付方式的工作方式、Dashboard 配置、Payment Element 展示、地区适配和上线测试，帮助商家减少支付方式设置错误。"
 slug: "stripe-dynamic-payment-methods-market-checkout-configuration-guide"
-tags: ["Stripe", "Payment Element", "支付方式", "Checkout"]
+tags: [ "Payment Element", "支付方式", "Checkout"]
 keywords: ["Stripe 动态支付方式", "Stripe Payment Element", "Stripe 支付方式配置", "本地支付方式", "Checkout 付款方式"]
 ---
 

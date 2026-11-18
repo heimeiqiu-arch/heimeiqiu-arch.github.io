@@ -91,5 +91,3 @@ No. Presentment submits transaction data for clearing; settlement concerns finan
 ### Does it mean the merchant has received the money?
 
 No. Merchant payout is a separate event governed by the acquiring or payment-provider agreement.
-
-Understanding first presentment explains why an approved card payment still has several processing stages before the merchant receives its payout. Visit [CBPayments](https://www.cbpayments.cc/) for information about card products and online payment services.

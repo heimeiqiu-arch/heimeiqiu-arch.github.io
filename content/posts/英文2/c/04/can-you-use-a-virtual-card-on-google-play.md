@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card on Google Play? | CBPayments"
+title: "Can You Use a Virtual Card on Google Play?"
 slug: "can-you-use-a-virtual-card-on-google-play"
 url: "/posts/英文/can-you-use-a-virtual-card-on-google-play/"
 date: 2026-10-15
@@ -12,8 +12,6 @@ tags:
   - App Payments
   - Payment Declines
 ---
-
-# Can You Use a Virtual Card on Google Play? | CBPayments
 
 If you are trying to pay for an app, game, or subscription on Google Play with a virtual card, the most important thing to know is that **Google Play does not accept every type of virtual card**. Its supported payment methods vary by country, and its help documentation lists virtual credit cards (VCCs) among unsupported payment types.
 

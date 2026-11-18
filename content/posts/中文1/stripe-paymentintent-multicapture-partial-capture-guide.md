@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe PaymentIntent multicapture 指南：说明多次部分捕获与普通手动捕获的差别、final_capture 的作用、分批履约对账及资格测试。"
 slug: stripe-paymentintent-multicapture-partial-capture-guide
 tags:
-  - Stripe
   - PaymentIntent
   - Multicapture
   - 手动捕获

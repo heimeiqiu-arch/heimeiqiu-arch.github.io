@@ -10,7 +10,6 @@ keywords:
   - Stripe Konbini 退款
   - checkout.session.async_payment_succeeded
 tags:
-  - Stripe
   - 支付方式
   - 日本
 ---

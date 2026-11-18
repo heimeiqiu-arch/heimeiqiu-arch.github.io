@@ -1,5 +1,5 @@
 ---
-title: "Card Declined on an International Website? What to Check First | CBPayments"
+title: "Card Declined on an International Website? What to Check First"
 slug: card-declined-on-international-websites
 url: "/posts/英文/card-declined-on-international-websites/"
 date: 2026-09-24
@@ -15,8 +15,6 @@ tags:
   - overseas websites
   - payment troubleshooting
 ---
-# Card Declined on an International Website? What to Check First | CBPayments
-
 You may sometimes encounter a frustrating situation: your card works normally for local purchases, but an international website suddenly declines the payment.
 
 This does not necessarily mean that your card is invalid.

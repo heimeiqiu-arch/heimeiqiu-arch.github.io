@@ -3,7 +3,7 @@ title: "Stripe Connect Webhook 设计指南：关联账户事件、账户上下�
 date: 2026-11-14
 description: "介绍 Stripe Connect 平台如何接收和处理关联账户 Webhook，涵盖事件类型、账户上下文、签名验证、幂等、状态同步和对账。"
 slug: "stripe-connect-webhooks-connected-account-events-context-guide"
-tags: ["Stripe", "Stripe Connect", "Webhook", "平台开发"]
+tags: [ "Stripe Connect", "Webhook", "平台开发"]
 keywords: ["Stripe Connect Webhook", "Connected Account 事件", "Stripe account.updated", "Connect 账户上下文", "Webhook 幂等"]
 ---
 

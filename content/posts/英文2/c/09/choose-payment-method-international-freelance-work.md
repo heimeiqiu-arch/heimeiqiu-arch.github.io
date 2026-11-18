@@ -123,8 +123,6 @@ A freelancer may need one method to receive client payments and another to pay f
 
 For example, incoming project revenue may be received through a supported bank or payment platform, while software subscriptions and online tools are paid using an eligible business card.
 
-CBPayments offers card options for supported online payment scenarios. Freelancers can review the platform at [CBPayments](https://www.cbpayments.cc/) and check whether its card features match their spending needs.
-
 A card payment product should not be treated as a guaranteed international receiving account. Check the specific service functions before choosing it.
 
 ## Final Thoughts

@@ -3,7 +3,7 @@ title: "Stripe 发票编号怎么设置：理解前缀、客户序号与账务�
 date: 2026-11-13
 slug: stripe-invoice-number-prefix-sequence-guide
 description: "说明 Stripe 发票编号的组成逻辑、客户专属前缀与序号字段的用途，并给出设置、核对、归档和避免重复编号的实操清单。"
-tags: ["Stripe", "发票", "账单管理", "财务对账", "订阅"]
+tags: [ "发票", "账单管理", "财务对账", "订阅"]
 categories: ["支付与账单"]
 draft: false
 ---

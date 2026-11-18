@@ -10,7 +10,6 @@ keywords:
   - Stripe Checkout
   - Pay by Bank 退款
 tags:
-  - Stripe
   - 支付方式
   - 英国支付
   - 欧洲支付

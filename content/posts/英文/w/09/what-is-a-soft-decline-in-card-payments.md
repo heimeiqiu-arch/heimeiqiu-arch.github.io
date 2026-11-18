@@ -91,5 +91,3 @@ A retry policy should also reflect the original customer agreement and stored-cr
 **Is it the same as insufficient funds?** No. Insufficient funds may be one possible reason, but soft declines cover a broader range.
 
 **Can 3-D Secure fix every soft decline?** No. Authentication helps only when authentication is the issue.
-
-A soft decline is a signal to investigate before deciding what to do. Accurate response-code handling, appropriate retries, and clear customer communication are more effective than repeatedly submitting the same payment. Customers making international payments should check card settings and supported transaction types. Review options at [CBPayments](https://www.cbpayments.cc/).

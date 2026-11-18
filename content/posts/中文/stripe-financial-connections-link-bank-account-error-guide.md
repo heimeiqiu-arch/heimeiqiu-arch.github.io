@@ -3,7 +3,7 @@ title: "Stripe 连接银行账户失败怎么办？Financial Connections 错误�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-financial-connections-link-bank-account-error-guide"
 description: "Stripe 连接银行账户出现银行暂不可用、找不到支票账户或无法读取账号时，本文说明客户排查步骤、手动验证选项与商家协助方式。"
-tags: ["Stripe", "Financial Connections", "连接银行", "银行验证", "ACH"]
+tags: [ "Financial Connections", "连接银行", "银行验证", "ACH"]
 categories: ["支付问题"]
 draft: false
 ---

@@ -111,8 +111,6 @@ Without the proper initial setup, later charges may be incorrectly classified or
 
 For customers who use virtual cards for online services, it is useful to understand whether the card can support both the initial payment and the later stored-credential transactions.
 
-[CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options for online payments. Before using a card for a subscription, check its support for the merchant's payment and authentication requirements.
-
 ## Frequently Asked Questions
 
 **Is an initial stored credential transaction the same as a subscription payment?**

@@ -3,7 +3,7 @@ title: "Stripe 争议证据如何整理和提交：从原因代码到时间线�
 date: 2026-11-13
 slug: stripe-dispute-evidence-organize-submit-guide
 description: "介绍 Stripe 付款争议的处理顺序、证据与争议原因的对应关系、提交前检查和内部留档方法，帮助商家减少遗漏和无效材料。"
-tags: ["Stripe", "付款争议", "拒付", "证据提交", "风控"]
+tags: [ "付款争议", "拒付", "证据提交", "风控"]
 categories: ["支付与账单"]
 draft: false
 ---

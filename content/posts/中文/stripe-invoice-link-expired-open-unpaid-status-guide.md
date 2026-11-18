@@ -3,7 +3,7 @@ title: "Stripe 发票链接过期或账单未支付怎么办？状态与重发�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-invoice-link-expired-open-unpaid-status-guide"
 description: "Stripe 发票链接过期、账单仍为 Open 或客户已经线下付款时，如何区分发票状态、核对金额、重新发送付款链接并避免重复记账。"
-tags: ["Stripe", "Stripe发票", "发票链接过期", "账单未支付", "Stripe Billing"]
+tags: [ "Stripe发票", "发票链接过期", "账单未支付", "Stripe Billing"]
 categories: ["支付问题"]
 draft: false
 ---

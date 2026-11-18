@@ -110,5 +110,3 @@ A fintech may operate a sponsored programme using a sponsor's BIN arrangement. I
 The required structure depends on the card network, jurisdiction, and issuing model. Some institutions issue cards through their own network membership.
 
 BIN sponsorship is one of the foundations of many modern card programmes. Understanding who provides the BIN, who processes transactions, and who carries the relevant responsibilities helps businesses evaluate the structure more accurately.
-
-For consumers comparing available payment cards rather than launching a card programme, [CBPayments](https://www.cbpayments.cc/) provides information about its current card services and conditions.

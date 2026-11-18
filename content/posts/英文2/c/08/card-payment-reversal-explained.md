@@ -123,5 +123,3 @@ Check whether the transaction remains pending and ask the merchant to confirm th
 ## Final Thoughts
 
 A card payment reversal usually means that a transaction or authorisation has been cancelled or undone through the relevant payment process. The key is to identify whether the original payment was still pending or had already been completed, because that determines whether a reversal or refund is likely to apply.
-
-For online payments, clear transaction records and responsive support are useful when investigating a failed or cancelled purchase. Learn more about available card options at [CBPayments](https://www.cbpayments.cc/).

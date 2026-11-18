@@ -132,8 +132,6 @@ Virtual cards may be useful for managing online purchases and selected business 
 
 Before using a virtual card for a hotel, rental, or another service that may increase its authorization, check whether the card provider supports the relevant transaction type and whether the available balance or limit can accommodate potential changes.
 
-If you use [CBPayments](https://www.cbpayments.cc/), review its card terms and support guidance before relying on a card for a transaction with variable authorization requirements. Merchant policies and payment processing rules still determine whether an incremental authorization can be used.
-
 ## Final thoughts
 
 An incremental authorization lets an eligible merchant request an increase to an existing authorized amount when a transaction's expected cost changes. It can be relevant to certain hotel, rental, travel, and other variable-cost payments.

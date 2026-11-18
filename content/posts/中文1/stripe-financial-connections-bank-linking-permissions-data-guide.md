@@ -3,7 +3,7 @@ title: "Stripe Financial Connections 集成：银行账户连接、权限与数�
 date: 2026-11-14
 description: "介绍 Stripe Financial Connections 的银行账户连接流程、数据权限、账户所有权验证、数据刷新和隐私控制，帮助平台安全读取客户授权的账户信息。"
 slug: "stripe-financial-connections-bank-linking-permissions-data-guide"
-tags: ["Stripe", "Financial Connections", "银行账户", "数据授权"]
+tags: [ "Financial Connections", "银行账户", "数据授权"]
 keywords: ["Stripe Financial Connections", "Stripe 银行账户连接", "Financial Connections 权限", "银行账户所有权验证", "Stripe 账户数据"]
 ---
 

@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe 增额授权指南：说明 PaymentIntent 适用状态、incremental_authorization_supported、递增目标金额、失败处理，以及增额授权与多次捕获的区别。"
 slug: stripe-paymentintent-incremental-authorization-increase-guide
 tags:
-  - Stripe
   - PaymentIntent
   - 增额授权
   - incremental authorization

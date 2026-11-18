@@ -6,8 +6,6 @@ url: "/posts/英文/what-is-a-card-network/"
 description: "Learn what a card network does, how Visa and Mastercard connect payment participants, and why network rules matter for card acceptance, security, and international payments."
 tags:
   - card network
-  - Visa
-  - Mastercard
   - card payments
 draft: false
 categories:
@@ -131,8 +129,6 @@ Yes. A virtual card can be issued under a card-network program just like an elig
 The virtual format refers to how the card credentials are provided and used. It does not create a separate payment network.
 
 When using a virtual card, acceptance still depends on the card program, issuer rules, merchant acceptance, transaction details, and applicable security checks.
-
-If you are comparing options for online purchases or subscriptions, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical card options. Check the specific product's network, supported uses, fees, and limitations before choosing a card.
 
 ## Frequently Asked Questions
 

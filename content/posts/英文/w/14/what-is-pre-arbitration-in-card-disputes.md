@@ -70,5 +70,3 @@ Potential fees and financial consequences depend on the case, provider agreement
 ### Does pre-arbitration mean a final decision has been made?
 
 No. It is a stage in the dispute process, not necessarily the final determination.
-
-Pre-arbitration gives parties a structured opportunity to address unresolved issues before possible formal arbitration. For information about payment card services, visit [CBPayments](https://www.cbpayments.cc/).

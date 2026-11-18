@@ -10,7 +10,6 @@ keywords:
   - Stripe connected account dashboard
   - Connect client_secret
 tags:
-  - Stripe
   - Connect
   - 嵌入式组件
   - API 安全

@@ -23,8 +23,6 @@ A new card does not automatically update every merchant account. Some services m
 
 This guide explains how to organize that process and reduce the risk of unexpected service interruptions.
 
-If you are reviewing card options for online subscriptions, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical cards. Check the replacement rules and recurring-payment support for the specific card product you use.
-
 ## Why Replacing a Virtual Card Can Interrupt Subscriptions
 
 A subscription service typically stores payment credentials or a payment reference that allows it to collect future charges under the applicable billing arrangement.
@@ -104,8 +102,6 @@ Check:
 - Whether the card's issuing region and currency are accepted
 
 A new card is not automatically a suitable replacement for every subscription. A merchant may accept one card product but reject another because of its payment rules or the card program's restrictions.
-
-For users comparing options, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical cards. Review the relevant product terms and verify acceptance with the subscription provider before relying on the replacement card.
 
 ## Step 5: Prioritize Subscriptions by Renewal Date
 

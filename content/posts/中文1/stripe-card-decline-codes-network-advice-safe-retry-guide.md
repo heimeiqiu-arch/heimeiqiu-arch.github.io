@@ -3,7 +3,7 @@ title: "Stripe 卡片拒付排查：decline_code、network advice 与安全重�
 date: 2026-11-14
 description: "讲解 Stripe 卡支付失败中的 decline_code、network_decline_code 和 advice code，说明前端提示、服务端诊断、webhook 处理与避免过度重试的实践。"
 slug: "stripe-card-decline-codes-network-advice-safe-retry-guide"
-tags: ["Stripe", "PaymentIntent", "拒付", "支付失败"]
+tags: [ "PaymentIntent", "拒付", "支付失败"]
 keywords: ["Stripe decline_code 排查", "network_decline_code", "network_advice_code", "Stripe 卡支付失败", "PaymentIntent payment_failed"]
 ---
 

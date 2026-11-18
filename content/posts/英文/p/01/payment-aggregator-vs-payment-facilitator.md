@@ -59,8 +59,6 @@ There is no universal winner. A small online seller may prefer a provider that o
 
 Compare the service based on your business model, geography, transaction volume, risk profile, reporting needs, and the level of control you require. Review the contract and identify the actual acquiring institution and service provider rather than relying on labels alone.
 
-If you are also evaluating card tools for your business expenses or online services, [CBPayments](https://www.cbpayments.cc/) can be reviewed separately; its card products should not be confused with merchant acquiring or PayFac services.
-
 ## Frequently Asked Questions
 
 ### Are payment aggregators and PayFacs the same?

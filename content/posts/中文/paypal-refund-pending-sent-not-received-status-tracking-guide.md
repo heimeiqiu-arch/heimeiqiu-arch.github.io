@@ -3,7 +3,7 @@ title: "PayPal 退款显示 Pending 或 Sent 但没到账？状态与银行卡�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-refund-pending-sent-not-received-status-tracking-guide"
 description: "PayPal 退款显示 Pending、Sent 或 Completed 却没到账时，如何从 Activity 核对退款阶段、原付款方式、银行卡 reference ID、币种差异和下一步查询对象。"
-tags: ["PayPal", "退款", "Pending", "退款追踪", "银行卡", "银行账户"]
+tags: [ "退款", "Pending", "退款追踪", "银行卡", "银行账户"]
 categories: ["支付问题"]
 draft: false
 ---

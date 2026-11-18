@@ -40,5 +40,3 @@ Online merchants may also let customers select a display currency. However, a we
 Businesses offering DCC should make the choice clear and voluntary. Show the original amount, converted amount, exchange rate, and applicable markup before the customer confirms. Receipts should identify the transaction currency. Clear disclosure helps customers make an informed choice and reduces confusion and payment disputes.
 
 ## Final thoughts
-
-DCC offers convenience, not necessarily the best exchange rate. Compare the displayed rate and your card's terms rather than choosing a familiar currency automatically. For businesses and individuals reviewing international card options, CBPayments provides information about virtual and physical card solutions at https://www.cbpayments.cc/.

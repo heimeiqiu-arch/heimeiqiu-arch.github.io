@@ -3,7 +3,7 @@ title: "Stripe Customer Tax ID 管理：Checkout 收集、验证与发票同步"
 date: 2026-11-14
 description: "说明 Stripe Customer Tax ID 的收集入口、Checkout 配置、API 创建、验证状态、Invoice 快照和 webhook 同步，帮助降低税号与客户账单信息不一致的问题。"
 slug: "stripe-customer-tax-id-checkout-collection-invoice-sync-guide"
-tags: ["Stripe", "Stripe Tax", "Tax ID", "发票"]
+tags: [ "Stripe Tax", "Tax ID", "发票"]
 keywords: ["Stripe Customer Tax ID", "Stripe Checkout 收集税号", "Stripe 税号验证", "Invoice customer_tax_ids", "Stripe Tax ID API"]
 ---
 

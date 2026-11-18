@@ -65,6 +65,4 @@ If the bank shows $7,120, the amount is consistent with the report. The finance 
 
 Use the same definitions for transaction date, capture date, settlement date, and payout date across reports. Keep original exports and document any manual adjustments. Review unexplained differences promptly instead of allowing them to accumulate.
 
-When managing online payments and business expenses, reliable records matter as much as the payment method itself. CBPayments offers card options for online spending, but a business should always use the provider's actual statements and transaction history as the basis for reconciliation.
-
 A difference between a payment report and a bank statement is a question to investigate—not proof that one of the records is wrong.

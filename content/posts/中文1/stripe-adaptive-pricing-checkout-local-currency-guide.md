@@ -3,7 +3,7 @@ title: "Stripe Adaptive Pricing 怎么配置：Checkout 本地币种展示与账
 date: 2026-11-14
 slug: stripe-adaptive-pricing-checkout-local-currency-guide
 description: "说明 Stripe Adaptive Pricing 如何在 Checkout 和 Payment Links 展示本地币种，涵盖 Dashboard 配置、支付方式、事件字段、订阅限制与测试。"
-tags: ["Stripe", "Adaptive Pricing", "Checkout", "本地币种", "跨境支付"]
+tags: [ "Adaptive Pricing", "Checkout", "本地币种", "跨境支付"]
 categories: ["支付与账单"]
 draft: false
 ---

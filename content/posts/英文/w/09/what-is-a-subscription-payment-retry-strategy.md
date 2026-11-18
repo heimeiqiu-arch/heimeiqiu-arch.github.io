@@ -85,5 +85,3 @@ Avoid vague messages that provide no next step. Customers should be able to mana
 **Should a permanently cancelled card be retried?** Usually not. The customer generally needs to provide a valid replacement method.
 
 **Can retry logic prevent involuntary churn?** It can recover some failed payments but cannot solve every decline or account problem.
-
-A strong retry strategy combines transaction data, appropriate timing, customer communication, and careful controls. Businesses should review their provider's stored-credential and recurring billing capabilities. More information about card options is available at [CBPayments](https://www.cbpayments.cc/).

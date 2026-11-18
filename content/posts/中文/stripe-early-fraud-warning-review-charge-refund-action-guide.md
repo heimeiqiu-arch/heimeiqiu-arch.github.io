@@ -3,7 +3,7 @@ title: "Stripe Early Fraud Warning 早期欺诈警告怎么处理？核查、退
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-early-fraud-warning-review-charge-refund-action-guide"
 description: "收到 Stripe 早期欺诈警告后，如何确认关联 Charge 和 actionable 状态、核实客户与订单、评估退款或履约，并通过 webhook 建立可审计流程。"
-tags: ["Stripe", "Early Fraud Warning", "欺诈预警", "Radar", "退款", "Webhook"]
+tags: [ "Early Fraud Warning", "欺诈预警", "Radar", "退款", "Webhook"]
 categories: ["支付问题"]
 draft: false
 ---

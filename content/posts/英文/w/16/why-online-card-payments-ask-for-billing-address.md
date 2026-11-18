@@ -103,8 +103,6 @@ Some virtual card products provide billing information or require users to maint
 
 Before paying, check the card provider's instructions for the billing details to enter. Do not invent an address or use unrelated information to bypass a merchant's verification process. Incorrect information may cause the payment to fail or trigger further checks.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. Check the billing-information requirements, card terms and merchant compatibility at [CBPayments](https://www.cbpayments.cc/).
-
 ## Final Thoughts
 
 Online merchants may request a billing address to support address verification, fraud assessment, payment-provider requirements or billing records. Whether that information is checked—and how the result affects authorisation—depends on the payment setup.

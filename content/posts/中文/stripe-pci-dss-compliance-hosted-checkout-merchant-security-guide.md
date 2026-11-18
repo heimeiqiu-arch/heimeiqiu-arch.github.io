@@ -3,7 +3,7 @@ title: "Stripe 支付接入还要做 PCI DSS 吗？托管收银台与商户安�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-pci-dss-compliance-hosted-checkout-merchant-security-guide"
 description: "使用 Stripe Checkout 或 Elements 后，商户仍需了解哪些 PCI DSS 责任？比较托管支付页面、自建表单、卡片数据流与安全自查步骤。"
-tags: ["Stripe", "PCI DSS", "支付安全", "Checkout", "Elements", "卡片数据"]
+tags: [ "PCI DSS", "支付安全", "Checkout", "Elements", "卡片数据"]
 categories: ["支付安全"]
 draft: false
 ---

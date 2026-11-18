@@ -99,5 +99,3 @@ There is no universal duration. The timeline depends on the network, dispute cat
 ### Can a merchant stop a chargeback after it starts?
 
 Options depend on the stage and applicable procedures. Contact the acquirer or payment provider rather than assuming that a normal refund or message will automatically close the dispute.
-
-Understanding the chargeback lifecycle helps merchants manage deadlines, prepare relevant evidence, and make informed decisions. For information about card services and payment options, visit [CBPayments](https://www.cbpayments.cc/).

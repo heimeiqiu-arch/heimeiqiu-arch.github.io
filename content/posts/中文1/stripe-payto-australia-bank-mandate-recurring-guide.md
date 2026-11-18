@@ -10,7 +10,6 @@ keywords:
   - PayTo mandate
   - Stripe PayTo 订阅扣款
 tags:
-  - Stripe
   - PayTo
   - 澳大利亚支付
   - 银行扣款

@@ -3,7 +3,7 @@ title: "Stripe Coupon 和 Promotion Code 有什么区别：折扣规则、限制
 date: 2026-11-13
 slug: stripe-coupon-promotion-code-restrictions-guide
 description: "讲清 Stripe Coupon 与 Promotion Code 的关系、折扣周期、客户限制、有效期和核销跟踪，帮助商家设计可解释且可审计的促销活动。"
-tags: ["Stripe", "Coupon", "Promotion Code", "折扣", "订阅"]
+tags: [ "Coupon", "Promotion Code", "折扣", "订阅"]
 categories: ["支付与账单"]
 draft: false
 ---

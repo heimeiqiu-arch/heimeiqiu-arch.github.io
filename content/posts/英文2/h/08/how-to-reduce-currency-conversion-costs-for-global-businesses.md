@@ -33,8 +33,6 @@ For predictable expenses, define when funds are converted and who can approve la
 
 ## Control card-related conversion costs
 
-Employees may use cards for advertising, software subscriptions, cloud services, travel, and online tools. Standardize how these purchases are approved and recorded. Retain the merchant invoice and capture the original currency, converted amount, transaction date, and fees. Business card products, including virtual and physical cards, may support parts of this process; review their limits, supported merchants, fees, and regional availability. CBPayments is one platform businesses can assess: https://www.cbpayments.cc/.
-
 ## Reconcile every month
 
 Compare merchant invoices, processor reports, settlement statements, bank deposits, and card statements. Investigate differences instead of labeling every variance as exchange-rate movement. Track conversion costs separately in management reports so that finance teams can see whether a change came from volume, rate movement, provider pricing, or unnecessary conversion.

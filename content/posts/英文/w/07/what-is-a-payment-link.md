@@ -187,8 +187,6 @@ Businesses should distinguish between three separate questions:
 
 A link can work correctly even when a customer's card is declined. In that situation, the problem may involve the card issuer, available funds, verification requirements, or merchant restrictions rather than the link itself.
 
-Businesses and individuals comparing payment options can visit [CBPayments](https://www.cbpayments.cc/) to learn more about available virtual and physical card products and supported payment use cases. Product availability, card eligibility, and merchant acceptance should always be checked against the applicable terms.
-
 ## Common Payment Link Problems
 
 **The link does not open.** Check whether the URL is complete, whether the payment request has expired, and whether the provider's checkout page is accessible.

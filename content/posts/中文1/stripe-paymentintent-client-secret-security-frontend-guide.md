@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe PaymentIntent client_secret 安全使用指南：区分可发布密钥与服务端密钥，说明安全下发、TLS、日志过滤、订单授权和泄露后的排查思路。"
 slug: stripe-paymentintent-client-secret-security-frontend-guide
 tags:
-  - Stripe
   - PaymentIntent
   - client_secret
   - API 安全

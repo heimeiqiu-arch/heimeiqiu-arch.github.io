@@ -138,5 +138,3 @@ There is no universal timeframe. It varies by payment system, merchant processin
 ## Final Takeaway
 
 A payment settlement date describes a stage in the financial processing of a transaction, but it is not always the purchase date, the cardholder posting date, or the merchant payout date. Check which event a report is describing, allow for processing schedules and time zones, and contact the relevant merchant or provider when a transaction remains unresolved beyond its normal timeframe.
-
-If you are comparing card products for online payments or subscriptions, review their supported transaction types, fees, and account terms at [CBPayments](https://www.cbpayments.cc/).

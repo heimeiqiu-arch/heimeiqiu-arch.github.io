@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Terminal 离线支付实施指南：说明 SDK 离线采集与恢复同步的状态管理、设备和账户可用性核对、重复交易防护及上线测试重点。"
 slug: stripe-terminal-offline-payments-recovery-sync-risk-guide
 tags:
-  - Stripe
   - Terminal
   - 线下支付
   - 离线支付

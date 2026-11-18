@@ -76,5 +76,3 @@ Not necessarily. The request may simply be intended to identify or clarify a tra
 ### Should a merchant respond?
 
 Follow the applicable notification and provider instructions. Ignoring a request may create avoidable problems during a later investigation.
-
-Treat a retrieval request as an opportunity to clarify a transaction with reliable records before assuming that a formal chargeback has occurred. Visit [CBPayments](https://www.cbpayments.cc/) for information about current card products and services.

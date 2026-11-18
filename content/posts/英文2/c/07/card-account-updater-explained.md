@@ -103,8 +103,6 @@ Before using a virtual card for a long-running subscription, check:
 - Whether the card can be renewed or replaced without changing the payment arrangement
 - Whether the merchant needs you to verify or re-enter the details
 
-If you are evaluating card options for subscriptions and online services, visit [CBPayments](https://www.cbpayments.cc/) and check the specific product terms and supported features.
-
 ## How Can Customers Avoid Problems After Replacing a Card?
 
 Even if an updater service is available, it is sensible to review important payment arrangements.

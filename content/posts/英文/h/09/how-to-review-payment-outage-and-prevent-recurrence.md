@@ -62,6 +62,4 @@ Run a follow-up exercise based on the original incident. Check whether the team 
 
 Review payment reliability periodically, not only after major outages. Track provider concentration, checkout failure rates, settlement delays, complaints, and unresolved transactions. Revisit the setup when entering a new market, changing providers, adding subscriptions, or increasing volume.
 
-Keep card-based business spending separate from customer merchant checkout in reports. A service such as [CBPayments](https://www.cbpayments.cc/) may fit specific card needs, but it does not replace payment-provider monitoring or incident management.
-
 A useful incident review ends with measurable improvements, not just a report. By documenting the timeline, measuring impact, identifying root causes, assigning corrective actions, and testing those changes, a business can reduce repeat failures and build a more dependable payment operation.

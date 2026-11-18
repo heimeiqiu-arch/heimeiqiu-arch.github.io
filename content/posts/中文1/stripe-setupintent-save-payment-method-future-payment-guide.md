@@ -3,7 +3,7 @@ title: "Stripe SetupIntent 集成指南：保存支付方式并处理未来扣�
 date: 2026-11-14
 description: "说明 Stripe SetupIntent 的用途、Customer 与 PaymentMethod 关系、客户授权、认证流程、未来付款失败恢复和 Webhook 同步。"
 slug: "stripe-setupintent-save-payment-method-future-payment-guide"
-tags: ["Stripe", "SetupIntent", "PaymentMethod", "支付集成"]
+tags: [ "SetupIntent", "PaymentMethod", "支付集成"]
 keywords: ["Stripe SetupIntent", "保存银行卡", "Stripe 保存支付方式", "未来扣款", "PaymentMethod"]
 ---
 

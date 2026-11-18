@@ -3,7 +3,7 @@ title: "Stripe Express Checkout Element 集成：Apple Pay、Google Pay 与域�
 date: 2026-11-14
 description: "梳理 Stripe Express Checkout Element 的快速结账架构、钱包按钮展示条件、域名注册、浏览器与 iframe 限制，以及事件处理和测试验收要点。"
 slug: "stripe-express-checkout-element-wallet-domain-browser-guide"
-tags: ["Stripe", "Express Checkout Element", "Apple Pay", "Google Pay"]
+tags: [ "Express Checkout Element"]
 keywords: ["Stripe Express Checkout Element", "Apple Pay Stripe 域名注册", "Google Pay Stripe 浏览器", "Stripe 钱包按钮不显示", "Stripe Express Checkout 集成"]
 ---
 

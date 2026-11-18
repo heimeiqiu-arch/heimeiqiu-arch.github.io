@@ -3,7 +3,7 @@ title: "Stripe 测试模式与正式模式切换：密钥、对象、Webhook 和
 date: 2026-11-14
 description: "梳理 Stripe Sandbox/测试模式与 Live Mode 的数据隔离、API key 和 webhook signing secret 配置，提供从测试到真实收款的上线切换清单。"
 slug: "stripe-test-live-mode-api-keys-webhook-go-live-guide"
-tags: ["Stripe", "Sandbox", "Live Mode", "API Keys", "Webhook"]
+tags: [ "Sandbox", "Live Mode", "API Keys", "Webhook"]
 keywords: ["Stripe 测试模式和正式模式", "Stripe test key live key", "Stripe Sandbox objects", "Stripe Webhook signing secret", "Stripe 上线收款"]
 ---
 

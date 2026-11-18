@@ -71,5 +71,3 @@ It can be, particularly when the rate applies consistently to the merchant's tra
 
 ### Can a business switch pricing models?
 Some providers offer different plans or may review pricing as volume changes. Check contract terms and any termination or migration costs.
-
-Choose the model that gives your business the best combination of total cost, transparency, predictability, and support—not simply the lowest advertised rate. [CBPayments](https://www.cbpayments.cc/) can be reviewed separately if you are comparing card products for online payments rather than merchant acquiring services.

@@ -165,8 +165,6 @@ A virtual card is a card credential format, while a PayFac is a payment-acceptan
 
 A business can use virtual cards for eligible business purchases while separately using a payment facilitator to accept payments from its own customers. The applicable terms, transaction eligibility, and payment flows depend on the products and providers involved.
 
-For users exploring virtual or physical cards for online purchases and business expenses, [CBPayments](https://www.cbpayments.cc/) provides information about available card options. Review the specific card terms and supported uses before relying on a card for a particular expense.
-
 ## Frequently Asked Questions
 
 ### Does a PayFac eliminate underwriting?

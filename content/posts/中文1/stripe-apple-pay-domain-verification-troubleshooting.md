@@ -4,8 +4,6 @@ date: 2026-11-14
 description: "Stripe Apple Pay 网站接入与排查指南：注册支付域名、检查 HTTPS、浏览器和设备条件，并验证 Payment Element 与 Express Checkout 的实际展示。"
 slug: stripe-apple-pay-domain-verification-troubleshooting
 tags:
-  - Stripe
-  - Apple Pay
   - 钱包支付
   - Payment Element
   - 域名验证

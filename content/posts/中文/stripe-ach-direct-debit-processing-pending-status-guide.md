@@ -3,7 +3,7 @@ title: "Stripe ACH 银行扣款一直 processing 怎么办？待处理状态与�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-ach-direct-debit-processing-pending-status-guide"
 description: "Stripe ACH Direct Debit 付款可能先显示 processing，之后才成功或失败。本文解释商家和客户如何查看状态、安排交付、处理失败及避免重复扣款。"
-tags: ["Stripe", "ACH Direct Debit", "processing", "银行扣款", "延迟付款"]
+tags: [ "ACH Direct Debit", "processing", "银行扣款", "延迟付款"]
 categories: ["支付问题"]
 draft: false
 ---

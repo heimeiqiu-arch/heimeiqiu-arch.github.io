@@ -137,8 +137,6 @@ If you use a virtual card for an online purchase, keep the following in mind:
 - Spending limits or issuer controls may affect later transaction attempts.
 - The release of unused funds depends on the relevant provider's processing rules.
 
-If you are choosing a card for international online purchases or subscriptions, review the card's transaction limits, supported payment types, fees, and provider terms. You can find more information about available card options at [CBPayments](https://www.cbpayments.cc/).
-
 ## What Should You Do If the Amount Looks Wrong?
 
 Start by checking the order confirmation or invoice against the transaction shown in your card account.

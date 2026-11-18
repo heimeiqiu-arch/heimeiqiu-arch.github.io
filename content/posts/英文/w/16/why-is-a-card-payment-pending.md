@@ -106,8 +106,6 @@ Yes. Virtual card transactions can also appear as pending, and an authorization 
 
 A virtual card may be useful for online purchases and eligible subscriptions, but its transaction behavior still depends on the issuer and merchant. A declined purchase, a canceled order, or a subscription renewal may each have different processing outcomes.
 
-When choosing a card for online or overseas spending, review its balance rules, transaction notifications, and support procedures. You can explore card options through [CBPayments](https://www.cbpayments.cc/) and confirm the terms of the specific product before using it.
-
 ## Pending vs. Posted: What Is the Difference?
 
 | Status | What it generally means |

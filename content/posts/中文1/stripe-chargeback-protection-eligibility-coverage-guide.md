@@ -10,7 +10,6 @@ keywords:
   - Stripe 争议费用
   - Stripe Checkout 风控
 tags:
-  - Stripe
   - Chargeback Protection
   - 争议管理
   - 欺诈防护

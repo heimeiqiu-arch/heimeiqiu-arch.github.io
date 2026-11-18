@@ -10,7 +10,6 @@ keywords:
   - OXXO voucher expiration
   - payment_intent.requires_action OXXO
 tags:
-  - Stripe
   - 支付方式
   - 墨西哥
 ---

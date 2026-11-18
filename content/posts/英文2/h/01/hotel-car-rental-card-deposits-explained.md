@@ -93,8 +93,6 @@ Before relying on a virtual card, ask the hotel or rental provider:
 
 If the merchant requires a physical card, a virtual card may not meet its policy even if it worked for the initial online booking.
 
-For card options and features, visit [CBPayments](https://www.cbpayments.cc/) and verify the applicable terms before booking. Acceptance ultimately depends on the merchant and the card's issuing arrangements.
-
 ## How to Avoid Deposit-Related Payment Problems
 
 ### Confirm the deposit before booking

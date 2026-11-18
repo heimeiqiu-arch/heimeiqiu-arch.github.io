@@ -47,5 +47,3 @@ Check the receipt before leaving when possible. If it records a currency you did
 Review foreign transaction fees on your cards, carry a backup payment method, and keep official issuer support details available. For hotels and car rentals, understand that a temporary authorization may differ from the final bill. Business travelers should follow their company's currency and receipt policy so that expenses can be reconciled later.
 
 ## Final thoughts
-
-Local currency is a sensible starting point when a DCC offer is unclear, but the cheapest choice depends on the complete rate and fee comparison. Understand your card terms before traveling and retain transaction receipts. You can explore CBPayments at https://www.cbpayments.cc/ when comparing virtual and physical card options for international payment needs.

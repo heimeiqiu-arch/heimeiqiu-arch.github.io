@@ -3,7 +3,7 @@ title: "Stripe 订阅支付怎么落地：订阅状态、发票、续费与失�
 date: 2026-11-14
 description: "从 Stripe Billing 订阅生命周期出发，说明价格与订阅创建、发票支付、Webhook 状态同步、续费失败、取消和对账的实现要点，帮助搭建稳定的订阅业务。"
 slug: "stripe-subscription-billing-invoice-renewal-failure-guide"
-tags: ["Stripe", "Stripe Billing", "订阅支付", "SaaS"]
+tags: [ "Stripe Billing", "订阅支付", "SaaS"]
 keywords: ["Stripe 订阅支付", "Stripe Billing", "订阅续费失败", "Stripe 发票", "订阅状态同步"]
 ---
 

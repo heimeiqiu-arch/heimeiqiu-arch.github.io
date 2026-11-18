@@ -10,7 +10,6 @@ keywords:
   - Pix recurring mandate
   - Stripe Pix 退款和争议
 tags:
-  - Stripe
   - Pix
   - 巴西支付
 ---

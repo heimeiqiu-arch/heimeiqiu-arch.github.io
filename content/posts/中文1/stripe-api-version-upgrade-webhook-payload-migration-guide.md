@@ -3,7 +3,7 @@ title: "Stripe API 版本升级指南：请求版本、Webhook 载荷与迁移�
 date: 2026-11-14
 description: "梳理 Stripe API 版本与 SDK 版本、Webhook endpoint 事件载荷的关系，并给出变更评估、兼容测试、分阶段升级和回滚检查步骤。"
 slug: "stripe-api-version-upgrade-webhook-payload-migration-guide"
-tags: ["Stripe", "API", "Webhook", "SDK", "集成维护"]
+tags: [ "API", "Webhook", "SDK", "集成维护"]
 keywords: ["Stripe API 版本升级", "Stripe webhook API version", "Stripe-Version 请求头", "Stripe SDK API 版本", "Stripe API changelog"]
 ---
 

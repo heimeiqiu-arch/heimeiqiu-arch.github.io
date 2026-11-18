@@ -10,7 +10,6 @@ keywords:
   - Stripe Payments Intelligence
   - 支付授权优化
 tags:
-  - Stripe
   - Adaptive Acceptance
   - 卡片支付
   - 支付优化

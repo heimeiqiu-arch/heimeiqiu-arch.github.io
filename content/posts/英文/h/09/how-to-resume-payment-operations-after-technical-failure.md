@@ -58,6 +58,4 @@ Track payment success and decline rates, checkout errors, response times, pendin
 
 Tell customers which functions are available again and whether earlier orders need attention. Do not ask customers with confirmed successful payments to pay again. Give customers with unresolved transactions a clear support route.
 
-Record the recovery timeline, affected transactions, configuration changes, and remaining issues. Improve monitoring or reconciliation where the incident exposed weaknesses. Card services such as [CBPayments](https://www.cbpayments.cc/) may support separate business payment needs, but they do not replace merchant checkout processing or transaction reconciliation.
-
 A successful recovery is not simply when the payment page works again. It is when the business can accept payments, verify outcomes, process orders, and answer customer questions reliably.

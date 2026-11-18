@@ -152,8 +152,6 @@ Use measurable goals, such as reducing avoidable technical failures or improving
 
 Payment routing can affect how a merchant's transaction reaches its processing provider, but it does not change the fundamental terms of the card being used. Card acceptance still depends on the merchant, issuer, card programme, transaction type, region, and required authentication.
 
-For businesses paying for eligible online services, card selection is a separate decision from a merchant's payment-routing configuration. You can review the available virtual and physical card options at [CBPayments](https://www.cbpayments.cc/), then confirm current fees, eligibility, limits, and terms for your intended use.
-
 ## Frequently Asked Questions
 
 **Does payment routing increase approval rates?**

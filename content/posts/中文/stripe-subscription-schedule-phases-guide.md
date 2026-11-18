@@ -3,7 +3,7 @@ title: "Stripe Subscription Schedule 怎么用：分阶段调整价格、试用�
 date: 2026-11-13
 slug: stripe-subscription-schedule-phases-guide
 description: "介绍 Stripe Subscription Schedule 的阶段、起止时间、价格和结束行为，帮助团队安排订阅未来变更并避免账期、折扣和通知错误。"
-tags: ["Stripe", "Subscription Schedule", "订阅", "计费周期", "支付集成"]
+tags: [ "Subscription Schedule", "订阅", "计费周期", "支付集成"]
 categories: ["支付与账单"]
 draft: false
 ---

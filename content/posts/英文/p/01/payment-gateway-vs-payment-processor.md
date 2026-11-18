@@ -156,8 +156,6 @@ They can matter because a virtual card is still used within the merchant's norma
 
 A virtual card provides digital card credentials, while the merchant's gateway and processing arrangements determine how the payment request is submitted and handled. Acceptance also depends on the card issuer, merchant rules, transaction details, and other authorization factors.
 
-For users exploring cards for online services or overseas purchases, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical card options. Review the relevant card terms and the merchant's supported payment methods before making a purchase.
-
 ## Frequently Asked Questions
 
 ### Is Stripe a payment gateway or a payment processor?

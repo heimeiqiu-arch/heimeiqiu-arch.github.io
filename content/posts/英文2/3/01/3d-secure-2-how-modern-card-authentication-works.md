@@ -96,8 +96,6 @@ If authentication does not work, try the following:
 
 If you use a virtual card for online purchases, check that the card supports the merchant's required authentication process. A card being valid for online payments does not necessarily mean every issuer authentication method will work with every merchant.
 
-For managing online subscriptions and other digital payments, [CBPayments](https://www.cbpayments.cc/) provides virtual and physical card options. Always check the available card features and merchant requirements before making a payment.
-
 ## Frequently Asked Questions
 
 **Is 3-D Secure 2 the same as two-factor authentication?**

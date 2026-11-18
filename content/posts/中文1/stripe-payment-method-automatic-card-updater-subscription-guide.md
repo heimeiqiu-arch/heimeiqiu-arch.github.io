@@ -3,7 +3,7 @@ title: "Stripe 自动更新银行卡资料：payment_method.automatically_update
 date: 2026-11-14
 description: "说明银行卡网络自动更新机制如何影响 Stripe PaymentMethod、订阅续费和失败恢复，介绍相关 Webhook、旧卡过期事件边界及安全排查。"
 slug: "stripe-payment-method-automatic-card-updater-subscription-guide"
-tags: ["Stripe", "PaymentMethod", "订阅续费", "Webhook", "Revenue Recovery"]
+tags: [ "PaymentMethod", "订阅续费", "Webhook", "Revenue Recovery"]
 keywords: ["payment_method.automatically_updated", "Stripe 自动更新银行卡", "Stripe Card Updater", "customer.source.expiring", "Stripe 订阅续费恢复"]
 ---
 

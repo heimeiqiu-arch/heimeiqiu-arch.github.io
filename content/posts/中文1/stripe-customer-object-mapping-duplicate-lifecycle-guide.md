@@ -3,7 +3,7 @@ title: "Stripe Customer 对象管理：用户映射、重复创建与数据生�
 date: 2026-11-14
 description: "介绍 Stripe Customer 与应用用户的映射设计、幂等创建、资料同步、删除和测试环境隔离，帮助支付系统避免重复客户与账单归属错误。"
 slug: "stripe-customer-object-mapping-duplicate-lifecycle-guide"
-tags: ["Stripe", "Customer", "支付集成", "数据建模"]
+tags: [ "Customer", "支付集成", "数据建模"]
 keywords: ["Stripe Customer", "Stripe Customer ID", "Stripe 客户对象", "防止重复 Customer", "Stripe 用户映射"]
 ---
 

@@ -3,7 +3,7 @@ title: "Stripe Payment Links 使用指南：创建无代码收款页面并管理
 date: 2026-11-14
 description: "说明 Stripe Payment Links 的适用场景、产品价格设置、结账体验、支付状态同步、退款管理与上线检查，帮助商家快速搭建可追踪的付款入口。"
 slug: "stripe-payment-links-no-code-checkout-order-tracking-guide"
-tags: ["Stripe", "Payment Links", "在线收款", "Checkout"]
+tags: [ "Payment Links", "在线收款", "Checkout"]
 keywords: ["Stripe Payment Links", "Stripe 付款链接", "无代码收款", "Stripe 在线收款", "付款链接订单管理"]
 ---
 

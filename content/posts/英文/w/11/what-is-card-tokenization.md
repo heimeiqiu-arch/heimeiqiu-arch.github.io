@@ -125,8 +125,6 @@ A virtual card can have a card number, expiry date, and security code. That card
 
 In other words, virtual cards describe how a card is provided, while tokenization describes how payment credentials can be represented and used.
 
-If you are comparing payment options for online purchases or overseas subscriptions, [CBPayments](https://www.cbpayments.cc/) is one place to explore available card solutions. Check the specific product's supported payment methods and restrictions before using it with a particular merchant or wallet.
-
 ## Final Thoughts
 
 Card tokenization helps reduce the need to expose original card numbers across payment environments. It is widely relevant to digital wallets, stored-card checkout experiences, and some recurring-payment systems.

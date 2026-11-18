@@ -1,5 +1,5 @@
 ---
-title: "海外网站显示付款处理中怎么办？CBPayments Pending 交易处理指南"
+title: "海外网站显示付款处理中怎么办？ Pending 交易处理指南"
 date: 2026-11-09T15:00:00+08:00
 slug: "overseas-payment-stuck-in-pending-status"
 description: "海外网站付款后长时间显示 Pending 或 Processing，可能与交易授权、商户确认和系统同步有关。本文介绍如何判断交易状态并避免重复付款。"
@@ -8,19 +8,14 @@ tags:
   - Processing
   - 交易处理中
   - 海外付款
-  - CBPayments
 draft: false
 categories:
   - 交易管理
 ---
 
-# 海外网站显示付款处理中怎么办？CBPayments Pending 交易处理指南
-
 在海外网站完成付款操作后，有时页面不会立即显示成功或失败，而是一直停留在 Pending、Processing 或 Payment Under Review 等状态。
 
 用户可能已经看到银行卡出现一笔交易记录，但商户订单仍然没有更新。此时最容易犯的错误，就是认为付款没有成功，于是重新点击付款按钮。实际上，交易处理中并不等于付款失败。贸然重复付款，可能导致多笔授权或重复订单。
-
-如果你经常使用银行卡进行海外线上交易，可以先了解 [CBPayments 卡片服务](https://www.cbpayments.cc/)，熟悉卡片交易记录和相关使用方式。
 
 ## 一、Pending 和 Processing 表示什么？
 
@@ -55,12 +50,6 @@ Pending 通常表示交易尚未完成最终处理，具体含义取决于商户
 ## 六、如何避免重复付款？
 
 付款页面异常时先检查订单；交易显示 Pending 时不要立即重试；保存每次交易的时间和金额；通过商户官方渠道确认订单状态；明确第一次交易失败或取消后，再考虑重新付款。对于订阅服务，更要确认原交易是否已经成功，避免重复触发账单。
-
-## 七、CBPayments 用户如何处理？
-
-如果使用 CBPayments 卡片付款后，交易状态一直没有明确结果，可以先查看账户中的交易记录。如果无法判断交易是否完成，可以联系 CBPayments 客服，并提供交易时间、金额和商户信息，以便进一步核对。
-
-对于需要经常管理海外支付记录的用户，可以 [进入 CBPayments 官方平台了解卡片服务并申请开卡](https://www.cbpayments.cc/)。
 
 ## 总结
 

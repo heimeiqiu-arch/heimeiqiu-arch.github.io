@@ -66,5 +66,3 @@ If business funds were transferred, notify the relevant finance and security tea
 ## Final thoughts
 
 Social engineering attacks exploit human trust rather than relying solely on technical weaknesses. Verify unexpected requests independently, protect authentication information and avoid making payment decisions under pressure.
-
-For people managing multiple online payment accounts, keeping payment methods organised and reviewing transactions regularly can improve visibility. Explore [CBPayments](https://www.cbpayments.cc/) for card-based payment options, while remembering that no payment card replaces good account security practices.

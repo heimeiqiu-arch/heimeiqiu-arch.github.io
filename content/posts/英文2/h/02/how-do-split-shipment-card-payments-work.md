@@ -129,6 +129,4 @@ No. Split shipment concerns fulfilment in multiple deliveries. Partial capture c
 
 Split-shipment payment processing requires close coordination between order management, fulfilment, and payment systems. Accurate references and clear customer communication help prevent duplicate charges and reconciliation errors.
 
-For information about online card services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

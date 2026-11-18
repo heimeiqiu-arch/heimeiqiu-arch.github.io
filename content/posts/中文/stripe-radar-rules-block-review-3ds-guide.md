@@ -3,7 +3,7 @@ title: "Stripe Radar 规则如何配置：拦截、人工审核与 3D Secure 的
 date: 2026-11-13
 slug: stripe-radar-rules-block-review-3ds-guide
 description: "解释 Stripe Radar 内置与自定义规则的作用，比较拦截、人工审核和 3D Secure，并给出测试、监控及误伤排查流程。"
-tags: ["Stripe", "Radar", "风控", "3D Secure", "欺诈预防"]
+tags: [ "Radar", "风控", "3D Secure", "欺诈预防"]
 categories: ["支付与账单"]
 draft: false
 ---

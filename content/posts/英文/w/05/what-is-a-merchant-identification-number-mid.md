@@ -62,5 +62,3 @@ Reporting references, settlement arrangements, integrations, and support procedu
 **Can two businesses share one MID?** That depends on the acquiring model and contract. Never assume sharing is permitted without written provider approval.
 
 **Can a merchant change its MID?** A provider may issue a new identifier when the processing relationship changes. Confirm the effect on reports, refunds, disputes, and integrations.
-
-For individuals and teams managing online card payments rather than operating an acquiring business, [CBPayments](https://www.cbpayments.cc/) provides information about its available card options and supported uses.

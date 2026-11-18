@@ -182,8 +182,6 @@ A virtual card transaction still passes through the relevant merchant and paymen
 
 A virtual card is not guaranteed to work at every merchant. Users should confirm that the card supports the intended transaction and follow any required verification steps.
 
-For those comparing card products for online purchases and subscriptions, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options on supported Visa and Mastercard networks. Check current product terms, supported uses, fees, and merchant compatibility before applying or paying.
-
 ## Frequently Asked Questions
 
 ### Is an acquiring bank the same as a card network?

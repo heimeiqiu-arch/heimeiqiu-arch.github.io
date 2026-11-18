@@ -3,7 +3,7 @@ title: "Stripe Payment Links 如何允许顾客调整购买数量？库存与金
 date: 2026-11-13T12:12:00+08:00
 slug: stripe-payment-links-adjustable-quantity-inventory-guide
 description: "Payment Links 中如何开启可调数量、设置数量边界并核对订单？本文讲解数量修改、总价计算、库存控制、Checkout Session、Webhook 和高数量场景的排查方法。"
-tags: ["Stripe", "Payment Links", "商品数量", "订单管理"]
+tags: [ "Payment Links", "商品数量", "订单管理"]
 categories: ["支付指南"]
 draft: false
 ---

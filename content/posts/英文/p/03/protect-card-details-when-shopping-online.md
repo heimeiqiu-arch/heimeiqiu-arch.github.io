@@ -52,8 +52,6 @@ Some virtual card products support separate card details, spending limits, or co
 
 A virtual card is not a guarantee against fraud. It can still be exposed through phishing, a compromised device, or an unsafe website, and a merchant may decline it because of its card type or restrictions.
 
-If you are comparing card options for online or international payments, you can review the available features at [CBPayments](https://www.cbpayments.cc/). Check current fees, security features, card limits, and supported use cases before choosing a payment method.
-
 ## 5. Be Careful on Shared Devices and Public Networks
 
 Avoid entering card details on public computers or devices you do not control. They may contain unsafe software, retain browser data, or allow the next user to access information left behind.

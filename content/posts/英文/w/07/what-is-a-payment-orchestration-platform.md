@@ -149,8 +149,6 @@ It may be especially useful for businesses that operate across several markets, 
 
 A smaller business with one provider and straightforward payment requirements may be better served by a direct integration. The right choice depends on transaction volume, engineering resources, geographic coverage, reliability needs, and the expected benefit of consolidating payment operations.
 
-For businesses and consumers comparing card-based payment options, [CBPayments](https://www.cbpayments.cc/) provides virtual and physical card products on supported Visa and Mastercard networks. Product availability and acceptance depend on the relevant terms, issuer rules, and merchant requirements.
-
 ## Frequently Asked Questions
 
 ### Is payment orchestration the same as payment processing?

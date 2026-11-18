@@ -34,6 +34,3 @@ Support staff need an order reference, transaction reference, timestamp, amount,
 
 ## Measure recovery
 Track failure rates by method, region, and device; retry success; recovery after a failed attempt; resolution time; and support contacts. A high failure rate on one device may indicate a checkout issue.
-
-## Final thoughts
-The goal is not to force every failed transaction through. It is to help legitimate customers recover while keeping records accurate. Clear messages, safe data handling, duplicate prevention, and a consistent workflow protect customers and merchants. Businesses can review supported card options at [CBPayments](https://www.cbpayments.cc/).

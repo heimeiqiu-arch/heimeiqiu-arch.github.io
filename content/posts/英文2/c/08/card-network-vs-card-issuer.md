@@ -5,7 +5,7 @@ url: "/posts/英文/card-network-vs-card-issuer/"
 draft: false
 description: "Learn the difference between a card network and a card issuer, how Visa and Mastercard work with financial institutions, and who handles card approvals."
 categories: ["Payment Guides"]
-tags: ["card network", "card issuer", "Visa", "Mastercard", "card payments"]
+tags: ["card network", "card issuer", "card payments"]
 ---
 
 When you pay online or in a shop, several organisations may work behind the scenes. Two important participants are the **card network** and the **card issuer**. They are connected, but they do different jobs.
@@ -78,8 +78,6 @@ For recurring subscriptions, also confirm that the card product permits recurrin
 ## How This Applies to Virtual and Physical Cards
 
 Both virtual and physical cards can operate on a card network and be issued through a financial institution or card programme. A virtual card is a digital card credential intended for supported transactions; a physical card provides a card you can use at compatible terminals. Features vary by issuer and product, so do not assume that every virtual card supports in-person payments or that every physical card supports every online transaction.
-
-If you are comparing card options for international purchases or online subscriptions, review the product's supported use cases, fees, and issuer terms before adding it to a payment service. You can explore the card options and product information at [CBPayments](https://www.cbpayments.cc/).
 
 ## Frequently Asked Questions
 

@@ -71,8 +71,6 @@ The displayed description is generally influenced by the merchant's payment setu
 
 Virtual and physical cards can both be used for online payments, subject to the card provider's terms, supported merchants and security requirements. If you use a dedicated card for a subscription, it may be easier to compare transactions with the service you intended to pay.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. Check applicable fees, payment restrictions and account terms at [CBPayments](https://www.cbpayments.cc/).
-
 ## Final Thoughts
 
 An unfamiliar merchant name is not necessarily a warning sign, but it deserves a quick check. Compare the transaction amount and date with receipts, subscriptions and order history. If you still cannot identify the charge, contact your card issuer rather than ignoring it.

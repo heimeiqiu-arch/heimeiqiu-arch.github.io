@@ -3,7 +3,7 @@ title: "Stripe Invoice 自动定稿与 Webhook 时序：draft 到 open 的处理
 date: 2026-11-14
 description: "说明 Stripe Invoice 从 draft 到 finalized/open 的生命周期、auto_advance 的作用、invoice.created 后的收款时序及 webhook 延迟下的订单状态处理。"
 slug: "stripe-invoice-auto-finalization-webhook-timing-guide"
-tags: ["Stripe", "Invoice", "Webhook", "Billing"]
+tags: [ "Invoice", "Webhook", "Billing"]
 keywords: ["Stripe Invoice 自动定稿", "auto_advance Stripe", "invoice.created webhook 时序", "draft invoice finalized open", "Stripe invoice.finalization_failed"]
 ---
 

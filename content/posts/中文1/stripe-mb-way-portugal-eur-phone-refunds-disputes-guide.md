@@ -10,7 +10,6 @@ keywords:
   - MB WAY 手机号付款
   - Stripe MB WAY 退款争议
 tags:
-  - Stripe
   - MB WAY
   - 葡萄牙支付
   - 数字钱包

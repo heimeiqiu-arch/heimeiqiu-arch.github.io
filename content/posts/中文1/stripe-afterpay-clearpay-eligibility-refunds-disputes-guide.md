@@ -3,7 +3,7 @@ title: "Stripe Afterpay 与 Clearpay 接入指南：地区资格、退款和争�
 date: 2026-11-15
 description: "说明 Stripe Afterpay/Clearpay 的国家与币种限制、结账跳转、订单确认、退款跟踪和争议证据时限，帮助商户规划分期付款流程。"
 slug: "stripe-afterpay-clearpay-eligibility-refunds-disputes-guide"
-tags: ["Stripe", "Afterpay", "Clearpay", "分期付款"]
+tags: [ "Afterpay", "Clearpay", "分期付款"]
 keywords: ["Stripe Afterpay 接入", "Clearpay Stripe", "Afterpay 退款", "Afterpay 争议处理", "Stripe 分期付款"]
 ---
 

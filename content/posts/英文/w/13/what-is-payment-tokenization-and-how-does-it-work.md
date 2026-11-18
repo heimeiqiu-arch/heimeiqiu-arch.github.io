@@ -77,8 +77,6 @@ Merchants should confirm their obligations with their payment provider and quali
 
 Tokenization is especially useful for subscription services, marketplaces, digital platforms, travel businesses, and merchants with returning customers. Before adopting it, a business should ask whether tokens can be migrated, how card replacements are handled, what restrictions apply, and how token status can be monitored.
 
-Customers choosing a payment method for online services should also review transaction notifications and available card controls. Learn more about online card payment options at [CBPayments](https://www.cbpayments.cc/).
-
 ## Frequently Asked Questions
 
 **Is a payment token the same as a card number?** No. It is a substitute value used within a supported payment environment.

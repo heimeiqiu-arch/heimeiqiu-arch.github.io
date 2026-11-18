@@ -1,9 +1,9 @@
 ---
-title: "海外网站付款遇到 3D Secure 验证怎么办？CBPayments 指南"
+title: "海外网站付款遇到 3D Secure 验证怎么办？ 指南"
 date: 2026-11-08T13:00:00+08:00
 slug: "3d-secure-verification-overseas-payment"
 description: "3D Secure 是部分线上银行卡交易使用的额外验证机制，本文介绍常见验证方式、失败排查和安全注意事项。"
-tags: ["3D Secure", "银行卡验证", "海外付款", "线上支付", "CBPayments"]
+tags: ["3D Secure", "银行卡验证", "海外付款", "线上支付"]
 draft: false
 categories: ["支付安全"]
 ---
@@ -29,8 +29,6 @@ categories: ["支付安全"]
 3. **查看应用通知：** 如果通过银行或发卡机构应用确认，检查通知权限和应用登录状态。
 4. **检查卡片设置：** 确认线上交易权限及相关验证功能是否可用。
 5. **联系发卡服务方：** 如果反复失败，询问该卡产品是否支持商户所要求的验证方式。
-
-虚拟卡是否支持 3D Secure、如何接收验证信息，取决于具体产品和发卡机构。不要假设所有虚拟卡都具有相同功能。你可以通过 [CBPayments](https://www.cbpayments.cc/) 查看当前产品说明，并在付款前确认相关支持情况。
 
 ## 验证时的安全提醒
 

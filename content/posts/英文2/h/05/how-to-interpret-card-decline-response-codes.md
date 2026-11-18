@@ -124,5 +124,3 @@ It depends on the response. Checkout-data problems may need merchant assistance,
 Sometimes. A temporary connectivity problem may resolve, but a retry should follow the provider's guidance and transaction status.
 
 Decline response codes are useful diagnostic signals, not universal explanations. Correct interpretation requires the relevant network and processor documentation.
-
-For customers experiencing online card-payment difficulties, [CBPayments](https://www.cbpayments.cc/) provides access to its current service information and support channels.

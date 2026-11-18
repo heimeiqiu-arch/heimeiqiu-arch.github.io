@@ -89,8 +89,6 @@ Businesses should be able to connect every disputed payment to its original orde
 
 A simple recordkeeping system can include a unique order number, a payment reference linked to the order, the transaction date and amount, delivery or service completion records, customer support and cancellation history, refund details, and any dispute notification and response documents.
 
-Businesses using card-based payment services should understand the difference between authorization, completed transactions, refunds, and disputed payments. The [CBPayments platform](https://www.cbpayments.cc/) provides card payment options for online and international payment needs; merchants should review the applicable card and service terms before relying on a particular payment method.
-
 ## Final Thoughts
 
 A chargeback is not simply a failed payment or a normal refund. It is a formal card transaction dispute that can affect revenue, operating costs, and payment risk.

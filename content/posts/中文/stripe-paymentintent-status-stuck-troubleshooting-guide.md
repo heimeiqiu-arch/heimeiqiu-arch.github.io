@@ -3,7 +3,7 @@ title: "Stripe PaymentIntent 状态卡住怎么办？状态流转与排查指南
 date: 2026-11-13T11:20:00+08:00
 slug: stripe-paymentintent-status-stuck-troubleshooting-guide
 description: "Stripe PaymentIntent 停在 requires_action、processing 或 requires_confirmation 怎么办？本文讲解各状态的含义、前后端处理、Webhook 同步、幂等保护和逐步排查方法。"
-tags: ["Stripe", "PaymentIntent", "支付集成", "Webhook"]
+tags: [ "PaymentIntent", "支付集成", "Webhook"]
 categories: ["支付指南"]
 draft: false
 ---

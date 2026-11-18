@@ -3,7 +3,7 @@ title: "Stripe 发票自动扣款还是发送账单？collection_method 设置�
 date: 2026-11-13T13:05:00+08:00
 slug: stripe-invoice-collection-method-auto-charge-send-invoice-guide
 description: "Stripe 发票的 charge_automatically 与 send_invoice 有什么区别？本文讲解自动扣款、账期付款、到期日、客户付款方式、订阅设置与 Webhook 对账。"
-tags: ["Stripe", "Invoice", "发票收款", "订阅计费"]
+tags: [ "Invoice", "发票收款", "订阅计费"]
 categories: ["支付指南"]
 draft: false
 ---

@@ -95,8 +95,6 @@ Support staff should have a documented procedure for duplicate payment complaint
 
 Finance teams should reconcile payment records against orders and settlement statements regularly. This helps identify duplicate processing before customers report it.
 
-Businesses using multiple payment methods or card products should maintain clear references for each transaction. [CBPayments](https://www.cbpayments.cc/) can be part of a broader card payment workflow, but businesses should verify each transaction's status and applicable terms through the relevant service.
-
 ## Final Thoughts
 
 Duplicate payment disputes are often caused by checkout delays, repeated requests, unclear payment status, or weak retry logic.

@@ -1,5 +1,5 @@
 ---
-title: "Are Virtual Cards Safe? A Complete Guide to Virtual Card Security | CBPayments"
+title: "Are Virtual Cards Safe? A Complete Guide to Virtual Card Security"
 slug: are-virtual-cards-safe
 url: "/posts/英文/are-virtual-cards-safe/"
 date: 2026-09-22
@@ -14,8 +14,6 @@ tags:
   - virtual payment card
   - payment security
 ---
-# Are Virtual Cards Safe? A Complete Guide to Virtual Card Security | CBPayments
-
 As online payments become more common, payment security has become an important concern for many users.
 
 People use cards every day for online shopping, software subscriptions, digital services, and international platforms. However, sharing payment information across different websites can create security concerns.

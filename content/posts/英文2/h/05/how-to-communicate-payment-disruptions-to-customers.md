@@ -58,6 +58,4 @@ When service returns, explain which methods are available again and whether cust
 
 Review support conversations after the incident. Repeated questions may indicate that order confirmations, pending-payment explanations, or checkout warnings need improvement. Update templates and train staff accordingly.
 
-Payment products should also be described accurately. A service such as [CBPayments](https://www.cbpayments.cc/) may be relevant to card-payment needs, but card availability, merchant acceptance, and successful transaction processing are separate matters.
-
 Good outage communication is timely, specific, and honest. It cannot make a provider recover faster, but it can help customers avoid mistakes and preserve confidence in the business.

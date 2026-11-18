@@ -117,5 +117,3 @@ Start with the merchant if you do not know whether the refund was submitted. If 
 ## Final Thoughts
 
 Card refunds can take different amounts of time because the merchant, payment processor, card network, and issuer may each have a role. The most useful first step is to confirm whether the refund was submitted or whether the original payment was simply an authorisation hold.
-
-For online subscriptions and other digital purchases, choose a payment method whose fees, controls, and refund support you understand. You can learn more about card options at [CBPayments](https://www.cbpayments.cc/).

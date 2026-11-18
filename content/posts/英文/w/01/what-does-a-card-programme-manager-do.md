@@ -110,5 +110,3 @@ No. Some providers offer integrated issuing services that combine programme mana
 It may manage or configure limits within the authority granted by the sponsor and the programme's approved rules.
 
 A card programme manager is best understood as the coordinator of the programme's operating model, rather than automatically the bank or processor behind every transaction.
-
-For information about consumer-facing card products, you can review [CBPayments](https://www.cbpayments.cc/) and its current service terms.

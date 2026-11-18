@@ -3,7 +3,7 @@ title: "Stripe 打款显示已发送，银行卡还没到账怎么办？"
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-payout-missing-bank-account-troubleshooting"
 description: "Stripe 商户遇到 payout 延迟或银行未入账时，如何核对 Dashboard 状态、收款账户、工作日时间和 Trace ID，并联系银行追踪。"
-tags: ["Stripe", "打款延迟", "Payout", "银行入账", "Trace ID"]
+tags: [ "打款延迟", "Payout", "银行入账", "Trace ID"]
 categories: ["支付指南"]
 draft: false
 ---

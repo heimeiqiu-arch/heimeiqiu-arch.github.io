@@ -139,8 +139,6 @@ For freelancers, a clear separation between incoming project payments and outgoi
 
 Use an appropriate receiving method for client payments and maintain separate records for subscriptions, software, and other operational purchases.
 
-For eligible online spending, a dedicated card can make expenses easier to identify. CBPayments offers card options for supported online payment use cases, which can be reviewed at [CBPayments](https://www.cbpayments.cc/).
-
 Do not treat a card transaction as proof that a client invoice has been paid. Incoming revenue and outgoing spending should remain separate in the records.
 
 ## Final Thoughts

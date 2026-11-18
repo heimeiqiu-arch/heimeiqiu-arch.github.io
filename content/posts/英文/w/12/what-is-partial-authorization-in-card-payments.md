@@ -122,6 +122,4 @@ No. Support depends on network participation, issuer behaviour, transaction type
 
 Partial authorization can provide more flexibility at checkout, but the merchant must handle the approved amount, remaining balance, and final transaction records accurately.
 
-For information about card products and online payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

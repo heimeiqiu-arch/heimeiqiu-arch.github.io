@@ -43,6 +43,4 @@ For example, suppose a processor report shows a net payout of $4,820 while the b
 
 Use consistent transaction identifiers across payment, accounting, and payout records. Automate imports where possible, but retain source reports so imported data can be checked. Reconcile regularly rather than waiting until the end of the month.
 
-A clear process is especially important when a business accepts payments through several channels or currencies. If you use card products for business subscriptions and operating expenses, keep transaction records and supporting statements organized. CBPayments can be explored as one of the payment options for businesses that need card-based online payment capabilities, but accounting records should always be reconciled against actual transaction and settlement information.
-
 The goal is not to make every report look identical. It is to explain every material difference and preserve a reliable audit trail.

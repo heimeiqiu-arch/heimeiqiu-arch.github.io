@@ -106,8 +106,6 @@ Before adding a virtual card to a service, check:
 
 A virtual card does not guarantee that every verification request will succeed. Some merchants apply restrictions to particular card products or payment arrangements.
 
-If you are comparing virtual and physical card options, review the features and applicable restrictions at [CBPayments](https://www.cbpayments.cc/) before using a card for a specific service.
-
 ## Does a Verification Charge Mean the Website Will Charge Me Again?
 
 Not necessarily.

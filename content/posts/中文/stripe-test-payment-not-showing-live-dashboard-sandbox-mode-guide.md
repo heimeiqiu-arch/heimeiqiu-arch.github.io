@@ -3,7 +3,7 @@ title: "Stripe 测试付款在正式 Dashboard 看不到怎么办？Sandbox 与 
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-test-payment-not-showing-live-dashboard-sandbox-mode-guide"
 description: "Stripe 测试付款和正式交易属于不同环境。本文说明如何核对账户、模式、API 密钥、Webhook 与对象 ID，避免把测试数据当作真实收款。"
-tags: ["Stripe", "Sandbox", "Test mode", "Live mode", "测试付款"]
+tags: [ "Sandbox", "Test mode", "Live mode", "测试付款"]
 categories: ["支付开发"]
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Virtual Cards for Website Hosting and Domain Services: What to Know | CBPayments"
+title: "Virtual Cards for Website Hosting and Domain Services: What to Know"
 slug: virtual-cards-for-website-hosting-and-domain-services
 url: "/posts/英文/virtual-cards-for-website-hosting-and-domain-services/"
 date: 2026-10-06
@@ -18,8 +18,6 @@ tags:
   - recurring payments
   - digital payments
 ---
-# Virtual Cards for Website Hosting and Domain Services: What to Know | CBPayments
-
 Running a website often involves more payments than the domain name and hosting plan alone. Website owners may also pay for email services, cloud storage, security tools, website builders, plugins, APIs, and other online services.
 
 Many of these services are billed online, and some require recurring payments.

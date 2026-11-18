@@ -3,7 +3,7 @@ title: "Stripe Checkout 已完成但订单未付款？延迟支付排查与履�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-checkout-completed-payment-processing-async-status-fulfillment-guide"
 description: "Stripe Checkout 页面完成但订单仍在处理中时，核对 Session 与 PaymentIntent，处理延迟付款成功或失败事件，避免提前履约与重复收费。"
-tags: ["Stripe", "Checkout", "延迟付款", "Webhook", "订单履约", "PaymentIntent"]
+tags: [ "Checkout", "延迟付款", "Webhook", "订单履约", "PaymentIntent"]
 categories: ["支付问题"]
 draft: false
 ---

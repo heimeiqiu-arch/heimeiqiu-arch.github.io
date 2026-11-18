@@ -79,5 +79,3 @@ No. The outcome depends on the evidence and applicable rules.
 ### Can fees exceed the disputed amount?
 
 Depending on the network and provider fee structure, escalation costs can be significant relative to the amount in dispute. Check current terms before proceeding.
-
-Chargeback arbitration is a formal escalation option, not a routine step for every dispute. Businesses should use it selectively and understand the evidence, rules, and potential costs involved. Visit [CBPayments](https://www.cbpayments.cc/) for current card product information.

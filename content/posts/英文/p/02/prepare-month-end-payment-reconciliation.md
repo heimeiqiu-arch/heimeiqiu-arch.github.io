@@ -85,6 +85,4 @@ Another mistake is making manual adjustments without retaining the original repo
 
 A month-end close should confirm work already performed, not be the first time anyone reviews payment activity. Regular matching, consistent file naming, and prompt exception handling reduce the workload at the end of each period.
 
-Businesses using card-based payment methods for online services and operating expenses should also retain their statements and transaction records. CBPayments offers card options for online payments, while each business should reconcile those transactions against the actual records supplied by the relevant provider.
-
 A strong month-end reconciliation gives management a clear view of what was collected, what was refunded, what was deducted, what reached the bank, and what still needs attention.

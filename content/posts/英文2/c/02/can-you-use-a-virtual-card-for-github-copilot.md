@@ -83,8 +83,6 @@ A dedicated card can make it easier to distinguish GitHub Copilot from other sof
 
 Compare fees, card limits, recurring-payment support, funding methods, and the process for handling disputes before choosing a card.
 
-CBPayments provides virtual and physical card options on supported Visa and Mastercard products. If you are evaluating it for developer tools or AI subscriptions, review the current terms at [CBPayments](https://www.cbpayments.cc/) before using a card. A successful payment cannot be guaranteed because acceptance depends on GitHub's checkout and the specific card issuer.
-
 ## Frequently asked questions
 
 ### Can I use a virtual card for GitHub Copilot Pro?

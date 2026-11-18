@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Webhook 签名密钥轮换指南：说明 Dashboard 更换 endpoint secret 的步骤、最长并行窗口、服务端验证策略、测试与泄露后的处置区别。"
 slug: stripe-webhook-signing-secret-rotation-overlap-guide
 tags:
-  - Stripe
   - Webhook
   - 签名密钥
   - 安全运维

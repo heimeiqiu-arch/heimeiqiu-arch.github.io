@@ -10,7 +10,6 @@ keywords:
   - PayPay 5 分钟授权
   - Stripe PayPay 退款
 tags:
-  - Stripe
   - PayPay
   - 日本支付
   - 数字钱包

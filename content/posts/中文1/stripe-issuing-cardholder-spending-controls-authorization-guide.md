@@ -3,7 +3,7 @@ title: "Stripe Issuing 持卡人支出控制：卡片类别、地区与消费限
 date: 2026-11-14
 description: "介绍 Stripe Issuing Cardholder spending_controls 的允许/禁止类别、商户国家和限额配置，说明授权事件响应、持卡人身份要求与测试对账。"
 slug: "stripe-issuing-cardholder-spending-controls-authorization-guide"
-tags: ["Stripe", "Issuing", "Cardholder", "支出控制"]
+tags: [ "Issuing", "Cardholder", "支出控制"]
 keywords: ["Stripe Issuing spending_controls", "Stripe Issuing 卡片消费限额", "Cardholder allowed_categories", "Stripe Issuing 授权事件控制", "Stripe 发卡项目"]
 ---
 

@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Charges API 迁移指南：梳理旧 Charge 流程与 PaymentIntent 的差异，制定订单字段映射、Webhook 更新、测试和逐步切换方案。"
 slug: stripe-charges-api-to-paymentintents-migration-guide
 tags:
-  - Stripe
   - Charges API
   - PaymentIntents
   - API 迁移

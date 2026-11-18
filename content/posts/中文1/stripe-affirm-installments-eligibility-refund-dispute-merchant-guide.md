@@ -10,7 +10,6 @@ keywords:
   - Affirm disputes Stripe
   - Affirm financing packages
 tags:
-  - Stripe
   - Affirm
   - 分期付款
 ---

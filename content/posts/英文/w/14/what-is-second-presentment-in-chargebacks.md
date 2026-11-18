@@ -67,5 +67,3 @@ No. The issuer evaluates the response under applicable rules and evidence requir
 ### Can every chargeback proceed to second presentment?
 
 Available response rights depend on the network, dispute category, and procedural conditions.
-
-Second presentment is an important part of certain chargeback workflows because it gives the acquiring side a formal opportunity to respond. For current card service information, visit [CBPayments](https://www.cbpayments.cc/).

@@ -3,7 +3,7 @@ title: "PayPal 收到外币被自动换汇？商家多币种余额设置与费�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-foreign-currency-received-automatic-conversion-guide"
 description: "PayPal 商家收到外币后可能进入外币余额或按账户设置转换。本文说明自动换汇原因、多币种余额检查、汇率与费用核对、提现前的处理方法及排查步骤。"
-tags: ["PayPal", "PayPal外币", "自动换汇", "跨境收款"]
+tags: [ "PayPal外币", "自动换汇", "跨境收款"]
 categories: ["支付问题"]
 draft: false
 ---

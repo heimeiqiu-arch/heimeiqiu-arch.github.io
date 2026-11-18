@@ -10,7 +10,6 @@ keywords:
   - Stripe customer_details
   - Stripe 隐私合规
 tags:
-  - Stripe
   - Checkout
   - 电商运营
   - 隐私保护

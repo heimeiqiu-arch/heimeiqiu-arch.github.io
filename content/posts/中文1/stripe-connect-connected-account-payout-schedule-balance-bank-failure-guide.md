@@ -10,7 +10,6 @@ keywords:
   - Stripe Connect 打款时间
   - Stripe Connect 银行账户
 tags:
-  - Stripe
   - Connect
   - 商户打款
 ---

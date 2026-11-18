@@ -3,7 +3,7 @@ title: "Stripe 银行转账已汇出，发票仍显示未付款？对账与客�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-bank-transfer-invoice-unpaid-customer-balance-reconciliation-guide"
 description: "汇款方显示转账成功，但 Stripe 发票仍为未付款或待处理时，如何核对收款账户、客户余额、转账参考信息、币种与金额，并安全完成对账。"
-tags: ["Stripe", "银行转账", "发票", "对账", "客户余额", "付款排查"]
+tags: [ "银行转账", "发票", "对账", "客户余额", "付款排查"]
 categories: ["支付问题"]
 draft: false
 ---

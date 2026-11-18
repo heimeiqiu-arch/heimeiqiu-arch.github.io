@@ -1,5 +1,5 @@
 ---
-title: "Virtual Cards for International Online Payments: What to Know | CBPayments"
+title: "Virtual Cards for International Online Payments: What to Know"
 slug: virtual-cards-for-international-online-payments
 url: "/posts/英文/virtual-cards-for-international-online-payments/"
 date: 2026-10-06
@@ -14,8 +14,6 @@ tags:
   - cross-border payments
   - international transactions
 ---
-# Virtual Cards for International Online Payments: What to Know | CBPayments
-
 International online payments are now common for software subscriptions, digital services, online shopping, travel bookings, and business expenses. However, paying on websites based in another country can sometimes be more complicated than making a local card payment.
 
 A virtual card can be a useful option for certain international transactions because it provides card details specifically designed for online payments without requiring a physical card.

@@ -60,6 +60,4 @@ When the primary provider recovers, verify its status, run an approved test, con
 
 Assign responsibility for provider relationships, technical configuration, incident approval, customer communication, and reconciliation. Compare the cost of maintaining a backup with the likely impact of an outage.
 
-Card services and merchant payment processing serve different purposes. A platform such as [CBPayments](https://www.cbpayments.cc/) may fit certain card-payment needs, but it should not be assumed to replace a merchant gateway or acquiring arrangement.
-
 A useful backup plan is a tested operating procedure: it explains when to switch, how to avoid duplicate transactions, how to communicate with customers, and how to return to normal service safely.

@@ -18,8 +18,6 @@ description: "Troubleshoot a failed Basecamp subscription payment by checking ca
 
 A failed subscription payment can interrupt access or create uncertainty about whether a renewal went through. If a Basecamp payment fails, the quickest approach is to identify where the problem occurred before trying another card or submitting the payment again.
 
-For teams managing multiple online tools, it can also help to keep software subscriptions and payment methods organized. You can review options at [CBPayments](https://www.cbpayments.cc/), but always confirm the card's terms and compatibility with the merchant before relying on it for a renewal.
-
 ## 1. Check the exact message and transaction status
 
 Start with the message displayed in Basecamp's billing flow. A checkout error, an issuer decline, and a pending authorization may require different actions.
@@ -54,8 +52,6 @@ A subscription renewal is different from a one-time online purchase. Some cards 
 
 If you are paying with a virtual card, check the issuer's terms for recurring payments, spending limits, merchant restrictions, and currency support. A card being virtual does not by itself determine whether Basecamp will accept it.
 
-You can explore payment options at [CBPayments](https://www.cbpayments.cc/), but confirm the relevant card features and fees before adding a card to a subscription. Do not assume that every card product supports every merchant or recurring transaction.
-
 ## 5. Check for currency conversion or issuer restrictions
 
 If the subscription is billed in a currency different from your card account's base currency, conversion may affect the final amount. An issuer may also apply a foreign-transaction fee or use its own authorization rules.
@@ -83,5 +79,3 @@ If you change payment methods, confirm that the updated method is saved successf
 ## Final thoughts
 
 A failed Basecamp subscription payment does not always mean the card is unsupported. The cause may be a balance or limit issue, incorrect billing details, a required authentication step, recurring-payment restrictions, or an issuer decision. Check the transaction status first, then work through the likely cause before retrying.
-
-For more information about payment-management options, visit [CBPayments](https://www.cbpayments.cc/) and review the terms for the card you intend to use. Always rely on the current Basecamp billing interface and your issuer for account-specific payment decisions.

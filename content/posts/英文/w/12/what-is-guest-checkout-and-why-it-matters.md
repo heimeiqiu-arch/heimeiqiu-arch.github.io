@@ -31,6 +31,3 @@ Some services require identity, eligibility, age, or other checks before a trans
 
 ## Measure the impact
 Compare guest and registered checkout completion, registration abandonment, payment success, average order value, repeat purchases, support requests, and disputes. An A/B test should measure completed transactions rather than clicks on the guest option.
-
-## Final thoughts
-Guest checkout can remove an unnecessary barrier for first-time and one-time customers. Offer it where appropriate, collect only necessary information, maintain payment security, and let customers create an account later if they choose. Businesses can explore [CBPayments](https://www.cbpayments.cc/) and its virtual and physical card options for supported scenarios.

@@ -132,8 +132,6 @@ Usually, no. Customers generally choose the merchant's available payment methods
 
 If you need a card for eligible overseas online purchases or recurring software subscriptions, review the card's supported transaction types, currencies, fees, and issuer restrictions before paying. A card that works at one merchant may not work at another because acceptance rules vary.
 
-You can learn more about card options and overseas payment use cases on [CBPayments](https://www.cbpayments.cc/). Check the platform's current product terms and supported features before choosing a card.
-
 ## Final Thoughts
 
 A payment gateway is a key part of many online checkout systems. It helps transmit payment information securely and connects the checkout experience to the wider payment process.

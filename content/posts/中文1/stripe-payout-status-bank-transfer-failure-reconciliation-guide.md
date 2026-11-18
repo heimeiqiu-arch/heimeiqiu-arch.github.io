@@ -3,7 +3,7 @@ title: "Stripe Payout 出款状态怎么查：余额、银行账户与失败恢�
 date: 2026-11-14
 description: "介绍 Stripe 余额与 Payout 的区别、自动和手动出款、状态同步、Webhook、失败排查与对账，帮助商家跟踪资金从平台到银行的流程。"
 slug: "stripe-payout-status-bank-transfer-failure-reconciliation-guide"
-tags: ["Stripe", "Payout", "出款", "财务对账"]
+tags: [ "Payout", "出款", "财务对账"]
 keywords: ["Stripe Payout", "Stripe 提现", "Stripe 出款状态", "payout.failed", "Stripe 余额"]
 ---
 

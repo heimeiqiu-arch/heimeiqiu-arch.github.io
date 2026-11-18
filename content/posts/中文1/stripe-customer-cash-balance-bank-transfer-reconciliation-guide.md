@@ -3,7 +3,7 @@ title: "Stripe Customer Cash Balance 银行转账对账：资金到账与发票�
 date: 2026-11-14
 description: "介绍 Stripe Customer Cash Balance 银行转账资金如何进入客户余额、自动或手动匹配发票，说明 funds_available 事件、部分入账、余额明细和对账设计。"
 slug: "stripe-customer-cash-balance-bank-transfer-reconciliation-guide"
-tags: ["Stripe", "Customer Cash Balance", "银行转账", "Invoice"]
+tags: [ "Customer Cash Balance", "银行转账", "Invoice"]
 keywords: ["Stripe Customer Cash Balance", "Stripe 银行转账对账", "cash_balance.funds_available", "customer_balance_transaction", "Invoice 自动核销"]
 ---
 

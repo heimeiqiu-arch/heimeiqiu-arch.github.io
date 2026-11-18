@@ -68,5 +68,3 @@ A new device, password reset or contact-information change may warrant additiona
 ## Final thoughts
 
 Account takeover attacks exploit weaknesses in account security rather than necessarily attacking the payment card itself. Protect login credentials, secure recovery channels and monitor unusual activity.
-
-Separating payment activity across appropriate card accounts may provide additional control, depending on the product. [CBPayments](https://www.cbpayments.cc/) offers card-based payment options; review available account security features and terms before using any payment product.

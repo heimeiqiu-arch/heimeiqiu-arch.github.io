@@ -3,7 +3,7 @@ title: "Stripe Webhook 未收到事件、重复通知或状态不同步排查指
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-webhook-missing-duplicate-events-state-sync-troubleshooting"
 description: "Stripe Webhook 没收到事件、重复发送、签名验证失败或订单状态未更新时，按端点配置、HTTP 响应、事件日志、幂等处理和补偿流程逐步排查。"
-tags: ["Stripe", "Webhook", "支付集成", "事件通知", "订单状态", "开发排查"]
+tags: [ "Webhook", "支付集成", "事件通知", "订单状态", "开发排查"]
 categories: ["支付技术"]
 draft: false
 ---

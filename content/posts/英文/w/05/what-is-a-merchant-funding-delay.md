@@ -60,5 +60,3 @@ International businesses should account for currency conversion and different ba
 ## Final Thoughts
 
 A merchant funding delay can occur at several stages between customer payment and final bank credit. Identifying the exact stage is more useful than repeatedly checking a bank balance without understanding the provider's status.
-
-For supported outgoing payments to online services, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Review available options as part of a broader payment-management setup.

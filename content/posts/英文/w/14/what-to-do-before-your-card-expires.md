@@ -78,8 +78,6 @@ Card replacement is a useful time to review which services have access to your p
 
 Remove payment methods from services you no longer use, review recurring charges, and check whether your current card settings suit your needs. If you use separate cards for different types of online spending, confirm that each card remains active and has the appropriate limits.
 
-For users managing international online payments, [CBPayments](https://www.cbpayments.cc/) is one option to review when comparing virtual and physical card features. Check the current product terms, supported merchants, and replacement rules before moving any recurring payment.
-
 ## A Simple Pre-Expiration Checklist
 
 Before your card expires:

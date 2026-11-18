@@ -130,6 +130,4 @@ The answer depends on the transaction agreement, stored-credential framework, ne
 
 Reauthorization helps merchants manage extended or delayed transactions, but it must be used within the applicable payment rules and customer agreement.
 
-For information about current card products and payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

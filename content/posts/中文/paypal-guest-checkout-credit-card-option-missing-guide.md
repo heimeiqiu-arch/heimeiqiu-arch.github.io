@@ -3,7 +3,7 @@ title: "PayPal 不显示信用卡或访客付款怎么办？无账户结账原�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-guest-checkout-credit-card-option-missing-guide"
 description: "PayPal 结账页没有信用卡或访客付款选项，可能与交易风险、地区、浏览器状态或商家集成有关。本文按买家、商家和开发者分别排查。"
-tags: ["PayPal", "访客结账", "信用卡付款", "Checkout", "结账问题"]
+tags: [ "访客结账", "信用卡付款", "Checkout", "结账问题"]
 categories: ["支付问题"]
 draft: false
 ---

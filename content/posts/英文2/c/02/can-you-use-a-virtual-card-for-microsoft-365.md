@@ -77,8 +77,6 @@ However, a virtual card does not replace your company's expense policy, invoice 
 
 Look for a card that clearly states whether it supports online purchases, recurring payments, the required currency, and the relevant merchant or region. Review issuance fees, transaction fees, funding methods, card limits, and the process for handling a declined transaction.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. If you are considering it for a software subscription, review the current card terms and availability at [CBPayments](https://www.cbpayments.cc/) before funding the card. Acceptance by Microsoft depends on Microsoft's checkout rules and the specific card; it should not be assumed in advance.
-
 ## Frequently asked questions
 
 ### Can I use a virtual card for Microsoft 365 Family or Personal?

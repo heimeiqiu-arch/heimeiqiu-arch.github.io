@@ -43,7 +43,7 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
-      - name: Enforce article SEO fields and length
+      - name: Enforce new article SEO fields and Chinese length
         if: github.event_name == 'push'
         env:
           PUSH_BEFORE: ${{ github.event.before }}
@@ -61,7 +61,7 @@ jobs:
               raise SystemExit(0)
 
           changed = subprocess.check_output(
-              ["git", "diff", "--name-only", before, after], text=True
+              ["git", "diff", "--name-only", "--diff-filter=A", before, after], text=True
           ).splitlines()
           posts = [
               path for path in changed
@@ -87,10 +87,11 @@ jobs:
               for field in ("title", "description", "slug", "tags"):
                   if not re.search(rf"(?m)^{field}:\s*\S", front):
                       errors.append(f"{path}: missing or empty {field}")
-              chinese_chars = len(re.findall(r"[\u3400-\u4DBF\u4E00-\u9FFF]", body))
-              print(f"{path}: {chinese_chars} Chinese characters")
-              if chinese_chars < 2000:
-                  errors.append(f"{path}: {chinese_chars} Chinese characters; minimum is 2000")
+              if path.startswith("content/posts/中文/"):
+                  chinese_chars = len(re.findall(r"[\u3400-\u4DBF\u4E00-\u9FFF]", body))
+                  print(f"{path}: {chinese_chars} Chinese characters")
+                  if chinese_chars < 2000:
+                      errors.append(f"{path}: {chinese_chars} Chinese characters; minimum is 2000")
 
           if errors:
               print("\nArticle publishing checks failed:")

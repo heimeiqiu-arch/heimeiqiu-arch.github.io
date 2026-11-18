@@ -18,8 +18,6 @@ description: "Understand what ClickUp does, how to compare its plans, and what t
 
 ClickUp is a work-management platform that brings tasks, project planning, documents, goals, and team collaboration into one workspace. It can help individuals and teams organize projects without spreading every update across separate apps.
 
-If you are evaluating a paid plan, it is worth understanding both the features you need and the billing details before checking out. If you manage several online subscriptions, a service such as [CBPayments](https://www.cbpayments.cc/) may also be worth reviewing as part of your broader payment-management options; always confirm that a particular card and transaction are supported.
-
 ## What can you do with ClickUp?
 
 ClickUp combines several common work tools:
@@ -52,8 +50,6 @@ The payment options shown during checkout are the most reliable guide for your a
 
 If you plan to use a debit, credit, or virtual card, check that it supports online transactions and the relevant currency. For a recurring subscription, confirm that recurring payments are allowed and that the available balance and transaction limit can cover the charge.
 
-A virtual card is not automatically accepted or rejected simply because it is virtual. The merchant's payment processor and the issuer's authorization rules both matter. You can review options at [CBPayments](https://www.cbpayments.cc/), but confirm card compatibility, fees, limits, and recurring-payment support before relying on it for a subscription.
-
 ## How to prepare for checkout
 
 Use this quick checklist before confirming a paid plan:
@@ -76,5 +72,3 @@ Avoid repeated rapid attempts if the issuer is blocking the transaction. If you 
 ## Final thoughts
 
 ClickUp can be useful when your team wants tasks, planning, and collaboration in one place. Choose a plan based on the features and seats you actually need, and check the current checkout details before paying. For subscription budgeting, keep billing dates and receipts organized, and use a payment method whose limits and recurring-payment rules fit the subscription.
-
-You can learn more about payment-management options at [CBPayments](https://www.cbpayments.cc/), then verify the terms and compatibility relevant to your own account before making a payment.

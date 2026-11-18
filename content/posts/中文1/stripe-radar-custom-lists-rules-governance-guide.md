@@ -3,7 +3,7 @@ title: "Stripe Radar 自定义列表与规则联动：从维护名单到误拦�
 date: 2026-11-15
 description: "介绍 Stripe Radar 自定义列表的类型、创建与维护方式，以及如何在规则中引用名单、验证效果并降低误拦截风险。"
 slug: "stripe-radar-custom-lists-rules-governance-guide"
-tags: ["Stripe", "Radar", "风控", "支付安全"]
+tags: [ "Radar", "风控", "支付安全"]
 keywords: ["Stripe Radar 自定义列表", "Radar 规则", "允许名单", "阻止名单", "误拦截排查"]
 ---
 

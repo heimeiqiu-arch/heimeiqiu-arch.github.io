@@ -10,7 +10,6 @@ keywords:
   - Stripe Connect 平台风险
   - connected account balance
 tags:
-  - Stripe
   - Connect
   - 资金对账
   - 平台运营

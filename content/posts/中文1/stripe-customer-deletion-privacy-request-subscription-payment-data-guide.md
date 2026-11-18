@@ -10,7 +10,6 @@ keywords:
   - Stripe Customer cash balance
   - Stripe customer.deleted
 tags:
-  - Stripe
   - Customer
   - 数据管理
 ---

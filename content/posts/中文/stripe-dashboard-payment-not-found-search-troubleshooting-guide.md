@@ -3,7 +3,7 @@ title: "Stripe Dashboard 查不到付款记录怎么办？账户、模式与搜�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-dashboard-payment-not-found-search-troubleshooting-guide"
 description: "在 Stripe Dashboard 找不到付款、退款或发票时，按账户模式、对象 ID、金额币种、邮箱和日期逐步搜索，并安全核实网站订单与 Stripe 记录。"
-tags: ["Stripe", "Dashboard", "付款记录", "退款", "发票", "搜索"]
+tags: [ "Dashboard", "付款记录", "退款", "发票", "搜索"]
 categories: ["支付问题"]
 draft: false
 ---

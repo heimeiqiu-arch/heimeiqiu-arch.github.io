@@ -139,8 +139,6 @@ Check whether the card is active, whether its spending limit covers the transact
 
 If you manage several cards, make sure you are reviewing the card used for that specific purchase. A transaction may be difficult to identify if you accidentally check the wrong card's history.
 
-If you use [CBPayments](https://www.cbpayments.cc/) for online payments, consult the platform's available card and transaction information and contact its official support channel when the payment status cannot be determined. A card provider can help investigate its side of the transaction, while the merchant may need to confirm whether an order was created.
-
 ## Final thoughts
 
 An online payment that fails without an error message is not necessarily a declined payment. The problem may be a delayed authorization, an interrupted browser session, a failed authentication step, or a technical issue on the merchant's website.

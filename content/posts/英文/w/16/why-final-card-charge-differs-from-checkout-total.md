@@ -122,8 +122,6 @@ A virtual card can also show a difference between an initial authorisation and t
 
 Before using a virtual card, check its available balance, spending limits, supported transaction types, and any relevant fees. For services that may require deposits or final-amount adjustments, make sure the card's limits can accommodate the expected transaction.
 
-You can learn more about online card options at [CBPayments](https://www.cbpayments.cc/). Confirm the specific card's features and restrictions before making a payment.
-
 ## Frequently Asked Questions
 
 ### Is a different final amount always a mistake?

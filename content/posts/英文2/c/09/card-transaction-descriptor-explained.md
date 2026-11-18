@@ -118,8 +118,6 @@ Using a virtual card does not necessarily change the descriptor shown for a tran
 
 A virtual card can still be useful for separating spending across supported services or subscriptions. However, the card itself does not guarantee that every merchant name will be displayed exactly as it appears on a website.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. Before choosing a card for online payments, review its terms, fees and merchant restrictions at [CBPayments](https://www.cbpayments.cc/).
-
 ## Final Thoughts
 
 A transaction descriptor is a useful clue for identifying card payments, but its wording may not exactly match the merchant's public brand. Compare the description with receipts, account history and transaction details before deciding whether a charge is unfamiliar.

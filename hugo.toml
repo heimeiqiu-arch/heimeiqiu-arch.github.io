@@ -1,7 +1,7 @@
 baseURL = 'https://heimeiqiu-arch.github.io/'
 locale = 'zh-CN'
 defaultContentLanguage = 'zh'
-title = 'CBPayments｜虚拟卡与国际支付实用指南'
+title = 'CBPayments｜跨境支付知识分享'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -27,9 +27,9 @@ buildExpired = false
 
 [params]
   env = 'production'
-  title = 'CBPayments｜虚拟卡与国际支付实用指南'
-  description = '关于虚拟卡与 USDT 充值支付的实用指南；服务主体、费用与适用条件请先查看披露信息'
-  keywords = ['虚拟卡', '跨境支付', '国际支付', 'USDT 充值', 'CBPayments']
+  title = 'CBPayments｜跨境支付知识分享'
+  description = '个人运营的跨境支付与线上服务付款知识分享网站。本站提供信息内容，不办理开卡、充值或资金收付。'
+  keywords = ['跨境支付知识', '线上付款', '支付安全']
   DateFormat = '2006-01-02'
   defaultTheme = 'auto'      # auto / light / dark
   disableThemeToggle = false
@@ -49,20 +49,16 @@ buildExpired = false
   comments = false
 
   [params.homeInfoParams]
-    Title = 'CBPayments｜虚拟卡与国际支付实用指南'
+    Title = 'CBPayments｜跨境支付知识分享'
     Content = '''
-本站为支付信息与实用指南网站，公开介绍的业务包括虚拟卡及 USDT 充值支付。当前页面托管于 GitHub Pages（heimeiqiu-arch.github.io），页面使用 CBPayments 品牌，并有外链指向 cbpayments.cc。
+CBPayments 是个人运营的跨境支付与线上服务付款知识分享项目。本网站由个人运营，前端网页托管于 GitHub Pages（heimeiqiu-arch.github.io）。
 
-本网站运营主体、实际服务提供方，以及本站与 cbpayments.cc 之间的关系尚未完成公开披露。本站不是 Google、Visa、Mastercard 或 Discover 的官方网站，也不表示获得其授权或背书。
+本站仅发布一般信息，不提供开卡、充值、代收款、资金保管或支付服务，也不收集账户或支付资料。运营者真实姓名、联系地址、电子邮箱和电话将在核实后补充，本站不会填报虚构的公司或牌照信息。
 
-在主体及关系、经营地址、收费项目与金额、支持地区、身份验证要求、服务条款、退款/取消与投诉方式等信息核实并公开前，请勿通过本站注册或充值。本站不提供支付入口，也不要求用户在本站提交银行卡号、验证码、密码或身份证明。
+本站与 Visa、Mastercard、Discover、Google、OpenAI、Stripe 等品牌及其权利人无官方合作、授权、赞助或背书关系。
 
-[查看服务与主体披露](/disclosures/)
+[关于本站](/about/) · [运营者与网站性质](/disclosures/) · [免责声明](/disclaimer/)
 '''
-
-  [[params.socialIcons]]
-    name = 'link'
-    url = 'https://cbpayments.cc'
 
   [[params.socialIcons]]
     name = 'rss'

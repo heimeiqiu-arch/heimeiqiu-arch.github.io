@@ -3,7 +3,7 @@ title: "Stripe 暂停订阅与暂停收款：pause_collection 和 paused 状态�
 date: 2026-11-14
 description: "厘清 Stripe Subscription 的 pause_collection 与 status=paused 两种暂停方式，说明 keep_as_draft、mark_uncollectible、void 的发票行为、恢复流程和权益同步。"
 slug: "stripe-subscription-pause-collection-vs-paused-status-guide"
-tags: ["Stripe", "Subscriptions", "pause_collection", "Billing"]
+tags: [ "Subscriptions", "pause_collection", "Billing"]
 keywords: ["Stripe 暂停订阅", "pause_collection 和 paused 区别", "keep_as_draft mark_uncollectible void", "Stripe 暂停收款恢复", "customer.subscription.paused webhook"]
 ---
 

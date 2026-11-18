@@ -10,7 +10,6 @@ keywords:
   - Stripe 结账页面本地化
   - Stripe zh locale
 tags:
-  - Stripe
   - Checkout
   - 国际化
   - 支付链接

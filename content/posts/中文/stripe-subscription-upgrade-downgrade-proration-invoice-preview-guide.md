@@ -3,7 +3,7 @@ title: "Stripe 订阅升级降级如何计算差额？按比例计费与账单�
 date: 2026-11-13T11:48:00+08:00
 slug: stripe-subscription-upgrade-downgrade-proration-invoice-preview-guide
 description: "Stripe 订阅变更时按比例计费怎么算？本文解释 proration_behavior、升级立即收费、降级抵扣、账期变更、账单预览与 pending updates 的排查和测试方法。"
-tags: ["Stripe", "订阅计费", "按比例计费", "账单预览"]
+tags: [ "订阅计费", "按比例计费", "账单预览"]
 categories: ["支付指南"]
 draft: false
 ---

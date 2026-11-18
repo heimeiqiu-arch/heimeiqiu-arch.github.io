@@ -156,8 +156,6 @@ A virtual card is a digital card credential, not a separate settlement system.
 
 When a virtual card is used for an eligible purchase, the payment still follows the relevant issuer, merchant, network, and payment-provider processes. The card's digital format does not by itself guarantee faster settlement or immediate posting.
 
-For users comparing payment options for online purchases and subscriptions, [CBPayments](https://www.cbpayments.cc/) offers information about virtual and physical card solutions. Review the relevant card terms and payment status details to understand how transactions are handled.
-
 ## Frequently Asked Questions
 
 ### Is settlement the same as authorization?

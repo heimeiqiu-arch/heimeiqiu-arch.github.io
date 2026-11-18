@@ -153,8 +153,6 @@ Pay attention to the following details:
 
 A virtual card may work for one merchant but be unsuitable for another. Do not assume that every online-capable card supports every pre-authorization workflow.
 
-If you are comparing card options for online purchases or international payment needs, [CBPayments](https://www.cbpayments.cc/) provides information about its virtual and physical card offerings. Confirm the specific card's eligibility and terms before relying on it for a transaction that may involve a temporary hold.
-
 ## Common Misunderstandings About Pre-Authorization
 
 ### "The Merchant Has Already Taken My Money"

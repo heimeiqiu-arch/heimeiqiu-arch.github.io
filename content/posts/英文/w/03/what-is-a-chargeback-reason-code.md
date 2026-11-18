@@ -69,5 +69,3 @@ No. Networks have their own dispute frameworks and code structures. Similar conc
 ### Can a merchant challenge a chargeback?
 
 In eligible cases, a merchant may submit a response through its acquirer or payment provider. The available process depends on the dispute category and network rules.
-
-Understanding reason codes helps merchants investigate disputes systematically instead of responding with generic explanations. For information about available card products and payment services, visit [CBPayments](https://www.cbpayments.cc/).

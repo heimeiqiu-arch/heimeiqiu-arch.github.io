@@ -18,8 +18,6 @@ description: "Learn what to review in Airtable billing, including plan changes, 
 
 Airtable combines spreadsheet-style interfaces with database functionality, making it useful for project tracking, content calendars, operations, and shared team workflows. When an Airtable workspace moves to a paid plan, understanding billing is just as important as choosing the right features.
 
-If you are organizing software expenses across several services, you may also review payment-management options such as [CBPayments](https://www.cbpayments.cc/). Before using any card for a subscription, check its fees, limits, and support for recurring transactions.
-
 ## Understand the billing cycle before upgrading
 
 A subscription's billing interval determines when charges are expected. The options available to you should be shown in Airtable's current plan and checkout flow. Carefully distinguish a monthly price from a price that applies when paying for a longer period.
@@ -63,8 +61,6 @@ For a paid workspace, the payment method needs to remain usable when the next ch
 
 If you use a virtual card, confirm that the card permits recurring payments and that any merchant, currency, or transaction limits will not block a renewal. Virtual cards have different rules depending on their issuer, so the format alone does not guarantee acceptance.
 
-You can explore payment-management options at [CBPayments](https://www.cbpayments.cc/), but review the applicable card terms and confirm compatibility with Airtable's current checkout before depending on a card for recurring billing.
-
 ## How to troubleshoot an unexpected billing issue
 
 If a payment fails, confirm the card details, balance, transaction limit, billing information, and any authentication request. Check the issuer's transaction record to see whether the payment was declined, is pending, or was completed.
@@ -76,5 +72,3 @@ For a plan or invoice question, gather the workspace details, invoice date, amou
 ## A simple Airtable billing checklist
 
 Before upgrading or renewing, confirm the plan and seats, review the billing interval, check the amount and currency, save the receipt, and make sure the payment method supports recurring charges. Revisit these details whenever your workspace or subscription changes.
-
-Good billing records make it easier to budget for Airtable and reconcile expenses. For additional payment-management information, visit [CBPayments](https://www.cbpayments.cc/) and confirm all fees, limits, and compatibility details before use.

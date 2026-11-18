@@ -3,7 +3,7 @@ title: "Stripe Billing Alerts 用量阈值提醒：Meter 监控、Webhook 与告
 date: 2026-11-14
 description: "说明 Stripe Billing Alerts 如何按 Meter 用量阈值触发提醒，涵盖阈值选择、billing.alert.triggered Webhook、告警去重、一次性与持续监控及运营处置。"
 slug: "stripe-billing-alerts-usage-threshold-meter-webhook-ops-guide"
-tags: ["Stripe", "Billing", "Usage-based billing", "Meter", "Webhook"]
+tags: [ "Billing", "Usage-based billing", "Meter", "Webhook"]
 keywords: ["Stripe Billing Alerts", "Stripe 用量阈值提醒", "billing.alert.triggered", "Stripe Meter 监控", "Stripe usage threshold alert"]
 ---
 

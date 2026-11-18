@@ -3,7 +3,7 @@ title: "Stripe Checkout Session 过期处理：订单保留、重新创建与防
 date: 2026-11-14
 description: "介绍 Checkout Session 过期后的订单状态处理，说明 checkout.session.expired webhook、重新创建付款会话、恢复购物车、价格复核和避免重复履约的实现要点。"
 slug: "stripe-checkout-session-expiration-recreate-recovery-guide"
-tags: ["Stripe", "Checkout Session", "Webhook", "订单恢复"]
+tags: [ "Checkout Session", "Webhook", "订单恢复"]
 keywords: ["Stripe Checkout Session 过期", "checkout.session.expired 处理", "重新创建 Stripe Checkout Session", "Stripe 购物车恢复", "防止重复支付履约"]
 ---
 

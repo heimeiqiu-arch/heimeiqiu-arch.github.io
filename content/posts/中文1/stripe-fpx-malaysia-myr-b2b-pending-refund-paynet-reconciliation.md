@@ -10,7 +10,6 @@ keywords:
   - FPX transaction_id
   - Stripe MYR 收款
 tags:
-  - Stripe
   - 支付方式
   - 马来西亚
 ---

@@ -3,7 +3,7 @@ title: "Stripe Quote 报价如何转成发票或订阅：状态、有效期与�
 date: 2026-11-13
 slug: stripe-quote-accept-invoice-subscription-guide
 description: "梳理 Stripe Quote 从草稿、定稿、客户接受到生成发票或订阅的完整流程，说明报价编号、有效期、修订和后续收款核对。"
-tags: ["Stripe", "Quote", "报价", "发票", "订阅"]
+tags: [ "Quote", "报价", "发票", "订阅"]
 categories: ["支付与账单"]
 draft: false
 ---

@@ -18,8 +18,6 @@ description: "Learn how to review Jira subscription billing, track invoices and 
 
 Jira is widely used to plan work, track issues, and coordinate software development or business projects. For teams paying for Jira or related Atlassian products, a clear billing routine can help avoid renewal problems and keep software expenses accurate.
 
-You can also explore online payment-management information at [CBPayments](https://www.cbpayments.cc/). Before using any payment card for a subscription, verify its fees, spending limits, recurring-payment support, and compatibility with the merchant.
-
 ## Confirm which product and subscription are billed
 
 Organizations may use more than one Atlassian product or subscription. Start by checking the correct Atlassian account, site, product, and billing arrangement. Ensure you have the account permissions needed to view subscription and invoice details.
@@ -48,8 +46,6 @@ If an invoice differs from expectations, compare it with the previous billing pe
 
 The payment method should support the transaction and remain valid through the renewal date. Check that it is active, has enough available balance, and permits online and recurring payments. Consider the currency shown by the merchant and any conversion or foreign-transaction fees that your issuer may apply.
 
-Virtual cards are not all alike. Some support recurring charges, while others have restrictions on merchants, currencies, or transaction limits. A virtual card is not guaranteed to be accepted simply because it works for another service. You can learn about payment-management options at [CBPayments](https://www.cbpayments.cc/), but confirm the exact card terms and compatibility before using one for Jira billing.
-
 ## What to do if a payment fails
 
 Check the billing status before trying another payment method. Verify the card details, available balance, spending limit, billing information, and any authentication request. If the issuer declined the transaction, ask the issuer for the reason.
@@ -59,5 +55,3 @@ If a transaction is shown as pending, do not assume it has settled. Compare the 
 ## Build a repeatable billing routine
 
 At each renewal, confirm the plan and user count, review the invoice, reconcile the payment, and note the next billing date. Recheck these details after changes to your organization, subscription, or payment method.
-
-A simple process helps teams budget for Jira and spot unexpected charges. For additional online payment-management information, visit [CBPayments](https://www.cbpayments.cc/) and verify all relevant terms before paying.

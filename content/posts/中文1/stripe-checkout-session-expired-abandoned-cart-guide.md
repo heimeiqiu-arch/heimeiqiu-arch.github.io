@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Checkout Session 过期处理指南：区分放弃结账与支付失败，理解 checkout.session.expired、重新创建会话、安全恢复购物车和防止重复订单。"
 slug: stripe-checkout-session-expired-abandoned-cart-guide
 tags:
-  - Stripe
   - Checkout
   - Checkout Session
   - 弃单恢复

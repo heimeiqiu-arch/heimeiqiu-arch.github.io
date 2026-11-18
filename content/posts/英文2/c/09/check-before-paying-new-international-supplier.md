@@ -60,8 +60,6 @@ The method should suit the supplier's requirements and the documentation or prot
 
 Do not assume a card payment is always reversible or a bank transfer can always be recovered. Dispute rights and refund procedures vary by provider, country, and transaction type.
 
-For online business purchases where cards are accepted, a dedicated virtual or physical card may help keep spending separate from personal transactions. CBPayments offers card options for supported online payment scenarios. Review [CBPayments](https://www.cbpayments.cc/) and check the relevant terms and merchant requirements before use.
-
 ## Keep Every Document
 
 Save the quotation, invoice, order confirmation, payment receipt, and important messages. Use consistent file names so you can locate them later. Record promised delivery dates and important commitments.
@@ -75,5 +73,3 @@ For a first-time supplier, consider a smaller initial order or limited trial if 
 This may not be possible for customized production or services with substantial setup costs. In those cases, use a detailed written agreement and consider a suitable payment schedule.
 
 ## Make the First Payment a Controlled Decision
-
-Verify the supplier, confirm order details, review payment instructions, calculate total cost, and preserve supporting documents. For supported online card purchases, compare [CBPayments](https://www.cbpayments.cc/) with other options. The most suitable method is one that meets the supplier's requirements while giving your business clear records and manageable costs.

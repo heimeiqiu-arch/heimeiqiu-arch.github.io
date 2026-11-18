@@ -3,7 +3,7 @@ title: "Stripe 银行卡拒付代码怎么看？商户常见错误与处理办�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-card-decline-codes-merchant-troubleshooting"
 description: "解释 Stripe 常见银行卡拒付代码的含义和排查顺序，帮助商户区分余额不足、卡片过期、银行拒绝、需要认证及处理错误。"
-tags: ["Stripe", "银行卡拒付", "拒付代码", "支付失败", "收单"]
+tags: [ "银行卡拒付", "拒付代码", "支付失败", "收单"]
 categories: ["支付指南"]
 draft: false
 ---

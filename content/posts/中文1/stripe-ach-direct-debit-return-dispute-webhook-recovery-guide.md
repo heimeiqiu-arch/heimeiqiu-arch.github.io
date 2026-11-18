@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe ACH Direct Debit 退回与争议处理指南：区分付款处理失败、银行退回和正式争议，梳理 PaymentIntent 状态、Webhook、订单恢复与风险控制。"
 slug: stripe-ach-direct-debit-return-dispute-webhook-recovery-guide
 tags:
-  - Stripe
   - ACH Direct Debit
   - 付款退回
   - 争议处理

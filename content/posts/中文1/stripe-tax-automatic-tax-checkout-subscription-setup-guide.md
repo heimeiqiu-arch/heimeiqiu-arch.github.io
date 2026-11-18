@@ -3,7 +3,7 @@ title: "Stripe Tax 自动税务计算配置：Checkout 与订阅接入要点"
 date: 2026-11-14
 description: "说明 Stripe Tax 在 Checkout、订阅和发票中的配置准备，涵盖登记信息、产品税码、客户地址、退款核对与测试流程。"
 slug: "stripe-tax-automatic-tax-checkout-subscription-setup-guide"
-tags: ["Stripe", "Stripe Tax", "Checkout", "订阅计费"]
+tags: [ "Stripe Tax", "Checkout", "订阅计费"]
 keywords: ["Stripe Tax", "Stripe 自动税务计算", "Checkout 税费", "订阅税费", "产品税码"]
 ---
 

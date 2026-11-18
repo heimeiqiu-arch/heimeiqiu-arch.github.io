@@ -10,7 +10,6 @@ keywords:
   - Link 结账集成
   - Stripe 钱包预填
 tags:
-  - Stripe
   - Link
   - Payment Element
   - Checkout

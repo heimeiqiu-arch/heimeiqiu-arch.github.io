@@ -194,8 +194,6 @@ Customers can also take practical steps to resolve failed payments.
 
 For international purchases, also check whether the card supports the merchant, currency, and transaction type. A card that works for one online service may not be accepted by every merchant.
 
-If you are comparing payment options for online services or international spending, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical card products. Check the relevant card terms, supported uses, and eligibility requirements before making a payment.
-
 ## Common Payment Retry Mistakes
 
 ### Retrying Every Decline

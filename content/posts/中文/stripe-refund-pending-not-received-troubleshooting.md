@@ -3,7 +3,7 @@ title: "Stripe 退款显示处理中或客户没收到，商户怎么排查？"
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-refund-pending-not-received-troubleshooting"
 description: "解释 Stripe 退款 pending、退款已发起但银行卡未入账、原交易冲正和退款失败的区别，并提供商户与客户的核对步骤。"
-tags: ["Stripe", "退款处理中", "退款未到账", "退款状态", "跨境收款"]
+tags: [ "退款处理中", "退款未到账", "退款状态", "跨境收款"]
 categories: ["支付指南"]
 draft: false
 ---

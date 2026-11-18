@@ -79,8 +79,6 @@ For domains, security settings, and production websites, a failed renewal can cr
 
 A virtual card can help separate website infrastructure expenses from personal spending when the issuer provides useful records or controls. It should be one part of a broader billing process, not the only safeguard against interruption.
 
-If you are evaluating a card for online software and infrastructure expenses, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical card products. Check current terms, supported regions, limits, and recurring-payment capabilities before using a card for Cloudflare.
-
 ## Frequently Asked Questions
 
 ### Can I pay for Cloudflare with a virtual Visa or Mastercard?
@@ -102,5 +100,3 @@ It can make transactions easier to identify and reconcile if the provider offers
 ## Final Thoughts
 
 A virtual card can be convenient for managing online service costs, but Cloudflare acceptance depends on the options available to your account and issuer approval. Confirm billing region, card details, balance, and recurring-payment support before relying on it for a subscription.
-
-For card options that may suit international online payments, review [CBPayments](https://www.cbpayments.cc/) and verify eligibility and terms before making a decision. Keep billing settings and renewal notices up to date.

@@ -1,10 +1,10 @@
 ---
-title: "CBPayments: Cách thanh toán phí vận chuyển quốc tế và thuế nhập khẩu khi mua hàng từ nước ngoài"
+title: "Cách thanh toán phí vận chuyển quốc tế và thuế nhập khẩu khi mua hàng từ nước ngoài"
 slug: "cbpayments-thanh-toan-phi-van-chuyen-quoc-te-thue-nhap-khau"
 date: 2026-11-02
 draft: false
 categories: ["Thanh toán quốc tế"]
-tags: ["CBPayments", "vận chuyển quốc tế", "thuế nhập khẩu", "phí hải quan", "thanh toán trực tuyến"]
+tags: [ "vận chuyển quốc tế", "thuế nhập khẩu", "phí hải quan", "thanh toán trực tuyến"]
 ---
 
 # Cách thanh toán phí vận chuyển quốc tế và thuế nhập khẩu khi mua hàng từ nước ngoài
@@ -106,8 +106,6 @@ Một số phương thức phổ biến gồm:
 Nếu thanh toán trên website quốc tế, bạn cần kiểm tra xem hệ thống có hỗ trợ loại thẻ đang sử dụng hay không.
 
 Một số đơn vị vận chuyển hỗ trợ thanh toán bằng thẻ quốc tế, nhưng cũng có những dịch vụ chỉ chấp nhận phương thức thanh toán nội địa.
-
-Nếu cần tìm hiểu các lựa chọn thẻ phục vụ giao dịch quốc tế, bạn có thể tham khảo [CBPayments](https://www.cbpayments.cc/). Nền tảng cung cấp cả thẻ ảo và thẻ vật lý Visa/Mastercard. Tuy nhiên, việc thanh toán phí vận chuyển hoặc thuế nhập khẩu bằng thẻ còn phụ thuộc vào cổng thanh toán của đơn vị thu phí.
 
 ## 6. Hướng dẫn thanh toán phí nhập khẩu trực tuyến
 
@@ -226,5 +224,3 @@ Hãy lưu biên nhận, kiểm tra trạng thái vận đơn và liên hệ bộ
 ## Kết luận
 
 Khi mua hàng từ nước ngoài, bạn nên phân biệt rõ phí vận chuyển, thuế nhập khẩu và phí xử lý hải quan. Mỗi khoản có thể do một đơn vị khác nhau thu và có phương thức thanh toán riêng.
-
-Trước khi thanh toán, hãy xác minh thông báo, kiểm tra mã vận đơn và sử dụng website chính thức của đơn vị vận chuyển. Nếu cần tìm hiểu thêm về giải pháp thanh toán quốc tế bằng Visa và Mastercard, bạn có thể truy cập [CBPayments](https://www.cbpayments.cc/).

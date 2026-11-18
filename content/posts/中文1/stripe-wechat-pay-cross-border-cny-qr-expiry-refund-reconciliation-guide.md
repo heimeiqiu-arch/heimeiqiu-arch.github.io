@@ -10,7 +10,6 @@ keywords:
   - Stripe 微信支付退款
   - wechat_pay transaction_id
 tags:
-  - Stripe
   - 微信支付
   - 跨境收款
 ---

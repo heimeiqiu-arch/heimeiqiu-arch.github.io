@@ -3,7 +3,7 @@ title: "Stripe Test Clocks 测试指南：模拟订阅续费、升级与发票�
 date: 2026-11-14
 description: "介绍 Stripe Test Clocks 在沙盒中模拟订阅时间的方式，涵盖续费、试用结束、套餐变更、Webhook、对账和测试数据清理。"
 slug: "stripe-test-clocks-subscription-renewal-simulation-guide"
-tags: ["Stripe", "Test Clocks", "Stripe Billing", "订阅测试"]
+tags: [ "Test Clocks", "Stripe Billing", "订阅测试"]
 keywords: ["Stripe Test Clocks", "Stripe 订阅测试", "模拟续费", "Stripe 测试时钟", "Billing sandbox"]
 ---
 

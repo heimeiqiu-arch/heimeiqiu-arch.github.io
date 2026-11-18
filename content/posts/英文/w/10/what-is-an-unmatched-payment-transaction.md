@@ -58,6 +58,4 @@ Track the number and value of unmatched items, how long they remain open, and th
 
 Set internal review thresholds based on transaction volume and business risk. High-value items and old exceptions should receive priority.
 
-For businesses using multiple payment channels, consistent record keeping is essential. Card-based online purchases, including business subscriptions and software expenses, should be supported by transaction details and statements. CBPayments provides card options for online payments, while the business remains responsible for retaining the records needed for its own accounting process.
-
 A good reconciliation system does not hide unmatched transactions. It makes them visible, explainable, and traceable until they are resolved.

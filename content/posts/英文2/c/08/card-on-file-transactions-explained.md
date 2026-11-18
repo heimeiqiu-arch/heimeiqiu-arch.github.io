@@ -105,8 +105,6 @@ Before using a virtual card for subscriptions or repeat purchases, check:
 
 A virtual card does not guarantee that every saved-card payment will be approved.
 
-If you are comparing payment options for online services, you can review the card options available through [CBPayments](https://www.cbpayments.cc/) and confirm their compatibility with the merchant before use.
-
 ## Frequently Asked Questions
 
 ### Does saving a card give a merchant unlimited permission to charge it?

@@ -3,7 +3,7 @@ title: "Stripe 订阅试用期结束处理：缺少付款方式时取消、暂�
 date: 2026-11-14
 description: "讲解 Stripe Subscription 的 trial_settings.end_behavior，在试用结束但客户未提供付款方式时选择 cancel、pause 或 create_invoice，并同步提醒、权限和账单状态。"
 slug: "stripe-subscription-trial-end-missing-payment-method-guide"
-tags: ["Stripe", "Subscriptions", "Trial", "Billing"]
+tags: [ "Subscriptions", "Trial", "Billing"]
 keywords: ["Stripe 试用期结束无付款方式", "trial_settings missing_payment_method", "Stripe trial end cancel pause", "Stripe create_invoice 试用", "customer.subscription.trial_will_end"]
 ---
 

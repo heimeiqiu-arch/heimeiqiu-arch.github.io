@@ -3,7 +3,7 @@ title: "Stripe 加拿大预授权借记 ACSS：账户验证、延迟付款和争
 date: 2026-11-15
 description: "介绍 Stripe ACSS/PAD 的加拿大账户验证、CAD 与 USD 币种匹配、mandate 规则、最长 5 个工作日确认以及退款双重入账风险。"
 slug: "stripe-acss-canadian-preauthorized-debit-payment-guide"
-tags: ["Stripe", "ACSS", "加拿大预授权借记", "银行付款"]
+tags: [ "ACSS", "加拿大预授权借记", "银行付款"]
 keywords: ["Stripe ACSS Direct Debit", "加拿大预授权借记 Stripe", "PAD mandate", "ACSS 付款延迟", "ACSS 退款争议"]
 ---
 

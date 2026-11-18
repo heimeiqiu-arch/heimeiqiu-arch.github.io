@@ -37,6 +37,3 @@ If payment is still processing, tell customers not to submit another payment unt
 
 ## Protect sensitive information and test mobile display
 Show only appropriate payment details, such as card brand and masked last digits where supported. Never display full card credentials. Make the order reference easy to copy and ensure the status, amount, and next steps are readable on a phone.
-
-## Final thoughts
-A good confirmation page provides an accurate status, clear order details, useful receipts, and accessible support. It also helps connect customer orders with payment records. Businesses managing international transactions can explore supported virtual and physical card options at [CBPayments](https://www.cbpayments.cc/).

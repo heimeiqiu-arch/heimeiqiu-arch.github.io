@@ -124,6 +124,4 @@ Yes. Customers may question a charge if they believe the reservation terms were 
 
 No-show transactions are a specialised payment scenario. Clear reservation terms, accurate records, and correct transaction handling are essential for both merchants and customers.
 
-For information about card products and payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

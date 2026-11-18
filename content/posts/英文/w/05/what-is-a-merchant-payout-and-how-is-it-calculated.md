@@ -73,5 +73,3 @@ If the bank deposit differs from the expected amount, check whether the provider
 **Are fees always deducted before payout?** No. Some providers invoice certain charges separately.
 
 **Why is a payout marked paid but not in the bank?** Bank processing, holidays, account details, or intermediary processing can affect arrival. Check the transfer reference and contact the provider if the expected timeframe has passed.
-
-The merchant payout process differs from a cardholder's payment experience. Review [CBPayments](https://www.cbpayments.cc/) for online card options and current supported uses.

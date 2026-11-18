@@ -107,8 +107,6 @@ However, a virtual card number is not automatically a network token. A virtual c
 
 If you use virtual or physical cards for online purchases, subscriptions, or software services, check whether the card supports the merchant's payment method and any required authentication.
 
-You can learn more about the available card options at [CBPayments](https://www.cbpayments.cc/). Review the applicable card terms and merchant compatibility before using a card for a specific payment.
-
 ## Frequently Asked Questions
 
 ### Is a card network token the same as a virtual card?

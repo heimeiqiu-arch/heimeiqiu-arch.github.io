@@ -77,5 +77,3 @@ Monitor results and distinguish expired-credential failures from other decline r
 **Can it update a stolen card?** Updated credentials may be available in some eligible cases, but replacement after theft or fraud can involve restrictions.
 
 **Is an account updater the same as a payment retry?** No. An updater maintains credentials; a retry attempts another authorization.
-
-A reliable recurring payment system needs more than a valid card number. Merchants should combine credential maintenance with clear billing communication and sensible retry rules. Customers can review online card payment options at [CBPayments](https://www.cbpayments.cc/).

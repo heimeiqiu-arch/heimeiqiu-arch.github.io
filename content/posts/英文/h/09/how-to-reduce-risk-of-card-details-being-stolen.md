@@ -62,8 +62,6 @@ Avoid entering card details where other people can easily observe your screen or
 
 Virtual cards may provide a separate card number for online transactions, depending on the issuer. They can help separate spending or reduce the need to expose a primary card number to every merchant. However, they do not automatically prevent fraud, compromised accounts, or unauthorized access.
 
-Before choosing one, review transaction controls, recurring-payment support, refund handling, and replacement procedures. CBPayments provides virtual and physical card options for supported payment needs; review the current features and terms on the [CBPayments website](https://www.cbpayments.cc/).
-
 ## Respond to suspected exposure
 
 Contact the issuer, ask whether the card should be frozen or replaced, review recent transactions, secure affected shopping accounts, change reused passwords, and preserve relevant messages. Do not wait for a fraudulent charge if you have a credible reason to believe the details were exposed.

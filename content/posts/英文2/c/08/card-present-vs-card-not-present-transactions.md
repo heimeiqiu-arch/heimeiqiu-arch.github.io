@@ -136,8 +136,6 @@ Before paying, check:
 - Whether the transaction currency and fees are acceptable.
 - Whether the merchant requires 3D Secure or another verification method.
 
-For eligible online payments, you can review the card options available through [CBPayments](https://www.cbpayments.cc/). Confirm the current product terms, supported transaction types, fees, and merchant restrictions before use.
-
 ## Final Thoughts
 
 Card-present and card-not-present transactions differ mainly in how the card is presented and how the payment is accepted. In-person transactions often use chip or contactless terminals, while online transactions rely on digital payment information and remote verification.

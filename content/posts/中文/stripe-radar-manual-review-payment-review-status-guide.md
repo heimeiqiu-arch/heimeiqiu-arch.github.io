@@ -3,7 +3,7 @@ title: "Stripe Radar 人工审核付款怎么处理？Review 状态与复核流�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-radar-manual-review-payment-review-status-guide"
 description: "Stripe Radar 将付款标记为 Review 时，如何理解风险信号、核对客户与交易信息、决定批准或退款，并防止重复履约和误判真实客户。"
-tags: ["Stripe", "Radar", "人工审核", "风险控制", "付款审核", "欺诈预防"]
+tags: [ "Radar", "人工审核", "风险控制", "付款审核", "欺诈预防"]
 categories: ["支付风控"]
 draft: false
 ---

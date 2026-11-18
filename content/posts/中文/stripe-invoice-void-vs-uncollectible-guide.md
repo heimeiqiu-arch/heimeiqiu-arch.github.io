@@ -3,7 +3,7 @@ title: "Stripe Invoice 应该作废还是标记坏账？void 与 uncollectible �
 date: 2026-11-13T13:38:00+08:00
 slug: stripe-invoice-void-vs-uncollectible-guide
 description: "Stripe 未付款发票应使用 void 还是 mark_uncollectible？本文解释两种状态的账务含义、订阅影响、顾客通知、税务记录与选择流程。"
-tags: ["Stripe", "Invoice", "发票作废", "坏账处理"]
+tags: [ "Invoice", "发票作废", "坏账处理"]
 categories: ["支付指南"]
 draft: false
 ---

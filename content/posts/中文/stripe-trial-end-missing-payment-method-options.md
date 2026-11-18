@@ -3,7 +3,7 @@ title: "Stripe 订阅试用结束没有付款方式怎么办：取消、暂停�
 date: 2026-11-13
 slug: stripe-trial-end-missing-payment-method-options
 description: "详解 Stripe 订阅试用期结束时缺少付款方式的三种处理行为，覆盖客户提醒、状态同步、账单结果和测试清单。"
-tags: ["Stripe", "免费试用", "订阅", "付款方式", "账单"]
+tags: [ "免费试用", "订阅", "付款方式", "账单"]
 categories: ["支付与账单"]
 draft: false
 ---

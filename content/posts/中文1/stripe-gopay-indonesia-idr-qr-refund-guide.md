@@ -10,7 +10,6 @@ keywords:
   - Stripe GoPay QR Code
   - GoPay 退款期限
 tags:
-  - Stripe
   - GoPay
   - 印尼支付
   - 数字钱包

@@ -78,8 +78,6 @@ If you no longer need a virtual card, review the provider's options for freezing
 
 Do not assume that deleting a card from a digital wallet or merchant account is the same as closing it with the issuer.
 
-For users comparing virtual and physical payment options, [CBPayments](https://www.cbpayments.cc/) provides a place to review available card features. Check the current product terms and management options before changing or closing a card.
-
 ## A Quick Checklist
 
 Before disposing of an expired physical card:

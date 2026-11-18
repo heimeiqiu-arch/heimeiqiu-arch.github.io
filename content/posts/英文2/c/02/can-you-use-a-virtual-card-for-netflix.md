@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card for Netflix? | CBPayments"
+title: "Can You Use a Virtual Card for Netflix?"
 slug: "can-you-use-a-virtual-card-for-netflix"
 url: "/posts/英文/can-you-use-a-virtual-card-for-netflix/"
 date: 2026-10-15
@@ -13,8 +13,6 @@ tags:
   - Recurring Payments
   - Payment Declines
 ---
-
-# Can You Use a Virtual Card for Netflix? | CBPayments
 
 If you want to pay for Netflix with a virtual card, the answer depends on your country or region, your card provider, and whether the card supports recurring online payments.
 

@@ -25,6 +25,3 @@ Explain the next step using the provider's actual response. If the result is unc
 
 ## Measure the journey
 Track cart activity, checkout completion, payment authorization, failures by reason, and results by device and region. Combine analytics with support requests and transaction logs.
-
-## Final thoughts
-Clear pricing, simple forms, relevant payment options, and useful error messages make checkout easier to complete. Businesses can explore supported virtual and physical card options through [CBPayments](https://www.cbpayments.cc/).

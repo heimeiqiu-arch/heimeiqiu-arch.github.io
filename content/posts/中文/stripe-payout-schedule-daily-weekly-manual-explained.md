@@ -3,7 +3,7 @@ title: "Stripe 每日、每周、每月和手动打款有什么区别？"
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-payout-schedule-daily-weekly-manual-explained"
 description: "详细解释 Stripe 每日、每周、每月和手动打款的区别，说明打款频率、余额可用时间、银行入账时间并非同一概念，并给出后台检查与现金流管理方法。"
-tags: ["Stripe", "Stripe打款", "跨境收款", "现金流管理"]
+tags: [ "Stripe打款", "跨境收款", "现金流管理"]
 categories: ["支付问题"]
 draft: false
 ---

@@ -13,8 +13,6 @@ categories: ["Payment Guides"]
 
 A card payment can involve a merchant, an acquirer, a card network, an issuer, and several technology providers. These participants need to exchange transaction messages in a reliable and structured way. A **payment switch** is a system designed to receive, interpret, and forward payment messages between connected systems according to configured rules.
 
-The term is sometimes used loosely, so it helps to distinguish a switch from a checkout gateway or a merchant-facing payment-routing tool. Businesses researching payment infrastructure can also review the payment options described by [CBPayments](https://www.cbpayments.cc/), while checking which services are actually relevant to their use case.
-
 ## What Is a Payment Switch?
 
 A payment switch is a technology component that facilitates the movement of payment transaction messages between endpoints in a payment environment. Depending on the architecture, those endpoints may include ATMs, point-of-sale terminals, issuer systems, acquiring systems, processors, domestic payment networks, or other connected services.
@@ -57,8 +55,6 @@ Payment routing usually describes the decision about which available payment pro
 ## What Should Businesses Ask a Provider?
 
 Ask which endpoints and payment types are supported, how messages are secured, how failures and timeouts are handled, whether redundant connections exist, what monitoring is available, and who is responsible for operational incidents. For regulated or network-connected environments, confirm certifications, contractual responsibilities, and local requirements.
-
-A payment switch is infrastructure, not a guarantee of approval or settlement. Its value comes from reliable connectivity and accurate message handling. When comparing payment services for online transactions, [CBPayments](https://www.cbpayments.cc/) can be one option to review against your actual payment requirements and supported markets.
 
 ## Frequently Asked Questions
 

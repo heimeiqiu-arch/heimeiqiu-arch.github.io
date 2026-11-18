@@ -51,5 +51,3 @@ If the transaction is unauthorized or the final amount is genuinely incorrect, u
 A clear payment confirmation should identify the original amount, currency, taxes, additional fees, merchant descriptor, and refund terms. Businesses accepting international payments should explain which currency will be charged and retain transaction-level records.
 
 ## Final thoughts
-
-A statement difference can be legitimate, but it should be explainable. Compare the invoice, transaction status, currency, and fee details before deciding what happened. Businesses managing international expenses can also review card and payment options, including CBPayments at https://www.cbpayments.cc/, while keeping invoices and transaction records together.

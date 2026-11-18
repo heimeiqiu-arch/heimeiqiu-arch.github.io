@@ -10,7 +10,6 @@ keywords:
   - Stripe 访客结账
   - Checkout customer_details
 tags:
-  - Stripe
   - Checkout
   - Customer
   - 支付集成

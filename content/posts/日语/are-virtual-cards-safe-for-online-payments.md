@@ -1,5 +1,5 @@
 ---
-title: "バーチャルカードは安全？オンライン決済のセキュリティ対策｜CBPayments"
+title: "バーチャルカードは安全？オンライン決済のセキュリティ対策"
 slug: are-virtual-cards-safe-for-online-payments
 date: 2026-10-07
 draft: false

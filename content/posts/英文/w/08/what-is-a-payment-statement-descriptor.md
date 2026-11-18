@@ -109,8 +109,6 @@ International businesses may operate under one brand while using different legal
 
 If you accept or make international card payments, check which merchant details may appear and how currency conversion or cross-border processing is described. Clear billing information is especially important when customers use cards for overseas services and recurring subscriptions.
 
-If you are evaluating card options for international online payments, review the available products and their applicable terms at [CBPayments](https://www.cbpayments.cc/).
-
 ## Frequently Asked Questions
 
 ### Can a statement descriptor be changed?

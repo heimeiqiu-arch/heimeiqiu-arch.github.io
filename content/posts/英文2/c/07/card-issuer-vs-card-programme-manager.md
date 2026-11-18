@@ -102,5 +102,3 @@ A provider may combine multiple functions, subject to the applicable rules and s
 The card provider or its designated support channel is usually the practical starting point. The underlying issuer may need to investigate certain account or authorization issues.
 
 The issuer provides the issuing relationship, while the programme manager coordinates the programme's operation. Knowing the difference helps cardholders and businesses understand who is responsible for each part of a card product.
-
-For information about its own card products and support arrangements, visit [CBPayments](https://www.cbpayments.cc/).

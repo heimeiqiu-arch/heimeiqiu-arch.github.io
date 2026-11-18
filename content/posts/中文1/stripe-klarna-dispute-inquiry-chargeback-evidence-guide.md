@@ -3,7 +3,7 @@ title: "Stripe Klarna 争议处理：21 天询问期、证据提交和退款边�
 date: 2026-11-15
 description: "解析 Stripe Klarna 争议从客户询问到拒付升级的两阶段流程，说明 21 天处理窗口、单次证据提交、退款限制和 Webhook 工单设计。"
 slug: "stripe-klarna-dispute-inquiry-chargeback-evidence-guide"
-tags: ["Stripe", "Klarna", "争议处理", "退款"]
+tags: [ "Klarna", "争议处理", "退款"]
 keywords: ["Stripe Klarna 争议", "Klarna inquiry 21 天", "Klarna chargeback 证据", "Stripe Klarna 退款", "charge.dispute.funds_withdrawn"]
 ---
 

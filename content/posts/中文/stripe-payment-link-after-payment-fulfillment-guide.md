@@ -3,7 +3,7 @@ title: "Stripe Payment Link 付款后怎么确认订单：跳转页、Webhook �
 date: 2026-11-13
 slug: stripe-payment-link-after-payment-fulfillment-guide
 description: "说明 Stripe Payment Link 支付完成后的跳转页面如何设计，为什么必须用 Webhook 确认订单，并梳理延迟付款、重复事件和发货流程。"
-tags: ["Stripe", "Payment Links", "Webhook", "Checkout", "订单履约"]
+tags: [ "Payment Links", "Webhook", "Checkout", "订单履约"]
 categories: ["支付与账单"]
 draft: false
 ---

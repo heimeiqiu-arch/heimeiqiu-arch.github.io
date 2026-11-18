@@ -3,7 +3,7 @@ title: "Stripe 用量计费如何落地：Meter Event 记录、幂等去重与�
 date: 2026-11-13
 slug: stripe-usage-based-billing-meter-events-guide
 description: "梳理 Stripe 用量计费的数据链路、Meter Event 设计、事件去重、聚合周期和发票核对，降低漏报、重复计费与账单争议。"
-tags: ["Stripe", "用量计费", "Meter Events", "订阅", "账单对账"]
+tags: [ "用量计费", "Meter Events", "订阅", "账单对账"]
 categories: ["支付与账单"]
 draft: false
 ---

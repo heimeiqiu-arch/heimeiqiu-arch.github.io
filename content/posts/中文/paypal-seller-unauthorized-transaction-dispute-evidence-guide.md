@@ -3,7 +3,7 @@ title: "PayPal 卖家遇到未授权交易争议怎么办？证据准备与申�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-seller-unauthorized-transaction-dispute-evidence-guide"
 description: "PayPal 卖家收到未授权交易争议时，如何核对交易详情、准备物流或数字交付证据、在 Resolution Center 按时回复，并降低重复退款和账户风险。"
-tags: ["PayPal", "未授权交易", "卖家争议", "Seller Protection", "交易证据"]
+tags: [ "未授权交易", "卖家争议", "Seller Protection", "交易证据"]
 categories: ["支付问题"]
 draft: false
 ---

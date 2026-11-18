@@ -3,7 +3,7 @@ title: "Stripe Checkout 条款同意配置：Consent Collection 与客户授权�
 date: 2026-11-14
 description: "说明 Stripe Checkout consent_collection 如何收集服务条款和营销沟通同意，梳理会话配置、条款版本留档、webhook 取数及与保存支付方式授权的区别。"
 slug: "stripe-checkout-consent-collection-terms-marketing-records-guide"
-tags: ["Stripe", "Checkout", "Consent Collection", "合规"]
+tags: [ "Checkout", "Consent Collection", "合规"]
 keywords: ["Stripe Checkout 条款同意", "consent_collection terms_of_service", "Stripe promotions consent", "Checkout Session consent 记录", "客户授权留档"]
 ---
 

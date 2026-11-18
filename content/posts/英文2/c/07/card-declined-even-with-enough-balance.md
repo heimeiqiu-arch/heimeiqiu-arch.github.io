@@ -21,8 +21,6 @@ The reason is that **having enough money is only one condition for a successful 
 
 This guide explains the most common causes, how to identify which one may apply, and what to do before attempting the payment again.
 
-If you need a card for online purchases or subscriptions, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical card options. Check each product's supported uses, limits, and conditions rather than assuming that a sufficient balance guarantees acceptance.
-
 ## 1. The Available Balance Is Lower Than the Displayed Balance
 
 One common source of confusion is the difference between the displayed balance and the amount actually available to spend.
@@ -83,8 +81,6 @@ The merchant may display a generic decline message without explaining the specif
 Look at the merchant's official payment-method information. Check whether it accepts your card type, issuing region, and intended transaction type.
 
 If the merchant explicitly excludes a particular card category or country, adding funds will not resolve that restriction. Use a payment method permitted by the merchant's terms.
-
-If you are evaluating alternatives, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical cards. Verify the exact product's supported merchants and transaction conditions before choosing one for a specific purchase.
 
 ## 4. Online or International Payments Are Restricted
 
@@ -208,8 +204,6 @@ Adding funds is useful when the available balance is genuinely too low for the f
 However, adding money will not automatically resolve a transaction-limit problem, an unsupported card type, a billing mismatch, a merchant restriction, or a security-related decline.
 
 Before adding more funds, check the transaction history and the card's current limits. If the balance is already sufficient, investigate the other possible causes first.
-
-For people comparing payment methods for online purchases, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical cards. Review the applicable product terms and restrictions before relying on a card for a particular merchant or service.
 
 ## Frequently Asked Questions
 

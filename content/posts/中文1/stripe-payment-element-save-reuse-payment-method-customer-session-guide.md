@@ -3,7 +3,7 @@ title: "Stripe Payment Element 保存支付方式：CustomerSession 与复用流
 date: 2026-11-14
 description: "介绍 Stripe Payment Element 如何在客户明确同意后保存和展示支付方式，梳理 CustomerSession、PaymentIntent、SetupIntent、on_session 与 off_session 的职责，并给出安全、合规和故障排查建议。"
 slug: "stripe-payment-element-save-reuse-payment-method-customer-session-guide"
-tags: ["Stripe", "Payment Element", "CustomerSession", "支付方式"]
+tags: [ "Payment Element", "CustomerSession", "支付方式"]
 keywords: ["Stripe 保存支付方式", "Payment Element 复用卡片", "CustomerSession 配置", "SetupIntent off_session", "Stripe 客户支付体验"]
 ---
 

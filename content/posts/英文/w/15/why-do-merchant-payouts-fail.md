@@ -69,5 +69,3 @@ Provide the payout reference, amount and currency, initiation date, destination 
 ## Final Thoughts
 
 A failed merchant payout can originate from the provider, transfer network, or receiving bank. The solution depends on identifying which stage rejected the payment. Keep a clear record of the transfer reference and rejection reason before retrying.
-
-For supported outgoing online payments, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Review these separately from your merchant payout arrangements.

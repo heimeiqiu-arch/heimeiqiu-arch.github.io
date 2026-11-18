@@ -97,5 +97,3 @@ No. Each network has its own rules, terminology, services, and eligibility requi
 No. It is a fallback capability, not a guarantee. Other parts of the payment system may also experience disruptions.
 
 Stand-in processing is one of the mechanisms that can help payment networks maintain service availability during certain issuer-side interruptions. Its scope is determined by network rules and issuer configuration.
-
-For details about the card products currently available to consumers, visit [CBPayments](https://www.cbpayments.cc/).

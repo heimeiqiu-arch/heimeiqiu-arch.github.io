@@ -3,7 +3,7 @@ title: "Stripe 退款怎么处理：全额退款、部分退款、状态同步�
 date: 2026-11-14
 description: "详解 Stripe 退款的创建流程、全额与部分退款、异步状态、Webhook 同步、重复请求防护和对账方法，帮助商户与平台建立可追踪的退款处理流程。"
 slug: "stripe-refunds-full-partial-status-webhook-reconciliation-guide"
-tags: ["Stripe", "退款", "支付集成", "财务对账"]
+tags: [ "退款", "支付集成", "财务对账"]
 keywords: ["Stripe 退款", "Stripe 部分退款", "Stripe 退款状态", "退款 Webhook", "Stripe 退款对账"]
 ---
 

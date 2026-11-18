@@ -7,8 +7,6 @@ categories:
   - バーチャルカード
 tags:
   - バーチャルカード
-  - Visa
-  - Mastercard
   - カードブランド
   - オンライン決済
   - 海外決済

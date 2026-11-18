@@ -3,7 +3,7 @@ title: "Stripe Pricing Table 嵌入式订阅价格表：配置、发布与成交
 date: 2026-11-14
 description: "讲解 Stripe Pricing Table 的 Dashboard 配置、HTML/React 嵌入、套餐和数量限制、结账返回、Webhook 履约与常见故障排查。"
 slug: "stripe-pricing-table-subscription-embed-checkout-webhook-guide"
-tags: ["Stripe", "Pricing Table", "Checkout", "Subscription", "Webhook"]
+tags: [ "Pricing Table", "Checkout", "Subscription", "Webhook"]
 keywords: ["Stripe Pricing Table", "Stripe 嵌入式价格表", "stripe-pricing-table", "Stripe 订阅套餐展示", "checkout.session.completed"]
 ---
 

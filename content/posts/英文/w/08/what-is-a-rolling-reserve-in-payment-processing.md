@@ -56,5 +56,3 @@ Monitor dispute trends and notify the provider before material changes to the bu
 **Does every merchant have a rolling reserve?** No. Requirements vary by provider, business model, processing history, and risk assessment.
 
 **Can a merchant negotiate the terms?** Some providers may review reserve terms based on performance or evidence. Any change should be confirmed in writing.
-
-When comparing providers, review reserve terms alongside fees, payout timing, dispute charges, and support. Cardholder products such as [CBPayments](https://www.cbpayments.cc/) have separate terms and should not be confused with merchant reserve arrangements.

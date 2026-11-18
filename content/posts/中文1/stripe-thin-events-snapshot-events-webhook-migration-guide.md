@@ -10,7 +10,6 @@ keywords:
   - Stripe Events v2
   - Stripe webhook 迁移
 tags:
-  - Stripe
   - Webhook
   - API 集成
   - 事件驱动架构

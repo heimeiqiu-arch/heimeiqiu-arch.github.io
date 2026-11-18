@@ -3,7 +3,7 @@ title: "Stripe 退款退到已注销或过期的银行卡怎么办？新卡与�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-refund-sent-to-expired-cancelled-card-guide"
 description: "Stripe 商家已退款，但原银行卡已过期或注销时，退款通常由发卡银行按账户情况处理。本文说明新卡转入、银行入账、退回 Stripe 与查询资料。"
-tags: ["Stripe", "退款", "过期银行卡", "注销银行卡", "退款查询"]
+tags: [ "退款", "过期银行卡", "注销银行卡", "退款查询"]
 categories: ["退款问题"]
 draft: false
 ---

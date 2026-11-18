@@ -3,7 +3,7 @@ title: "Stripe 一次性 Invoice 收款流程：草稿、定稿、发送与付�
 date: 2026-11-14
 description: "介绍 Stripe 手动 Invoice 的创建、Invoice Item、草稿审核、定稿发送、客户付款、Webhook 和对账流程，适合服务报价与账后收费场景。"
 slug: "stripe-one-time-invoice-draft-finalize-send-payment-guide"
-tags: ["Stripe", "Invoice", "账单收款", "支付集成"]
+tags: [ "Invoice", "账单收款", "支付集成"]
 keywords: ["Stripe Invoice", "Stripe 手动发票", "Stripe Invoice Item", "定稿发票", "Stripe 发送账单"]
 ---
 

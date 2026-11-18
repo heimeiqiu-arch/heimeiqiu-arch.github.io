@@ -115,6 +115,4 @@ No. Availability depends on the card network, processor, merchant account config
 
 Zero-dollar authorization is a useful account-verification mechanism, but it should not be confused with a completed payment or a guarantee of future acceptance.
 
-For information about available card products and online payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

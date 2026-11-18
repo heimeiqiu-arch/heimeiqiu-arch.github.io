@@ -125,8 +125,6 @@ Use the principle of least privilege: each person should receive only the access
 
 For eligible online business purchases, dedicated cards can help separate approved spending categories.
 
-CBPayments offers card options for supported online payment scenarios. Businesses can review the available services at [CBPayments](https://www.cbpayments.cc/) and check the relevant card conditions.
-
 Do not assume that a card automatically provides team approval workflows or contractor payout functionality. Confirm the features offered by the specific product.
 
 ## 9. Keep a Central Transaction Record

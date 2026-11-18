@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Issuing 授权与交易状态指南：解释 authorization hold、清算交易、部分捕获和撤销之间的关系，并提供事件关联与账本核对方法。"
 slug: stripe-issuing-authorization-clearing-transaction-reconciliation-guide
 tags:
-  - Stripe
   - Issuing
   - 授权
   - 清算

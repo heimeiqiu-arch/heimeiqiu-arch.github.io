@@ -10,7 +10,6 @@ keywords:
   - Stripe 发票到期日
   - Stripe invoice.paid
 tags:
-  - Stripe
   - Billing
   - 发票
 ---

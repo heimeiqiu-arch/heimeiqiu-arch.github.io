@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Identity VerificationSession 托管流程指南：说明服务端创建验证会话、向用户安全提供 URL、处理 requires_input 重试，并通过 Webhook 确认最终状态。"
 slug: stripe-identity-verification-session-hosted-flow-retry-guide
 tags:
-  - Stripe
   - Stripe Identity
   - VerificationSession
   - 身份验证

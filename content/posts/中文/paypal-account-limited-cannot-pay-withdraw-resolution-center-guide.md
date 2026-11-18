@@ -3,7 +3,7 @@ title: "PayPal 账户受限无法付款或提现怎么办？核对通知与提�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-account-limited-cannot-pay-withdraw-resolution-center-guide"
 description: "PayPal 账户受限时，先从官网 Resolution Center 核实具体要求，再按通知提交资料并留意补件。本文说明常见原因、审核状态与防钓鱼步骤。"
-tags: ["PayPal", "账户受限", "Resolution Center", "账户验证", "付款安全"]
+tags: [ "账户受限", "Resolution Center", "账户验证", "付款安全"]
 categories: ["支付问题"]
 draft: false
 ---

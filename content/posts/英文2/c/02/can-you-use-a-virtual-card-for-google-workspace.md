@@ -79,8 +79,6 @@ A separate card can make transactions easier to identify and reconcile. Before c
 
 A dedicated payment method can improve visibility, but it does not replace accounting records or subscription management tools.
 
-If you are comparing options for international software services, [CBPayments](https://www.cbpayments.cc/) provides information about its virtual and physical card products. Review current terms, supported regions, and transaction limits before deciding whether a card is suitable for your Workspace subscription.
-
 ## Frequently Asked Questions
 
 ### Can I use any virtual Visa or Mastercard for Google Workspace?
@@ -98,5 +96,3 @@ It can make expense tracking easier if your provider supplies useful transaction
 ## Final Thoughts
 
 A virtual card may be convenient for Google Workspace, but acceptance depends on the payment methods available to your account and issuer approval. Confirm your billing country, enter accurate details, check limits, and verify recurring-payment support. If a payment fails, investigate the error rather than assuming the card is incompatible.
-
-For businesses comparing payment options for international software subscriptions, visit [CBPayments](https://www.cbpayments.cc/) and review the available card features and terms.

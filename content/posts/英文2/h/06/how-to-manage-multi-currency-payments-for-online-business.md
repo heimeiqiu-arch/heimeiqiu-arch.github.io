@@ -47,8 +47,6 @@ A business that earns USD but pays suppliers in EUR is exposed to changes in the
 
 ## Include business card expenses
 
-International expenses also include software, cloud hosting, advertising, travel, and digital services. Record each card transaction in its original currency and keep the invoice alongside the converted statement amount. A consistent process helps identify repeated fees and makes monthly reconciliation easier. CBPayments offers virtual and physical card solutions that businesses can review as part of their payment arrangements: https://www.cbpayments.cc/.
-
 ## Monthly review checklist
 
 Review currencies used, conversion points, applied rates, explicit fees, refunds, unmatched transactions, and foreign-currency balances. Compare provider costs using actual data and update forecasts when the business enters a new market.

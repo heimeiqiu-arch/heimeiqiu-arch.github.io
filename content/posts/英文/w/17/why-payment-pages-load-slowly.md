@@ -31,6 +31,3 @@ If a payment is processing, show a visible status such as “Processing your pay
 
 ## Monitor meaningful targets
 Track initial page load, time until the form is usable, payment response, transaction completion time, timeout frequency, and abandonment. Review results by device and region.
-
-## Final thoughts
-Slow checkout can come from scripts, assets, code, network conditions, or provider response times. Measure each stage, identify the largest bottleneck, and fix that problem first. Businesses can learn about supported card solutions at [CBPayments](https://www.cbpayments.cc/).

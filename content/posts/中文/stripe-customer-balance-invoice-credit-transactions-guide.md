@@ -3,7 +3,7 @@ title: "Stripe Customer Balance 如何抵扣发票？客户余额与交易记录
 date: 2026-11-13T13:28:00+08:00
 slug: stripe-customer-balance-invoice-credit-transactions-guide
 description: "Stripe Customer Balance 是银行卡退款吗？本文解释客户信用余额如何抵扣后续 Invoice、正负金额记录、余额交易对账、退款区别与常见故障处理。"
-tags: ["Stripe", "Customer Balance", "Invoice", "账务对账"]
+tags: [ "Customer Balance", "Invoice", "账务对账"]
 categories: ["支付指南"]
 draft: false
 ---

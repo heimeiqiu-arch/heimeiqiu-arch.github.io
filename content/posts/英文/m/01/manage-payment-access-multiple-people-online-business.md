@@ -48,8 +48,6 @@ When several people manage different parts of a business, payment separation can
 
 Check whether the provider supports the access-management features you need. Do not assume every virtual or physical card includes employee permissions, individual spending limits, or detailed role controls.
 
-CBPayments offers virtual and physical card options for supported payment scenarios. Review [CBPayments](https://www.cbpayments.cc/) to understand its available features and terms, then determine whether they fit your team's needs.
-
 ## Keep a Record of Every Payment Request
 
 A payment request should explain why the purchase is necessary. Record the service or supplier, expected amount, business purpose, requester, and approval status.
@@ -75,5 +73,3 @@ Once a month, check who can make or approve payments and confirm that each perso
 ## Balance Control With Convenience
 
 The purpose of access management is not to prevent employees from doing their jobs. Start with individual accounts where available, limited permissions, simple approval rules, and regular reviews. Add detail as the business grows.
-
-For supported online purchases, compare payment options based on actual access features, fees, and terms. [CBPayments](https://www.cbpayments.cc/) is one service to review when evaluating virtual and physical card options. Clear roles and consistent records are often more valuable than a complicated system.

@@ -3,7 +3,7 @@ title: "Stripe Checkout 如何收集顾客电话号码？订单联系与隐私�
 date: 2026-11-13T12:50:00+08:00
 slug: stripe-checkout-collect-customer-phone-number-guide
 description: "Stripe Checkout 如何启用电话收集并把号码保存到订单？本文说明字段设置、格式标准化、配送与客服用途、短信授权、Webhook 同步和隐私边界。"
-tags: ["Stripe", "Checkout", "电话号码", "客户资料"]
+tags: [ "Checkout", "电话号码", "客户资料"]
 categories: ["支付指南"]
 draft: false
 ---

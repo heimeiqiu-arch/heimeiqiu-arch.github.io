@@ -139,8 +139,6 @@ Keep the transaction reference and any available card activity records. If the c
 
 If the card was used for an online subscription, retain the merchant's billing terms and any cancellation confirmation. These records can help explain whether the disputed payment was expected or why it is being challenged.
 
-CBPayments provides virtual and physical card options. If you use a CBPayments card, review the applicable product terms and contact the appropriate official support channel for account-specific guidance. Product information is available at https://www.cbpayments.cc/.
-
 ## Frequently Asked Questions
 
 ### How long does a card dispute take?

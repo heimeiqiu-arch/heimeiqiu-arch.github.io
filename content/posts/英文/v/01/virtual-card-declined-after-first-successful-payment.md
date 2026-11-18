@@ -23,8 +23,6 @@ The first successful transaction proves that the card worked for that particular
 
 This guide explains the most common causes and how to investigate them without making repeated payment attempts that do not address the underlying problem.
 
-If you are comparing card products for online services, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical cards. Check the specific product's supported transaction types and restrictions before using it for ongoing payments.
-
 ## Why Can a Virtual Card Work Once and Fail Later?
 
 ### 1. The Available Balance Has Changed
@@ -135,8 +133,6 @@ Before creating another card, consider:
 - Does the card support the merchant's billing method?
 - Is the merchant asking for updated payment details?
 - Has the provider explained the decline?
-
-If you are considering another card for subscriptions or online services, [CBPayments](https://www.cbpayments.cc/) offers information about virtual and physical card options. Review the relevant product terms rather than assuming that a new card will automatically be accepted by the same merchant.
 
 ## How to Reduce the Risk of Future Declines
 

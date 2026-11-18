@@ -10,7 +10,6 @@ keywords:
   - Agentic Commerce
   - 代理购物支付安全
 tags:
-  - Stripe
   - AI 商务
   - 支付安全
   - Shared Payment Tokens

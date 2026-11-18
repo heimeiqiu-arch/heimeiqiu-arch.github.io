@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Refund 退款处理指南：区分退款创建与到账、理解 pending/succeeded/failed 状态、处理部分退款、Webhook 和 Stripe 余额核对。"
 slug: stripe-refund-status-pending-failed-partial-guide
 tags:
-  - Stripe
   - Refund
   - 退款处理
   - PaymentIntent

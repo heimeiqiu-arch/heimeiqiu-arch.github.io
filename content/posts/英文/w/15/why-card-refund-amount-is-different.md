@@ -103,8 +103,6 @@ Refund handling depends on the merchant's processing and the card provider's rul
 
 If the original virtual card has expired, been replaced or is no longer visible in your account, ask the provider how refunds are credited. Keep the original transaction details and the merchant's refund confirmation.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. Before relying on a card for a purchase, review its refund handling, account terms and applicable fees at [CBPayments](https://www.cbpayments.cc/).
-
 ## Final Thoughts
 
 A refund that differs from the original payment may reflect a partial refund, a changed final charge, currency conversion, fees or the way the transaction is displayed during processing.

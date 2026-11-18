@@ -1,5 +1,5 @@
 ---
-title: "Virtual Cards for International Online Shopping: A Practical Guide | CBPayments"
+title: "Virtual Cards for International Online Shopping: A Practical Guide"
 slug: virtual-cards-for-international-online-shopping
 url: "/posts/英文/virtual-cards-for-international-online-shopping/"
 date: 2026-10-06
@@ -16,8 +16,6 @@ tags:
   - online transactions
   - digital payments
 ---
-# Virtual Cards for International Online Shopping: A Practical Guide | CBPayments
-
 International online shopping gives consumers access to products, software, digital services, and stores that may not be available in their local market. However, paying an overseas merchant can sometimes be more complicated than making a domestic purchase.
 
 Currency conversion, billing information, card acceptance, payment gateways, fraud checks, and regional restrictions can all affect whether an international transaction is completed successfully.

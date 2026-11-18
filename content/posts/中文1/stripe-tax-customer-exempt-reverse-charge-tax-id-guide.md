@@ -10,7 +10,6 @@ keywords:
   - Stripe 客户税号
   - Stripe Tax 企业客户
 tags:
-  - Stripe
   - Stripe Tax
   - 税务
   - Invoicing

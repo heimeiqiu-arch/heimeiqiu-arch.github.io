@@ -81,8 +81,6 @@ A separate card for a cloud service can make expense tracking easier when the is
 
 A virtual card does not replace AWS budgets, cost alerts, or access controls. Use the platform's cost-management features alongside payment controls.
 
-If you are comparing options for software and cloud expenses, [CBPayments](https://www.cbpayments.cc/) provides information about its available virtual and physical card products. Confirm regional eligibility, limits, recurring-payment support, and current terms before using any card for an AWS account.
-
 ## Frequently Asked Questions
 
 ### Can I use any Visa or Mastercard virtual card for AWS?
@@ -104,5 +102,3 @@ For important cloud services, a backup can reduce disruption if the primary paym
 ## Final Thoughts
 
 A virtual card may help separate cloud spending, but AWS acceptance depends on account-specific payment rules and issuer approval. Verify the methods shown in your billing console, match the billing details, check limits and recurring-payment support, and maintain a recovery plan for important services.
-
-For card options that may suit international software and cloud payments, visit [CBPayments](https://www.cbpayments.cc/) and review the current product terms before choosing a card. Confirm compatibility for your own account and region.

@@ -10,7 +10,6 @@ keywords:
   - inclusive exclusive Stripe Tax
   - Stripe 价格税务设置
 tags:
-  - Stripe
   - Stripe Tax
   - 商品价格
   - 发票

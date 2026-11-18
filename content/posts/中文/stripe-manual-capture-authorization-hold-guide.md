@@ -3,7 +3,7 @@ title: "Stripe 预授权和手动捕获是什么？商家延迟扣款的操作�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-manual-capture-authorization-hold-guide"
 description: "说明 Stripe 自动捕获与手动捕获的区别、银行卡预授权为何暂时占用额度、何时捕获或取消、未及时捕获的风险以及电商商家的库存和退款对账方法。"
-tags: ["Stripe", "Stripe预授权", "手动捕获", "银行卡支付"]
+tags: [ "Stripe预授权", "手动捕获", "银行卡支付"]
 categories: ["支付问题"]
 draft: false
 ---

@@ -150,8 +150,6 @@ The fact that a card is virtual does not, by itself, determine the interchange c
 
 The applicable treatment can depend on the underlying card program, transaction type, merchant category, market, and network rules. Virtual and physical cards may be treated similarly in some circumstances and differently in others.
 
-If you are choosing a card for business expenses, online services, or international purchases, review the card's terms and the provider's fee information. [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical card options; check the specific product details before deciding which one fits your needs.
-
 ## Frequently Asked Questions
 
 ### Is interchange the same as a card-network fee?

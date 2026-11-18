@@ -148,8 +148,6 @@ A small business with few transactions may begin with a well-controlled spreadsh
 
 The payment methods a business accepts can influence how transactions appear in its records. Different providers may use different report formats, settlement schedules, currencies, and fee structures.
 
-For business expenses, card transactions may also need to be matched with invoices, receipts, and internal expense categories. If you are reviewing card options for eligible online business payments, [CBPayments](https://www.cbpayments.cc/) provides information about its available virtual and physical cards. Check the current terms and compatibility for your intended use.
-
 Regardless of the payment method, the reconciliation process should rely on transaction evidence rather than assumptions about when funds will arrive.
 
 ## Frequently Asked Questions

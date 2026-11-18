@@ -10,7 +10,6 @@ keywords:
   - PayNow QR 过期
   - Stripe 新加坡收款
 tags:
-  - Stripe
   - 支付方式
   - 新加坡
 ---

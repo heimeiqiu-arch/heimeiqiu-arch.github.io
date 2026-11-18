@@ -107,8 +107,6 @@ A freelancer may receive money through a bank transfer or payment platform, then
 
 For eligible online spending, a dedicated business card can help separate subscriptions and operational purchases from personal transactions.
 
-CBPayments provides card payment options for supported online transactions. Freelancers can review the platform at [CBPayments](https://www.cbpayments.cc/) and check its supported countries, merchant acceptance, fees, and transaction conditions.
-
 A card should not be assumed to function as a contractor payout service or a replacement for a receiving account.
 
 ## 8. Build a Repeatable Payment Routine

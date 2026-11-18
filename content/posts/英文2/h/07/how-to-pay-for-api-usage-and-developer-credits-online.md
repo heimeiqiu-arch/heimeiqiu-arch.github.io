@@ -23,8 +23,6 @@ The right payment approach depends on the provider's billing model, supported pa
 
 This guide explains the main payment models, how to prepare a card for developer services, and how to troubleshoot common payment problems.
 
-For people comparing online payment options, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical cards. Check the specific card product's terms and limits before using it for API services or developer platforms.
-
 ## Understand the Provider's Billing Model First
 
 Before adding a payment method, determine how the service calculates and collects payments. Different billing models can require different account settings and spending controls.
@@ -139,8 +137,6 @@ Sometimes. Acceptance depends on the API provider, the card program, the issuing
 A virtual card is not automatically accepted by every developer platform. A service may accept a card for a one-time credit purchase but impose different requirements for recurring billing or automatic top-ups.
 
 Before using a virtual card, confirm that the provider accepts the specific card type and that the card's limits fit the expected payment. If the service uses recurring or usage-based charges, check those requirements separately.
-
-[CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical card options. Review the relevant product terms and merchant restrictions before choosing a payment method for a developer account.
 
 ## Troubleshooting Common Payment Problems
 

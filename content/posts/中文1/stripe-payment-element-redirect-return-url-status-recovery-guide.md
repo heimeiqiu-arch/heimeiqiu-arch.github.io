@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Payment Element 重定向支付处理指南：说明 return_url 的作用、客户离开和返回后的状态读取、重复提交防护及 PaymentIntent 服务端核对。"
 slug: stripe-payment-element-redirect-return-url-status-recovery-guide
 tags:
-  - Stripe
   - Payment Element
   - PaymentIntent
   - 重定向支付

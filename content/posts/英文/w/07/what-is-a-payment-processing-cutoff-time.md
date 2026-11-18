@@ -46,5 +46,3 @@ Maintain working capital for transactions that fall into the next cycle. Forecas
 ## Final Thoughts
 
 A payment processing cutoff is an operational deadline, not a promise of immediate settlement. Understanding it helps explain why two transactions made on the same day may enter different payout cycles.
-
-For separate online business expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options for supported payment scenarios. Review the available options against your actual business requirements.

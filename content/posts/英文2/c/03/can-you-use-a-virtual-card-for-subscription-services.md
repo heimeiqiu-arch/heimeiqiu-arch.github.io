@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card for Subscription Services? | CBPayments"
+title: "Can You Use a Virtual Card for Subscription Services?"
 slug: can-you-use-a-virtual-card-for-subscription-services
 url: "/posts/英文/can-you-use-a-virtual-card-for-subscription-services/"
 date: 2026-10-06
@@ -17,8 +17,6 @@ tags:
   - recurring billing
   - online payments
 ---
-# Can You Use a Virtual Card for Subscription Services? | CBPayments
-
 Virtual cards are commonly used for online purchases, but many people also want to know whether they can use a virtual card for subscription services.
 
 The answer is often yes, but subscription payments can have additional requirements that do not always apply to one-time purchases.

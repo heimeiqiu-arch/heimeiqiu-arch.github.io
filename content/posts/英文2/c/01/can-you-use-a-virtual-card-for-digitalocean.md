@@ -81,8 +81,6 @@ Choosing a payment method is only one part of cloud-cost management. Review usag
 
 A dedicated card can make transactions easier to identify, especially when a business also pays for advertising, productivity software, and other services. A virtual card does not replace usage alerts, access controls, or cloud budgeting tools.
 
-If you are comparing payment methods for cloud hosting and international software expenses, [CBPayments](https://www.cbpayments.cc/) provides information about its virtual and physical card products. Check current supported regions, spending limits, and payment terms before using a card for DigitalOcean.
-
 ## Frequently Asked Questions
 
 ### Can I use a virtual Visa or Mastercard for DigitalOcean?
@@ -100,5 +98,3 @@ It can simplify transaction tracking if the provider offers clear records or use
 ## Final Thoughts
 
 A virtual card may help separate cloud-hosting expenses, but DigitalOcean payment acceptance depends on the options available to your account and issuer approval. Confirm billing details, balance, transaction limits, and restrictions. Monitor cloud usage and billing notices so a payment issue does not become an avoidable operational problem.
-
-For card options for online infrastructure and software expenses, visit [CBPayments](https://www.cbpayments.cc/) and review the current product terms.

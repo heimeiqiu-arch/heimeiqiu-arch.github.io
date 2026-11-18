@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Webhook 事件目的地配置指南：说明如何按业务职责筛选事件、规划多个端点、管理测试与生产环境，并用签名校验、幂等处理和监控降低漏单风险。"
 slug: stripe-webhook-event-destinations-endpoint-planning-guide
 tags:
-  - Stripe
   - Webhook
   - 事件目的地
   - API 集成

@@ -3,7 +3,7 @@ title: "Stripe Terminal 线下收款集成指南：Locations、Reader 与付款�
 date: 2026-11-14
 description: "介绍 Stripe Terminal 线下收款的基本集成结构，涵盖门店 Location、Reader 配置、PaymentIntent、连接方式、Webhook、国家限制和上线测试。"
 slug: "stripe-terminal-in-person-payments-reader-location-guide"
-tags: ["Stripe", "Stripe Terminal", "线下收款", "支付集成"]
+tags: [ "Stripe Terminal", "线下收款", "支付集成"]
 keywords: ["Stripe Terminal", "Stripe 线下收款", "Stripe Reader", "Terminal Location", "线下 PaymentIntent"]
 ---
 

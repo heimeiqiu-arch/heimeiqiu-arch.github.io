@@ -3,7 +3,7 @@ title: "取消 PayPal 自动付款后还会扣费吗？订阅取消与账单核�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-automatic-payment-cancel-subscription-still-charged-guide"
 description: "取消 PayPal 自动付款只会停止或调整 PayPal 侧的付款授权，不一定代表商家订阅已终止。本文说明如何核对两边状态、处理后续账单并保存凭证。"
-tags: ["PayPal", "自动付款", "订阅取消", "重复扣款", "账单管理"]
+tags: [ "自动付款", "订阅取消", "重复扣款", "账单管理"]
 categories: ["支付问题"]
 draft: false
 ---

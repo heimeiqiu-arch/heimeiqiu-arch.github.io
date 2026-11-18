@@ -34,6 +34,3 @@ Use readable text, sufficient contrast, labels for form controls, keyboard navig
 
 ## Test realistic scenarios
 Test first-time and returning customers, incorrect details, issuer declines, additional authentication, interrupted sessions, and mobile devices. Test successful and unsuccessful journeys, not just the ideal transaction.
-
-## Final thoughts
-A reliable checkout page is transparent, consistent, accessible, and easy to understand. Show the full cost, explain the payment process, provide relevant support, and use truthful trust signals. Businesses can explore supported virtual and physical card options through [CBPayments](https://www.cbpayments.cc/).

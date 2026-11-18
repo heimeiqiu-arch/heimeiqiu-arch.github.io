@@ -3,7 +3,7 @@ title: "Stripe 提现失败或退回怎么办？银行账户错误与资金找�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-payout-failed-returned-bank-account-troubleshooting-guide"
 description: "Stripe Payout 显示失败或资金退回时，先查看 Dashboard 的失败原因和收款账户，再联系银行核对账户状态。本文说明修改资料、追踪与重试流程。"
-tags: ["Stripe", "Payout", "提现失败", "银行账户", "资金退回"]
+tags: [ "Payout", "提现失败", "银行账户", "资金退回"]
 categories: ["收款与提现"]
 draft: false
 ---

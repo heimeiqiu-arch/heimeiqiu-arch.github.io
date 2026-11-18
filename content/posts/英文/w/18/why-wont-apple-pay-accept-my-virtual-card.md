@@ -8,7 +8,6 @@ categories:
   - Payment Guides
 tags:
   - Virtual Cards
-  - Apple Pay
   - Apple Wallet
   - Card Verification
   - Payment Troubleshooting

@@ -10,7 +10,6 @@ keywords:
   - Stripe 银行跳转支付
   - refund.failed
 tags:
-  - Stripe
   - 支付方式
   - 奥地利
 ---

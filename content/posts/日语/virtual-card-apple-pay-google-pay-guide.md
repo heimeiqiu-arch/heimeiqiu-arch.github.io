@@ -7,8 +7,6 @@ categories:
   - バーチャルカード
 tags:
   - バーチャルカード
-  - Apple Pay
-  - Google Pay
   - デジタルウォレット
   - スマホ決済
   - オンライン決済

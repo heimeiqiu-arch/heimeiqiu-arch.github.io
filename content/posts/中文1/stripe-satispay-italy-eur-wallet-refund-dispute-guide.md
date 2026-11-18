@@ -10,7 +10,6 @@ keywords:
   - Stripe Satispay 退款
   - Satispay 争议处理
 tags:
-  - Stripe
   - Satispay
   - 意大利支付
   - 退款与争议

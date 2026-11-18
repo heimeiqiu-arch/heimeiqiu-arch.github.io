@@ -3,7 +3,7 @@ title: "Stripe Radar 风控怎么配置：规则、人工审核与支付风险�
 date: 2026-11-14
 description: "介绍 Stripe Radar 风控的基础配置思路，涵盖风险信号、规则评估、人工审核、3D Secure、争议处理和上线监控，帮助团队建立可复盘的支付风险流程。"
 slug: "stripe-radar-fraud-rules-review-risk-management-guide"
-tags: ["Stripe", "Stripe Radar", "支付风控", "争议管理"]
+tags: [ "Stripe Radar", "支付风控", "争议管理"]
 keywords: ["Stripe Radar", "Stripe Radar 规则", "Stripe 支付风控", "人工审核", "支付欺诈防护"]
 ---
 

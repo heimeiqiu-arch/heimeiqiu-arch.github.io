@@ -31,6 +31,3 @@ Choose a primary pricing currency, define display rules, set sensible exchange-r
 
 ## Help customers review charges
 Before payment, customers should check the currency shown beside the final amount and review their issuer's foreign transaction terms. After payment, compare the merchant receipt with card transaction details. If a difference remains unexplained, contact the merchant or issuer with the order reference.
-
-## Final thoughts
-Currency conversion affects what customers see, authorize, and eventually find on their statements. Clear currency codes, honest estimates, and disclosed fees make international checkout easier to understand. Businesses handling multiple currencies should maintain detailed transaction and settlement records. Explore supported card solutions at [CBPayments](https://www.cbpayments.cc/).

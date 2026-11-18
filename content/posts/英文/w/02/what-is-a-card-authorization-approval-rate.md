@@ -132,5 +132,3 @@ No. Declines may result from account restrictions, security controls, merchant l
 Not completely. Merchants can improve data quality, integrations, and monitoring, but the final decision may depend on issuers, networks, and other participants.
 
 Authorization approval rate is a useful performance indicator when measured consistently. The most valuable analysis explains why transactions are approved or declined, rather than focusing only on the final percentage.
-
-For cardholders comparing online payment options, [CBPayments](https://www.cbpayments.cc/) provides information about its current supported card products and terms.

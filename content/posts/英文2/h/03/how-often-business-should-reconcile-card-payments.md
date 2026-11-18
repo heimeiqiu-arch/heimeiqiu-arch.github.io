@@ -68,6 +68,4 @@ Track how many items remain unmatched, their total value, and how long they have
 
 A clear record system should preserve transaction IDs, payout references, fees, refunds, and bank entries. This is useful whether the business collects customer payments or manages its own card-based operating expenses.
 
-CBPayments offers card options for online payments and business-related spending. As with any payment method, businesses should retain statements and transaction records and reconcile them according to their own financial controls.
-
 A consistent schedule makes reconciliation a routine business process instead of a stressful month-end cleanup exercise.

@@ -10,7 +10,6 @@ keywords:
   - Stripe 结账恢复
   - Checkout Session 主动失效
 tags:
-  - Stripe
   - Checkout
   - 支付集成
   - Webhook

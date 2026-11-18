@@ -44,8 +44,6 @@ Good records make it easier to understand spending. Consider whether transaction
 
 Also check available controls. Depending on the provider, these may include transaction notifications or card-management options. Do not assume all payment products offer the same functions; read the actual terms.
 
-For businesses that make frequent online purchases, virtual or physical cards may be worth comparing. CBPayments offers both types for supported use cases. Review [CBPayments](https://www.cbpayments.cc/) and compare its options with your business requirements.
-
 ## Consider Regional Availability and Verification
 
 A payment method may be available in one country but not another. Check supported regions, account eligibility, identity verification, and permitted usage.
@@ -73,7 +71,5 @@ Compare actual costs, merchant acceptance, transaction records, available contro
 ## Choose Based on Evidence
 
 The goal is not to switch providers constantly. Every change has costs, and a familiar arrangement may still be the best choice.
-
-Use transaction history and actual requirements to decide. For supported online spending, compare [CBPayments](https://www.cbpayments.cc/) with other options. Select a method only after confirming it is suitable for your location and intended transactions.
 
 A regular review keeps payment arrangements aligned with the business instead of allowing old decisions to determine how the company spends money.

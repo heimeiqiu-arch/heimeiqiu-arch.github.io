@@ -36,8 +36,6 @@ A straightforward way to separate spending is to use different payment methods f
 
 For online business purchases, a dedicated payment card may help organize subscription and service payments. Virtual cards can be convenient for certain online transactions, while physical cards may be useful for supported in-person purchases.
 
-The right option depends on merchant acceptance, location, fees, limits, and provider terms. CBPayments offers virtual and physical card options for supported use cases. Review [CBPayments](https://www.cbpayments.cc/) before deciding whether they fit your spending requirements. A payment card is a spending tool, not a bank account, accounting system, or method for receiving customer revenue.
-
 ## Set a Rule for Shared Expenses
 
 Some expenses are not exclusively personal or business-related. A phone plan, internet service, computer, or workspace may support both activities.
@@ -65,5 +63,3 @@ Look for duplicate subscriptions, unexpected renewals, incorrect amounts, and pu
 ## Make Separation a Daily Habit
 
 Before purchasing something, ask whether it is genuinely for personal or business use. Choose the appropriate payment method, save the receipt, and document shared expenses clearly.
-
-As your online work grows, this discipline can save time and reduce financial confusion. If you need a dedicated card option for supported online business purchases, compare [CBPayments](https://www.cbpayments.cc/) with other available services. Choose based on actual requirements rather than assuming one payment method works for every expense.

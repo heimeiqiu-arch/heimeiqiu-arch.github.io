@@ -48,5 +48,3 @@ Confirm payout frequency, time zone, cutoff times, weekend and holiday rules, su
 ## Final Thoughts
 
 A merchant payout schedule helps businesses understand when eligible payment proceeds are expected to reach their bank accounts. The right schedule depends on operational needs, provider conditions, and cash-flow requirements.
-
-For supported outgoing online payments, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Review the available options as part of a broader payment setup.

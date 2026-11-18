@@ -62,5 +62,3 @@ Maintain operating cash outside the processing balance so a delayed payout does 
 **Can processing continue during a hold?** Sometimes. A provider may pause payouts while allowing processing, or suspend processing as well. Confirm the exact status.
 
 **Can a merchant challenge a hold?** Ask for the basis, provide evidence, and use the provider's complaint or escalation process. Legal options depend on jurisdiction.
-
-A personal card payment showing as pending is different from a merchant account hold. [CBPayments](https://www.cbpayments.cc/) provides information about its card options and cardholder terms.

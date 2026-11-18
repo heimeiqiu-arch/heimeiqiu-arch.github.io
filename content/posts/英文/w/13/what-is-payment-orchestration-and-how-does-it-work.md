@@ -95,5 +95,3 @@ It may be useful when a business processes transactions through several provider
 **Does it replace a gateway?** Usually not. It coordinates connections to gateways and other payment services.
 
 **Is it only for large companies?** Larger businesses often have more complex needs, but smaller merchants may benefit if they use several providers.
-
-Payment orchestration is most valuable when payment operations become too complex to manage through separate integrations. Compare integration costs, routing capabilities, reporting, and operational responsibilities before adopting it. For online card payment options, visit [CBPayments](https://www.cbpayments.cc/).

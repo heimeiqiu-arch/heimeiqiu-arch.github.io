@@ -3,7 +3,7 @@ title: "海外 App Store 付款方式无法添加怎么办？账户地区与银�
 date: 2026-11-12T00:00:00+08:00
 slug: "overseas-app-store-payment-method-cannot-be-added"
 description: "海外 App Store 无法添加银行卡，可能与 Apple 账户地区、付款资料、卡片发行地区或账单地址有关。本文介绍常见原因和合规排查方法。"
-tags: ["App Store 付款", "Apple 账户", "银行卡绑定", "账单地址", "CBPayments"]
+tags: ["App Store 付款", "Apple 账户", "银行卡绑定", "账单地址"]
 draft: false
 categories: ["数字服务支付"]
 ---
@@ -112,10 +112,6 @@ Apple 账户的国家或地区设置，会影响可用的付款方式、商店�
 
 不要把地区变更当成绕过银行卡受理规则的方法。
 
-#### 七、使用 CBPayments 卡片添加 App Store 付款方式时应注意什么？
-
-如果你希望使用 CBPayments 卡片支付 Apple 平台上的数字服务，应先确认当前产品是否支持对应地区和交易类型。
-
 建议提前核实：
 
 - Apple 账户地区是否受支持。
@@ -128,8 +124,6 @@ Apple 账户的国家或地区设置，会影响可用的付款方式、商店�
 不要将其他网站付款成功的经验直接套用到 App Store。
 
 不同平台的受理规则可能完全不同。
-
-你可以通过 [CBPayments 官方网站](https://www.cbpayments.cc/) 了解当前卡片产品说明，再根据实际使用场景判断是否适合。
 
 #### 八、总结：App Store 绑定失败，先检查账户，再检查银行卡
 

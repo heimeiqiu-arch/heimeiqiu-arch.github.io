@@ -34,6 +34,3 @@ Currency calculations can produce fractions that must be rounded. Inconsistent r
 
 ## Audit the full pricing journey
 Compare the product page, cart, checkout total, payment request, and transaction record. Review tax configuration, shipping rules, discounts, currency settings, and provider responses. Test important customer locations and currencies.
-
-## Final thoughts
-Taxes, delivery, discounts, conversion, and subscription terms can all explain price differences. Show the complete amount and currency before authorization, and explain how the total is calculated. Businesses handling international payments can learn about supported card options through [CBPayments](https://www.cbpayments.cc/).

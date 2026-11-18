@@ -56,6 +56,4 @@ Keep order references, transaction identifiers, amounts, currencies, timestamps,
 
 Run a tabletop exercise using a realistic scenario: checkout is available, but card payments are failing and confirmations are delayed. Ask staff who checks the provider, who contacts customers, and how uncertain payments are handled. Record gaps and assign owners to fix them.
 
-Review the plan whenever you add a market, provider, sales channel, or subscription product. Card tools such as [CBPayments](https://www.cbpayments.cc/) may form part of a broader payment setup, but a card product is not a substitute for a tested merchant-payment outage plan.
-
 A payment outage may be outside your control. Your records, response process, customer communication, and recovery discipline are not. Preparing these elements in advance helps protect revenue and customer trust when normal payment processing is interrupted.

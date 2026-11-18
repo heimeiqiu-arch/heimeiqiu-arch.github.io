@@ -10,7 +10,6 @@ keywords:
   - MobilePay 退款和争议
   - MobilePay Connect
 tags:
-  - Stripe
   - MobilePay
   - 丹麦支付
   - 芬兰支付

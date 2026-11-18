@@ -3,7 +3,7 @@ title: "Stripe Checkout 如何要求顾客同意服务条款？同意记录与�
 date: 2026-11-13T12:32:00+08:00
 slug: stripe-checkout-require-terms-of-service-acceptance-guide
 description: "Stripe Checkout 如何展示服务条款并要求顾客勾选同意？本文讲解条款链接、consent_collection、营销同意的区别、版本留存、Webhook 记录与测试排查。"
-tags: ["Stripe", "Checkout", "服务条款", "顾客同意"]
+tags: [ "Checkout", "服务条款", "顾客同意"]
 categories: ["支付指南"]
 draft: false
 ---

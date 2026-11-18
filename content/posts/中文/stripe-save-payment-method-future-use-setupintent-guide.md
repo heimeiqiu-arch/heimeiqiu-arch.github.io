@@ -3,7 +3,7 @@ title: "Stripe 保存付款方式供未来使用：SetupIntent、用户同意与
 date: 2026-11-13
 slug: stripe-save-payment-method-future-use-setupintent-guide
 description: "说明 Stripe 如何在收款时或单独设置时保存付款方式，比较 SetupIntent 与 PaymentIntent 的未来使用场景，并梳理用户同意、验证和后续扣款。"
-tags: ["Stripe", "SetupIntent", "付款方式", "off-session", "订阅"]
+tags: [ "SetupIntent", "付款方式", "off-session", "订阅"]
 categories: ["支付与账单"]
 draft: false
 ---

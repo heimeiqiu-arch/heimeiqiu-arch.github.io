@@ -3,7 +3,7 @@ title: "Stripe Customer Portal 配置指南：让客户自助管理订阅和付�
 date: 2026-11-13
 slug: stripe-customer-portal-subscription-management-guide
 description: "说明 Stripe Customer Portal 可开放的订阅取消、方案变更、付款方式和账单历史功能，以及安全创建会话、配置边界和上线核对方法。"
-tags: ["Stripe", "Customer Portal", "订阅管理", "付款方式", "客户自助"]
+tags: [ "Customer Portal", "订阅管理", "付款方式", "客户自助"]
 categories: ["支付与账单"]
 draft: false
 ---

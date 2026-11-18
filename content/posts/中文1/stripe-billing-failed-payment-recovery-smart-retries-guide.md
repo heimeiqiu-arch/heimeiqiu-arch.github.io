@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "介绍 Stripe Billing 订阅续费失败后的 Smart Retries、Invoice 状态、客户催款邮件、付款方式更新和 Webhook 恢复流程，减少欠款与误停服务。"
 slug: stripe-billing-failed-payment-recovery-smart-retries-guide
 tags:
-  - Stripe
   - Billing
   - Smart Retries
   - 订阅续费

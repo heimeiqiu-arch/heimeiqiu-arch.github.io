@@ -113,8 +113,6 @@ DCC 使用的匯率可能與市場匯率、卡組織匯率或發卡機構採用�
 
 你亦可以參考這篇延伸文章：[香港海外付款手續費及貨幣兌換須知](https://heimeiqiu-arch.github.io/posts/hong-kong-overseas-payment-fees-and-currency-conversion/)。
 
-CBPayments 提供虛擬卡及實體卡選項，涵蓋符合相關產品條件的 Visa 和 Mastercard 卡片。如果你正在比較海外付款工具，可以到 [CBPayments 官方網站](https://www.cbpayments.cc/) 查看目前卡片的功能及費用條款，再按實際交易需求作選擇。
-
 選擇卡片時，應一併比較發卡費、外幣交易費、充值費、交易限額及退款安排，而不是只看卡片是否支援某種貨幣。
 
 ## 常見問題

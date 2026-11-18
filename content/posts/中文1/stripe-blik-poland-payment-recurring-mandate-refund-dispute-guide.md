@@ -10,7 +10,6 @@ keywords:
   - Stripe BLIK 退款
   - BLIK dispute evidence
 tags:
-  - Stripe
   - 支付方式
   - 波兰
 ---

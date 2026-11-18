@@ -10,8 +10,7 @@ tags:
   - Virtual Cards
   - Temu Payments
   - Online Shopping
-  - Mastercard
-  - Visa
+
 ---
 
 # Can You Use a Virtual Card on Temu? Payment Guide

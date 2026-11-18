@@ -60,5 +60,3 @@ Not always. Providers may request updated documents after ownership changes, whe
 **Can verification be requested again after approval?** Yes. Ongoing monitoring may require updated information.
 
 **Does verification guarantee approval?** No. It confirms certain information, while the provider may separately assess eligibility and risk.
-
-For online customers choosing a card for digital services, [CBPayments](https://www.cbpayments.cc/) provides information about its card products and current requirements. Merchant verification is a separate process.

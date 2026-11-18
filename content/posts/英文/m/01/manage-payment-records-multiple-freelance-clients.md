@@ -121,8 +121,6 @@ Useful fields include expense date, merchant, description, category, currency, a
 
 For eligible online business purchases, a dedicated card can make expense identification easier.
 
-CBPayments provides card options for supported online spending scenarios. Freelancers can review its features at [CBPayments](https://www.cbpayments.cc/). Always check merchant acceptance and applicable transaction conditions before relying on a card for a particular service.
-
 ## 9. Protect the Accuracy of Your Records
 
 A good payment record system should also prevent accidental changes.

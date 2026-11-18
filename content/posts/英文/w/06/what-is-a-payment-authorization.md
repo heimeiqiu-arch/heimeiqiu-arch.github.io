@@ -178,10 +178,6 @@ A merchant may evaluate billing details, the card's supported transaction types,
 
 Before using a payment card for overseas software, AI subscriptions, or other digital services, check that the card supports the intended merchant and recurring billing arrangement. Ensure sufficient available balance for the purchase and any applicable currency conversion or fees.
 
-CBPayments offers virtual and physical cards with Visa and Mastercard options. Depending on eligibility, card terms, and merchant acceptance, these may be considered for supported online purchases. Review the available balance, card limits, fees, verification requirements, and restrictions before using a card.
-
-Visit [CBPayments](https://www.cbpayments.cc/) to review the available options. Acceptance and authorization are determined by the relevant issuer, merchant, and payment rules; no payment method can guarantee approval for every transaction.
-
 ## Frequently Asked Questions
 
 ### Does an authorization mean the payment is complete?

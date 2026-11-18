@@ -3,7 +3,7 @@ title: "Stripe Credit Note 贷项通知单：更正已定稿发票与退款的�
 date: 2026-11-14
 description: "介绍 Stripe Credit Note 的用途、发票更正、退款或客户余额处理、Webhook 同步和财务审计要点，帮助商家安全修正已定稿账单。"
 slug: "stripe-credit-notes-invoice-correction-refund-accounting-guide"
-tags: ["Stripe", "Credit Note", "发票更正", "财务对账"]
+tags: [ "Credit Note", "发票更正", "财务对账"]
 keywords: ["Stripe Credit Note", "Stripe 贷项通知单", "Stripe 发票更正", "Invoice 退款", "credit note webhook"]
 ---
 

@@ -62,5 +62,3 @@ No. A rolling reserve is an amount withheld from transaction proceeds under a re
 ## Final Thoughts
 
 A negative merchant balance should be investigated through transaction-level reconciliation. Identifying the refunds, chargebacks, fees, and adjustments involved makes it easier to determine whether the deficit is correct and how it should be resolved.
-
-For supported online business expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Keep outgoing expenses and merchant account reconciliation clearly documented.

@@ -3,7 +3,7 @@ title: "Stripe 多币种收款与结算币种不同怎么办？汇率和到账�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-presentment-settlement-currency-conversion-reconciliation-guide"
 description: "Stripe 多币种交易的收款币种、客户卡片币种和银行结算币种有什么区别？如何核对汇率、余额、转换费用与 payout 金额差异。"
-tags: ["Stripe", "多币种收款", "结算币种", "汇率", "Payout", "跨境支付"]
+tags: [ "多币种收款", "结算币种", "汇率", "Payout", "跨境支付"]
 categories: ["结算与对账"]
 draft: false
 ---

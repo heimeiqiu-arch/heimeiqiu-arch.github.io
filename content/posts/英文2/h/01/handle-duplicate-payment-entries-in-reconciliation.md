@@ -63,6 +63,4 @@ Now imagine the processor report contains two different transaction IDs, each fo
 
 Review duplicate candidates before matching payout totals. Track duplicate imports and genuine duplicate charges separately because they have different causes and corrective actions.
 
-For businesses using card payments for subscriptions, software, advertising, or other online services, keeping clear transaction references makes it easier to spot repeat charges and distinguish them from repeated data imports. CBPayments provides card-based payment options, while users should rely on actual transaction records and statements to verify each charge.
-
 The safest rule is simple: verify the underlying payment before changing the accounting record.

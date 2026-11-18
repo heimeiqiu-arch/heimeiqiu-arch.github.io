@@ -3,7 +3,7 @@ title: "Stripe Connect 与 Stripe Tax：平台和关联账户的税务责任配�
 date: 2026-11-14
 description: "说明 Stripe Connect 交易中的税务责任归属、automatic_tax liability 和关联账户报表影响，帮助平台在集成前梳理账户配置与税务核对。"
 slug: "stripe-connect-tax-liability-stripe-tax-connected-account-guide"
-tags: ["Stripe", "Stripe Connect", "Stripe Tax", "平台税务"]
+tags: [ "Stripe Connect", "Stripe Tax", "平台税务"]
 keywords: ["Stripe Connect 税务责任", "Stripe Tax Connect", "automatic_tax liability", "关联账户税务", "平台税费报表"]
 ---
 

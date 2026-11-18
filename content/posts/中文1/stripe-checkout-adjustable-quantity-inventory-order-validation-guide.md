@@ -10,7 +10,6 @@ keywords:
   - Stripe 库存校验
   - Stripe 订单履约
 tags:
-  - Stripe
   - Checkout
   - 电商运营
   - API 集成

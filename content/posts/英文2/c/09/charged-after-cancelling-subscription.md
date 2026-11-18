@@ -112,8 +112,6 @@ Using a dedicated payment method for online subscriptions may also help you orga
 
 A virtual card may offer additional payment-management options, depending on the provider and card programme. However, its available controls vary, and a virtual card cannot guarantee that every future charge will be blocked.
 
-Before using one, check its transaction controls, recurring-payment support, and terms. If you want to compare virtual and physical card options for online spending, you can review [CBPayments](https://www.cbpayments.cc/).
-
 Regardless of the payment method, the most reliable first step is to cancel the subscription with the merchant and keep confirmation of the request.
 
 ## Frequently Asked Questions

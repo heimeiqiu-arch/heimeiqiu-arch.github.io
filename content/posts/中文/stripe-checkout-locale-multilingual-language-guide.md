@@ -3,7 +3,7 @@ title: "Stripe Checkout 结账页语言如何设置？多语言体验排查指�
 date: 2026-11-13T11:42:00+08:00
 slug: stripe-checkout-locale-multilingual-language-guide
 description: "Stripe Checkout 如何自动识别或指定结账页语言？本文说明 locale 设置、浏览器语言、商品与品牌文案、币种地区、成功页及多语言测试的排查方法。"
-tags: ["Stripe", "Checkout", "多语言", "国际收款"]
+tags: [ "Checkout", "多语言", "国际收款"]
 categories: ["支付指南"]
 draft: false
 ---

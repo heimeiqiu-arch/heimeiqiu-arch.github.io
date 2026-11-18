@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Level 2/Level 3 支付数据指南：整理 PaymentIntent 行项目、商品编码、税额、折扣和订单参考字段，并说明算术校验与实际资格验证。"
 slug: stripe-level-2-level-3-card-payment-line-items-guide
 tags:
-  - Stripe
   - PaymentIntent
   - Level 2
   - Level 3

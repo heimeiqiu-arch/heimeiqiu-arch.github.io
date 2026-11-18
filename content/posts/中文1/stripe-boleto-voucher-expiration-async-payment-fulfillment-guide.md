@@ -3,7 +3,7 @@ title: "Stripe Boleto 巴西付款凭证管理：有效期、异步确认与订�
 date: 2026-11-15
 description: "介绍 Stripe Boleto 的巴西账户资格、付款凭证有效期、Webhook 异步确认、订单匹配和不支持退款的运营边界。"
 slug: "stripe-boleto-voucher-expiration-async-payment-fulfillment-guide"
-tags: ["Stripe", "Boleto", "巴西支付", "异步付款"]
+tags: [ "Boleto", "巴西支付", "异步付款"]
 keywords: ["Stripe Boleto", "Boleto 付款凭证", "Boleto 支付状态", "Stripe Boleto Webhook", "巴西凭证付款"]
 ---
 

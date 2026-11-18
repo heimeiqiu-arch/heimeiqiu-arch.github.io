@@ -76,5 +76,3 @@ Before choosing another provider, confirm that the business category and operati
 **Will all remaining funds be paid immediately?** Not necessarily. Disputes, reserves, fees, and contractual conditions may affect the amount and timing.
 
 **Can the merchant use another processor?** It may apply elsewhere, but must meet eligibility requirements and answer application questions accurately.
-
-For individuals paying for online tools or subscriptions, merchant account termination is different from a cardholder payment issue. Review [CBPayments](https://www.cbpayments.cc/) for available card options and current usage conditions.

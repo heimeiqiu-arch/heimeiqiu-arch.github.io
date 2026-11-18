@@ -59,6 +59,4 @@ Keep the original reports unchanged. If you correct an imported record or add an
 
 The most common mistake is comparing gross sales with net bank deposits. Another is matching transactions by calendar date without considering settlement cutoffs. Businesses also sometimes overlook refunds or chargebacks deducted from a later payout.
 
-A well-designed reconciliation process makes it possible to trace a bank deposit back to the underlying customer payments. This is useful for businesses managing subscriptions, online purchases, advertising expenses, and other recurring payments. CBPayments offers card-based payment options for online spending, but the same principle applies: retain transaction-level records and use actual statement data when reconciling.
-
 A payout is reconciled only when the business can explain how the bank deposit relates to the processor's underlying settlement records.

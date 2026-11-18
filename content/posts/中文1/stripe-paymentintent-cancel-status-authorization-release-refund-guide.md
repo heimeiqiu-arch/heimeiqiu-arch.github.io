@@ -10,7 +10,6 @@ keywords:
   - Stripe Checkout 过期
   - Stripe 取消与退款区别
 tags:
-  - Stripe
   - PaymentIntent
   - Checkout
   - 退款

@@ -10,7 +10,6 @@ keywords:
   - Bancontact Checkout
   - refund.updated Stripe
 tags:
-  - Stripe
   - 支付方式
   - 比利时
 ---

@@ -120,8 +120,6 @@ You cannot always prevent extra checks, because some are controlled by the merch
 
 If you use virtual cards for multiple services, keep track of which card is assigned to each merchant and whether the card remains active.
 
-When evaluating a card provider such as [CBPayments](https://www.cbpayments.cc/), review its supported card features, security procedures, and guidance for online payments. Merchant acceptance and verification requirements can still vary from one service to another.
-
 ## When should you contact your card provider?
 
 Contact the provider if you receive verification requests you did not initiate, the authentication details do not match your transaction, or you see unfamiliar payment attempts.

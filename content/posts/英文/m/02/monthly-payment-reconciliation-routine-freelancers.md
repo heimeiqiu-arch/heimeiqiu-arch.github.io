@@ -157,8 +157,6 @@ Ask which clients regularly pay late, which payment methods create the most admi
 
 For eligible online business spending, a dedicated payment card may help separate software and subscription expenses from personal purchases.
 
-CBPayments provides card options for supported online transactions. Freelancers can review its services at [CBPayments](https://www.cbpayments.cc/) and check the applicable card features and conditions.
-
 Keep card transactions in the expense register and do not mix them with incoming client revenue.
 
 ## Final Thoughts

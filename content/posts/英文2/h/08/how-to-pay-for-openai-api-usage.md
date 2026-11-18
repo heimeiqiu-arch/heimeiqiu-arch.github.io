@@ -59,8 +59,6 @@ API usage can change with application traffic. Make sure the card can cover expe
 
 An expired, frozen, replaced, or restricted card may fail. Verify the card details and issuer-side security checks before retrying.
 
-If you are comparing options for online AI-service payments, [CBPayments](https://www.cbpayments.cc/) provides information about available virtual and physical cards. Confirm regional availability, limits, and current payment terms before trying to use a card with API billing.
-
 ## Why Might an API Payment Fail?
 
 - **Issuer decline:** a fraud-prevention check or card control blocked it.
@@ -114,5 +112,3 @@ Monitor usage, review billing notices, keep payment details current, and confirm
 ## Final Thoughts
 
 Paying for OpenAI API usage starts with identifying the correct billing account and following the payment options currently available there. A virtual card may work in eligible circumstances, but neither the card network nor an initial successful charge guarantees future acceptance.
-
-Review account-specific requirements, check card limits and issuer restrictions, and monitor API usage alongside billing activity. If you are considering a card for online AI and software payments, visit [CBPayments](https://www.cbpayments.cc/) and verify the current terms and compatibility before relying on it.

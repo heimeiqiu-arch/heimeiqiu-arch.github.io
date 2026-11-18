@@ -68,8 +68,6 @@ Consider the transaction currency and possible additional charges when setting l
 
 Some businesses use dedicated cards for online expenses. Virtual cards may suit certain online transactions, while physical cards may be useful for supported in-person purchases. Features for managing limits, notifications, and transactions depend on the provider and product.
 
-CBPayments offers virtual and physical card options for supported use cases. Review [CBPayments](https://www.cbpayments.cc/) and check current features, eligibility, fees, and usage terms before deciding whether they fit your business.
-
 Do not assume every card supports adjustable limits or that all merchants accept every product. Confirm details before relying on a card for an essential payment.
 
 ## Monitor Spending After Setting Limits
@@ -85,5 +83,3 @@ When a limit changes, record who requested it, who approved it, the reason, and 
 ## Make Limits Part of a Wider Spending Policy
 
 Payment limits work best alongside purchasing rules, transaction records, and regular expense reviews. Start with actual spending data, define practical categories, assign responsibilities, and review results each month.
-
-For supported online purchases, compare [CBPayments](https://www.cbpayments.cc/) with other available options. A good limit should not make normal business activity difficult. It should help the business spend deliberately, identify unusual activity, and keep purchases aligned with its budget.

@@ -55,8 +55,6 @@ Before signing an agreement, establish which legal entity is the acquirer, which
 
 Do not assume that a processor can independently provide acquiring services, or that an acquirer operates every technical system itself. Review the service agreement and the applicable regulatory disclosures.
 
-For businesses assessing their own online card and subscription-payment needs, [CBPayments](https://www.cbpayments.cc/) can be considered as a separate card-service option. It should not be confused with a merchant acquiring processor.
-
 ## Frequently Asked Questions
 
 ### Is an acquiring processor the same as an acquiring bank?

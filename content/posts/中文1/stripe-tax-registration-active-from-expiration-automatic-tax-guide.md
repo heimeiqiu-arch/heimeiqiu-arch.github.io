@@ -3,7 +3,7 @@ title: "Stripe Tax Registration 地区注册管理：active_from、expires_at �
 date: 2026-11-14
 description: "介绍 Stripe Tax Registration 的生效和到期管理，解释税务登记与自动计税的关系、Connect 纳税责任账户、发票状态检查和地区注册对账流程。"
 slug: "stripe-tax-registration-active-from-expiration-automatic-tax-guide"
-tags: ["Stripe", "Stripe Tax", "Tax Registration", "自动计税"]
+tags: [ "Stripe Tax", "Tax Registration", "自动计税"]
 keywords: ["Stripe Tax Registration", "Stripe 税务登记 expires_at", "active_from Stripe Tax", "Stripe 自动计税登记地区", "Stripe Tax Registration 管理"]
 ---
 

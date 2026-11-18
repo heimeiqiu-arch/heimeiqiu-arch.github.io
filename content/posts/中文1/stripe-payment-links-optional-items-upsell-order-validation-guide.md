@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Payment Links 可选商品指南：讲解主商品与可选附加项的设计、价格和税费核对、订单行项目读取、库存边界与测试流程。"
 slug: stripe-payment-links-optional-items-upsell-order-validation-guide
 tags:
-  - Stripe
   - Payment Links
   - Checkout
   - 商品加购

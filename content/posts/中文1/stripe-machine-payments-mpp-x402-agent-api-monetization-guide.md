@@ -3,7 +3,7 @@ title: "Stripe Machine Payments 入门：MPP 与 x402 的按调用计费流程"
 date: 2026-11-15
 description: "介绍 Stripe Machine Payments 如何通过 HTTP 402 向 AI 代理提供付费 API，比较 MPP 与 x402、银行卡与稳定币接入，以及可用地区和结算限制。"
 slug: "stripe-machine-payments-mpp-x402-agent-api-monetization-guide"
-tags: ["Stripe", "AI Agent", "Machine Payments", "x402"]
+tags: [ "AI Agent", "Machine Payments", "x402"]
 keywords: ["Stripe Machine Payments", "MPP 支付协议", "x402 Stripe", "AI 代理 API 计费", "稳定币 API 支付"]
 ---
 

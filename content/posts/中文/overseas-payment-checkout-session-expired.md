@@ -1,10 +1,9 @@
 ---
-title: "海外网站付款页面突然失效怎么办？CBPayments 结账会话过期处理指南"
+title: "海外网站付款页面突然失效怎么办？ 结账会话过期处理指南"
 date: 2026-11-11T00:20:00+08:00
 slug: "overseas-payment-checkout-session-expired"
 description: "海外网站付款时提示 Checkout Session Expired、Payment Session Expired 或页面突然失效怎么办？本文介绍会话过期原因和安全处理步骤。"
 tags:
-  - "CBPayments"
   - "结账会话过期"
   - "海外网站付款"
   - "支付页面失效"
@@ -14,13 +13,9 @@ categories:
   - "海外支付指南"
 ---
 
-# 海外网站付款页面突然失效怎么办？CBPayments 结账会话过期处理指南
-
 海外网站付款时，用户可能已经选好套餐并进入付款页面，却突然看到 Checkout Session Expired、Payment Session Expired 或 Your session has expired。也有网站直接跳回购物车或显示无法继续操作的页面。
 
 结账会话是商户为当前订单和付款流程保存的一段临时状态，用于识别用户、商品、金额、付款步骤和支付结果。会话失效后，旧页面可能无法继续使用，但这并不能直接证明银行卡有没有发生交易。
-
-如果需要了解海外软件订阅和数字服务支付的卡片方案，可以访问 [CBPayments 官方网站](https://www.cbpayments.cc/) 查看产品信息。卡片能否付款与商户结账会话是否有效，是不同问题。
 
 ## 一、结账会话为什么会过期？
 
@@ -69,8 +64,6 @@ categories:
 ## 五、虚拟卡是否会导致会话过期？
 
 结账会话主要属于商户订单系统，卡片交易权限属于支付环节。若尚未提交卡片信息，通常不应直接把会话过期归因于卡片。若已经进入支付服务商页面，则还需要检查卡片、验证和授权结果。
-
-CBPayments 当前产品说明可在 [官方网站](https://www.cbpayments.cc/) 查看。具体交易能力以产品说明和商户规则为准。
 
 ## 六、常见问题
 

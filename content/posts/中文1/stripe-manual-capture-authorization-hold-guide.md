@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe manual capture 指南：理解 requires_capture、授权有效期、amount_to_capture、部分捕获、取消授权和履约时序，避免预授权过期。"
 slug: stripe-manual-capture-authorization-hold-guide
 tags:
-  - Stripe
   - PaymentIntent
   - 手动捕获
   - 预授权

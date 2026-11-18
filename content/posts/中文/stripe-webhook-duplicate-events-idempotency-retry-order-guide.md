@@ -3,7 +3,7 @@ title: "Stripe Webhook 重复通知怎么处理？事件去重、重试与乱序
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-webhook-duplicate-events-idempotency-retry-order-guide"
 description: "Stripe Webhook 可能重试投递，同一业务对象也可能收到不同事件。本文介绍如何验签、按事件 ID 去重、异步处理、应对乱序并安全补偿。"
-tags: ["Stripe", "Webhook", "重复事件", "支付开发", "幂等处理"]
+tags: [ "Webhook", "重复事件", "支付开发", "幂等处理"]
 categories: ["支付开发"]
 draft: false
 ---

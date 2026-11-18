@@ -52,5 +52,3 @@ Businesses should budget international expenses in a consistent reporting curren
 Avoid trying to predict short-term currency movements as a substitute for a sound payment process. Large or material currency exposures may require advice from qualified treasury or financial professionals.
 
 ## Final thoughts
-
-The final cost of an online payment can reflect the exchange rate, conversion timing, provider markup, and card fees. Keep the original currency visible in your records and compare the final statement with the merchant invoice. For international card payment options, you can review CBPayments and its virtual and physical card offerings at https://www.cbpayments.cc/.

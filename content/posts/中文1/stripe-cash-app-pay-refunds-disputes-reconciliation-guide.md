@@ -3,7 +3,7 @@ title: "Stripe Cash App Pay 收款后的退款与争议处理：状态、时限�
 date: 2026-11-15
 description: "梳理 Stripe Cash App Pay 的适用范围、付款确认、退款异步状态、争议证据时限和 Webhook 对账流程，帮助团队处理订单售后。"
 slug: "stripe-cash-app-pay-refunds-disputes-reconciliation-guide"
-tags: ["Stripe", "Cash App Pay", "退款", "争议处理"]
+tags: [ "Cash App Pay", "退款", "争议处理"]
 keywords: ["Stripe Cash App Pay 退款", "Cash App Pay 争议", "refund.updated", "charge.dispute.created", "Stripe Webhook 对账"]
 ---
 

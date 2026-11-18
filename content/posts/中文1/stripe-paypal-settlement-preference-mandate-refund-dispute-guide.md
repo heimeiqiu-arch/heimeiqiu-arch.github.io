@@ -10,9 +10,8 @@ keywords:
   - Stripe PayPal 退款
   - PayPal dispute Stripe
 tags:
-  - Stripe
-  - PayPal
   - 钱包支付
+
 ---
 
 Stripe 可以在受支持的欧洲国家为商户处理 PayPal 付款。客户通过 PayPal 授权后，选择余额、关联银行卡或银行账户等资金来源完成支付。虽然客户看到的是 PayPal 登录和授权页面，但款项的结算路径可能涉及 Stripe 余额或 PayPal 账户，进而影响退款资金来源、争议金额管理和财务报表。把“接入 PayPal”误当成所有地区都可用，或没有确认结算偏好就编写退款流程，容易造成对账差异。

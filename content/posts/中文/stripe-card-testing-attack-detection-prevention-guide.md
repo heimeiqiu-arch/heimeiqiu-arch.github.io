@@ -3,7 +3,7 @@ title: "Stripe 遇到银行卡测试攻击怎么办？异常扣款与拒付风�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-card-testing-attack-detection-prevention-guide"
 description: "Stripe 支付突然出现大量小额失败交易、陌生邮箱或 HTTP 402 时，识别银行卡测试攻击并按官方建议保护结账流程、客户资料和付款接口。"
-tags: ["Stripe", "银行卡测试", "Card Testing", "支付欺诈", "拒付", "支付安全"]
+tags: [ "银行卡测试", "Card Testing", "支付欺诈", "拒付", "支付安全"]
 categories: ["支付风控"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Stripe Payment Links 如何让顾客自定金额？捐赠和灵活定价
 date: 2026-11-13T12:18:00+08:00
 slug: stripe-payment-links-customer-chooses-amount-donation-guide
 description: "Stripe Payment Links 如何设置顾客自定付款金额？本文说明 custom unit amount、最低与最高金额、默认金额、币种单位、捐赠说明、付款后对账和风险控制。"
-tags: ["Stripe", "Payment Links", "自定金额", "捐赠收款"]
+tags: [ "Payment Links", "自定金额", "捐赠收款"]
 categories: ["支付指南"]
 draft: false
 ---

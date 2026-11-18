@@ -3,7 +3,7 @@ title: "Stripe 优惠码无法使用怎么办？Coupon、Promotion Code 与 Paym
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-promotion-code-not-working-coupon-payment-link-guide"
 description: "Stripe 客户输入优惠码后提示无效、折扣不显示或订阅续费未减价时，检查 Coupon、Promotion Code、期限、使用限制和 Checkout 配置。"
-tags: ["Stripe", "优惠码", "Promotion Code", "Coupon", "Payment Link", "订阅折扣"]
+tags: [ "优惠码", "Promotion Code", "Coupon", "Payment Link", "订阅折扣"]
 categories: ["支付与结账"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Stripe 商品价格含税还是未税？tax_behavior 与结账金额指�
 date: 2026-11-13T12:40:00+08:00
 slug: stripe-price-tax-behavior-inclusive-exclusive-guide
 description: "Stripe Price 的 inclusive、exclusive 与 unspecified 有什么区别？本文解释含税价和未税价如何展示，关联 Stripe Tax、商品税码、账单和旧价格迁移。"
-tags: ["Stripe", "Stripe Tax", "含税价格", "商品定价"]
+tags: [ "Stripe Tax", "含税价格", "商品定价"]
 categories: ["支付指南"]
 draft: false
 ---

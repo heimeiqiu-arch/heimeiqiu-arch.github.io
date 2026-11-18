@@ -3,7 +3,7 @@ title: "Stripe 付款成功却没收到收据邮件怎么办？邮箱检查与�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-payment-receipt-email-not-received-resend-guide"
 description: "Stripe 收据邮件未送达不一定表示付款失败。本文说明客户如何检查邮箱和账单，商家如何查看 Receipt history 并补发，以及发票收据自动发送条件。"
-tags: ["Stripe", "付款收据", "收据邮件", "Invoice", "邮件未收到"]
+tags: [ "付款收据", "收据邮件", "Invoice", "邮件未收到"]
 categories: ["支付问题"]
 draft: false
 ---

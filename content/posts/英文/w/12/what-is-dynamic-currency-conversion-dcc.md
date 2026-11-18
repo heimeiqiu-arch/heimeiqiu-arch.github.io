@@ -117,8 +117,6 @@ Virtual cards can be useful for supported online purchases, including some inter
 
 If an online checkout offers multiple currencies, compare the amount and conversion terms before confirming. Also check whether the card supports the transaction currency and whether any foreign-transaction or conversion fees may apply.
 
-CBPayments provides virtual and physical card options, including supported Visa and Mastercard products, subject to availability and product terms. Visit [CBPayments](https://www.cbpayments.cc/) to review the available options before choosing a card for international payments.
-
 ## Frequently Asked Questions
 
 ### Is it always better to pay in local currency?

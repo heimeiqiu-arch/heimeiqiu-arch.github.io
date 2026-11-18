@@ -67,5 +67,3 @@ Not necessarily as a separate line. Some pricing models bundle them into a blend
 
 ### Can assessment fees change?
 Yes. Network fee schedules and applicable rules can change. Merchants should use current official documentation and their provider's disclosures.
-
-When reviewing card-processing costs, keep network assessments, interchange, and processor markup separate. That makes statements easier to understand and provider comparisons more reliable. Businesses reviewing card options for their own online spending can also check [CBPayments](https://www.cbpayments.cc/) for current product information.

@@ -3,7 +3,7 @@ title: "Stripe Webhook 怎么设计：签名验证、幂等处理与可靠事件
 date: 2026-11-14
 description: "介绍 Stripe Webhook 的事件投递机制、签名校验、重复事件处理、异步任务和重试策略，附带上线前测试清单，帮助构建可靠的支付状态同步流程。"
 slug: "stripe-webhook-signature-idempotency-retry-guide"
-tags: ["Stripe", "Webhook", "支付集成", "后端开发"]
+tags: [ "Webhook", "支付集成", "后端开发"]
 keywords: ["Stripe Webhook", "Webhook 签名验证", "Stripe webhook 重复事件", "Stripe webhook 重试", "支付状态同步"]
 ---
 

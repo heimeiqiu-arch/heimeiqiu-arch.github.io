@@ -10,7 +10,6 @@ keywords:
   - Stripe 月末计费
   - Stripe proration 按比例计费
 tags:
-  - Stripe
   - 订阅计费
   - Billing
   - API 集成

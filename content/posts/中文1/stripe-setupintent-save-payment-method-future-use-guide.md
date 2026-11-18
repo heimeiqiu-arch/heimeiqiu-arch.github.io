@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe SetupIntent 教程：在不立即收款时安全设置付款方式，选择 on_session/off_session 用途，处理客户同意、Customer 关联、认证与 Webhook。"
 slug: stripe-setupintent-save-payment-method-future-use-guide
 tags:
-  - Stripe
   - SetupIntent
   - PaymentMethod
   - 保存付款方式

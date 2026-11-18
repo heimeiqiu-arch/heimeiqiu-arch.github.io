@@ -3,7 +3,7 @@ title: "Stripe 收到拒付争议后怎么准备证据？原因分类、时间�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-dispute-evidence-preparation-response-checklist-guide"
 description: "Stripe 收到拒付争议后，如何核对原因和截止时间、按实体商品数字服务或订阅整理证据、复核陈述与附件并跟踪提交结果。"
-tags: ["Stripe", "拒付", "争议", "证据", "退款", "支付风控"]
+tags: [ "拒付", "争议", "证据", "退款", "支付风控"]
 categories: ["支付问题"]
 draft: false
 ---

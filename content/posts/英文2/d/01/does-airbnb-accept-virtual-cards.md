@@ -1,5 +1,5 @@
 ---
-title: "Does Airbnb Accept Virtual Cards? Booking Payment Guide | CBPayments"
+title: "Does Airbnb Accept Virtual Cards? Booking Payment Guide"
 slug: "does-airbnb-accept-virtual-cards"
 url: "/posts/英文/does-airbnb-accept-virtual-cards/"
 date: 2026-10-15
@@ -13,8 +13,6 @@ tags:
   - Online Bookings
   - Card Payments
 ---
-
-# Does Airbnb Accept Virtual Cards? Booking Payment Guide | CBPayments
 
 A virtual card may work for an Airbnb reservation if it is accepted by the checkout system and approved by the card issuer. However, Airbnb does not guarantee that every virtual card will work for every guest, country, or booking.
 

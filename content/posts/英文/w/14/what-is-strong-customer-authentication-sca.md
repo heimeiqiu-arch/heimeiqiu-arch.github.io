@@ -103,8 +103,6 @@ If a transaction is within the scope of SCA and requires authentication, the vir
 
 Before using a virtual card for European online subscriptions or digital services, check whether the issuer supports the verification methods required by the merchant.
 
-[CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options for online payments. Cardholders should review the available features and confirm compatibility with the merchant and issuer requirements before relying on a card for recurring purchases.
-
 ## Frequently Asked Questions
 
 **Is SCA the same as two-factor authentication?**

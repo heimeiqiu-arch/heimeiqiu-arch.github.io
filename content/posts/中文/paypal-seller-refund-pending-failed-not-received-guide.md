@@ -3,7 +3,7 @@ title: "PayPal 卖家退款显示待处理、失败或买家未收到，如何�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-seller-refund-pending-failed-not-received-guide"
 description: "PayPal 商家退款待处理、被取消、买家账单未显示或退款金额不一致时，如何检查原交易、退款状态、资金来源、支付方式和汇率，并整理联系支持所需信息。"
-tags: ["PayPal", "PayPal退款", "商家退款", "退款待处理"]
+tags: [ "PayPal退款", "商家退款", "退款待处理"]
 categories: ["支付问题"]
 draft: false
 ---

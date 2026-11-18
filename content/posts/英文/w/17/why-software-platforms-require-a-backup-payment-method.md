@@ -23,8 +23,6 @@ The exact reason depends on the platform. Some providers require a backup method
 
 This guide explains why backup payment methods exist, what to check before adding one, and how to manage them without losing track of your software expenses.
 
-If you are comparing online payment options for software subscriptions, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical cards. Confirm that the specific product meets the software provider's payment requirements.
-
 ## What Is a Backup Payment Method?
 
 A backup payment method is an additional payment option associated with an account. Depending on the provider's rules, it may be used if the primary payment method fails or may serve another purpose described in the billing terms.
@@ -99,8 +97,6 @@ If you do not need the feature and the provider allows it to remain disabled, yo
 Verify that the payment method is accepted for the relevant plan, region, and transaction type.
 
 If you plan to use a virtual card, check whether the provider accepts it for recurring charges and whether any card limits might interfere with renewal.
-
-[CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical cards, but acceptance remains subject to the software provider's rules and the specific card product's terms.
 
 ### Step 4: Review Authorization and Verification
 

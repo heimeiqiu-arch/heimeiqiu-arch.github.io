@@ -129,8 +129,6 @@ The currency used to receive project revenue does not have to be the same as the
 
 For eligible business purchases, a separate card can help organize expenses and identify the currency charged by a merchant.
 
-CBPayments offers card payment options for supported online transactions. Freelancers can review the platform at [CBPayments](https://www.cbpayments.cc/) and check its supported currencies, fees, and usage conditions.
-
 A card is a spending tool; it should not be confused with a foreign-currency receiving account.
 
 ## Final Thoughts

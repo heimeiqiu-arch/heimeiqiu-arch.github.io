@@ -10,7 +10,6 @@ keywords:
   - Stripe 碳移除
   - Frontier 碳移除采购
 tags:
-  - Stripe
   - Stripe Climate
   - 碳移除
   - 企业运营

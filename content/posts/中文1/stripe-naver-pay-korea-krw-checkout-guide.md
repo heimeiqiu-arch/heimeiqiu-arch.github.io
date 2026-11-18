@@ -10,7 +10,6 @@ keywords:
   - Stripe Checkout 韩国支付
   - Naver Pay 测试
 tags:
-  - Stripe
   - Naver Pay
   - 韩国支付
   - Checkout

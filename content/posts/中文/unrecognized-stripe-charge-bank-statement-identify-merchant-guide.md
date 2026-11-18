@@ -3,7 +3,7 @@ title: "银行卡账单出现 STRIPE 扣款但不认识怎么办？查找商家�
 date: 2026-11-13T00:00:00+08:00
 slug: "unrecognized-stripe-charge-bank-statement-identify-merchant-guide"
 description: "银行卡账单显示 STRIPE 或陌生商家名称时，可能是 Stripe 代商家处理的付款。本文说明如何安全查找商家、核对订阅与待处理授权，并判断何时联系银行。"
-tags: ["Stripe", "陌生扣款", "银行卡账单", "交易查询", "支付安全"]
+tags: [ "陌生扣款", "银行卡账单", "交易查询", "支付安全"]
 categories: ["支付问题"]
 draft: false
 ---

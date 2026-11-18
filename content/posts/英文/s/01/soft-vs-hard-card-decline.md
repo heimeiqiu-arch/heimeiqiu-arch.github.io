@@ -119,8 +119,6 @@ If you are using a card for an overseas service or subscription, review the card
 
 You can learn more about card acceptance and payment processing in our guide to [how online payment gateways work](https://heimeiqiu-arch.github.io/posts/how-online-payment-gateways-work/).
 
-For users comparing payment options, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card products on supported Visa and Mastercard networks. Check the current product terms, availability, fees, and merchant compatibility before choosing a card.
-
 ## Frequently Asked Questions
 
 ### Is a soft decline always temporary?

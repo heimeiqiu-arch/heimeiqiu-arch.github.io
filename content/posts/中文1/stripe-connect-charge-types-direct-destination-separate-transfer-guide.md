@@ -3,7 +3,7 @@ title: "Stripe Connect 收款模式怎么选：直接收款、目的地收款与
 date: 2026-11-14
 description: "梳理 Stripe Connect 的直接收款、目的地收款、分开收款与转账三种模式，比较资金流、费用、退款、争议和实现步骤，帮助平台按业务需求设计支付流程。"
 slug: "stripe-connect-charge-types-direct-destination-separate-transfer-guide"
-tags: ["Stripe", "Stripe Connect", "支付集成", "平台支付"]
+tags: [ "Stripe Connect", "支付集成", "平台支付"]
 keywords: ["Stripe Connect 收款模式", "直接收款", "目的地收款", "分开收款和转账", "平台支付"]
 ---
 

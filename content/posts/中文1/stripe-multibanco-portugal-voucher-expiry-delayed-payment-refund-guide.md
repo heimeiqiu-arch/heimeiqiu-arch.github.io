@@ -10,7 +10,6 @@ keywords:
   - Stripe Multibanco 退款
   - PaymentIntent processing Multibanco
 tags:
-  - Stripe
   - 支付方式
   - 葡萄牙
 ---

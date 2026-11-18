@@ -10,7 +10,6 @@ keywords:
   - Stripe Swish 退款
   - Swish payment_reference
 tags:
-  - Stripe
   - 支付方式
   - 瑞典
 ---

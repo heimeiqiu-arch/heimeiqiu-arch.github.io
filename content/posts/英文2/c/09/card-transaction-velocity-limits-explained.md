@@ -105,8 +105,6 @@ Virtual cards can be subject to transaction-frequency controls, spending limits,
 
 If you use a virtual card for online purchases or subscriptions, check the available transaction controls and terms before relying on it for time-sensitive payments. A virtual card does not guarantee approval or exemption from fraud-prevention checks.
 
-For people comparing online payment options, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Check the relevant card features, limits, and usage terms before making a choice.
-
 ## Frequently Asked Questions
 
 ### Can a card be declined even when there is enough money?

@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Customer Portal 配置指南：启用客户资料、账单历史、付款方式更新、订阅取消和套餐变更，并安全创建 Billing Portal Session。"
 slug: stripe-customer-portal-configuration-guide
 tags:
-  - Stripe
   - Customer Portal
   - Billing
   - 订阅管理

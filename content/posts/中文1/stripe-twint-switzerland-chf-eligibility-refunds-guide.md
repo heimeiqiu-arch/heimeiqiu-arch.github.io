@@ -10,7 +10,6 @@ keywords:
   - Stripe 瑞士支付方式
   - TWINT 退款
 tags:
-  - Stripe
   - TWINT
   - 瑞士支付
   - Checkout

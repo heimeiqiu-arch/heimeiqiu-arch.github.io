@@ -3,7 +3,7 @@ title: "Stripe Checkout 不显示某种付款方式怎么办？地区、币种�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-checkout-payment-method-not-showing-troubleshooting-guide"
 description: "Stripe Checkout 中看不到银行卡、Apple Pay 或本地支付方式时，可能与国家、币种、金额、结账流程和账户配置有关。本文介绍商家诊断步骤。"
-tags: ["Stripe", "Checkout", "付款方式", "Apple Pay", "支付配置"]
+tags: [ "Checkout", "付款方式", "支付配置"]
 categories: ["支付开发"]
 draft: false
 ---

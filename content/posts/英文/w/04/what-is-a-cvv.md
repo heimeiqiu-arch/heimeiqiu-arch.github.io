@@ -75,8 +75,6 @@ Nevertheless, not every virtual card works with every merchant. Acceptance may d
 
 If you are choosing a card for overseas shopping or digital subscriptions, check the provider's supported use cases before adding the card to a payment page.
 
-For an overview of card options and overseas payment use cases, you can visit [CBPayments](https://www.cbpayments.cc/). Always confirm the specific card's features and restrictions before relying on it for a particular purchase.
-
 ## CVV vs. PIN vs. OTP
 
 These three security elements have different purposes:

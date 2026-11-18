@@ -48,5 +48,3 @@ Use expedited payouts when earlier access has a clear operational benefit. Do no
 ## Final Thoughts
 
 Same-day merchant payouts can improve cash-flow flexibility, but the term does not guarantee immediate access to money. Merchants should distinguish payout eligibility, transfer initiation, and final bank credit.
-
-For outgoing online business expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options for supported payment scenarios. Review the available options against your payment requirements.

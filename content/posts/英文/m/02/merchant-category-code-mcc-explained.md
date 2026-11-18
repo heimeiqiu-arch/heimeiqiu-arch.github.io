@@ -163,5 +163,3 @@ The transaction may not meet the programme's eligibility rules, or the merchant 
 Merchant category codes help classify businesses within card payment systems. They can influence rewards eligibility, expense reporting, and certain card controls, but they do not tell the whole story about an individual purchase.
 
 If a transaction receives an unexpected category, check the card programme rules and ask the issuer which classification was applied. Understanding the distinction between MCCs, merchant names, and transaction descriptors can make card statements easier to interpret.
-
-For online and international payments, reviewing a card provider's features, fees, and transaction controls before using the card can help prevent surprises. Learn more about card options at [CBPayments](https://www.cbpayments.cc/).

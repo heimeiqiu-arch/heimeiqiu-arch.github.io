@@ -88,8 +88,6 @@ Contact your card provider promptly if:
 
 Use the phone number printed on your card or the provider's official website or application. Keep relevant messages and transaction references in case they are needed for an investigation.
 
-If you use virtual cards for online purchases, review the available card controls and reporting process in advance. Providers differ in how they handle card locking, replacement, and disputed transactions. You can compare relevant virtual and physical card features at [CBPayments](https://www.cbpayments.cc/), while checking the current terms for the specific card product.
-
 ## Final Thoughts
 
 An unexpected verification code should be treated as a warning to check, not as automatic proof of fraud. Never share it, avoid suspicious links, and review your account activity through official channels.

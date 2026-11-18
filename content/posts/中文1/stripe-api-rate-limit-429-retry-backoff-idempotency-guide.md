@@ -3,7 +3,7 @@ title: "Stripe API 限流与重试处理：429 错误、退避策略和请求保
 date: 2026-11-14
 description: "介绍 Stripe API 请求限流时的处理思路，涵盖错误识别、退避重试、并发控制、幂等键和日志监控，帮助支付服务恢复请求而不制造重复资金操作。"
 slug: "stripe-api-rate-limit-429-retry-backoff-idempotency-guide"
-tags: ["Stripe", "API", "限流", "后端开发"]
+tags: [ "API", "限流", "后端开发"]
 keywords: ["Stripe API 限流", "Stripe 429", "Stripe rate limit", "Stripe 请求重试", "Stripe 幂等键"]
 ---
 

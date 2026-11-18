@@ -3,7 +3,7 @@ title: "Stripe 收到“未收到商品”拒付通知，商户如何准备证�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-dispute-product-not-received-evidence-guide"
 description: "Stripe 商户处理未收到商品拒付时，如何核对订单、整理物流与客户沟通记录、按截止时间提交证据，并改进发货和售后流程。"
-tags: ["Stripe", "拒付", "争议处理", "物流证明", "跨境电商"]
+tags: [ "拒付", "争议处理", "物流证明", "跨境电商"]
 categories: ["支付指南"]
 draft: false
 ---

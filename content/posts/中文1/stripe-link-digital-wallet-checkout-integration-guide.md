@@ -3,7 +3,7 @@ title: "Stripe Link 怎么提升结账转化：启用方式、验证码登录与
 date: 2026-11-14
 slug: stripe-link-digital-wallet-checkout-integration-guide
 description: "介绍 Stripe Link 数字钱包的保存与自动填充流程、与 Checkout 和 Payment Element 的集成方式、地区限制及支付状态核对。"
-tags: ["Stripe Link", "Stripe", "Checkout", "数字钱包", "支付方式"]
+tags: ["Stripe Link", "Checkout", "数字钱包", "支付方式"]
 categories: ["支付与账单"]
 draft: false
 ---

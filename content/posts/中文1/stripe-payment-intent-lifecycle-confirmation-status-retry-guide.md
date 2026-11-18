@@ -3,7 +3,7 @@ title: "Stripe PaymentIntent 生命周期详解：创建、确认、异步状态
 date: 2026-11-14
 description: "梳理 Stripe PaymentIntent 的创建、确认、认证、处理中、成功和失败状态，介绍服务端集成、幂等请求、Webhook 与订单状态设计。"
 slug: "stripe-payment-intent-lifecycle-confirmation-status-retry-guide"
-tags: ["Stripe", "PaymentIntent", "支付集成", "API"]
+tags: [ "PaymentIntent", "支付集成", "API"]
 keywords: ["Stripe PaymentIntent", "PaymentIntent 状态", "Stripe 付款确认", "PaymentIntent webhook", "Stripe 支付重试"]
 ---
 

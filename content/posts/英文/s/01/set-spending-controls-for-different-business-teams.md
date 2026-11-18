@@ -31,8 +31,6 @@ Every card should have a named owner, department, business purpose, approved lim
 
 ## Revisit the policy
 
-Review controls when teams grow, roles change, new suppliers are introduced, or the company enters a new market. Quarterly reviews are a useful starting point, with more frequent checks for higher-risk activity. Businesses evaluating virtual or physical cards, including CBPayments, should verify available controls, fees, funding arrangements, merchant acceptance, and transaction terms before assigning cards to staff.
-
 ## Final thoughts
 
 Effective spending controls reflect real business responsibilities. Combine transaction caps, budgets, merchant rules, and approval procedures; give each card a clear owner; and update settings as spending patterns change. A good system makes legitimate purchases straightforward and unusual activity easier to investigate.

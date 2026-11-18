@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Payout 延迟、失败或银行未到账的排查指南：理解 pending、in_transit、paid、failed，核对可用余额、银行信息、事件和对账记录。"
 slug: stripe-payout-delayed-failed-reconciliation-guide
 tags:
-  - Stripe
   - Payout
   - 银行到账
   - Balance

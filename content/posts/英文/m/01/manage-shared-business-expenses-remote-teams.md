@@ -77,8 +77,6 @@ Where supported, dedicated business cards or virtual cards can help separate eli
 
 However, payment controls vary between providers. A business should check whether its card system supports spending limits, transaction notifications, card freezing, and user permissions before relying on these features.
 
-CBPayments provides card options for supported online payment scenarios. Businesses can review its services at [CBPayments](https://www.cbpayments.cc/) and confirm the available card management features and conditions.
-
 A payment card should not replace the company's approval process. Employees still need clear rules about what they are allowed to purchase.
 
 ## 5. Require Receipts and Business Purposes

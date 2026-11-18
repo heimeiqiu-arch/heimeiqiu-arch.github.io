@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card for Recurring Payments? | CBPayments"
+title: "Can You Use a Virtual Card for Recurring Payments?"
 slug: virtual-cards-for-recurring-payments
 url: "/posts/英文/virtual-cards-for-recurring-payments/"
 date: 2026-10-06
@@ -14,8 +14,6 @@ tags:
   - recurring billing
   - online subscriptions
 ---
-# Can You Use a Virtual Card for Recurring Payments? | CBPayments
-
 Recurring payments are now common across the internet. Streaming services, software platforms, AI tools, cloud services, memberships, and other digital products often charge customers automatically on a weekly, monthly, or annual basis.
 
 This raises an important question: **Can a virtual card be used for recurring payments?**

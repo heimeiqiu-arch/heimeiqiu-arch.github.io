@@ -95,8 +95,6 @@ Virtual cards are commonly used for internet payments and subscriptions, while o
 
 Before relying on a card where connectivity is limited, confirm its supported use cases with the provider.
 
-CBPayments provides virtual and physical card options on supported Visa and Mastercard products. Check the product terms and merchant compatibility at [CBPayments](https://www.cbpayments.cc/) before using a card for a particular scenario.
-
 ## Final Thoughts
 
 Offline card processing allows certain supported payment systems to operate without an immediate online authorisation for every transaction. It can be useful in specialised environments, but it is subject to technical limitations and payment-network rules.

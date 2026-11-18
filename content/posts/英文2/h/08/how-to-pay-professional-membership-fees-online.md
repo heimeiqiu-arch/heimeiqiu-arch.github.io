@@ -78,8 +78,6 @@ Before relying on a virtual card, check these points:
 
 A card that works for a one-time online purchase may not necessarily work for every recurring membership payment.
 
-If you use [CBPayments](https://www.cbpayments.cc/), review the available card features and terms before paying. The association's own acceptance rules and its payment provider's requirements still determine whether a transaction can be completed.
-
 ## What if your membership payment is declined?
 
 A declined payment does not always mean that the card is invalid. The problem may involve available funds, spending limits, billing details, merchant restrictions, authentication, or an issuer decision.

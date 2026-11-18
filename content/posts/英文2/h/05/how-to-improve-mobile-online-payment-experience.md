@@ -34,6 +34,3 @@ Keep messages concise and actionable. Identify the field that needs correction o
 
 ## Test real devices and measure results
 Test first-time checkout, returning customers, incorrect details, authentication, declines, interrupted networks, and confirmation on real devices and browsers. Compare mobile completion, payment failure, page loading, time to checkout, and support requests with desktop results.
-
-## Final thoughts
-A good mobile payment experience is readable, responsive, and predictable. Simplify forms, remove unnecessary steps, explain authentication, and provide clear feedback. Use measured results to prioritize improvements. Businesses can explore virtual and physical card options at [CBPayments](https://www.cbpayments.cc/).

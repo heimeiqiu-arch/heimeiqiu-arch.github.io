@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Tax 商品税码设置指南：区分 Product tax code 与 Price tax behavior，整理商品分类、默认税码、税务计算验证和产品目录变更流程。"
 slug: stripe-tax-product-tax-code-price-behavior-catalog-guide
 tags:
-  - Stripe
   - Stripe Tax
   - 商品税码
   - 税务设置

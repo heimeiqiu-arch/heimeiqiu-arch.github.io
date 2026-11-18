@@ -30,8 +30,6 @@ Not every payment method is suitable for every transaction. A method that works 
 
 Consider merchant acceptance, transaction fees, currency conversion charges, reliability, transaction history, spending controls, and regional availability. Some financial products are restricted by country or region, so check current eligibility requirements before relying on them.
 
-For online purchases and subscription expenses, a dedicated payment card may help separate business spending from personal transactions. CBPayments offers virtual and physical card options for supported online payment scenarios. Review the available services at [CBPayments](https://www.cbpayments.cc/) and check whether the supported features match your intended use.
-
 ## Create a Simple Payment Approval Routine
 
 Small businesses do not always need a formal finance department, but they benefit from a basic approval process. Before making a payment, confirm its purpose, amount, and recipient.
@@ -58,12 +56,8 @@ At month-end, compare transaction records with invoices, receipts, and payment s
 
 Also review whether existing payment methods still fit the business. A company that starts working with international suppliers may need different arrangements from one that previously purchased only local services.
 
-If you use payment cards for online business expenses, review transaction activity and available controls regularly. You can explore [CBPayments](https://www.cbpayments.cc/) as one option for supported online payment needs, while checking applicable card terms and restrictions.
-
 ## Build a Process You Can Maintain
 
 The best payment process is not necessarily the most advanced one. It is the one your business can follow consistently.
-
-Start with payment categories, suitable payment methods, a basic approval routine, and a central place for transaction records. Add more detailed controls only when the business needs them. For supported online payment requirements, learn more about [CBPayments](https://www.cbpayments.cc/) and compare its available card options and terms with your actual needs.
 
 A clear payment process helps a small online business understand its expenses, identify problems earlier, and make financial decisions with better information.

@@ -10,7 +10,6 @@ keywords:
   - Stripe Przelewy24 接入
   - Stripe refund.failed
 tags:
-  - Stripe
   - 支付方式
   - 波兰
 ---

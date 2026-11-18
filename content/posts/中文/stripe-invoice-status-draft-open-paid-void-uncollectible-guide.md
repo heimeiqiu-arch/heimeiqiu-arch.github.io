@@ -3,7 +3,7 @@ title: "Stripe Invoice 状态怎么看？Draft、Open、Paid、Void 与 Uncollec
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-invoice-status-draft-open-paid-void-uncollectible-guide"
 description: "Stripe 发票未发送、付款未到账或账单状态不一致时，理解 Draft、Open、Paid、Void 和 Uncollectible 状态及其对付款、订阅与对账的影响。"
-tags: ["Stripe", "Invoice", "发票状态", "账单", "订阅收款", "支付对账"]
+tags: [ "Invoice", "发票状态", "账单", "订阅收款", "支付对账"]
 categories: ["账单与发票"]
 draft: false
 ---

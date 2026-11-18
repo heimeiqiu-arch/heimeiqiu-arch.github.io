@@ -137,5 +137,3 @@ No. Transactions can still be declined because of issuer decisions, authenticati
 ## Final Thoughts
 
 A merchant of record can help online businesses centralise parts of international sales, payment operations, and tax-related workflows. Its value depends on exactly which responsibilities the provider accepts and how much the service costs.
-
-Before choosing one, compare the agreement, supported markets, settlement terms, customer support, and exit options. If you are also evaluating payment cards for eligible business expenses, you can review the available virtual and physical card options at [CBPayments](https://www.cbpayments.cc/). Check the current features, fees, eligibility, and terms before applying.

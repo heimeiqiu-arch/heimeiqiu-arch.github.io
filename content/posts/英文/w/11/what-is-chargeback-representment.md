@@ -89,5 +89,3 @@ The formal process normally operates through an acquiring institution or its des
 ### Is representment the same as arbitration?
 
 No. Representment is an earlier response stage. Arbitration, where available, is a later formal process for resolving an unresolved dispute.
-
-Representment is most effective when a merchant investigates the actual allegation, gathers relevant records, and submits a focused response on time. Review [CBPayments](https://www.cbpayments.cc/) for information about its current card services and payment-related features.

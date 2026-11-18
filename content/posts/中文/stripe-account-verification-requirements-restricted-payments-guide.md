@@ -3,7 +3,7 @@ title: "Stripe 账户验证信息未完成怎么办？Requirements 与收款受�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-account-verification-requirements-restricted-payments-guide"
 description: "Stripe Dashboard 显示需要提供验证资料、能力未启用或收款受限时，如何区分待补、审核中和已逾期要求，并安全整理资料与跟进账户状态。"
-tags: ["Stripe", "账户验证", "Requirements", "收款受限", "账户审核", "商户资料"]
+tags: [ "账户验证", "Requirements", "收款受限", "账户审核", "商户资料"]
 categories: ["账户审核"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Stripe Connect Application Fee 平台抽佣：费用计算、退款与�
 date: 2026-11-14
 description: "介绍 Stripe Connect application fee 的作用与适用场景，说明如何计算平台抽佣、关联支付和发票、处理退款以及核对平台与商家余额。"
 slug: "stripe-connect-application-fee-platform-fee-refund-reconciliation-guide"
-tags: ["Stripe", "Stripe Connect", "Application Fee", "平台抽佣"]
+tags: [ "Stripe Connect", "Application Fee", "平台抽佣"]
 keywords: ["Stripe Connect application fee", "Stripe 平台抽佣", "Connect 平台费用", "平台佣金退款", "Stripe Connect 对账"]
 ---
 

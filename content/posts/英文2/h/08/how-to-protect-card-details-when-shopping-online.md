@@ -42,8 +42,6 @@ Do not send full card details, security codes, passwords, or one-time verificati
 
 Where supported, transaction alerts, spending limits, temporary card locking, or a separate card for online purchases can make activity easier to monitor. A virtual card may provide a separate card number, but its protections depend on the issuer and product. It does not automatically prevent account takeover or guarantee merchant acceptance.
 
-CBPayments offers virtual and physical card options for supported payment needs. Review the available features and terms on the [CBPayments website](https://www.cbpayments.cc/) before deciding whether a card is suitable for your online purchases.
-
 ## Monitor transactions
 
 Enable transaction notifications if your issuer provides them. Review pending and completed payments regularly, including small amounts. Fraudsters sometimes test card credentials with a low-value transaction before attempting a larger one.

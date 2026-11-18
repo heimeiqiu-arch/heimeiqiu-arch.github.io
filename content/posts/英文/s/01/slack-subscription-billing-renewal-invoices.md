@@ -18,8 +18,6 @@ description: "Learn how to review Slack subscription billing, understand renewal
 
 Slack helps teams communicate through channels, direct messages, and integrations. When a workspace uses a paid plan, keeping track of its billing details helps avoid surprises and makes expense reconciliation easier.
 
-If you are reviewing ways to manage online software expenses, you can also explore [CBPayments](https://www.cbpayments.cc/). Always check the applicable card terms, limits, and merchant compatibility before using a payment method for a recurring subscription.
-
 ## Review the plan and billing details
 
 Start with the current billing area available to your workspace and permission level. Check which plan is active, the billing interval, the number of billable users where relevant, and the next renewal date. Workspace interfaces and plan structures can change, so use Slack's official billing information and the checkout summary for current details.
@@ -44,8 +42,6 @@ If a charge looks different from the previous period, compare the plan and seat 
 
 A saved card must remain usable when the renewal is due. Confirm that it is active, has enough available balance, and supports online transactions in the relevant currency. If your card has a spending limit, leave enough room for the expected charge and any applicable conversion costs.
 
-Virtual cards vary by issuer. Some support recurring subscriptions; others may have limits involving merchant categories, currencies, or transaction types. A card being virtual does not guarantee acceptance. You can review payment-management options at [CBPayments](https://www.cbpayments.cc/), then verify the card's features and compatibility before relying on it for Slack billing.
-
 ## If a Slack payment fails
 
 Check the billing status before retrying. Verify the card details, available balance, spending limit, billing information, and any required authentication. Your issuer may be able to explain a decline that is not described in the Slack interface.
@@ -55,5 +51,3 @@ If the card activity shows a pending authorization, determine whether it is stil
 ## A practical monthly checklist
 
 Once per billing cycle, confirm that the plan and seat count are still appropriate, save the invoice, reconcile the charge, and note the next renewal. Recheck the payment method after changing cards or billing settings.
-
-Good records and a payment method suited to recurring charges make software spending easier to manage. For payment-management information, visit [CBPayments](https://www.cbpayments.cc/) and review the terms that apply to your account.

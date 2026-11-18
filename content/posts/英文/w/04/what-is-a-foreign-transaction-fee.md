@@ -131,8 +131,6 @@ Some products may support international purchases with particular fee arrangemen
 
 Before using a virtual card for overseas shopping or digital subscriptions, check its supported currencies, international usage terms, recurring-payment support, and complete fee schedule.
 
-You can explore available card options through [CBPayments](https://www.cbpayments.cc/), then review the specific product's terms to determine whether it fits your payment needs. Do not assume that every card offered by a provider has identical fees or capabilities.
-
 ## Final Thoughts
 
 Foreign transaction fees are only one part of the cost of paying internationally. Exchange-rate differences, dynamic currency conversion, and other provider charges can also affect the final amount.

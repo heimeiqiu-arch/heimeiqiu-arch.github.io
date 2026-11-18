@@ -3,7 +3,7 @@ title: "Stripe 争议与拒付处理指南：通知、证据准备和订单复�
 date: 2026-11-14
 description: "介绍 Stripe 争议处理的事件同步、回复期限、证据留存、退款判断和风控复盘，帮助商家建立可追踪的拒付处理流程。"
 slug: "stripe-disputes-chargebacks-evidence-response-guide"
-tags: ["Stripe", "争议处理", "拒付", "支付风控"]
+tags: [ "争议处理", "拒付", "支付风控"]
 keywords: ["Stripe 争议", "Stripe 拒付", "争议证据", "Stripe dispute", "拒付处理"]
 ---
 

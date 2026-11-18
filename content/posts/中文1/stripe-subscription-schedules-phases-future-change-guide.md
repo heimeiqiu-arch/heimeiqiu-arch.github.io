@@ -3,7 +3,7 @@ title: "Stripe Subscription Schedules 分阶段订阅：未来套餐变更与计
 date: 2026-11-14
 description: "介绍 Stripe Subscription Schedules 如何用 phases 预设订阅未来变化，说明创建与更新边界、结束行为、proration 预览、webhook 同步和测试方法。"
 slug: "stripe-subscription-schedules-phases-future-change-guide"
-tags: ["Stripe", "Subscription Schedules", "Billing", "订阅"]
+tags: [ "Subscription Schedules", "Billing", "订阅"]
 keywords: ["Stripe Subscription Schedules", "订阅 phases 分阶段计费", "Stripe 订阅未来套餐变更", "Subscription Schedule end_behavior", "Stripe proration 预览"]
 ---
 

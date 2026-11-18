@@ -54,5 +54,3 @@ Provide the payout reference, amount, currency, initiation date, and receiving b
 ## Final Thoughts
 
 Weekend and holiday payout delays are often related to banking calendars, provider processing cycles, or cross-border transfer requirements. They do not automatically mean a customer payment has failed.
-
-For separate online expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options for supported payment scenarios. Choose a payment setup based on your operational needs.

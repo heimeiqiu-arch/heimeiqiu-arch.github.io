@@ -3,7 +3,7 @@ title: "Stripe Checkout 如何收集收货地址并计算运费？配置与排�
 date: 2026-11-13T11:35:00+08:00
 slug: stripe-checkout-shipping-address-shipping-rates-guide
 description: "详解 Stripe Checkout 收货地址收集、允许配送国家、固定运费和动态运费配置，以及订单金额复核、库存履约、Webhook 同步和常见排错方法。"
-tags: ["Stripe", "Checkout", "运费", "收货地址"]
+tags: [ "Checkout", "运费", "收货地址"]
 categories: ["支付指南"]
 draft: false
 ---

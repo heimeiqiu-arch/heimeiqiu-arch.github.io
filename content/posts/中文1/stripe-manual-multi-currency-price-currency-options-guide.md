@@ -10,7 +10,6 @@ keywords:
   - Checkout 多币种定价
   - Stripe presentment settlement currency
 tags:
-  - Stripe
   - Price
   - 多币种收款
   - Checkout

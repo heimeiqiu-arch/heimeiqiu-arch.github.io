@@ -124,6 +124,4 @@ The required processing method depends on the network and transaction framework.
 
 Delayed charges can support legitimate supplemental billing, particularly in certain travel and hospitality environments, but they require a clear customer agreement and correct transaction processing.
 
-For information about available card products and payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

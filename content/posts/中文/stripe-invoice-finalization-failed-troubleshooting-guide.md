@@ -3,7 +3,7 @@ title: "Stripe Invoice 最终化失败怎么办？last_finalization_error 排查
 date: 2026-11-13T13:12:00+08:00
 slug: stripe-invoice-finalization-failed-troubleshooting-guide
 description: "Stripe Invoice 无法从 draft 变成 open 怎么办？本文讲解 invoice.finalization_failed、last_finalization_error、Stripe Tax、发票行项目与重试修复流程。"
-tags: ["Stripe", "Invoice", "发票最终化", "Billing"]
+tags: [ "Invoice", "发票最终化", "Billing"]
 categories: ["支付指南"]
 draft: false
 ---

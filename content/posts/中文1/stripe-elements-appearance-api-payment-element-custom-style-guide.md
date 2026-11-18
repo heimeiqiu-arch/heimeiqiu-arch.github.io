@@ -3,7 +3,7 @@ title: "Stripe Elements Appearance API 定制：Payment Element 品牌样式与�
 date: 2026-11-14
 description: "介绍 Stripe Elements Appearance API 的样式设计思路，涵盖颜色、字体、输入框、深色主题、移动布局和支付交互的上线检查。"
 slug: "stripe-elements-appearance-api-payment-element-custom-style-guide"
-tags: ["Stripe", "Elements", "Payment Element", "前端开发"]
+tags: [ "Elements", "Payment Element", "前端开发"]
 keywords: ["Stripe Appearance API", "Stripe Elements 样式", "Payment Element 定制", "Stripe 支付表单设计", "Stripe Elements 字体"]
 ---
 

@@ -10,7 +10,6 @@ keywords:
   - Stripe 销售额还款
   - Stripe 商户现金预支
 tags:
-  - Stripe
   - Capital
   - 商户运营
   - 现金流

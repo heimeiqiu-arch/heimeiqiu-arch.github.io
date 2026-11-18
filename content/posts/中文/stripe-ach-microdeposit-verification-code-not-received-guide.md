@@ -3,7 +3,7 @@ title: "Stripe ACH 微额存款验证码没收到怎么办？银行账户验证�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-ach-microdeposit-verification-code-not-received-guide"
 description: "Stripe ACH 银行账户验证可能通过两笔微额存款或账单描述中的验证码完成。本文说明等待、查账、重发和输错后的处理步骤。"
-tags: ["Stripe", "ACH", "微额存款", "银行账户验证", "验证码"]
+tags: [ "ACH", "微额存款", "银行账户验证", "验证码"]
 categories: ["支付问题"]
 draft: false
 ---

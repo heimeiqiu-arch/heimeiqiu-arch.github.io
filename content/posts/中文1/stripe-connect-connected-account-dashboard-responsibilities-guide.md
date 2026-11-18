@@ -3,7 +3,7 @@ title: "Stripe Connect 关联账户配置怎么选：Dashboard 权限与平台�
 date: 2026-11-14
 description: "介绍 Stripe Connect 关联账户配置中的 Dashboard 访问、费用收取与负余额责任，说明平台应如何在创建账户前规划商家体验和后续运营。"
 slug: "stripe-connect-connected-account-dashboard-responsibilities-guide"
-tags: ["Stripe", "Stripe Connect", "关联账户", "平台配置"]
+tags: [ "Stripe Connect", "关联账户", "平台配置"]
 keywords: ["Stripe Connect 账户配置", "Connected Account Dashboard", "Stripe Connect 责任设置", "平台账户权限", "Connect 负余额"]
 ---
 

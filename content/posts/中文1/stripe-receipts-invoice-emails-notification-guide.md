@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "详解 Stripe 收据邮件与 Invoice 账单邮件的触发条件、Dashboard 设置、receipt_email、send_invoice、Webhook 事件和通知去重方案。"
 slug: stripe-receipts-invoice-emails-notification-guide
 tags:
-  - Stripe
   - 收据邮件
   - Invoice
   - 订阅

@@ -139,8 +139,6 @@ Cardholders can help reduce avoidable problems by keeping contact details up to 
 
 If you use a virtual card for online purchases, make sure the card is active, has sufficient available balance, and supports the merchant's payment requirements.
 
-[CBPayments](https://www.cbpayments.cc/) provides virtual and physical card options for online payments. Review the relevant card features before using one for a particular merchant or subscription.
-
 ## Frequently Asked Questions
 
 **Can a payment provider see every transaction made by a cardholder?**

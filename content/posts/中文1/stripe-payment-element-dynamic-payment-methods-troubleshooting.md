@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "排查 Stripe Payment Element 支付方式未展示的问题，了解动态支付方式、账户与币种限制、PaymentIntent 配置、客户环境和布局测试。"
 slug: stripe-payment-element-dynamic-payment-methods-troubleshooting
 tags:
-  - Stripe
   - Payment Element
   - 支付方式
   - PaymentIntent

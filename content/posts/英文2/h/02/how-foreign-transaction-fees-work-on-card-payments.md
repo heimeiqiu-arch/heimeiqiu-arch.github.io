@@ -48,5 +48,3 @@ For businesses, record the original transaction currency, converted amount, merc
 At month end, group international transactions by currency and merchant. Compare the fees with the card agreement and investigate unexpected changes. Separate exchange-rate movement from issuer charges so that finance teams can identify the actual source of increased costs.
 
 ## Final thoughts
-
-Foreign transaction fees are determined by the card's terms and the way a payment is processed. Check the exact conditions before relying on a card for overseas subscriptions or business spending. CBPayments offers virtual and physical card solutions that can be reviewed as part of an international payment setup: https://www.cbpayments.cc/.

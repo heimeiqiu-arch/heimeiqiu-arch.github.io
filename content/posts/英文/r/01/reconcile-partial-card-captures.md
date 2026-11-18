@@ -57,6 +57,4 @@ A further mistake is matching each capture independently to the full order value
 
 Decide how the business records authorizations, captures, refunds, and settlement entries. Apply the same policy across payment channels and document exceptions.
 
-Businesses that use card payments for online services and operating expenses should also keep actual transaction and statement records. CBPayments offers card-based payment options, but the accounting treatment should always follow the transaction events shown by the relevant provider.
-
 Partial captures are easier to reconcile when every event has a clear relationship to the original authorization, order, and settlement batch.

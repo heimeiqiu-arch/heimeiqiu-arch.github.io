@@ -65,8 +65,6 @@ A virtual card can help separate an online purchase from other spending, dependi
 
 For example, a dedicated card may make it easier to identify the transaction and monitor spending for a particular purchase. However, virtual cards are not accepted by every merchant, and some merchants apply additional restrictions to certain card types.
 
-Before relying on a virtual card for an expensive item, verify its transaction limits, supported currencies, merchant acceptance, and refund arrangements. If you are comparing options for international online purchases, you can review the available features at [CBPayments](https://www.cbpayments.cc/).
-
 The important point is to confirm compatibility before checkout rather than assuming every online card works everywhere.
 
 ## 6. Keep a Record of the Transaction

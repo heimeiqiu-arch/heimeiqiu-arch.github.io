@@ -162,5 +162,3 @@ Check the terminal and your account first. If the first attempt was authorised, 
 Contactless payments can make everyday purchases more convenient, but they still depend on terminal compatibility, card status, authorisation, and security checks.
 
 When a tap fails, confirm the transaction status before trying again. Understanding how contactless payments work can help you avoid unnecessary retries and identify when you need assistance from the merchant or issuer.
-
-For online purchases and subscriptions, it is also useful to understand the features and controls offered by your card provider. Learn more about available payment card options at [CBPayments](https://www.cbpayments.cc/).

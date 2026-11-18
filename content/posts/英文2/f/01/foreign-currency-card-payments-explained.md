@@ -154,5 +154,3 @@ International transactions can remain pending while the merchant and payment sys
 Foreign currency card payments depend on more than the headline exchange rate. The merchant's currency choice, conversion method, issuer terms, and possible foreign transaction fees can all affect the final amount.
 
 Before confirming an international payment, check the currency displayed at checkout and understand how your card provider handles conversion. These small checks can make overseas purchases and subscriptions easier to manage.
-
-For information about card options for online and international payments, visit [CBPayments](https://www.cbpayments.cc/).

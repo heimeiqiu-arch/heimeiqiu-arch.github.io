@@ -3,7 +3,7 @@ title: "Stripe Quotes 报价单流程：草稿、发送、客户接受与转发�
 date: 2026-11-14
 description: "介绍 Stripe Quotes 报价单的创建、客户预览、过期与接受流程，以及接受后生成 Invoice 或 Subscription 的数据同步和测试方法。"
 slug: "stripe-quotes-create-send-accept-invoice-subscription-guide"
-tags: ["Stripe", "Quotes", "Stripe Billing", "B2B 收款"]
+tags: [ "Quotes", "Stripe Billing", "B2B 收款"]
 keywords: ["Stripe Quotes", "Stripe 报价单", "Stripe 报价转发票", "接受 Stripe Quote", "报价订阅"]
 ---
 

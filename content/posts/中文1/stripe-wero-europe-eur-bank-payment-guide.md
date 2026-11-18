@@ -10,7 +10,6 @@ keywords:
   - Wero Checkout 退款
   - Wero QR Code 付款
 tags:
-  - Stripe
   - Wero
   - 欧洲支付
   - 银行转账

@@ -25,5 +25,3 @@ Receipts or invoices should show date, amount, merchant, description, business p
 
 ## Explain incident reporting
 Tell employees how to report lost cards, suspected compromise, incorrect charges, and accidental personal purchases. They should contact the issuer or administrator promptly and follow official freeze or dispute procedures. Keep the policy accessible, provide a quick-reference summary, train managers, and review it annually.
-
-When evaluating providers such as CBPayments, verify product terms, supported transaction types, funding arrangements, controls, and dispute procedures. A useful policy answers four questions: what can I buy, how much can I spend, when is approval required, and how do I document it?

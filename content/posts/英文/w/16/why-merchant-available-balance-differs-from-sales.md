@@ -69,5 +69,3 @@ If sales volume changes sharply, check whether the provider requires advance not
 **Why does the ecommerce dashboard show more revenue?** Systems may count different events. Orders, authorized payments, captured transactions, and net payouts are not interchangeable.
 
 **Should available balance be used as accounting revenue?** Not automatically. Payment-provider balances and revenue recognition serve different purposes. Follow the business's accounting policies and applicable standards.
-
-A merchant's available balance is different from a cardholder's available card balance. [CBPayments](https://www.cbpayments.cc/) provides information about its card products and applicable cardholder terms.

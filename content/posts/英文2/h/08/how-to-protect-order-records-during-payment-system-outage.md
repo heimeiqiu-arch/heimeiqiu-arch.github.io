@@ -58,6 +58,4 @@ For each manual correction, record the employee, time, reason, evidence, and res
 
 After the incident, determine why records became inconsistent. Review webhook handling if confirmations were delayed, staff training if statuses were misunderstood, and backup access if records were unavailable.
 
-Keep customer sales separate from other financial activity. For example, card activity through [CBPayments](https://www.cbpayments.cc/) should not be confused with merchant checkout transactions handled by a payment gateway.
-
 Reliable order records are essential during normal operations and critical during an outage. Separate statuses, preserved evidence, restricted access, and careful reconciliation help prevent a temporary technical issue from becoming a lasting financial dispute.

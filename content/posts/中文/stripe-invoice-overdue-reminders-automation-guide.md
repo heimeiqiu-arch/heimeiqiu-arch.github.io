@@ -3,7 +3,7 @@ title: "Stripe 发票逾期提醒怎么设置？自动邮件与催收流程指�
 date: 2026-11-13T13:50:00+08:00
 slug: stripe-invoice-overdue-reminders-automation-guide
 description: "Stripe Invoice 到期前和逾期后如何提醒客户？本文说明自动邮件、Invoice 状态、Webhook 事件、auto_advance、付款链接、催收节奏与重复通知排查。"
-tags: ["Stripe", "Invoice", "账单提醒", "催收"]
+tags: [ "Invoice", "账单提醒", "催收"]
 categories: ["支付指南"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Stripe Customer Portal 找不到取消或更新订阅按钮怎么办？�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-customer-portal-cancel-subscription-update-option-missing-guide"
 description: "Stripe Customer Portal 中无法取消订阅、更新套餐或更换付款方式时，可能与商家配置、订阅类型和付款方式有关。本文分客户和商家排查。"
-tags: ["Stripe", "Customer Portal", "订阅管理", "取消订阅", "更新付款方式"]
+tags: [ "Customer Portal", "订阅管理", "取消订阅", "更新付款方式"]
 categories: ["支付问题"]
 draft: false
 ---

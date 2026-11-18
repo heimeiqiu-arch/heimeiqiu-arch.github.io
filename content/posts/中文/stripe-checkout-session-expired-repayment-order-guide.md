@@ -3,7 +3,7 @@ title: "Stripe Checkout 会话过期怎么办？订单、支付状态与重新�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-checkout-session-expired-repayment-order-guide"
 description: "Stripe Checkout 会话链接过期或客户无法继续付款时，先核对 Session、PaymentIntent 和订单状态。本文说明常见原因、后台检查、重新创建付款链接及 webhook 对账方法。"
-tags: ["Stripe", "Stripe Checkout", "会话过期", "重新付款", "支付集成"]
+tags: [ "Stripe Checkout", "会话过期", "重新付款", "支付集成"]
 categories: ["支付问题"]
 draft: false
 ---

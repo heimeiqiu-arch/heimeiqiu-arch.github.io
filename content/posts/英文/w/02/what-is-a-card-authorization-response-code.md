@@ -129,5 +129,3 @@ Yes. Providers may map detailed response values to their own customer-facing des
 No. Authorization and settlement are separate stages of card payment processing.
 
 Understanding authorization response codes helps merchants and cardholders interpret payment outcomes more accurately.
-
-If you use cards for online subscriptions or digital services, [CBPayments](https://www.cbpayments.cc/) provides information about its current card options and service conditions.

@@ -10,7 +10,6 @@ keywords:
   - Stripe Terminal 币种
   - Tap to Pay 国家
 tags:
-  - Stripe
   - Terminal
   - 线下支付
   - 读卡器

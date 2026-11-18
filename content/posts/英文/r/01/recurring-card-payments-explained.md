@@ -91,8 +91,6 @@ Some virtual cards can be used for subscriptions and other recurring online tran
 
 Before using a virtual card for a subscription, check whether it supports recurring payments, whether sufficient funds can be maintained, and whether the merchant accepts that card type. A virtual card is not guaranteed to work with every subscription service.
 
-If you are comparing payment options for online services, [CBPayments](https://www.cbpayments.cc/) provides information about virtual and physical card options. Review the applicable card features and terms before choosing a payment method.
-
 ## Frequently Asked Questions
 
 ### Are recurring card payments automatic?

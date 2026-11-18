@@ -3,7 +3,7 @@ title: "Stripe Invoice 作废与坏账处理：void 和 uncollectible 状态区�
 date: 2026-11-14
 description: "区分 Stripe Invoice 的 void 与 uncollectible 状态，说明各自适用场景、PaymentIntent 影响、webhook 同步及与 credit note、退款的关系。"
 slug: "stripe-invoice-void-vs-uncollectible-accounting-guide"
-tags: ["Stripe", "Invoice", "账务", "坏账"]
+tags: [ "Invoice", "账务", "坏账"]
 keywords: ["Stripe Invoice void", "Stripe uncollectible 发票", "Invoice 作废和坏账区别", "Stripe invoice.marked_uncollectible", "Stripe 发票账务处理"]
 ---
 

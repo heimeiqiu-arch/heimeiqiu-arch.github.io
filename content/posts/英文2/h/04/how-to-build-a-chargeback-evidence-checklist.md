@@ -101,5 +101,3 @@ Retention requirements depend on applicable laws, network rules, contractual obl
 ### Does a complete checklist guarantee a win?
 
 No. It improves recordkeeping and response preparation, but the outcome depends on the facts and applicable dispute rules.
-
-A practical evidence checklist helps merchants respond faster and more consistently. The most important step is to maintain accurate records from the original purchase onward, rather than trying to reconstruct the transaction after a dispute arrives. Visit [CBPayments](https://www.cbpayments.cc/) for information about card products and online payment services.

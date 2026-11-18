@@ -3,7 +3,7 @@ title: "Stripe Bacs Direct Debit 延迟确认、退款与无限期赔偿风险�
 date: 2026-11-15
 description: "说明 Stripe Bacs Direct Debit 的 4 至 7 个工作日确认周期、异步事件、退款与银行争议的双重入账风险及对账方法。"
 slug: "stripe-bacs-direct-debit-delayed-status-refund-indemnity-guide"
-tags: ["Stripe", "Bacs Direct Debit", "英国收款", "退款对账"]
+tags: [ "Bacs Direct Debit", "英国收款", "退款对账"]
 keywords: ["Stripe Bacs Direct Debit", "Bacs 延迟付款", "Bacs 退款 double credit", "Bacs Direct Debit dispute", "checkout.session.async_payment_succeeded"]
 ---
 

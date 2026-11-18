@@ -3,7 +3,7 @@ title: "Stripe ACH Direct Debit 集成指南：银行授权、异步状态与付
 date: 2026-11-14
 description: "介绍 Stripe ACH Direct Debit 的适用场景、银行账户验证、客户授权、异步付款状态、Webhook 和退款争议处理，帮助美国市场的商家设计银行扣款流程。"
 slug: "stripe-ach-direct-debit-bank-account-verification-webhook-guide"
-tags: ["Stripe", "ACH Direct Debit", "银行扣款", "支付集成"]
+tags: [ "ACH Direct Debit", "银行扣款", "支付集成"]
 keywords: ["Stripe ACH Direct Debit", "Stripe ACH 付款", "银行账户验证", "ACH Webhook", "美国银行扣款"]
 ---
 

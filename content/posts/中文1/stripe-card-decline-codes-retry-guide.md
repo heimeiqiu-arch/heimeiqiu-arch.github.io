@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "按 Stripe 卡片拒付代码诊断 insufficient_funds、incorrect_number、do_not_honor 和 authentication_required，建立安全的重试与客户沟通流程。"
 slug: stripe-card-decline-codes-retry-guide
 tags:
-  - Stripe
   - 卡片支付
   - 拒付代码
   - PaymentIntent

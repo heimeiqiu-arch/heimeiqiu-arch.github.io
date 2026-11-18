@@ -104,5 +104,3 @@ Yes. Some payment companies operate technology for both sides of the payment eco
 The issuer-side authorization system generally makes the cardholder-side authorization decision, although the exact system and responsibilities vary.
 
 Understanding the difference between issuer and acquirer processing makes it easier to evaluate card infrastructure and identify which provider is responsible for a particular function.
-
-If you are comparing cards for your own online payments, [CBPayments](https://www.cbpayments.cc/) offers information about its current supported card products.

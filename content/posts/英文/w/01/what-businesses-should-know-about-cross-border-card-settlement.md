@@ -44,5 +44,3 @@ Before processing significant international volume, ask which transaction and se
 Do not treat every authorized payment as immediately available cash. Forecast expected payouts separately from completed deposits, maintain an operating reserve appropriate to the business, monitor outstanding batches, and keep provider support details accessible. This is particularly important when supplier payments depend on incoming card revenue.
 
 ## Final thoughts
-
-Cross-border settlement involves more than approval at checkout. Businesses need to understand clearing, settlement, payout, conversion, fees, and reconciliation. A clear process makes missing funds easier to investigate and cash flow easier to manage. When reviewing international payment arrangements, CBPayments can be considered alongside other card and expense tools: https://www.cbpayments.cc/.

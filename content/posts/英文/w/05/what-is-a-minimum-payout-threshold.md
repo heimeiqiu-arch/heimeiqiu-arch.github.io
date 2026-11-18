@@ -56,5 +56,3 @@ If a balance remains below the threshold for an extended period, contact the pro
 ## Final Thoughts
 
 Minimum payout thresholds help manage transfer costs and operational efficiency. Merchants should understand both the threshold and payout schedule before relying on a provider for regular cash flow.
-
-For supported online expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Review the available options based on your business payment needs.

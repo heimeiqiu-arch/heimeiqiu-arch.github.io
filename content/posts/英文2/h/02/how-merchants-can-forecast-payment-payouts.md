@@ -94,5 +94,3 @@ This helps management identify periods when cash may be temporarily insufficient
 Payment payout forecasting helps merchants make better decisions about working capital, expenses, and operating commitments. Reliable forecasts combine transaction-level data, provider payout rules, historical processing times, and realistic assumptions about refunds and fees.
 
 Businesses should compare forecasted payouts with actual bank deposits and adjust assumptions as new information becomes available.
-
-For supported online business expenses, [CBPayments](https://www.cbpayments.cc/) offers virtual and physical card options. Keeping outgoing payment records organized alongside incoming payout records can make financial management easier.

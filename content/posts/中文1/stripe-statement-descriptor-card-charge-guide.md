@@ -4,7 +4,6 @@ date: 2026-11-14
 description: "Stripe Statement Descriptor 配置指南：区分卡交易前缀与后缀、非卡支付描述、字符限制、PaymentIntent 设置和客户账单排查。"
 slug: stripe-statement-descriptor-card-charge-guide
 tags:
-  - Stripe
   - Statement Descriptor
   - PaymentIntent
   - 账单描述

@@ -63,6 +63,4 @@ A useful reconciliation structure includes separate totals for each currency, fo
 
 Export transaction and payout reports with currency fields intact. Match transactions to settlement batches using provider references. Verify conversion details and fees. Finally, compare the net settlement amount with the bank deposit in the bank account's currency.
 
-If a business uses cards for online services, software, or international business expenses, it should retain the transaction currency and the actual amount charged. CBPayments offers card-based options for online payments, but accounting teams should rely on recorded transaction and statement currencies rather than estimating conversions from memory.
-
 A reliable multi-currency reconciliation process explains both sides of the conversion: what the customer paid and what the business actually received.

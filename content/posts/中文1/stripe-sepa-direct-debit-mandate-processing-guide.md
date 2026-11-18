@@ -3,7 +3,7 @@ title: "Stripe SEPA Direct Debit 接入指南：IBAN 授权、延迟确认与退
 date: 2026-11-14
 slug: stripe-sepa-direct-debit-mandate-processing-guide
 description: "介绍 Stripe SEPA Direct Debit 的 IBAN 收集、Core Mandate 授权、至少数个工作日的付款确认、订阅使用、退款和银行争议处理。"
-tags: ["Stripe", "SEPA Direct Debit", "IBAN", "欧洲收款", "订阅"]
+tags: [ "SEPA Direct Debit", "IBAN", "欧洲收款", "订阅"]
 categories: ["支付与账单"]
 draft: false
 ---

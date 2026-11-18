@@ -3,7 +3,7 @@ title: "Stripe Billing Entitlements 权益管理：订阅产品与应用权限�
 date: 2026-11-14
 description: "介绍 Stripe Billing Entitlements 如何把产品功能、订阅购买和客户可用权益关联起来，说明 feature lookup key、产品绑定、webhook 同步、授权校验与订阅变更边界。"
 slug: "stripe-billing-entitlements-subscription-feature-access-guide"
-tags: ["Stripe", "Billing", "Entitlements", "订阅"]
+tags: [ "Billing", "Entitlements", "订阅"]
 keywords: ["Stripe Entitlements 权益管理", "Stripe 订阅功能权限", "active_entitlement_summary.updated", "Stripe 产品功能映射", "订阅授权同步"]
 ---
 

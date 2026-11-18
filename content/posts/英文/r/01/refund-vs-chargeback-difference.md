@@ -110,8 +110,6 @@ The handling of a refund or dispute depends on the card program, issuer, payment
 
 If a virtual card has been frozen, replaced, expired, or closed, ask the issuer how an outstanding refund or dispute will be handled. Do not assume that closing a card automatically cancels a merchant agreement or prevents a refund from being processed.
 
-CBPayments offers virtual and physical card options. You can review the available options at https://www.cbpayments.cc/ and check the applicable product terms before using a card for online payments.
-
 ## Frequently Asked Questions
 
 ### Is a refund the same as a chargeback?

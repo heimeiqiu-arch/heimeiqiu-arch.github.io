@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Financial Connections ownership 刷新指南：说明 ownership 权限请求、刷新资格与异步状态，通过 Webhook 等待结果，并处理 inactive 账户和失败记录。"
 slug: stripe-financial-connections-ownership-refresh-status-guide
 tags:
-  - Stripe
   - Financial Connections
   - 账户所有权
   - 数据刷新

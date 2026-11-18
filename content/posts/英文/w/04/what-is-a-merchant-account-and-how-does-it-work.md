@@ -63,5 +63,3 @@ Do not compare providers only by headline transaction rates. Payout terms and ac
 **Can an online business accept cards without a direct merchant account?** Yes. A payment facilitator or platform may provide acceptance under its own acquiring arrangement, subject to eligibility requirements.
 
 **Is a merchant account the same as a processor account?** Not always. Review the contract to understand which entity provides acquiring, processing, and payouts.
-
-If you are a customer rather than a merchant, [CBPayments](https://www.cbpayments.cc/) provides information about card options for online payments. Check current supported uses and terms before relying on a card for a particular merchant.

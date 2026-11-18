@@ -1,5 +1,5 @@
 ---
-title: "CBPayments: Đã Hủy Đơn Hàng Nhưng Thẻ Vẫn Bị Trừ Tiền? Cách Xử Lý"
+title: "Đã Hủy Đơn Hàng Nhưng Thẻ Vẫn Bị Trừ Tiền? Cách Xử Lý"
 slug: "huy-don-hang-nhung-the-van-bi-tru-tien"
 date: 2026-10-25
 draft: false
@@ -9,15 +9,11 @@ tags:
   - hủy đơn hàng
   - giao dịch thẻ
   - hoàn tiền
-  - CBPayments
----
-# CBPayments: Đã Hủy Đơn Hàng Nhưng Thẻ Vẫn Bị Trừ Tiền? Cách Xử Lý
 
+---
 Bạn đã hủy đơn hàng nhưng ứng dụng ngân hàng vẫn hiển thị khoản tiền bị trừ? Điều này không nhất thiết có nghĩa là cửa hàng đã thu tiền cuối cùng hoặc yêu cầu hoàn tiền của bạn bị bỏ qua. Trước tiên, hãy xác định giao dịch đang ở trạng thái **chờ xử lý (pending)**, đã **hạch toán hoàn tất (posted/settled)** hay cửa hàng đã xác nhận hoàn tiền. Mỗi trạng thái cần một cách xử lý khác nhau.
 
 Bài viết này hướng dẫn cách kiểm tra theo từng trường hợp, những bằng chứng nên giữ lại và cách liên hệ đúng bên để tránh mất thời gian.
-
-Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Vì sao đã hủy đơn mà khoản tiền vẫn xuất hiện?
 
@@ -94,8 +90,6 @@ Nếu cửa hàng không phản hồi, từ chối xử lý trái với chính s
 
 Nếu bạn cho rằng giao dịch là trái phép, đừng chờ cửa hàng trả lời trước khi báo cáo. Hãy thông báo ngay cho đơn vị phát hành thẻ để được hướng dẫn bảo vệ tài khoản.
 
-CBPayments cung cấp giải pháp thẻ Visa và Mastercard, gồm thẻ ảo và thẻ vật lý. Nếu bạn đang tìm hiểu lựa chọn thẻ cho thanh toán trực tuyến, có thể xem thông tin tại [CBPayments](https://www.cbpayments.cc/); tuy nhiên, việc giải phóng khoản giữ tiền hoặc hoàn tiền của một giao dịch cụ thể vẫn do các bên xử lý giao dịch quyết định.
-
 ## 5. Câu hỏi thường gặp
 
 ### Hủy đơn hàng có đồng nghĩa với hoàn tiền ngay không?
@@ -117,8 +111,6 @@ Lưu toàn bộ bằng chứng, thử kênh hỗ trợ chính thức khác và l
 ## Kết luận
 
 Khi đơn hàng đã hủy nhưng tiền vẫn hiển thị trên thẻ, bước quan trọng nhất là phân biệt **khoản tiền đang được giữ**, **giao dịch đã hạch toán** và **khoản hoàn tiền đang xử lý**. Xác minh trạng thái trước khi thanh toán lại, lưu bằng chứng và liên hệ đúng bên sẽ giúp bạn xử lý rõ ràng hơn.
-
-Bạn có thể tìm hiểu thêm về các lựa chọn thẻ cho thanh toán trực tuyến tại [website CBPayments](https://www.cbpayments.cc/).
 
 ## Bài viết liên quan
 

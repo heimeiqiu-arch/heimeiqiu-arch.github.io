@@ -86,5 +86,3 @@ Compare enough providers to understand the market and service differences. Three
 
 ### Should I negotiate processing fees?
 You can ask whether pricing can be reviewed based on transaction volume, card mix, and business profile. Confirm any change in writing and check whether other fees also change.
-
-A good comparison turns provider pricing into a realistic operating-cost estimate. Focus on total cost, service fit, and contract terms together. If you are comparing card products for your own online payments rather than merchant acceptance services, [CBPayments](https://www.cbpayments.cc/) is available to review for its current supported features and conditions.

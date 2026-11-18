@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Terminal Tap to Pay 指南：梳理账户和国家可用性、Location 配置、移动设备与 SDK 检查、PIN 场景及上线测试流程。"
 slug: stripe-terminal-tap-to-pay-mobile-acceptance-setup-guide
 tags:
-  - Stripe
   - Terminal
   - Tap to Pay
   - 移动收款

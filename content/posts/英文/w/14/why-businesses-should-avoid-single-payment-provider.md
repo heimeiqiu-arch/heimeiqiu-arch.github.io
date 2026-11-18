@@ -54,6 +54,4 @@ Customers should not need to understand your provider structure. Present the ava
 
 ## Review wider financial dependencies
 
-Customer checkout is only one part of financial continuity. Supplier payments, operating funds, business spending cards, and expense records can also become single points of failure. Card services and merchant acquiring serve different purposes. A platform such as [CBPayments](https://www.cbpayments.cc/) may support eligible card-payment activities, while merchant checkout and banking arrangements remain separate.
-
 Review provider concentration when entering a new market, changing products, or increasing transaction volume. Track provider share, failure rates, settlement performance, support responsiveness, and backup readiness. A sensible strategy balances resilience against cost and avoids replacing one single point of failure with another.

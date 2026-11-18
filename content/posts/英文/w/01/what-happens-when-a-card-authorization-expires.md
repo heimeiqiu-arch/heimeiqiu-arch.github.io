@@ -120,6 +120,4 @@ Issuer and banking-app updates may take additional time. The display of a pendin
 
 Authorization expiry is an important part of the card-payment lifecycle. Merchants should monitor outstanding authorizations and avoid attempting captures after the applicable validity period.
 
-For information about card products and online payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

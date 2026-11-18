@@ -3,7 +3,7 @@ title: "Stripe Checkout 如何收集 VAT 或税务识别号？设置与发票排
 date: 2026-11-13T12:25:00+08:00
 slug: stripe-checkout-collect-tax-id-vat-number-guide
 description: "Stripe Checkout 怎样让企业客户填写 VAT、GST 或其他税务识别号？本文说明开启 tax ID collection、地址与税费关联、支持类型、Webhook 同步和发票复核。"
-tags: ["Stripe", "Stripe Tax", "VAT", "税务识别号"]
+tags: [ "Stripe Tax", "VAT", "税务识别号"]
 categories: ["支付指南"]
 draft: false
 ---

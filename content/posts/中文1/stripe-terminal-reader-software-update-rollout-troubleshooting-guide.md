@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Terminal 读卡器软件更新运维指南：区分 SDK 与读卡器版本，安排门店升级窗口，排查电量、网络和版本兼容问题，并建立批量更新清单。"
 slug: stripe-terminal-reader-software-update-rollout-troubleshooting-guide
 tags:
-  - Stripe
   - Terminal
   - 读卡器
   - 软件更新

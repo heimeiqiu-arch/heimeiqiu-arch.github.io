@@ -3,7 +3,7 @@ title: "Stripe Connect Transfer 转账与撤回：平台分账、退款关联和
 date: 2026-11-14
 description: "介绍 Stripe Connect Transfer 的创建、目标账户、转账组、幂等重试、撤回限制与平台对账，帮助市场平台管理商家结算和退款后的资金调整。"
 slug: "stripe-connect-transfers-reversals-platform-reconciliation-guide"
-tags: ["Stripe", "Stripe Connect", "Transfer", "平台分账"]
+tags: [ "Stripe Connect", "Transfer", "平台分账"]
 keywords: ["Stripe Connect 转账", "Stripe Transfer", "Transfer reversal", "Stripe 平台分账", "Connect 资金对账"]
 ---
 

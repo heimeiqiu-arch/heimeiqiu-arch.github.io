@@ -3,7 +3,7 @@ title: "PayPal 商家收款显示暂缓或不可用，如何查看放款条件�
 date: 2026-11-13T00:00:00+08:00
 slug: "paypal-seller-payment-on-hold-release-guide"
 description: "PayPal 商家收到款项后余额暂缓或不可用时，如何查看账户提示、提交物流跟踪或服务交付信息，并处理身份验证与买家沟通。"
-tags: ["PayPal", "收款暂缓", "资金不可用", "卖家收款", "物流跟踪"]
+tags: [ "收款暂缓", "资金不可用", "卖家收款", "物流跟踪"]
 categories: ["支付指南"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Stripe 手动捕获与银行卡预授权：先授权、后扣款的实�
 date: 2026-11-13
 slug: stripe-manual-capture-card-authorization-hold-guide
 description: "解释 Stripe PaymentIntent 的手动捕获流程、授权与扣款差别、部分捕获和授权过期处理，适用于发货确认和最终金额稍后确定的业务。"
-tags: ["Stripe", "PaymentIntent", "手动捕获", "银行卡预授权", "支付集成"]
+tags: [ "PaymentIntent", "手动捕获", "银行卡预授权", "支付集成"]
 categories: ["支付与账单"]
 draft: false
 ---

@@ -91,8 +91,6 @@ Tracking these metrics helps identify whether communication and recovery process
 
 Dunning works better when a business supports reliable credential management. Tokenization can reduce direct exposure of card data. Account updater services may help maintain eligible credentials after card changes. Clear notifications help customers respond before service interruption.
 
-Businesses should evaluate these capabilities when choosing a provider. Customers using cards for online subscriptions should understand payment limits, validity, and international transaction support. Review card options at [CBPayments](https://www.cbpayments.cc/).
-
 ## Frequently Asked Questions
 
 **Is dunning only used for subscriptions?** No. It can also support other businesses collecting recurring or overdue payments.

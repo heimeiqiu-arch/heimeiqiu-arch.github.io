@@ -10,7 +10,6 @@ keywords:
   - Stripe 自动税务发票
   - Stripe invoice webhook
 tags:
-  - Stripe
   - 发票
   - Stripe Tax
   - 故障排查

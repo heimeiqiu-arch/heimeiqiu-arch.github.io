@@ -118,6 +118,4 @@ No. Processing a capture does not eliminate the possibility of financial risk, d
 
 Forced capture is a specialised processing mechanism, not a general workaround for declined card payments.
 
-For information about card products and payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

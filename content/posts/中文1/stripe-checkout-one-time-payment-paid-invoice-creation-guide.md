@@ -10,7 +10,6 @@ keywords:
   - paid invoice receipt
   - Stripe invoice.paid
 tags:
-  - Stripe
   - Checkout
   - 发票
   - 一次性付款

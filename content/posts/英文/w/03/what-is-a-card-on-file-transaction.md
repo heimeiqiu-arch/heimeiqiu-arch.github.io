@@ -153,8 +153,6 @@ A virtual card may work for saved-card transactions when the issuer, merchant, a
 
 Before using one for a subscription or recurring purchase, check whether the card supports the merchant's requirements and whether any spending, expiry, or usage restrictions apply. A merchant may also require authentication or additional verification.
 
-CBPayments offers virtual and physical card options, subject to the relevant product terms and availability. Visit [CBPayments](https://www.cbpayments.cc/) to review the available options and determine whether a card is suitable for your intended use.
-
 ## Frequently Asked Questions
 
 ### Does saving a card mean I have started a subscription?

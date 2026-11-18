@@ -10,7 +10,6 @@ keywords:
   - Stripe limited unspecified always
   - Stripe 复用银行卡授权
 tags:
-  - Stripe
   - PaymentMethod
   - Checkout
   - 支付方式复用

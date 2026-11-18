@@ -3,7 +3,7 @@ title: "Stripe Payment Link 显示已停用怎么办？链接失效排查与重�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-payment-link-deactivated-inactive-troubleshooting-guide"
 description: "Stripe Payment Link 打开后提示停用或不可付款，需区分链接本身、商品价格、商家账户和订单流程。本文介绍 Dashboard 检查、重新分享与安全处理方式。"
-tags: ["Stripe", "Payment Link", "支付链接", "链接停用", "收款排查"]
+tags: [ "Payment Link", "支付链接", "链接停用", "收款排查"]
 categories: ["支付问题"]
 draft: false
 ---

@@ -10,7 +10,6 @@ keywords:
   - Vipps Checkout
   - Vipps 私人预览
 tags:
-  - Stripe
   - Vipps
   - 挪威支付
   - 本地支付方式

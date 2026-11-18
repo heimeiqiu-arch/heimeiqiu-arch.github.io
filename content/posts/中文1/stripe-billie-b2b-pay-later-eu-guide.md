@@ -10,7 +10,6 @@ keywords:
   - Billie 退款和争议
   - Billie Connect capability
 tags:
-  - Stripe
   - Billie
   - B2B支付
   - 先买后付

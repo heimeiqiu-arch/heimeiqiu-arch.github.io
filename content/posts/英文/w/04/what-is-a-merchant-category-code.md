@@ -116,8 +116,6 @@ Some products may restrict specific merchant categories or provide configurable 
 
 Before using a virtual card for a software subscription, travel booking, advertising service, or other online purchase, review its terms and confirm whether the intended merchant type is supported.
 
-You can explore available virtual and physical card options through [CBPayments](https://www.cbpayments.cc/). Check the terms of the specific product rather than assuming that every card has identical merchant-category rules.
-
 ## Frequently Asked Questions
 
 ### Is an MCC the same as a merchant ID?

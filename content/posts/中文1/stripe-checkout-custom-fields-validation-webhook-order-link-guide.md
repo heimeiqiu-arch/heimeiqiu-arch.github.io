@@ -10,7 +10,6 @@ keywords:
   - checkout.session.completed
   - Stripe Checkout 下单信息
 tags:
-  - Stripe
   - Checkout
   - 集成开发
 ---

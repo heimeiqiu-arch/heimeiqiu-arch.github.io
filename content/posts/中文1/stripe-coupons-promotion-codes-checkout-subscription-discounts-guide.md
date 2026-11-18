@@ -3,7 +3,7 @@ title: "Stripe 优惠券与 Promotion Code 配置：订阅折扣和 Checkout 优
 date: 2026-11-14
 description: "介绍 Stripe Coupon 与 Promotion Code 的区别、折扣期限、兑换限制、Checkout 和订阅中的应用，以及优惠过期后的账单与测试流程。"
 slug: "stripe-coupons-promotion-codes-checkout-subscription-discounts-guide"
-tags: ["Stripe", "优惠券", "Promotion Code", "订阅计费"]
+tags: [ "优惠券", "Promotion Code", "订阅计费"]
 keywords: ["Stripe 优惠券", "Stripe Promotion Code", "Stripe 优惠码", "Checkout 折扣", "Stripe 订阅优惠"]
 ---
 

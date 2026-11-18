@@ -10,7 +10,6 @@ keywords:
   - 稳定币退款原钱包
   - Stripe 商家地区支持
 tags:
-  - Stripe
   - 稳定币
   - 加密货币支付
   - Checkout

@@ -3,7 +3,7 @@ title: "Stripe Statement Descriptor 账单描述设置：减少客户不认识�
 date: 2026-11-14
 description: "介绍 Stripe Statement Descriptor 账单描述的作用、账户前缀与交易后缀、支付场景差异和测试方法，帮助客户识别账单并减少误解。"
 slug: "stripe-statement-descriptor-billing-description-customer-recognition-guide"
-tags: ["Stripe", "账单描述", "支付设置", "客户体验"]
+tags: [ "账单描述", "支付设置", "客户体验"]
 keywords: ["Stripe Statement Descriptor", "Stripe 账单描述", "银行卡账单名称", "statement descriptor suffix", "减少不认识交易"]
 ---
 

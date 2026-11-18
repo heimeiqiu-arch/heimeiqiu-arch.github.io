@@ -3,7 +3,7 @@ title: "Stripe 用 iDEAL 保存银行账户并开通 SEPA Direct Debit：SetupIn
 date: 2026-11-15
 description: "说明如何使用 Stripe iDEAL 授权收集 IBAN 和 SEPA 扣款授权，生成可复用的 SEPA Direct Debit PaymentMethod，并通过 Webhook 安全开通后续付款。"
 slug: "stripe-ideal-setup-future-sepa-debit-paymentmethod-guide"
-tags: ["Stripe", "iDEAL", "SEPA Direct Debit", "SetupIntent"]
+tags: [ "iDEAL", "SEPA Direct Debit", "SetupIntent"]
 keywords: ["Stripe iDEAL 保存银行账户", "iDEAL SEPA Direct Debit", "Stripe SetupIntent mandate", "SEPA 扣款授权", "generated_sepa_debit"]
 ---
 

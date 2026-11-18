@@ -10,7 +10,6 @@ keywords:
   - Stripe Dashboard 应用
   - Stripe Apps 数据安全
 tags:
-  - Stripe
   - Stripe Apps
   - App Marketplace
   - 数据安全

@@ -10,7 +10,6 @@ keywords:
   - Revolut Pay 退款
   - Revolut Pay 争议处理
 tags:
-  - Stripe
   - 支付方式
   - 欧洲支付
   - 退款与争议

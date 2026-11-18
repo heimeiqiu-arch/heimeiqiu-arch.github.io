@@ -127,6 +127,4 @@ The authorization and final transaction may update at different times. The merch
 
 Estimated authorizations help merchants handle services where the final amount is not immediately known. Clear communication and accurate final processing are essential to avoid confusion.
 
-For information about card products and online payment services, visit [CBPayments](https://www.cbpayments.cc/).
-
 ---

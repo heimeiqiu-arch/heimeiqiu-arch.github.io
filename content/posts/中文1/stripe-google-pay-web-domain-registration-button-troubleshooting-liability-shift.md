@@ -10,9 +10,8 @@ keywords:
   - Stripe Google Pay liability shift
   - Stripe Payment Element Google Pay
 tags:
-  - Stripe
-  - Google Pay
   - 钱包支付
+
 ---
 
 Google Pay 让客户使用 Google 账户中保存的银行卡在网站或应用完成付款。通过 Stripe 接入时，Checkout 通常可在启用支付方式后自动展示 Google Pay；Elements 集成则需要按对应的组件流程配置。网页接入还有一项容易漏掉的要求：所有展示 Google Pay 按钮的域名都需要注册，包括生产和测试域名、根域名及子域名。忘记注册 www 子域或预发布域，常会导致钱包按钮在某些环境中不出现。

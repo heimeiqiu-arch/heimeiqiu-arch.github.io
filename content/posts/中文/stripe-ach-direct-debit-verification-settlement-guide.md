@@ -3,7 +3,7 @@ title: "Stripe ACH Direct Debit 接入指南：银行验证、延迟到账与失
 date: 2026-11-13
 slug: stripe-ach-direct-debit-verification-settlement-guide
 description: "说明 Stripe ACH Direct Debit 的授权、银行账户验证、最长数个工作日的结果确认和退回风险，并梳理订单状态与 Webhook 处理。"
-tags: ["Stripe", "ACH", "银行扣款", "付款方式", "Webhook"]
+tags: [ "ACH", "银行扣款", "付款方式", "Webhook"]
 categories: ["支付与账单"]
 draft: false
 ---

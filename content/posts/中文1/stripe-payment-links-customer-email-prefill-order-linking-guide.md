@@ -4,7 +4,6 @@ date: 2026-11-15
 description: "Stripe Payment Links 客户关联指南：解释付款链接中的邮箱预填、Customer 创建和订单引用如何配合，说明各自边界、Webhook 对账方式及隐私安全检查。"
 slug: stripe-payment-links-customer-email-prefill-order-linking-guide
 tags:
-  - Stripe
   - Payment Links
   - Customer
   - Checkout

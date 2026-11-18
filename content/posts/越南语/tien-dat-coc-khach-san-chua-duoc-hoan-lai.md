@@ -1,5 +1,5 @@
 ---
-title: "CBPayments: Tiền Đặt Cọc Khách Sạn Chưa Được Hoàn Lại Vào Thẻ? Cách Kiểm Tra"
+title: "Tiền Đặt Cọc Khách Sạn Chưa Được Hoàn Lại Vào Thẻ? Cách Kiểm Tra"
 slug: "tien-dat-coc-khach-san-chua-duoc-hoan-lai"
 date: 2026-10-25
 draft: false
@@ -9,13 +9,9 @@ tags:
   - đặt cọc khách sạn
   - tiền giữ trên thẻ
   - hoàn tiền thẻ
-  - CBPayments
+
 ---
-# CBPayments: Tiền Đặt Cọc Khách Sạn Chưa Được Hoàn Lại Vào Thẻ? Cách Kiểm Tra
-
 Sau khi trả phòng, khách sạn nói đã giải phóng tiền đặt cọc nhưng số dư khả dụng trên thẻ vẫn chưa trở lại bình thường? Trước tiên, hãy xác định khoản tiền đó là **ủy quyền tạm thời** hay **giao dịch đã thu hoàn tất**. Hai trường hợp này có cách xử lý khác nhau: khoản ủy quyền có thể được giải phóng, còn khoản đã hạch toán có thể cần một giao dịch hoàn tiền riêng.
-
-Nếu bạn đang tìm hiểu phương thức thanh toán quốc tế, hãy xem điều kiện sử dụng thẻ ảo và thẻ vật lý Visa hoặc Mastercard tại [CBPayments](https://www.cbpayments.cc/) trước khi chọn nhà cung cấp phù hợp.
 
 ## 1. Vì sao tiền đặt cọc vẫn hiển thị sau khi trả phòng?
 
@@ -102,8 +98,6 @@ Nếu khoản tiền đã hạch toán nhưng khách sạn xác nhận hoàn ti�
 
 Không nên mở tranh chấp chỉ vì khoản ủy quyền chưa biến mất ngay. Trước hết, xác minh trạng thái và thời gian xử lý áp dụng cho giao dịch. Điều kiện và thời hạn khiếu nại có thể khác nhau tùy đơn vị phát hành và loại giao dịch.
 
-CBPayments cung cấp các lựa chọn thẻ Visa và Mastercard, gồm thẻ ảo và thẻ vật lý. Nếu bạn đang tìm hiểu các phương án thẻ cho thanh toán trực tuyến hoặc đặt dịch vụ khi đi du lịch, có thể tham khảo [CBPayments](https://www.cbpayments.cc/). Việc giải phóng khoản đặt cọc cụ thể vẫn cần được xác minh với khách sạn và đơn vị phát hành thẻ liên quan.
-
 ## 6. Câu hỏi thường gặp
 
 ### Tiền đặt cọc có tự động trở lại sau khi trả phòng không?
@@ -125,5 +119,3 @@ Nếu chưa biết khách sạn đã gửi yêu cầu chưa, hãy hỏi khách s
 ## Kết luận
 
 Khi tiền đặt cọc khách sạn chưa trở lại thẻ, hãy xác định khoản đó là tiền đang được giữ hay khoản đã thu, đối chiếu hóa đơn trả phòng và yêu cầu thông tin xử lý cụ thể. Biên nhận và mã tham chiếu sẽ giúp khách sạn cùng đơn vị phát hành tra cứu dễ hơn.
-
-Bạn có thể tìm hiểu thêm về các giải pháp thẻ cho thanh toán trực tuyến tại [website CBPayments](https://www.cbpayments.cc/).

@@ -3,7 +3,7 @@ title: "香港網店只接受 Visa 或 Mastercard？信用卡付款前的兼容�
 date: 2026-10-24
 description: "了解香港網店對 Visa、Mastercard 及不同卡片產品的支援差異，掌握付款前的檢查方法。"
 slug: "hong-kong-online-store-visa-mastercard-payment-compatibility"
-tags: ["香港信用卡", "Visa", "Mastercard", "網上付款"]
+tags: ["香港信用卡", "網上付款"]
 ---
 
 # 香港網店只接受 Visa 或 Mastercard？信用卡付款前的兼容性檢查
@@ -31,8 +31,6 @@ Visa 和 Mastercard 都是支付卡組織，提供支付網絡及相關規則。
 如果商戶明確不支援你的卡片，應改用它正式接受的付款方式；如果商戶確認支援，則可根據發卡平台提供的拒絕原因繼續排查。
 
 ## 四、選擇卡片時，不應只看標誌
-
-選擇網上付款工具時，也應比較卡片類型、交易限額、費用、匯率、安全驗證及產品條款。你可以到 [CBPayments 官方網站](https://www.cbpayments.cc/) 了解 Visa 和 Mastercard 虛擬卡及實體卡的相關選項。使用前仍應核對實際產品條款及商戶支援情況。
 
 ## 總結
 

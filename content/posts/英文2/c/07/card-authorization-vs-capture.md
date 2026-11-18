@@ -136,5 +136,3 @@ You can ask the merchant to cancel the order or void the authorization. Whether 
 Authorization and capture are related but different stages of card payment processing. Authorization checks whether a transaction can proceed, while capture submits an approved transaction for collection.
 
 Knowing the difference makes it easier to understand pending payments, delayed charges, and temporary holds. If a transaction appears unusual, confirm its status with the merchant and card issuer before making another payment.
-
-If you use virtual or physical cards for online purchases and subscriptions, review the transaction status and available balance in your card account before retrying a payment. You can learn more about card options at [CBPayments](https://www.cbpayments.cc/).

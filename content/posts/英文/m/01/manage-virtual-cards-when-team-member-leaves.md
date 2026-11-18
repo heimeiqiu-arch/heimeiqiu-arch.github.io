@@ -138,8 +138,6 @@ Virtual cards can make payment management more flexible when a business uses dis
 
 The benefits depend on how the cards are configured and managed. A card alone does not provide complete visibility into merchant account ownership, subscription terms, or employee access.
 
-If you use a platform such as [CBPayments](https://www.cbpayments.cc/), review the available card controls and transaction information to determine how they fit your company's offboarding process. Confirm which actions are supported by the provider rather than assuming that every card can be frozen, replaced, or closed in the same way.
-
 ## A practical offboarding checklist
 
 Before completing an employee's payment offboarding, confirm that you have:

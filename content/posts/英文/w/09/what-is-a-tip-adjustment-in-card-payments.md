@@ -117,5 +117,3 @@ The merchant must follow applicable law, network rules, and the customer's instr
 No. Support depends on the terminal, processor, acquiring setup, merchant category, and payment method.
 
 Tip adjustments are a common example of why the initial authorization amount and final card transaction amount may differ. Merchants should use the correct processing method and keep clear records of the customer's tip instruction.
-
-For information about card products and online payment services, visit [CBPayments](https://www.cbpayments.cc/).

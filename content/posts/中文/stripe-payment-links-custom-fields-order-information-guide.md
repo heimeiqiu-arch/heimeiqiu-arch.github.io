@@ -3,7 +3,7 @@ title: "Stripe Payment Links 自定义字段怎么用？收集订单信息与安
 date: 2026-11-13T11:55:00+08:00
 slug: stripe-payment-links-custom-fields-order-information-guide
 description: "Stripe Payment Links 的文本、数字和下拉自定义字段如何配置？本文讲解字段用途、付款后读取方式、订单关联、信息校验、隐私边界与常见故障排查。"
-tags: ["Stripe", "Payment Links", "自定义字段", "Checkout"]
+tags: [ "Payment Links", "自定义字段", "Checkout"]
 categories: ["支付指南"]
 draft: false
 ---

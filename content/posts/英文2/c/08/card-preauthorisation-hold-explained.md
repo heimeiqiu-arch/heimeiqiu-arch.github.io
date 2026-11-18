@@ -95,8 +95,6 @@ A virtual card may receive authorisation holds if the card product and merchant 
 
 Before using a virtual card for a hotel, rental service or another merchant that may reserve funds, check whether the card supports preauthorisations and whether the available balance is sufficient for both the hold and other planned payments.
 
-CBPayments offers virtual and physical card options on supported Visa and Mastercard products. Review product terms, card limits and merchant restrictions at [CBPayments](https://www.cbpayments.cc/) before relying on a card for a particular booking.
-
 ## Final Thoughts
 
 A card preauthorisation hold temporarily reserves funds or credit while a merchant prepares to complete a transaction. It can reduce your available balance without being a final charge.

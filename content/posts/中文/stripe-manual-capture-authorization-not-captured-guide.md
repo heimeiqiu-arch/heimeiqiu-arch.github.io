@@ -3,7 +3,7 @@ title: "Stripe 付款授权成功但没有扣款？Manual Capture 预授权与�
 date: 2026-11-13T00:00:00+08:00
 slug: "stripe-manual-capture-authorization-not-captured-guide"
 description: "Stripe PaymentIntent 显示 requires_capture 或 amount_capturable 大于零时，了解预授权与实际扣款的区别、捕获期限、部分捕获及订单处理方式。"
-tags: ["Stripe", "Manual Capture", "预授权", "PaymentIntent", "银行卡扣款", "订单履约"]
+tags: [ "Manual Capture", "预授权", "PaymentIntent", "银行卡扣款", "订单履约"]
 categories: ["支付问题"]
 draft: false
 ---

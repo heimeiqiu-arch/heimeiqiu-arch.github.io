@@ -3,7 +3,7 @@ title: "Stripe Checkout 为什么不显示 Apple Pay 或 Google Pay？排查指�
 date: 2026-11-13T12:05:00+08:00
 slug: stripe-checkout-apple-pay-google-pay-not-showing-troubleshooting
 description: "Stripe Checkout 页面没有 Apple Pay 或 Google Pay 按钮怎么办？本文从账户资格、设备与浏览器、付款方式设置、域名验证、币种和测试环境逐步排查。"
-tags: ["Stripe", "Apple Pay", "Google Pay", "Checkout"]
+tags: ["Checkout"]
 categories: ["支付指南"]
 draft: false
 ---

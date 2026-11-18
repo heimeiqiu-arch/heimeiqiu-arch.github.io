@@ -10,7 +10,6 @@ keywords:
   - Zip dispute Stripe
   - Stripe Buy Now Pay Later
 tags:
-  - Stripe
   - Zip
   - 分期付款
 ---

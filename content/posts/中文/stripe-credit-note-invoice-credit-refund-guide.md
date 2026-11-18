@@ -3,7 +3,7 @@ title: "Stripe Credit Note 是退款吗？发票抵扣与贷项通知指南"
 date: 2026-11-13T13:18:00+08:00
 slug: stripe-credit-note-invoice-credit-refund-guide
 description: "Stripe Credit Note 如何更正已最终化的 Invoice？本文解释发票贷项、银行卡退款和 Customer 余额的区别，以及付款前后抵扣、税务记录和 Webhook 对账。"
-tags: ["Stripe", "Credit Note", "Invoice", "退款"]
+tags: [ "Credit Note", "Invoice", "退款"]
 categories: ["支付指南"]
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Can You Use a Virtual Card on AliExpress? Payment Guide | CBPayments"
+title: "Can You Use a Virtual Card on AliExpress? Payment Guide"
 slug: "can-you-use-a-virtual-card-on-aliexpress"
 url: "/posts/英文/can-you-use-a-virtual-card-on-aliexpress/"
 date: 2026-10-15
@@ -13,8 +13,6 @@ tags:
   - currency conversion
   - payment troubleshooting
 ---
-
-# Can You Use a Virtual Card on AliExpress? Payment Guide | CBPayments
 
 AliExpress connects shoppers with sellers offering products across a wide range of categories. If you want to pay online without using the details of your everyday payment card, you may be wondering whether a virtual card can be used for an AliExpress order.
 

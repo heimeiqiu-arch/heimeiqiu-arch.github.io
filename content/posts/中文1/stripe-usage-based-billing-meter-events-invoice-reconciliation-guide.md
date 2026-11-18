@@ -3,7 +3,7 @@ title: "Stripe 用量计费怎么设计：Meter、用量事件和订阅发票对
 date: 2026-11-14
 description: "介绍 Stripe Billing 用量计费的产品设计、计量事件上报、周期聚合、异常修正和发票对账，帮助 SaaS 团队构建可解释的按量收费流程。"
 slug: "stripe-usage-based-billing-meter-events-invoice-reconciliation-guide"
-tags: ["Stripe", "Stripe Billing", "用量计费", "Meter"]
+tags: [ "Stripe Billing", "用量计费", "Meter"]
 keywords: ["Stripe 用量计费", "Stripe Billing Meter", "用量事件", "按量收费", "订阅用量对账"]
 ---
 

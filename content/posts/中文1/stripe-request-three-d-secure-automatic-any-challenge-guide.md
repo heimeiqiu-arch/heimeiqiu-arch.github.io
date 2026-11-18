@@ -10,7 +10,6 @@ keywords:
   - Stripe Radar SCA Engine
   - PaymentIntent 3DS 设置
 tags:
-  - Stripe
   - 3D Secure
   - Radar
   - PaymentIntent
