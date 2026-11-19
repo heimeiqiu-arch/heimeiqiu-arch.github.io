@@ -107,6 +107,9 @@ Stripe API 返回的 Refund 对象包含金额、原始 Charge 或 PaymentIntent
 
 Stripe Terminal 负责线下卡片支付的采集，退款则应围绕已成功的 Stripe 支付对象和商家的退货订单处理。把原支付、部分退款、退款状态和门店商品退货分开管理，再用服务端校验、幂等记录与日终对账连接起来，能减少错退、重复退款和客服对账问题。
 
+
+{{< cbpayments-button >}}
+
 ## 官方资料
 
 - [Stripe API：Create a refund](https://docs.stripe.com/api/refunds/create)
