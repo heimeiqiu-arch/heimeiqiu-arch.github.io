@@ -121,3 +121,7 @@ Stripe 文档当前说明，usage-based billing 收入可能在发票最终确�
 Stripe Revenue Recognition 报表中的 Booked、Recognized 和 Deferred 描述不同的业务阶段：发票确定、收入已赚取以及未来待履约金额。核对时先确认期间和数据更新时间，再从 Overview 转到 Trial balance、Period summary 和交易级明细，逐项检查 Invoice line item 周期、退款、折扣、税费与科目映射。
 
 维护 Stripe 对象数据的一致性，记录收入确认规则和总账映射变更，能让月结复核更容易追踪。Stripe 会计报表是自动化工具，业务方仍需结合自己的会计政策确定收入处理方法。具体报表定义、配置要求和数据延迟请参考 [Revenue Recognition 报表指南](https://docs.stripe.com/revenue-recognition/reports)、[收入确认方法说明](https://docs.stripe.com/revenue-recognition/methodology) 和 [数据新鲜度指南](https://docs.stripe.com/revenue-recognition/data-freshness)。
+
+---
+
+{{< cbpayments-button >}}
