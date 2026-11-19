@@ -49,7 +49,7 @@
   {{- end }}
 
   {{- if and .File (eq .File.Dir "posts/中文2") }}
-    {{- if not (strings.Contains $rendered "访问 CBPayments") }}
+    {{- if not (strings.Contains .Content "访问 CBPayments") }}
     <aside class="promo" aria-label="CBPayments">
       <div class="promo-actions">
         <a class="promo-btn promo-btn--primary"
