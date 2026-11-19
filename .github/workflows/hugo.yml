@@ -87,7 +87,7 @@ jobs:
               for field in ("title", "description", "slug", "tags"):
                   if not re.search(rf"(?m)^{field}:\s*\S", front):
                       errors.append(f"{path}: missing or empty {field}")
-              if re.match(r"content/posts/中文(?:\\d+)?/", path):
+              if path.startswith("content/posts/中文"):
                   chinese_chars = len(re.findall(r"[\u3400-\u4DBF\u4E00-\u9FFF]", body))
                   print(f"{path}: {chinese_chars} Chinese characters")
                   if chinese_chars < 2000:
