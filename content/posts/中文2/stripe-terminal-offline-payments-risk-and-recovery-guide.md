@@ -96,6 +96,9 @@ POS 界面可以使用“已记录，等待网络恢复确认”这类明确提�
 
 Stripe Terminal 离线模式能帮助门店应对短时互联网故障，但它只是延迟联网处理支付，并不是离线授权或无风险收款。把“收银操作完成”“交易已暂存”和“Stripe 已确认支付”分开记录，再通过设备支持核验、金额限制、状态监听和恢复后对账管理风险，才能让门店在网络波动时维持流程，同时避免把未授权交易误当成已到账收入。
 
+
+{{< cbpayments-button >}}
+
 ## 官方资料
 
 - [Stripe Terminal：Accept offline payments](https://docs.stripe.com/terminal/features/operate-offline/overview)
