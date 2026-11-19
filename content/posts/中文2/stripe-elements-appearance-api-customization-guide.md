@@ -98,3 +98,7 @@ Payment Element 中的支付方式和字段会根据配置、国家、货币和�
 Stripe Elements Appearance API 适合在受控范围内调整 Payment Element 的品牌观感。先确认集成类型，再选主题、设置颜色字体变量和输入布局，最后用公开规则类微调特定组件。保持规则简洁，并仔细检查错误、聚焦、选中、移动端和不同支付方式状态。
 
 把样式配置当作支付体验的一部分，而不是上线前的装饰收尾。可读的标签、明确的错误状态和清晰的焦点指示直接影响客户能否完成支付。更多可用变量、规则类和集成说明请参考 [Stripe Elements Appearance API 官方文档](https://docs.stripe.com/elements/appearance-api)、[Checkout 外观设置](https://docs.stripe.com/payments/checkout/customization/appearance) 和 [Stripe.js Elements 参考](https://docs.stripe.com/js/elements_object/create)。
+
+---
+
+{{< cbpayments-button >}}
