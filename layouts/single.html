@@ -48,6 +48,20 @@
   </div>
   {{- end }}
 
+  {{- if and .File (eq .File.Dir "posts/中文2") }}
+    {{- if not (strings.Contains $rendered "访问 CBPayments") }}
+    <aside class="promo" aria-label="CBPayments">
+      <div class="promo-actions">
+        <a class="promo-btn promo-btn--primary"
+           href="https://sites.google.com/view/cbpayments/"
+           target="_blank" rel="noopener noreferrer">
+          访问 CBPayments
+        </a>
+      </div>
+    </aside>
+    {{- end }}
+  {{- end }}
+
   {{- partial "extend_post_content.html" . }}
   {{- if eq .Section "posts" }}
   {{- partial "brand_disclaimer.html" . }}
