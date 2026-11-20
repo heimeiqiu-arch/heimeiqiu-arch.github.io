@@ -93,5 +93,5 @@ Zoom付款失败时，先确定问题发生在订阅续费、升级或发票支�
 - [Zoom：排查付款无法处理](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085527)
 - [Zoom：信用卡不允许此交易类型](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085521)
 - [Zoom：账单门户使用指南](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060580)
-- [Zoom：账单付款错误代码](https://support.zoom.com/hc/en/article?ampDeviceId=22fcaf77-1b89-47f6-8a58-ee2898ce58d4&ampSessionId=undefined&id=zm_kb&sysparm_article=KB0069484)
+- [Zoom：账单付款错误代码](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0069484)
 - [Zoom：UZN5614错误排查](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085784)
