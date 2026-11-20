@@ -1,6 +1,6 @@
 ---
 title: "Fiverr付款失败或重复扣款怎么办？待处理授权与订单核对"
-date: 2026-11-21T04:00:00+08:00
+date: 2026-11-20T13:45:00+08:00
 slug: "fiverr-payment-failed-duplicate-pending-charge-guide"
 description: "Fiverr购买服务时信用卡被拒、PayPal付款失败或银行显示重复Pending交易？了解国际付款、3D Secure、结账重试和平台订单查询方法。"
 keywords: ["Fiverr付款失败", "Fiverr支付被拒", "Fiverr重复扣款", "Fiverr待处理扣款", "Fiverr订单付款问题"]

@@ -1,6 +1,6 @@
 ---
 title: "PlayStation Store付款失败怎么办？银行卡无法添加与钱包充值排查"
-date: 2026-11-20T22:30:00+08:00
+date: 2026-11-20T11:00:00+08:00
 slug: "playstation-store-payment-declined-wallet-funding-guide"
 description: "PS Store信用卡被拒、付款方式无法添加或PSN钱包充值失败时，检查账号地区、账单资料、银行线上付款设置和错误代码。"
 keywords: ["PlayStation Store付款失败", "PS Store信用卡被拒", "PSN钱包充值失败", "PlayStation银行卡无法添加", "PS Store支付错误"]

@@ -1,6 +1,6 @@
 ---
 title: "Canva Pro付款失败怎么办？续费重试期限、App Store账单与设计文件"
-date: 2026-11-21T01:30:00+08:00
+date: 2026-11-20T12:30:00+08:00
 slug: "canva-payment-failed-subscription-retry-guide"
 description: "Canva Pro或Teams付款失败后如何恢复？了解Canva官方的续费重试安排、银行拒付排查、App Store或Google Play订阅入口和设计文件状态。"
 keywords: ["Canva付款失败", "Canva Pro续费失败", "Canva银行卡被拒", "Canva Teams付款失败", "Canva设计文件订阅取消"]

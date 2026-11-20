@@ -1,6 +1,6 @@
 ---
 title: "Disney+付款未处理怎么办？银行卡被拒、地区不符与第三方账单排查"
-date: 2026-11-21T00:00:00+08:00
+date: 2026-11-20T11:45:00+08:00
 slug: "disney-plus-payment-not-processed-subscription-guide"
 description: "Disney+提示付款未处理、银行卡被拒或订阅暂停时，先确认直接订阅还是第三方代扣，再核对账单资料、付款地区、PayPal和会员账单记录。"
 keywords: ["Disney+付款失败", "Disney Plus付款未处理", "Disney+信用卡被拒", "Disney+续费失败", "Disney+账单地区不符"]

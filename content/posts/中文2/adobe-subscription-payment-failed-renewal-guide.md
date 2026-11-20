@@ -1,6 +1,6 @@
 ---
 title: "Adobe 订阅付款失败、Creative Cloud 无法续费怎么办？"
-date: 2026-11-20T18:00:00+08:00
+date: 2026-11-20T09:00:00+08:00
 slug: "adobe-subscription-payment-failed-renewal-guide"
 description: "Adobe Creative Cloud 或 Acrobat 续订扣款失败、账号出现 Billing issue 怎么办？本文说明核对 Adobe ID、更新付款方式、重试欠款和恢复订阅的步骤。"
 keywords: ["Adobe付款失败", "Adobe订阅无法续费", "Creative Cloud扣款失败", "Adobe Billing issue"]

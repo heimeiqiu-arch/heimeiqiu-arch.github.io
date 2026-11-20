@@ -1,6 +1,6 @@
 ---
 title: "Cash App Card付款被拒怎么办？余额、卡片锁定与交易状态排查"
-date: 2026-11-20T22:00:00+08:00
+date: 2026-11-20T10:45:00+08:00
 slug: "cash-app-card-declined-transaction-troubleshooting-guide"
 description: "Cash App Card线上或线下消费被拒时，检查Cash余额、卡片锁定、交易限额、商户支持和待处理授权，并通过官方渠道联系Cash App或发卡银行。"
 keywords: ["Cash App Card被拒", "Cash App付款失败", "Cash App卡无法使用", "Cash App余额不足", "Cash App交易被拒"]

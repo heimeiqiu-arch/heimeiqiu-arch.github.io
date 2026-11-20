@@ -1,6 +1,6 @@
 ---
 title: "Nintendo eShop付款失败怎么办？信用卡错误、3D Secure与待处理扣款"
-date: 2026-11-20T23:00:00+08:00
+date: 2026-11-20T11:15:00+08:00
 slug: "nintendo-eshop-payment-error-pending-charge-guide"
 description: "Nintendo eShop信用卡无法添加、付款错误或出现待处理扣款时，按错误代码核对账单邮编、3D Secure验证、账号地区和订单状态。"
 keywords: ["Nintendo eShop付款失败", "Nintendo Switch信用卡被拒", "Nintendo付款错误", "eShop 3D Secure失败", "Nintendo待处理扣款"]

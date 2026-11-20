@@ -1,6 +1,6 @@
 ---
 title: "Temu付款被拒怎么办？信用卡、PayPal与待处理扣款排查"
-date: 2026-11-20T19:30:00+08:00
+date: 2026-11-20T09:30:00+08:00
 slug: "temu-payment-declined-card-checkout-guide"
 description: "Temu结账时提示付款被拒、订单未创建或银行出现待处理扣款？按卡片资料、发卡行验证、浏览器环境和订单状态逐步排查，减少重复付款。"
 keywords: ["Temu付款被拒", "Temu支付失败", "Temu信用卡付款失败", "Temu待处理扣款", "Temu订单付款问题"]

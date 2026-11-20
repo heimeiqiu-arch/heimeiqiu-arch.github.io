@@ -1,6 +1,6 @@
 ---
 title: "Crunchyroll Premium付款被拒怎么办？银行卡、备用付款与订阅入口"
-date: 2026-11-21T03:00:00+08:00
+date: 2026-11-20T13:15:00+08:00
 slug: "crunchyroll-payment-declined-premium-method-guide"
 description: "Crunchyroll Premium订阅时银行卡被拒、付款方式无法添加或会员没有恢复？核对账单资料、可用付款方式、备用卡与Apple、Google Play或主机订阅渠道。"
 keywords: ["Crunchyroll付款被拒", "Crunchyroll Premium支付失败", "Crunchyroll信用卡被拒", "Crunchyroll付款方式", "Crunchyroll订阅续费失败"]

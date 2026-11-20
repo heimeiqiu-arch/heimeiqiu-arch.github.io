@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 订阅付款被拒或显示逾期怎么办？"
-date: 2026-11-20T19:00:00+08:00
+date: 2026-11-20T09:15:00+08:00
 slug: "microsoft-365-subscription-payment-declined-past-due-guide"
 description: "Microsoft 365 自动续费失败、订阅显示 past due 或 Office 提示账户通知怎么办？本文说明确认账号、查看逾期账单、更新付款方式并在对应管理平台重新付款。"
 keywords: ["Microsoft 365付款失败", "Microsoft订阅付款被拒", "Office订阅逾期", "Microsoft 365续费失败"]

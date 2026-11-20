@@ -1,6 +1,6 @@
 ---
 title: "DoorDash付款方式失败怎么办？订单被拒、备用卡与待处理扣款"
-date: 2026-11-20T20:30:00+08:00
+date: 2026-11-20T10:00:00+08:00
 slug: "doordash-payment-method-failed-order-guide"
 description: "DoorDash下单时付款失败、订单延迟或银行出现待处理扣款？本文说明检查订单、更新银行卡、备用付款方式及联系支持的安全步骤。"
 keywords: ["DoorDash付款失败", "DoorDash支付被拒", "DoorDash银行卡无法付款", "DoorDash备用付款方式", "DoorDash待处理扣款"]

@@ -1,6 +1,6 @@
 ---
 title: "Discord Nitro付款失败怎么办？银行卡地址、待处理扣款与订阅账单"
-date: 2026-11-21T03:30:00+08:00
+date: 2026-11-20T13:30:00+08:00
 slug: "discord-nitro-payment-failed-pending-charge-guide"
 description: "Discord Nitro付款显示失败或无效、银行卡出现Pending扣款、订阅权益没有恢复时，核对账单地址、付款授权、订阅入口和Discord账户账单记录。"
 keywords: ["Discord Nitro付款失败", "Discord支付无效", "Discord Nitro银行卡被拒", "Discord待处理扣款", "Discord订阅账单问题"]

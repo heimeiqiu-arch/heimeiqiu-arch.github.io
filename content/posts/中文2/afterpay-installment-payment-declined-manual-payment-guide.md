@@ -1,6 +1,6 @@
 ---
 title: "Afterpay分期扣款失败怎么办？更新银行卡与手动还款指南"
-date: 2026-11-20T21:30:00+08:00
+date: 2026-11-20T10:30:00+08:00
 slug: "afterpay-installment-payment-declined-manual-payment-guide"
 description: "Afterpay自动扣款失败、分期逾期提示或结账订单被拒时，先区分新订单和既有分期，再核对银行卡、还款计划及手动付款状态。"
 keywords: ["Afterpay付款失败", "Afterpay分期扣款失败", "Afterpay自动扣款被拒", "Afterpay手动还款", "Afterpay银行卡更新"]

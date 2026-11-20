@@ -1,6 +1,6 @@
 ---
 title: "Klarna付款被拒或分期扣款失败怎么办？结账与还款排查"
-date: 2026-11-20T21:00:00+08:00
+date: 2026-11-20T10:15:00+08:00
 slug: "klarna-payment-declined-installment-failed-guide"
 description: "Klarna结账不显示分期、付款申请未获批准或到期扣款失败？本文区分商户订单、Klarna付款计划与银行卡扣款，说明核对状态和联系官方支持的方法。"
 keywords: ["Klarna付款被拒", "Klarna支付失败", "Klarna分期付款失败", "Klarna还款失败怎么办", "Klarna结账不通过"]

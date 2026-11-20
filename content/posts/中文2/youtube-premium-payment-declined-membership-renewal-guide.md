@@ -1,6 +1,6 @@
 ---
 title: "YouTube Premium续费付款失败怎么办？检查订阅平台与Google Pay账单"
-date: 2026-11-20T23:30:00+08:00
+date: 2026-11-20T11:30:00+08:00
 slug: "youtube-premium-payment-declined-membership-renewal-guide"
 description: "YouTube Premium或YouTube Music Premium续费被拒、会员权益暂停或付款显示待处理时，先确认订阅来源，再修复Google Pay付款资料和核对账单状态。"
 keywords: ["YouTube Premium付款失败", "YouTube Premium续费被拒", "YouTube Music Premium扣款失败", "YouTube会员付款方式", "Google Pay待处理扣款"]

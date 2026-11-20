@@ -1,6 +1,6 @@
 ---
 title: "Zoom订阅付款失败怎么办？信用卡被拒、账单门户与企业卡限制"
-date: 2026-11-21T00:30:00+08:00
+date: 2026-11-20T12:00:00+08:00
 slug: "zoom-subscription-payment-declined-billing-portal-guide"
 description: "Zoom订阅续费或升级时显示付款无法处理、信用卡不允许该交易或UZN5614错误？检查账单门户、银行卡周期扣款权限、企业支出限制与发票状态。"
 keywords: ["Zoom付款失败", "Zoom信用卡被拒", "Zoom订阅续费失败", "Zoom付款无法处理", "Zoom账单错误UZN5614"]

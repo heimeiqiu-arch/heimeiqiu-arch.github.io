@@ -1,6 +1,6 @@
 ---
 title: "Google One付款失败怎么办？储存空间续费、家庭付款与第三方订阅"
-date: 2026-11-21T02:30:00+08:00
+date: 2026-11-20T13:00:00+08:00
 slug: "google-one-payment-failed-storage-membership-guide"
 description: "Google One续费被拒或储存空间付款失败时，确认Google Play、Apple或合作方账单来源，检查付款资料、家庭付款人和超额储存的后续影响。"
 keywords: ["Google One付款失败", "Google One订阅扣款失败", "Google One信用卡被拒", "Google储存空间付款问题", "Google One家庭付款"]
