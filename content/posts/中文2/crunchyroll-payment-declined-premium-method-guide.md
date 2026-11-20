@@ -90,7 +90,7 @@ Crunchyroll Premium付款被拒时，先确认订阅来自官网还是第三方�
 
 ## 官方信息来源
 
-- [Crunchyroll：为什么银行卡被拒？](https://help.crunchyroll.com/hc/en-us/articles/18505284848148-Why-was-my-card-declined)
+- [Crunchyroll：为什么银行卡被拒？](https://help.crunchyroll.com/hc/en-us/articles/18510532081940-What-is-a-preauthorization-charge/articles/18505284848148-Why-was-my-card-declined)
 - [Crunchyroll：如何更改付款方式？](https://help.crunchyroll.com/hc/en-us/articles/18501984772628-How-do-I-change-my-payment-method)
 - [Crunchyroll：可用付款方式](https://help.crunchyroll.com/hc/en-us/articles/18812304848148-What-payment-methods-can-I-use)
 - [Crunchyroll：什么是预授权扣款？](https://help.crunchyroll.com/hc/en-us)
