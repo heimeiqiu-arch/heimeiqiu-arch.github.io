@@ -94,4 +94,4 @@ Nintendo eShop付款失败时，先区分银行卡登记、钱包充值和内容
 - [Nintendo：3D Secure在线付款验证问题](https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/3D-Secure-Issues-with-the-online-payment-authentication-1921168.html)
 - [Nintendo：待处理资金、重复扣款和失败购买](https://en-americas-support.nintendo.com/app/answers/detail/a_id/11275/p/603/c/193)
 - [Nintendo：错误代码2813-0119](https://en-americas-support.nintendo.com/app/answers/detail/a_id/57776/~/error-code%3A-2813-0119)
-- [Nintendo：钱包充值问题排查](https://www.playstation.com/en-us/support/store/how-to-troubleshoot-wallet-funding-issues/)
+- [Nintendo：钱包充值问题排查](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49641/p/897/c/189)
