@@ -62,6 +62,6 @@ Nintendo 官方针对已经购买但主机未显示的情况建议检查互联�
 
 [任天堂官方：Nintendo eShop 游戏未显示在 HOME Menu](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54167/p/897/c/186)  
 [任天堂官方：Nintendo.com 购买的游戏未显示在主机](https://en-americas-support.nintendo.com/app/answers/detail/a_id/12427/~/game-purchased-on-nintendo.com-is-not-appearing-on-my-console)  
-[任天堂官方：虚拟游戏卡与重新下载指南](https://en-americas-support.nintendo.com/app/answers/detail/a_id/)
+[任天堂官方：虚拟游戏卡与重新下载指南](https://en-americas-support.nintendo.com/app/answers/detail/a_id/67891/p/897/c/186)
 
 {{< cbpayments-button >}}
