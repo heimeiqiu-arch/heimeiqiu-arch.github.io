@@ -1,0 +1,77 @@
+---
+title: "Midjourney 付款失败怎么办？Pending 临时扣款、账单地址与套餐暂停"
+date: 2026-11-25
+slug: midjourney-payment-declined-pending-hold-paused-plan-guide
+description: "Midjourney订阅扣款失败或套餐变为Paused？检查账单地址、银行卡状态和收据邮件，区分失败授权与成功付款。"
+keywords: ["Midjourney付款失败", "Midjourney payment declined", "Midjourney Pending扣款", "Midjourney套餐Paused", "Midjourney更新付款方式"]
+categories: ["支付问题"]
+tags: ["Midjourney", "订阅付款", "银行卡拒付", "Pending授权", "账单地址"]
+---
+
+# Midjourney 付款失败怎么办？先区分临时授权和成功扣款
+
+购买或续订Midjourney时，如果页面提示付款未成功，银行App却出现一笔Pending记录，不要马上认为订阅已经付款，也不要连续点击付款。Midjourney官方文档说明，付款被拒绝时，银行账户可能出现待处理交易；这类记录并不代表付款成功，通常会自动消失。成功付款则会收到Midjourney发来的收据和发票邮件，可用来核实订阅是否真正建立。
+
+如果续订付款失败，Midjourney套餐可能显示Paused。先核对账单资料、银行授权和收据，再通过官网的Manage Subscription页面更新付款方式。下文帮助你判断交易处于失败、待处理还是成功状态，并说明如何恢复订阅。
+
+## 一、先看Midjourney订阅状态与收据邮件
+
+登录midjourney.com，打开Manage Subscription页面，查看当前计划、续费日期、账单区域和套餐状态。若计划显示Paused，说明续订付款未正常完成，需要检查付款方式并按照页面提示处理。不要只根据银行余额减少判断计划已续费。
+
+搜索注册邮箱中的Midjourney收据或发票邮件。Midjourney官方说明，成功付款会发送收据和发票；如果没有收到邮件，检查垃圾邮件、促销分类以及Manage Subscription页面的付款记录。也确认登录的是购买订阅时使用的账号，以免在另一个账号中看不到有效套餐。
+
+## 二、Pending交易不等于付款成功
+
+如果银行账单出现Midjourney相关Pending或待处理授权，而官网仍显示付款失败或计划暂停，这笔记录可能只是授权尝试。Midjourney官方说明，拒绝的付款可能在银行账户中出现临时Pending记录，但这不代表交易成功，记录通常会自动消失。等待发卡行更新，并以最终入账状态和Midjourney收据为准。
+
+不要因为暂时减少的可用余额就重复付多次，也不要在不确定状态下购买另一档计划。若银行后来把记录转为已入账，但Midjourney没有订单或收据，保留银行记录和错误提示，联系Midjourney账单支持核实。银行显示和订阅系统到账可能不是同一个时点。
+
+## 三、核对卡号、有效期和账单地址
+
+检查付款方式中的姓名、卡号、有效期、安全码和账单地址是否正确。Midjourney官方建议确保账单地址与发卡行登记地址匹配，即使细小差异也可能造成付款问题。确认邮编、国家或地区及地址格式与银行记录一致，不要填写虚假的国家信息来绕过限制。
+
+同时检查银行卡是否开通线上或跨境交易，账户余额或信用额度是否足够，以及是否存在交易限额。若卡片信息刚更新，重新从Manage Subscription的Edit Billing页面保存并设为默认方式。不要通过邮件或社交软件把完整卡号、CVC、安全码或验证码发给所谓客服。
+
+## 四、发卡行拒绝时如何排查
+
+若账单资料都正确但付款仍失败，Midjourney官方建议联系银行卡发行方确认是否拦截交易。致电银行卡背面官方电话或使用银行App，询问是否有一笔Midjourney付款被拒绝、是否需要批准线上或外币交易。银行可能不会在账单中显示失败尝试，因此要提供大概金额和时间。
+
+Midjourney通过Stripe处理付款，结账页面显示的支付方式会因地区而异。仅使用当前结账页面提供的选项；如果某种支付方式没有显示，不能假设客服可以为个人账户手动开通。若银行确认没有收到授权请求，可能需要联系Midjourney账单支持进一步排查。
+
+## 五、在官网更新付款方式
+
+登录Midjourney后进入Manage Subscription，选择Edit Billing打开账单门户。可以添加一张可用的卡片，并按页面选项将其设为默认付款方式。官方文档提示，处于有效订阅时通常需要至少保留一种付款方式；若套餐已经结束，页面可能没有Edit Billing按钮，可通过官方页面提供的邮箱链接打开账单门户。
+
+完成更新后检查账单地址与发卡行记录一致，再按页面方式重试一次。不要同时在多个浏览器或设备反复提交付款。付款页面显示成功后，再检查套餐状态和收据邮件；若仍是Paused或Pending，保留页面信息并联系账单支持。
+
+## 六、套餐暂停后怎样恢复访问
+
+当续订付款失败导致计划Paused，先登录Manage Subscription查看是否有恢复或继续订阅操作。更新付款方式后，按账号页面提示重试续费，不要先取消并购买另一份计划，除非官方界面明确要求这样做。重复购买可能产生不同订阅周期或额外扣款。
+
+如果计划状态已更新但功能仍不可用，退出并重新登录，刷新账户页面后确认当前账号和订阅计划。若仍未恢复，联系Midjourney账单支持，提供Midjourney ID、付款时间、计划状态截图和收据邮件状态。Midjourney官方建议账单问题发邮件给billing support，并在邮件中包含Midjourney ID帮助定位账户。
+
+## 七、判断是否发生重复收费
+
+Midjourney官方的付款帮助指出，失败付款可能显示为待处理授权；没有收到多封成功收据时，不应只凭两条银行记录就认定已被重复正式收费。分别检查Pending和已入账状态、Midjourney收据邮件数量和订阅页面的账单记录。若出现两笔已完成扣款或两张成功收据，再向账单支持报告。
+
+准备两笔交易的日期、金额、银行状态和收据编号。不要删除邮件或把卡片完整信息发到公开社区。若银行记录最终均入账，但官网只显示一个订阅，联系Midjourney核对；同时可向发卡行询问交易状态和争议流程。
+
+## 八、官方支持需要哪些信息
+
+向Midjourney账单支持说明错误文字、付款时间、计划类型、页面状态、是否收到收据和银行交易状态。官方支持页面建议账单咨询发送到billing@midjourney.com，并附上Midjourney ID。可在账号设置中查看ID，或按官网说明在Discord中查询；不要在公开论坛贴出账号标识和账单资料。
+
+客服不应要求密码、Discord验证码、银行卡安全码或远程控制设备。只通过官方帮助页面确认联系方式。若银行信息显示未收到付款请求而Midjourney反复报错，将该信息一并说明，避免只重复尝试同一张卡。
+
+## 总结
+
+Midjourney付款失败时，先确认Manage Subscription中的套餐状态、成功收据和银行交易是否已最终入账。官方说明，失败尝试可能产生Pending临时授权，这不代表付款成功；续订付款失败还可能使套餐Paused。核对账单地址、卡片状态和发卡行拒绝原因后，再从官网账单门户更新付款方式。
+
+不要因Pending记录反复付款。若银行显示正式扣款但Midjourney没有收据或订阅，保存证据和Midjourney ID，通过官方账单支持核验。
+
+## 官方参考
+
+- [Midjourney：付款失败的排查步骤](https://docs.midjourney.com/hc/en-us/articles/27868801964045-Unsuccessful-Payments)
+- [Midjourney：编辑付款信息](https://docs.midjourney.com/hc/en-us/articles/25385791792781-Editing-Your-Payment-Information)
+- [Midjourney：联系账单支持](https://docs.midjourney.com/hc/en-us/articles/32638309968141-Contacting-Support)
+
+{{< cbpayments-button >}}
