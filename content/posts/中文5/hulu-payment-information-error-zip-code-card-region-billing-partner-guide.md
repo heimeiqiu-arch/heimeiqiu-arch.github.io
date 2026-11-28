@@ -82,6 +82,6 @@ Hulu付款信息无法提交时，先确认直订还是第三方代扣，再逐�
 
 - [Hulu帮助中心：付款信息无法处理时的排查方式](https://help.hulu.com/article/hulu-trouble-submitting-payment-information)
 - [Hulu帮助中心：更改付款方式或账单地址](https://www.hulu.com/account)
-- [Hulu帮助中心：查看是否由第三方管理账单](https://help.hulu.com/article/third-party-billing)
+- [Hulu帮助中心：查看是否由第三方管理账单](https://help.hulu.com/article/hulu-manage-subscription)
 
 {{< cbpayments-button >}}
